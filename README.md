@@ -10,11 +10,11 @@ Dragons é um universo desenvolvido em uma campanha de RPG no Discord. Este repo
 - [Pesquisa consolidada da Fase 3](docs/pesquisa/fase-3/README.md)
 - [Registro de fontes e evidências](docs/pesquisa/fase-3/Fontes-e-Evidencias.md)
 - [Auditoria editorial e canônica da Fase 4](docs/pesquisa/fase-3/21-Auditoria-Editorial-e-Canonica-Fase-4.md)
-- [Espaço reservado ao cânone adaptado](docs/canon-adaptado/README.md)
+- [Arquitetura preliminar do cânone adaptado — Fase 5](docs/canon-adaptado/README.md)
 
 ## Cânone original e cânone adaptado
 
-O **Cânone Original** reúne somente o que pode ser reconstruído do RPG, distinguindo fatos confirmados, reconstruções prováveis, informações incertas e contradições. O **Cânone Adaptado** será desenvolvido em fases futuras para a lore do jogo, com conteúdo criado identificado separadamente. A Fase 4 não cria continuação, deuses, legados ou novos destinos.
+O **Cânone Original** reúne somente o que pode ser reconstruído do RPG, distinguindo fatos confirmados, reconstruções prováveis, informações incertas e contradições. O **Cânone Adaptado** possui uma arquitetura preliminar na Fase 5, com as classificações **HERDADO DO RPG**, **ADAPTADO DO RPG** e **CRIADO PARA O JOGO**. As propostas ainda não foram aprovadas; não há continuação definitiva, ascensão divina, morte final ou nova cosmologia canonizada.
 
 ## Estado do trabalho
 
@@ -22,8 +22,9 @@ O **Cânone Original** reúne somente o que pode ser reconstruído do RPG, disti
 | --- | --- |
 | 1–2 — Inventário, identidades e preparação | Concluídas; bases preservadas na investigação. |
 | 3 — Reconstrução do Cânone Original | Concluída: 202 exportações narrativas, 12 fontes de poderes, 12 protagonistas, 19 arcos e 40 pendências. |
-| 4 — Bíblia do Cânone Original | Primeira edição incorporada pelo PR #1; revisão editorial e canônica documentada no relatório de auditoria. |
-| Fases de adaptação e continuação | Não iniciadas. |
+| 4 — Bíblia do Cânone Original | Edição e auditoria incorporadas pelos PRs #1 e #2; documentação original preservada. |
+| 5 — Arquitetura do Cânone Adaptado | Fundamentos e alternativas disponíveis para revisão; propostas não aprovadas. |
+| Consolidação e escrita da continuação | Não iniciadas; dependem de aprovação do criador. |
 
 ## Preservação e limites
 
