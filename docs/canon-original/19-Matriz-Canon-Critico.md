@@ -1,6 +1,6 @@
 # Matriz do cânone crítico — Dragons
 
-Fase 4 · Revisão 1 · 09/10/2026
+Fase 4 · Revisão 2 · 09/10/2026
 
 ## Sumário
 
@@ -19,6 +19,8 @@ Fase 4 · Revisão 1 · 09/10/2026
 **Consequência editorial:** O reencontro desfaz a falsa morte; companheiros não sabiam antes.
 
 **Evidências:** [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165)
+
+**Evidências:** [S165 · 1198445470985502842](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S165 · 1198445522307006495](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S165 · 1198445925828411494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165)
 
 ### CRIT-002 — Lilith → Hads → Lilith
 
@@ -60,6 +62,8 @@ Fase 4 · Revisão 1 · 09/10/2026
 
 **Evidências:** [S187 · 1237586020417929368](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S013 · 1239350043090358362](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
 
+**Evidências:** [S187 · 1237586151188205609](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187)
+
 ### CRIT-007 — Note é Ymir, antes da máscara
 
 **Classificação:** CONFIRMADO externamente e em cenas. **Confiança:** ALTA.
@@ -67,6 +71,8 @@ Fase 4 · Revisão 1 · 09/10/2026
 **Consequência editorial:** EXT-002/004; encomenda e uso não são mesma data.
 
 **Evidências:** [S185 · 1222376101641453598](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185)
+
+**Evidências:** [S185 · 1222374089239564358](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1222558973627203715](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S005 · 1231745941833384046](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005)
 
 ### CRIT-008 — Ellen resgatada viva
 
@@ -88,9 +94,9 @@ Fase 4 · Revisão 1 · 09/10/2026
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
 
-**Consequência editorial:** Henry mata a besta; não atribuir destruição do altar a seu golpe final.
+**Consequência editorial:** Destruição do altar tem resultado explícito. Henry anuncia finalização e recebe resultado de corte profundo; a morte é reconhecida na continuação, inclusive em OOC. A autoria exclusiva do abate é reconstrução provável pela sequência, não resultado de morte inequívoco atribuído a ele. Não transferir ao golpe a destruição do altar.
 
-**Evidências:** [S166 · 1198477678152523786](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198479032229048440](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)
+**Evidências:** [S166 · 1198477678152523786](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198478776720433192](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198478946304528474](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198479032229048440](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)
 
 ### CRIT-011 — Terceiro altar e contagem global
 
@@ -108,6 +114,8 @@ Fase 4 · Revisão 1 · 09/10/2026
 
 **Evidências:** [S123 · 1198738478901510144](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S123 · 1198777324062113794](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123)
 
+**Evidências:** [S123 · 1198742730063499304](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S123 · 1198743155038748862](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123)
+
 ### CRIT-013 — Karl morto; Edward foge
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
@@ -116,13 +124,15 @@ Fase 4 · Revisão 1 · 09/10/2026
 
 **Evidências:** [S123 · 1198742131636969572](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S166 · 1198752996205543474](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)
 
-### CRIT-014 — Marca de Henry ainda presente em janeiro
+**Evidências:** [S166 · 1198745355429347439](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198749803253878844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198750017406640260](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198753167433809981](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)
 
-**Classificação:** CONFIRMADO; remoção INCERTA. **Confiança:** ALTA.
+### CRIT-014 — Marca: permanência confirmada e última referência de Henry
 
-**Consequência editorial:** Ausência posterior não comprova emancipação mágica.
+**Classificação:** CONFIRMADO na permanência narrada anterior; referência de 20/01 é DIÁLOGO de Henry; remoção INCERTA. **Confiança:** ALTA na distinção das fontes.
 
-**Evidências:** [S074 · 1198439257870700574](../pesquisa/fase-3/Fontes-e-Evidencias.md#s074)
+**Consequência editorial:** O mestre confirma marcas em janeiro; Henry volta a mencioná-las em 20/01, sem nova inspeção do narrador. Ausência posterior não comprova remoção nem mecanismo de emancipação.
+
+**Evidências:** [S094 · 1191959455018000494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s094); [S074 · 1198439257870700574](../pesquisa/fase-3/Fontes-e-Evidencias.md#s074)
 
 ### CRIT-015 — Garold morre e Lilith governa
 
@@ -140,13 +150,13 @@ Fase 4 · Revisão 1 · 09/10/2026
 
 **Evidências:** [S161 · 1212921304345346048](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212959564643700736](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161)
 
-### CRIT-017 — God guardião e última caçada
+### CRIT-017 — God: auxílio à Árvore e última caçada
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
 
-**Consequência editorial:** Ausência posterior não é abandono; outros dragões não demonstram ser God.
+**Consequência editorial:** God aceita ajudar um amigo da Árvore; a Árvore se apresenta como guardiã. Não há nomeação formal de God como guardião comprovada. Sua última presença é a caça; ausência posterior não é abandono, e outros dragões não demonstram ser God.
 
-**Evidências:** [S133 · 1208942009910427669](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S135 · 1212919221399326760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135)
+**Evidências:** [S133 · 1208940761857392652](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S133 · 1208941116779663360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S133 · 1208942009910427669](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S135 · 1212919221399326760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135)
 
 ### CRIT-018 — Henry recusa Fogo Demoníaco
 
@@ -162,7 +172,9 @@ Fase 4 · Revisão 1 · 09/10/2026
 
 **Consequência editorial:** Gravidade retirada; Bardock morre; saída de Yakkatsu não recuperada.
 
-**Evidências:** [S081 · 1198096352542982204](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)
+**Evidências:** [S081 · 1198096195873165383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S081 · 1198096352542982204](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)
+
+**Evidências:** [S081 · 1198096195873165383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S081 · 1198096352542982204](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081)
 
 ### CRIT-020 — Bytes: favor e esfera
 
@@ -212,6 +224,8 @@ Fase 4 · Revisão 1 · 09/10/2026
 
 **Evidências:** [S023 · 1266947589476061254](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
 
+**Evidências:** [S187 · 1237568074702655519](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S057 · 1186017251208482906](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057)
+
 ### CRIT-026 — Westia e velho de maio
 
 **Classificação:** RETIFICAÇÃO CONFIRMADA. **Confiança:** ALTA.
@@ -219,6 +233,8 @@ Fase 4 · Revisão 1 · 09/10/2026
 **Consequência editorial:** Westia humana; aparente morte ilusória. Velho não é Edward por brincadeira.
 
 **Evidências:** [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
+
+**Evidências:** [S187 · 1239387756665376841](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1239387789804703764](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S013 · 1255327101939220512](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
 
 ### CRIT-027 — MUTON, Sexto Sentido e livros
 
@@ -243,6 +259,86 @@ Fase 4 · Revisão 1 · 09/10/2026
 **Consequência editorial:** Cidade dos elfos e fim da sessão; não final da campanha.
 
 **Evidências:** [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041754809208842](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
+
+### CRIT-030 — Natureza de Kian: concessão e contestação
+
+**Classificação:** CONTRADITÓRIO / continuidade não resolvida. **Confiança:** ALTA nos registros; limitada na explicação ausente.
+
+**Consequência editorial:** Decisão mecânica do mestre em dezembro concede Natureza. Em maio o jogador contesta ter recebido elemento. Não apagar concessão, afirmar domínio contínuo ou transferir para Azazel.
+
+**Evidências:** [S032 · 1184265308962312352](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S032 · 1184324331652792400](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S184 · 1236832232782561360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1236836865416364124](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184)
+
+### CRIT-031 — Ceifador, Froid e Tengetsu
+
+**Classificação:** RELATOS DIVERGENTES; morte NÃO CONFIRMADA. **Confiança:** ALTA nos registros; limitada na explicação ausente.
+
+**Consequência editorial:** Froid afirma morte, Tamura/jornal a contestam; abandono temporário da missão não é morte do inimigo ou dissolução de Tengetsu.
+
+**Evidências:** [S001 · 1248786801670226024](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249170015576526909](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249464028150104148](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001)
+
+### CRIT-032 — Sombras do orbe de Piferme
+
+**Classificação:** CONTRADITÓRIO nos relatos; causa INCERTA. **Confiança:** ALTA nos registros; limitada na explicação ausente.
+
+**Consequência editorial:** Yoran associa sombras ao orbe; Fierch nega. Não resolver a causalidade nem inventar impostor. O mago de Terra usa orbe de linhas para reconstruir; isso não concede elemento Linhas a Lilith.
+
+**Evidências:** [S002 · 1244459783503745125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1246253681834332170](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1245904587211280395](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)
+
+### CRIT-033 — Previsão de Ymir
+
+**Classificação:** RETIFICAÇÃO CONFIRMADA. **Confiança:** ALTA nos registros; limitada na explicação ausente.
+
+**Consequência editorial:** A aparente morte antecipada é substituída por previsão de meio segundo e desvio. Não registrar morte/ressurreição; preservar esgotamento neural.
+
+**Evidências:** [S001 · 1245888265760931911](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245888349609263136](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245889280623116381](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245890328955981825](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001)
+
+### CRIT-034 — Henry/Harry no núcleo inicial
+
+**Classificação:** ERRO DE NOME PROVÁVEL. **Confiança:** ALTA nos registros; limitada na explicação ausente.
+
+**Consequência editorial:** Resultado nomeia Henry em contexto de Harry; ação e correção local sustentam Harry. Preservar o lapso, sem mover personagens entre ramos por uma palavra.
+
+**Evidências:** [S039 · 1183195784804581479](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S039 · 1183197752688132127](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S039 · 1183197856987889744](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039)
+
+### CRIT-035 — Crescimento lunar de Henry
+
+**Classificação:** REVISÃO LOCAL CONFIRMADA. **Confiança:** ALTA nos registros; limitada na explicação ausente.
+
+**Consequência editorial:** Narrativa de crescimento seguida por comentário de que aquela quantidade de energia não deveria ampliá-lo tanto; não derivar regra numérica permanente.
+
+**Evidências:** [S046 · 1185998150079614996](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S046 · 1186008195597078659](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046)
+
+### CRIT-036 — Controle Magnético de Lilith
+
+**Classificação:** EXCLUÍDO DE DRAGONS. **Confiança:** ALTA nos registros; limitada na explicação ausente.
+
+**Consequência editorial:** Comentário refere-se a outro RPG; não conceder segundo elemento ou transformação. Gelo conserva contexto próprio.
+
+**Evidências:** [S039 · 1183199722740138055](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039)
+
+### CRIT-037 — Mortes e controles alheios no final de S046
+
+**Classificação:** SEM RESULTADO VALIDADO. **Confiança:** ALTA nos registros; limitada na explicação ausente.
+
+**Consequência editorial:** Declarações de jogadores sobre morte de Harry e ações de personagens alheios não recebem resultado validado; não são destino canônico.
+
+**Evidências:** [S046 · 1186029844811759677](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S046 · 1186030034062950412](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046)
+
+### CRIT-038 — Ária, Draconia e sugadores de alma
+
+**Classificação:** INVOCAÇÃO / RELATO, com efeitos locais demonstrados. **Confiança:** ALTA nos registros; limitada na explicação ausente.
+
+**Consequência editorial:** Invocação e cura não demonstram aparição de Ária; morte de princesa e natureza dos sugadores são relatos sem execução ou cosmologia universal confirmadas.
+
+**Evidências:** [S070 · 1183191185150460044](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S057 · 1185997850581139517](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S057 · 1186013046045413486](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S013 · 1238664540514811954](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
+
+### CRIT-039 — Primeira alegação de morte de Mulack versus dungeon final
+
+**Classificação:** RETIFICAÇÃO CONFIRMADA no episódio anterior; final CONTRADITÓRIO. **Confiança:** ALTA nos registros; limitada na explicação ausente.
+
+**Consequência editorial:** Mestre corrige antiga morte para braço quebrado. Essa correção não resolve nem antecipa a dungeon de fevereiro e o memorial posterior.
+
+**Evidências:** [S118 · 1191957762175942686](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S118 · 1191958045618606140](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S118 · 1191958070612475934](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158)
 
 <a id="pendencias"></a>
 
@@ -274,7 +370,7 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Envolvidos:** ARC-001; Templo da Luz.
 
-**Resposta recuperável:** Saída física demonstrada; marca ainda confirmada em 20/1. Nenhuma remoção explícita posterior, inclusive depois de mudanças de governo.
+**Resposta recuperável:** Saída física demonstrada; marca mencionada por Henry em 20/1, após confirmação narrada em 3/1. Nenhuma remoção explícita posterior, inclusive depois de mudanças de governo.
 
 **Evidências:** [S025 · 1183591931348008990](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183600626622529566](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S094 · 1191959455018000494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s094); [S074 · 1198439257870700574](../pesquisa/fase-3/Fontes-e-Evidencias.md#s074)
 
@@ -470,7 +566,7 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Envolvidos:** ARC-009/global.
 
-**Resposta recuperável:** Dois altares anteriores destruídos; terceiro em ramo aliado relatado; quarto destruído pela própria besta no ramo dos jogadores. Ritual grande da mansão efetivamente transforma Patrick e depois ele é morto. Vitória na luta não é impedimento prévio do ritual. Há contagens/índices divergentes.
+**Resposta recuperável:** Dois altares anteriores destruídos; terceiro atribuído à equipe de Patrick no planejamento, sem execução reconstruída; quarto destruído pela própria besta no ramo dos jogadores. Não se certifica quatro destruições independentes em cena. Ritual grande da mansão efetivamente transforma Patrick e depois ele é morto. Vitória na luta não é impedimento prévio do ritual. Há contagens/índices divergentes.
 
 **Evidências:** [S025 · 1186059351954313338](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S086 · 1195908308217897032](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S088 · 1196638681683988583](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S088 · 1196638739733160068](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S088 · 1196638805269172328](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S166 · 1198477678152523786](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)
 
@@ -484,7 +580,7 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Envolvidos:** Protagonistas.
 
-**Resposta recuperável:** God foi recuperado por nome, UID e contexto, até caça com Gotter/Kian em fevereiro; Harry tem ponte hospital/pacto, Zaraph, Stifen e retorno no atentado. Harry→Astro continua provável sem mecanismo/ponte.
+**Resposta recuperável:** God foi recuperado por identidade e contexto, até caça com Gotter/Kian em fevereiro; Harry tem ponte hospital/pacto, Zaraph, Stifen e retorno no atentado. Harry→Astro continua provável sem mecanismo/ponte.
 
 **Evidências:** [S043 · 1186806126021443635](../pesquisa/fase-3/Fontes-e-Evidencias.md#s043); [S117 · 1195532779182624819](../pesquisa/fase-3/Fontes-e-Evidencias.md#s117); [S086 · 1195884740935438396](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S135 · 1212919221399326760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135)
 
@@ -522,9 +618,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** CONTRADIÇÃO NÃO RESOLVIDA.
 
-**Pergunta:** Final de Mulack
+**Pergunta:** Mulack morreu de forma definitiva na última dungeon?
 
-**Envolvidos:** Final de Mulack.
+**Envolvidos:** Mulack; Nyxis e Driade na continuidade lateral.
 
 **Resposta recuperável:** Morte/memorial versus retificação de armadura intacta e ação refeita. O abandono do jogador não resolve a versão ficcional.
 
@@ -536,9 +632,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** MATERIAL PERDIDO / INSUFICIENTE.
 
-**Pergunta:** Adulto Kian → bebê Azazel
+**Pergunta:** Como a continuidade de Kian/Lúcifer passa ao corpo infantil chamado Azazel?
 
-**Envolvidos:** Adulto Kian → bebê Azazel.
+**Envolvidos:** Kian/Lúcifer/Azazel e família do bebê.
 
 **Resposta recuperável:** Continuidade identitária confirmada EXT-003 e infância narrada. Flecha de fogo/morte adulta só em OOC; causa do corpo e passagem não foram recuperadas. Não afirmar que arquivo específico continha necessariamente mecanismo.
 
@@ -550,9 +646,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** MATERIAL PERDIDO / INSUFICIENTE.
 
-**Pergunta:** Harry → Astro e hospedeira
+**Pergunta:** Existe ponte inequívoca entre Harry, Astro e o corpo da hospedeira?
 
-**Envolvidos:** Harry → Astro e hospedeira.
+**Envolvidos:** Harry; Astro; hospedeira e Lyone.
 
 **Resposta recuperável:** Comentário identifica corpo usado por Harry; canal e ações de Astro dão continuidade provável, mas ausência de cena de transição impede identificação inequívoca. S177 e S007 vazios não provam conteúdo que existiu.
 
@@ -564,9 +660,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** PARCIALMENTE RESOLVIDA.
 
-**Pergunta:** Henry volta à vida
+**Pergunta:** Quem salvou Henry e por qual mecanismo ele retornou vivo?
 
-**Envolvidos:** Henry volta à vida.
+**Envolvidos:** Henry, Michael e conhecido não identificado.
 
 **Resposta recuperável:** Morre em 12/5 e reaparece vivo em 13/6 e julho. Relata conhecido que o salvou, sem nome/método demonstrados.
 
@@ -578,9 +674,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** RESOLVIDA NO RPG.
 
-**Pergunta:** Beatriz: coma e memória
+**Pergunta:** Beatriz desperta e recupera memória e pernas? A autoria da cura é conhecida?
 
-**Envolvidos:** Beatriz: coma e memória.
+**Envolvidos:** Beatriz, Ymir, Garius e Berthold.
 
 **Resposta recuperável:** Coma em junho; desperta em julho, memória recupera e pernas estão perfeitas. Causa integral não demonstrada; resgate relatado por guarda é situado. Resolução delimita estado, não autoria da cura.
 
@@ -592,9 +688,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** ABERTA QUANDO A CAMPANHA PAROU.
 
-**Pergunta:** Irmã de Beatriz / Quimera / Milena
+**Pergunta:** A irmã de Beatriz foi resgatada? O torneio de Milena foi realizado?
 
-**Envolvidos:** Irmã de Beatriz / Quimera / Milena.
+**Envolvidos:** Ymir, Beatriz, Berthold, irmã não nomeada e Quimera.
 
 **Resposta recuperável:** Sequestro informado; buscar irmã e depois torneio são intenções ainda vigentes na chegada à cidade de elfos.
 
@@ -606,9 +702,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** PARCIALMENTE RESOLVIDA.
 
-**Pergunta:** Nefa e Altruístas
+**Pergunta:** Como ocorreram resgate, traição e libertação de Nefa? As passagens dimensionais foram explicadas?
 
-**Envolvidos:** Nefa e Altruístas.
+**Envolvidos:** Ymir, Nefa, Altruístas e Berthold.
 
 **Resposta recuperável:** Resgate, traição e libertação de Nefa recuperados. Berthold reconhece exílio dos Altruístas em outra dimensão; isso não resolve todas as passagens de Ymir ou destino final de Nefa. Não anular como sonho sem mestre.
 
@@ -620,9 +716,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** ABERTA QUANDO A CAMPANHA PAROU.
 
-**Pergunta:** Líder Pantera
+**Pergunta:** O líder de Pantera foi capturado ou a organização foi dissolvida?
 
-**Envolvidos:** Líder Pantera.
+**Envolvidos:** Ymir, vítimas e membros de Pantera.
 
 **Resposta recuperável:** Ymir mata membros e resgata vítimas, mas líder escapa e missão falha. Sem posterior prisão do líder ou dissolução total confirmada.
 
@@ -634,9 +730,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** ABERTA QUANDO A CAMPANHA PAROU.
 
-**Pergunta:** Emma e pai alegado
+**Pergunta:** Quem é o pai alegado de Emma e o que causou o ataque das raízes?
 
-**Envolvidos:** Emma e pai alegado.
+**Envolvidos:** Emma, Lilith e homem levado para interrogatório.
 
 **Resposta recuperável:** Adotada por Lilith; criança não reconhece alegado pai, que é levado para interrogatório sem resultado. Raízes atacam depois, causa desconhecida.
 
@@ -648,9 +744,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** NÃO RETOMADA.
 
-**Pergunta:** God depois da caça
+**Pergunta:** Há cena pessoal de God depois da caça de fevereiro?
 
-**Envolvidos:** God depois da caça.
+**Envolvidos:** God, Gotter, Kian e Árvore.
 
 **Resposta recuperável:** Última presença pessoal na caça de fevereiro; citações e outros dragões não estabelecem nova cena sua.
 
@@ -662,9 +758,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** ABERTA QUANDO A CAMPANHA PAROU.
 
-**Pergunta:** Yakkatsu sai do Inferno
+**Pergunta:** Yakkatsu deixou o Inferno?
 
-**Envolvidos:** Yakkatsu sai do Inferno.
+**Envolvidos:** Yakkatsu, Bardock e Stwart.
 
 **Resposta recuperável:** Bardock morre; Stwart continua com Yakkatsu. Último registro é alimentação após combate, sem saída.
 
@@ -676,9 +772,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** ABERTA QUANDO A CAMPANHA PAROU.
 
-**Pergunta:** Bytes: favor e Nairóbi
+**Pergunta:** Qual obrigação Bytes assumiu e onde está Nairóbi na busca final?
 
-**Envolvidos:** Bytes: favor e Nairóbi.
+**Envolvidos:** Bytes, Nairóbi e entidade desconhecida.
 
 **Resposta recuperável:** Favor assinado com entidade; Nairóbi acorda e é salva depois, mas localização final da namorada não demonstrada quando Bytes a procura em junho.
 
@@ -690,9 +786,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** MATERIAL PERDIDO / INSUFICIENTE.
 
-**Pergunta:** Exclusões e tópicos privados
+**Pergunta:** O que se pode afirmar sobre exclusões e canais vazios?
 
-**Envolvidos:** Exclusões e tópicos privados.
+**Envolvidos:** Elenco e registros com apagamentos.
 
 **Resposta recuperável:** Exclusões são comprovadas; conteúdo é desconhecido. Trinta mensagens na mansão, oito e dez na dungeon, outras exclusões em hospital/Olta/Inferno e tópicos privados citados. Não transformar toda exclusão em cena essencial perdida.
 
@@ -704,9 +800,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** RESOLVIDA NO RPG.
 
-**Pergunta:** Golems roubados no Inferno
+**Pergunta:** Os golems roubados foram recuperados e retornaram à superfície?
 
-**Envolvidos:** Golems roubados no Inferno.
+**Envolvidos:** Henry, Ymir, Gotter, ladrões e UFD.
 
 **Resposta recuperável:** Roubo, venda, retomada, dano e reparo recuperados. Retorno de Ymir/Henry com quatro máquinas confirmado; destino futuro não é automaticamente resolvido.
 
@@ -718,9 +814,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** RESOLVIDA NO RPG.
 
-**Pergunta:** Gwierlan morto segundo Edward
+**Pergunta:** A alegação de Edward de que Gwierlan morreu é sustentada?
 
-**Envolvidos:** Gwierlan morto segundo Edward.
+**Envolvidos:** Gwierlan, Edward, Bytes, Nairóbi e Michael.
 
 **Resposta recuperável:** Provocação/refutação: Gwierlan está vivo em maio e junho. Não canonizar morte a partir da fala do inimigo.
 
@@ -732,9 +828,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** RESOLVIDA NO RPG.
 
-**Pergunta:** Wilbur e Hermest
+**Pergunta:** Quais mortes e sucessão foram efetivamente recuperadas em Olta?
 
-**Envolvidos:** Wilbur e Hermest.
+**Envolvidos:** Wilbur, Hermest, Frank, Michael e Dimitri.
 
 **Resposta recuperável:** Hermest decapita Wilbur; Michael decapita Hermest. Dimensão política segue com Frank, confirmado rei em maio. Preservar anulação da antiga coletiva de dezembro.
 
@@ -744,13 +840,13 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 ### PS-036 — Culto do Deus Dragão / Deus Demônio
 
-**Estado:** CONTRADIÇÃO NÃO RESOLVIDA.
+**Estado:** PARCIALMENTE RESOLVIDA. **Relação entre os nomes:** INCERTA.
 
-**Pergunta:** Culto do Deus Dragão / Deus Demônio
+**Pergunta:** Deus Dragão e Deus Demônio designam o mesmo culto?
 
-**Envolvidos:** Culto do Deus Dragão / Deus Demônio.
+**Envolvidos:** Edward, Berthold e cultos mencionados.
 
-**Resposta recuperável:** Edward usa Deus Dragão em maio; Berthold usa Deus Demônio em julho. Sem correção explícita suficiente para impor equivalência ou duas organizações independentes.
+**Resposta recuperável:** Edward usa Deus Dragão em maio; Berthold usa Deus Demônio em julho. Os nomes e usos são recuperados, mas não há prova suficiente para impor equivalência ou duas organizações independentes. A coexistência de nomes não é, sozinha, contradição factual; a classificação editorial foi refinada nesta auditoria.
 
 **Evidências:** [S187 · 1237568193715769406](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S023 · 1266947589476061254](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
 
@@ -760,9 +856,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** CONTRADIÇÃO NÃO RESOLVIDA.
 
-**Pergunta:** Escalas e calendários
+**Pergunta:** As escalas, contagens e calendários podem ser conciliados globalmente?
 
-**Envolvidos:** Escalas e calendários.
+**Envolvidos:** Elenco; interlocutores; livros e regras locais.
 
 **Resposta recuperável:** Contagens de magos, altares, distâncias e ratios de tempo divergentes. Saltos pessoais de Azazel e regras locais do Inferno não viram calendário global.
 
@@ -774,9 +870,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** ABERTA QUANDO A CAMPANHA PAROU.
 
-**Pergunta:** Rans, Hermione e selo
+**Pergunta:** Hermione morreu? Rans recebeu o selo solicitado?
 
-**Envolvidos:** Rans, Hermione e selo.
+**Envolvidos:** Rans, Hermione e Feuhs Beronth.
 
 **Resposta recuperável:** Hermione inconsciente levada à Paróquia, não morta; Rans pede selo mas último mestre só o mostra acordando. Passagem prévia do Abismo é insuficiente.
 
@@ -788,9 +884,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** ABERTA QUANDO A CAMPANHA PAROU.
 
-**Pergunta:** Coiote e governo de Piferme
+**Pergunta:** Lilith enfrentou Coiote e Yoran chegou a sucedê-la?
 
-**Envolvidos:** Coiote e governo de Piferme.
+**Envolvidos:** Lilith, Emma, Yoran, Coiote e governo de Piferme.
 
 **Resposta recuperável:** Lilith deseja enfrentar Coiote; plano não executado. Yoran tem função e sucessão condicional, sem nova coroação mostrada.
 
@@ -802,9 +898,9 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** ABERTA QUANDO A CAMPANHA PAROU.
 
-**Pergunta:** Michael, Mytria e conquista
+**Pergunta:** Michael terminou o conflito de Mytria e conquistou Piferme?
 
-**Envolvidos:** Michael, Mytria e conquista.
+**Envolvidos:** Michael, Henry, Lucas Sevenheart, Vermund e aliados locais.
 
 **Resposta recuperável:** Última cena conserva conflito perto de Vermund. Conquista e nova viagem não consumadas.
 
@@ -815,6 +911,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 ## Regras de revisão
 
 Uma nova conclusão deve identificar fonte, mensagem, natureza da evidência e afirmação alterada. Confirmação externa recebe registro próprio; não é convertida em cena do RPG. Resultado novo exige revisão do perfil, arco, pendência e índice afetados. Correções não devem apagar versões históricas da investigação.
+
+**Revisão 2 — 09/10/2026:** auditoria editorial e canônica; tipos de evidência refinados, dez pontos críticos acrescentados, perguntas e envolvidos explicitados. Os 40 IDs PS foram preservados. [Relatório de auditoria](../pesquisa/fase-3/21-Auditoria-Editorial-e-Canonica-Fase-4.md).
 
 **Revisão 1 — 09/10/2026:** matriz derivada da consolidação final da Fase 3, sem soluções criadas.
 

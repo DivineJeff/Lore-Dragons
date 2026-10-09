@@ -10,6 +10,9 @@ Os ZIPs originais permanecem preservados na raiz. Não foram duplicadas exporta�
 
 - [Fontes e evidências](Fontes-e-Evidencias.md)
 - [Bíblia do cânone](../../canon-original/17-Biblia-Canon-Original.md)
+- [Auditoria da edição publicada](21-Auditoria-Editorial-e-Canonica-Fase-4.md)
 - [Matriz crítica](../../canon-original/19-Matriz-Canon-Critico.md)
 
 Revisão 1 — 09/10/2026: seleção editorial da consolidação final da Fase 3.
+
+Revisão 2 — 09/10/2026: evidências passam a incluir localizadores verificáveis nos ZIPs; auditoria corrige a síntese publicada sem refazer a investigação.
