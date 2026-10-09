@@ -1,6 +1,6 @@
 # Índice rápido do cânone — Dragons
 
-Fase 4 · Revisão 1 · 09/10/2026
+Fase 4 · Revisão 2 · 09/10/2026
 
 ## Leitura por assunto
 
@@ -16,6 +16,31 @@ Fase 4 · Revisão 1 · 09/10/2026
 - [Último ponto recuperável](17-Biblia-Canon-Original.md#limite)
 - [Reconstruções prováveis, incertezas e contradições](17-Biblia-Canon-Original.md#incertezas)
 - [Revisões e referências](17-Biblia-Canon-Original.md#revisoes)
+
+## Cronologia e ramos paralelos
+
+Os blocos se sobrepõem após a dispersão. Comece pelo [guia de causalidade](17-Biblia-Canon-Original.md#historia), consulte o [desenvolvimento no perfil](17-Biblia-Canon-Original.md#personagens) e siga as evidências.
+
+- [CONT-001](17-Biblia-Canon-Original.md#cont-001)
+- [CONT-002](17-Biblia-Canon-Original.md#cont-002)
+- [CONT-003](17-Biblia-Canon-Original.md#cont-003)
+- [CONT-004](17-Biblia-Canon-Original.md#cont-004)
+- [CONT-005](17-Biblia-Canon-Original.md#cont-005)
+- [CONT-006](17-Biblia-Canon-Original.md#cont-006)
+- [CONT-007](17-Biblia-Canon-Original.md#cont-007)
+- [CONT-008](17-Biblia-Canon-Original.md#cont-008)
+- [CONT-009](17-Biblia-Canon-Original.md#cont-009)
+- [CONT-010](17-Biblia-Canon-Original.md#cont-010)
+- [CONT-011](17-Biblia-Canon-Original.md#cont-011)
+- [CONT-012](17-Biblia-Canon-Original.md#cont-012)
+- [CONT-013](17-Biblia-Canon-Original.md#cont-013)
+- [CONT-014](17-Biblia-Canon-Original.md#cont-014)
+- [CONT-015](17-Biblia-Canon-Original.md#cont-015)
+- [CONT-016](17-Biblia-Canon-Original.md#cont-016)
+- [CONT-017](17-Biblia-Canon-Original.md#cont-017)
+- [CONT-018](17-Biblia-Canon-Original.md#cont-018)
+- [CONT-019](17-Biblia-Canon-Original.md#cont-019)
+- [CONT-020](17-Biblia-Canon-Original.md#cont-020)
 
 ## Protagonistas
 
@@ -90,6 +115,12 @@ Fase 4 · Revisão 1 · 09/10/2026
 - [HAB-016 — Henry Chambers: Tourada](17-Biblia-Canon-Original.md#hab-016)
 - [HAB-017 — Henry Chambers: Propulsão Explosiva](17-Biblia-Canon-Original.md#hab-017)
 - [HAB-018 — Henry Chambers: Tigre Infernal](17-Biblia-Canon-Original.md#hab-018)
+
+## Pontos refinados pela auditoria
+
+- [39 afirmações críticas](19-Matriz-Canon-Critico.md#criticos), incluindo Natureza de Kian, Previsão de Ymir, Ceifador e orbe.
+- [Apoio, aprendizagem e identidades](17-Biblia-Canon-Original.md#relacoes).
+- [Relatório de auditoria](../pesquisa/fase-3/21-Auditoria-Editorial-e-Canonica-Fase-4.md).
 
 ## Referências
 

@@ -1,6 +1,6 @@
 # BÍBLIA DO CANON — DRAGONS
 
-Fase 4 · Cânone Original · Revisão 1 · 09/10/2026
+Fase 4 · Cânone Original · Revisão 2 · 09/10/2026
 
 Dragons nasceu como RPG no Discord. Esta Bíblia reúne a história recuperável, seus personagens e as regras demonstradas, preservando as lacunas de uma campanha sem encerramento narrado. O texto serve como referência editorial para consultar o RPG sem reiniciar a investigação dos chats.
 
@@ -36,6 +36,8 @@ A classificação qualifica a afirmação, enquanto a confiança mede sua susten
 
 Narração de resultado e retificações do mestre prevalecem sobre ações autodeclaradas. Uma intenção do jogador continua sendo intenção até a resolução. Comentários fora de personagem (OOC) só modificam o cânone quando constituem autorização, correção ou anulação explícita. Brincadeiras, referências visuais e números da ficha não concedem acontecimentos novos.
 
+Contas de participantes, bots e personagens são entidades distintas. Identificadores compartilhados de contas excluídas não autorizam fusão de personagens; a atribuição exige contexto. Fichas e declarações de origem continuam identificadas como tais, sem substituir resultados narrados.
+
 As datas são documentais, em UTC−3. Saltos pessoais de treinamento ou infância e datas de livros não estabelecem calendário universal. Memória do leitor não é conhecimento de todos os personagens. Ausência de cena posterior não demonstra morte ou abandono ficcional.
 
 Os IDs S, PWR, ARC, HAB e PS conservam a rastreabilidade da investigação. As referências identificam a exportação e a mensagem; não são links para transcrições privadas. Consulte o [registro de fontes](../pesquisa/fase-3/Fontes-e-Evidencias.md) e a [matriz crítica](19-Matriz-Canon-Critico.md).
@@ -43,6 +45,22 @@ Os IDs S, PWR, ARC, HAB e PS conservam a rastreabilidade da investigação. As r
 <a id="historia"></a>
 
 ## História e continuidade
+
+### Guia cronológico e de causalidade
+
+Os títulos PERÍODO e CONT são editoriais. Os cinco períodos iniciais descrevem uma cadeia coletiva; após janeiro, os blocos CONT conservam **linhas paralelas com intervalos sobrepostos**. A ordem dos blocos não significa que o fim de uma linha antecede o início de todas as outras. CONT-011 e CONT-017, por exemplo, acompanham Yakkatsu e Azazel durante meses enquanto outros protagonistas continuam em regiões distintas.
+
+| Faixa documental | Causa e mudança de objetivo | Consequência / leitura |
+| --- | --- | --- |
+| Dezembro de 2023 | Chegada sem memória e bombardeio → dependência do cocheiro → venda ao templo → minas e cooperação para sobreviver. | Saída física e abrigo; a marca permanece uma questão. PERÍODO 01. |
+| Dezembro–12 de janeiro | Rota sul e pomar → sequestro de Ellen e nova prisão → contato com Resistência → primeiro altar e necessidade de treino/equipamento. | Elenco ampliado; Harry segue linha própria. PERÍODOS 02–03. |
+| 12–20 de janeiro | Missão dividida em times → ferimentos e crise mental → traição de Daupar → segundo altar, Hads e falsa morte de Rans. | Saída do subsolo, acampamento e reencontro público de Rans. PERÍODOS 04–05; CONT-001–002. |
+| 20–27 de janeiro | Nova luta de altar → mansão e traições → ritual ativado → Patrick morto; Edward foge. | Ellen resgatada, Michael assume Mouran; novas rotas e responsabilidades. CONT-002–005. |
+| Fevereiro | Governos, treinamentos e viagens se separam; Solin mata Garold, Lilith recebe Piferme; diplomacia de Olta sofre atentado. | Wilbur/Hermest mortos, Dimitri vivo capturado; God/Kian caçam; Ymir/Bia/Bytes retornam de descida própria. CONT-006–009. |
+| Março–meados de abril | Expedição coletiva ao Inferno → estudo, máquinas, roubo, prisão e retorno; outros ramos tratam Pantera, Calamidade e Nairóbi. | Henry/Ymir retornam com golems; Note se registra; romance, cura e novo ataque a Mouran. CONT-010–013. |
+| Abril–12 de maio | Captura e traição de Nefa → retorno a Olta; guerra e atentados → viagem a Piferme e reaparição de Edward. | Emma adotada; espada transferida; Henry morre. A passagem Kian → Azazel permanece sem mecanismo. CONT-014–017. |
+| Maio–junho | Reinos se recompõem; Ymir aprende capacidades e procura cura de Bia; Bytes busca Nairóbi; Michael busca força e conquista. | Bia ainda em coma em junho; Henry retorna vivo; as conquistas não são concluídas. CONT-018–019; Yakkatsu continua no Inferno em CONT-011. |
+| Julho | Família real de Bia, culto e sequestro da irmã definem novo objetivo. Rans, Azazel e Astro têm linhas distintas. | Ymir/Bia chegam à cidade dos elfos; o registro acaba com fim de sessão. CONT-020 e últimos estados dos perfis. |
 
 ### Da chegada sem memória à saída do subsolo
 
@@ -203,7 +221,7 @@ S107 partida → S117 vanguarda → divisão em dois times → S115/S116 → ár
 
 #### Lacunas documentais
 
-Harry em S089; linha de Kian; origem de entradas de novos surgidos; anomalias na ferraria; relação entre marca e autoridades atuais.
+Origem das entradas de novos surgidos, anomalias na ferraria e relação entre marca e autoridades. Harry e Kian possuem continuações recuperadas nas linhas pessoais abaixo.
 
 #### Confiança geral
 
@@ -299,11 +317,11 @@ Rans na cabana, restaurado e retomando controle, encaminhado a treino. Demais na
 
 #### Pontes para o próximo período
 
-Saída S088 → acampamentos S073/S074 e ramificações. Rans → treinamento S112. São próximos nós a ler, sem inventar o trajeto posterior para Piferme.
+Saída S088 → acampamentos S073/S074 e ramificações. Rans → treinamento S112. Esses nós foram lidos e integrados em CONT-001 e seguintes; as viagens posteriores são apresentadas por ramo.
 
 #### Lacunas documentais
 
-Contagem: dois altares dos jogadores são explicitamente enumerados; Patrick confirma destruição no ramo direito e Michael conclui três. Total reconciliado e quarto altar exigem continuação. Não tratar isso como quatro vitórias. Prefeito/Ellen continuam sem resultado fechado.
+Naquele reencontro, Patrick relata combate no ramo direito, enquanto Michael interpreta a contagem. O planejamento seguinte volta a dizer dois destruídos e dois restantes; esses enunciados não certificam o terceiro destruído. CONT-002–004 recuperam o quarto altar, o ritual, a fuga de Edward e o resgate de Ellen. A divergência de contagem permanece.
 
 #### Confiança geral
 
@@ -314,21 +332,27 @@ Alta para Daupar, pantera, falsa morte, recuperação e saída. Parcial para bal
 
 
 
+<a id="cont-001"></a>
+
 ### CONT-001 — Acampamento, segredo e preparação
 
 **Data documental:** 16–20/01/2024.
 
-A saída do subsolo leva ao acampamento perto de Mouran. O salto definitivo é de três dias, após propostas de sete e quatro serem descartadas. Patrick contém crises lunares de Henry. Harry permanece em trajetória própria: hospital, pacto e promoção por Zaraph; só depois sai fisicamente do subsolo. Rans está vivo com Akai enquanto parte do grupo conserva a falsa morte. Trevor ensina circulação interna de mana a Henry, Yakkatsu e Mulack. Edward propõe infiltração e máquina contra a coroa. Henry ainda possui a marca de escravidão; não há remoção posterior comprovada.
+A saída do subsolo leva ao acampamento perto de Mouran. O salto definitivo é de três dias, após propostas de sete e quatro serem descartadas. Patrick contém crises lunares de Henry. Harry permanece em trajetória própria: hospital, pacto e promoção por Zaraph; só depois sai fisicamente do subsolo. Rans está vivo com Akai enquanto parte do grupo conserva a falsa morte. Trevor ensina circulação interna de mana a Henry, Yakkatsu e Mulack. Edward propõe infiltração e máquina contra a coroa. Henry volta a mencionar a marca de escravidão; a permanência havia sido narrada em 3 de janeiro, e não há remoção posterior comprovada.
 
 **Evidências:** [S073 · 1196658321978044467](../pesquisa/fase-3/Fontes-e-Evidencias.md#s073); [S073 · 1197713553512202240](../pesquisa/fase-3/Fontes-e-Evidencias.md#s073); [S074 · 1198439257870700574](../pesquisa/fase-3/Fontes-e-Evidencias.md#s074); [S090 · 1198443136486215740](../pesquisa/fase-3/Fontes-e-Evidencias.md#s090); [S075 · 1197704163296030812](../pesquisa/fase-3/Fontes-e-Evidencias.md#s075); [S081 · 1198058915770941602](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081)
 
+<a id="cont-002"></a>
+
 ### CONT-002 — Reencontro público e quarto altar
 
-**Data documental:** 20/01/2024.
+**Data documental:** 20–21/01/2024; correção do nome Nyxis em 24/01.
 
-Rans entra na tenda. Michael acusa Mulack de ter mentido; Harry o abraça e Henry o cumprimenta. Rans não reconhece Hads como Lilith. O grupo segue Yolter pelos túneis, encontra o altar e combate a besta. Ela própria pisoteia e destrói completamente o altar; Henry mata a besta pelo cérebro. O ovo de Mulack absorve energia e nasce Nyxia, depois nome corrigido para Nyxis. Gás restaura o grupo e fortalece atributos. O terceiro altar é atribuído ao ramo dos aliados na divisão informada por Patrick; a execução não aparece entre as evidências deste bloco. A contagem antiga de mais quatro altares e os lapsos de índices permanecem divergências documentais.
+Rans entra na tenda. Michael acusa Mulack de ter mentido; Harry o abraça e Henry o cumprimenta. Rans não reconhece Hads como Lilith. O grupo segue Yolter pelos túneis, encontra o altar e combate a besta. Ela própria pisoteia e destrói completamente o altar; Henry anuncia finalização no cérebro e o mestre confirma corte profundo na cabeça. A morte é reconhecida na continuação; atribuir o golpe final exclusivamente a Henry depende dessa sequência, sem mensagem de resultado tão explícita quanto a morte de Patrick. O ovo de Mulack absorve energia e nasce Nyxia, depois nome corrigido para Nyxis. Gás restaura o grupo e fortalece atributos. O terceiro altar é atribuído ao ramo dos aliados na divisão informada por Patrick; a execução não aparece entre as evidências deste bloco. A contagem antiga de mais quatro altares e os lapsos de índices permanecem divergências documentais.
 
 **Evidências:** [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S165 · 1198445747750850601](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S166 · 1198477678152523786](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198479032229048440](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198484918481723392](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S158 · 1199583823701221416](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158)
+
+<a id="cont-003"></a>
 
 ### CONT-003 — Mansão, traição e queda do governo
 
@@ -338,6 +362,8 @@ God e EREN chegam por teleporte aos subúrbios e se juntam à invasão. Henry qu
 
 **Evidências:** [S123 · 1198738478901510144](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S123 · 1198742131636969572](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S123 · 1198742240063930368](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S166 · 1198752996205543474](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S123 · 1198759015799345232](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S123 · 1198762437273460857](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S123 · 1198777324062113794](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S166 · 1198780690678960128](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)
 
+<a id="cont-004"></a>
+
 ### CONT-004 — Ellen recuperada; novos destinos
 
 **Data documental:** 24–27/01/2024.
@@ -345,6 +371,8 @@ God e EREN chegam por teleporte aos subúrbios e se juntam à invasão. Henry qu
 Michael encontra Ellen viva presa entre destroços e a resgata. EREN a procurara sem conseguir localizá-la. No pomar, Gwierlan e Henry ainda estão vivos; Chip nasce e é aceito como mascote do grupo. Após viagem noturna e chegada à Árvore, Michael recebe o governo de Mouran com aceitação popular desigual. Emily Rozz recebe contrato para reconstrução; o preço efetivo é sete milhões e meio. Bytes e Yakkatsu passam por aventuras próprias com Gertrude e chegam a Mouran. Lilith protege Garold em Piferme. Mulack chega a Olta com Nyxis, adota Armelt na guilda e entrega a familiar aos cuidados de Driade. Harry conhece Stifen e aprende a controlar Jakaw; Zex perde microchip, fica inerte e é transportado por Harry.
 
 **Evidências:** [S156 · 1199897639605522472](../pesquisa/fase-3/Fontes-e-Evidencias.md#s156); [S156 · 1199899589680042096](../pesquisa/fase-3/Fontes-e-Evidencias.md#s156); [S170 · 1200291569543151726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s170); [S170 · 1200633462600769587](../pesquisa/fase-3/Fontes-e-Evidencias.md#s170); [S158 · 1200230186864615535](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200952788314767390](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S138 · 1200285987696287754](../pesquisa/fase-3/Fontes-e-Evidencias.md#s138); [S138 · 1200674266887237783](../pesquisa/fase-3/Fontes-e-Evidencias.md#s138)
+
+<a id="cont-005"></a>
 
 ### CONT-005 — Dungeon de Mulack e ruptura do registro
 
@@ -354,13 +382,17 @@ Mulack obtém Flor de Neve e armadura associada a mana/escuridão. Na expediçã
 
 **Evidências:** [S158 · 1200273843000971356](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200951757572931684](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208234996578385950](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208245194445815818](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208559928462151701](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208614984473518100](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616829837377536](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208617010959753236](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158)
 
+<a id="cont-006"></a>
+
 ### CONT-006 — Árvore, God e trégua com lagartos
 
 **Data documental:** 17–24/02/2024.
 
-God come apenas fração da criatura e encontra Michael. Lúcifer sai de estudo prolongado, reencontra God e ambos chegam à sala de controle e elevador da Árvore. God aceita ajudá-la a guardar Mouran. Henry recupera Chip e Michael cuida de Ellen. Henry resgata Ymir de afogamento. Depois a Árvore dá novo colar a God; Michael persuade os lagartos a não atacar Olta e os acolhe em Mouran. A rota pela Primeira Insurgência e portão é interrompida; a explicação de limites regionais permanece fala de Gotter. God aceita missões com Michael. A ausência de novas ações do jogador não é abandono dentro da ficção.
+God come apenas fração da criatura e encontra Michael. Lúcifer sai de estudo prolongado, reencontra God e ambos chegam à sala de controle e elevador da Árvore. A Árvore pede que God ajude um amigo dela; ele aceita subir no galho e é levado para fora. Isso não demonstra nomeação formal como guardião de Mouran. Henry recupera Chip e Michael cuida de Ellen. Henry resgata Ymir de afogamento. Depois a Árvore dá novo colar a God; Michael persuade os lagartos a não atacar Olta e os acolhe em Mouran. A rota pela Primeira Insurgência e portão é interrompida; a explicação de limites regionais permanece fala de Gotter. God aceita missões com Michael. A ausência de novas ações do jogador não é abandono dentro da ficção.
 
 **Evidências:** [S133 · 1208942009910427669](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S182 · 1208535365229748245](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S182 · 1208544243543441408](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S153 · 1208890631976525875](../pesquisa/fase-3/Fontes-e-Evidencias.md#s153); [S134 · 1211100271015493663](../pesquisa/fase-3/Fontes-e-Evidencias.md#s134); [S134 · 1211115111620542524](../pesquisa/fase-3/Fontes-e-Evidencias.md#s134); [S134 · 1211120960292528189](../pesquisa/fase-3/Fontes-e-Evidencias.md#s134)
+
+<a id="cont-007"></a>
 
 ### CONT-007 — Piferme, Baran e coroação de Lilith
 
@@ -370,6 +402,8 @@ Solin ataca Garold e mutila Lilith. Antes de morrer, Garold transmite o reino a 
 
 **Evidências:** [S151 · 1210391082655813742](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151); [S151 · 1210392089955799050](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151); [S155 · 1210459255241572352](../pesquisa/fase-3/Fontes-e-Evidencias.md#s155); [S155 · 1210630157392674907](../pesquisa/fase-3/Fontes-e-Evidencias.md#s155); [S155 · 1210630434451361802](../pesquisa/fase-3/Fontes-e-Evidencias.md#s155); [S159 · 1211527369488207892](../pesquisa/fase-3/Fontes-e-Evidencias.md#s159)
 
+<a id="cont-008"></a>
+
 ### CONT-008 — Olta, diplomacia e Wilbur
 
 **Data documental:** 26/02–01/03/2024.
@@ -377,6 +411,8 @@ Solin ataca Garold e mutila Lilith. Antes de morrer, Garold transmite o reino a 
 Michael, Ellen, Lilith e EREN chegam a Olta; EREN passeia pela cidade. Wilbur e diplomata acompanham a volta. Em negociação de aliança, Henry e Lilith resgatam Wilbur, mas Hermest o decapita. Harry salva Michael e sofre ferimentos; Lilith bloqueia flechas e cura. Michael mata Hermest. Henry traz Dimitri Rozz inconsciente e vivo: intenção anterior de matá-lo não se realiza. Zex volta a aparecer ativo, mas o reparo não foi mostrado. Frank é convidado e sua coroação futura é proposta; a confirmação posterior de Frank rei ocorre em maio. God e Kian caçam com Gotter; Kian mata lagarto azul e absorve o gás do núcleo. Não unificar esse núcleo com o de Henry.
 
 **Evidências:** [S159 · 1211851946143653910](../pesquisa/fase-3/Fontes-e-Evidencias.md#s159); [S159 · 1212180453034033162](../pesquisa/fase-3/Fontes-e-Evidencias.md#s159); [S161 · 1212921304345346048](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212932064173629501](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212943224428175360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212959564643700736](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212959525368238090](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S135 · 1212944277873754164](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135); [S135 · 1212951622028754985](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135)
+
+<a id="cont-009"></a>
 
 ### CONT-009 — Primeira descida recuperada ao Inferno
 
@@ -386,6 +422,8 @@ Ymir e Beatriz seguem rio e caem ao Inferno. Ela o ampara em forma de pássaro; 
 
 **Evidências:** [S176 · 1211855627551506463](../pesquisa/fase-3/Fontes-e-Evidencias.md#s176); [S176 · 1212552563228938340](../pesquisa/fase-3/Fontes-e-Evidencias.md#s176); [S176 · 1212567274544959579](../pesquisa/fase-3/Fontes-e-Evidencias.md#s176); [S176 · 1212925256075968512](../pesquisa/fase-3/Fontes-e-Evidencias.md#s176); [S176 · 1212926688283852861](../pesquisa/fase-3/Fontes-e-Evidencias.md#s176); [S176 · 1212936794270863372](../pesquisa/fase-3/Fontes-e-Evidencias.md#s176)
 
+<a id="cont-010"></a>
+
 ### CONT-010 — Expedição coletiva ao Inferno
 
 **Data documental:** 01–16/03/2024.
@@ -393,6 +431,8 @@ Ymir e Beatriz seguem rio e caem ao Inferno. Ela o ampara em forma de pássaro; 
 Michael, Henry, Ymir, Bytes, Kian, Lilith, Gotter e Gertrude partem. Após queda e guerra, o ramo reencontra Caeman, rei do Inferno ao norte do Sword. Os livros apresentam regras situadas de mana, magia e forja; não são cosmologia objetiva completa. Henry dispara Tigre Infernal com energia demoníaca da arma, mas recusa fogo demoníaco. Um dragão azul gigante aparece sem identidade God comprovada. Gertrude ensina Dokato; Ymir e Henry treinam e enfrentam golem de lava. Ymir produz golpe de energia desconhecida e não repetível imediatamente. No templo Henry repara gerador e ativa máquinas. Diabretes roubam golems; o grupo os retoma em cidade demoníaca, causando mortes e dano estrutural. Coarer prende e queima Ymir; ele se cura, derruba o executor e escapa com Henry. Gotter conserta máquinas e fornece pedra de retorno. Ymir vê cena branca enigmática, depois acorda perto de Mouran com Henry e golems, devolve flauta e toma bola de cristal de Gertrude. As ratios e saltos de tempo são locais.
 
 **Evidências:** [S160 · 1213292668034089000](../pesquisa/fase-3/Fontes-e-Evidencias.md#s160); [S178 · 1215080768917733426](../pesquisa/fase-3/Fontes-e-Evidencias.md#s178); [S178 · 1215138889509904414](../pesquisa/fase-3/Fontes-e-Evidencias.md#s178); [S178 · 1215148628428201984](../pesquisa/fase-3/Fontes-e-Evidencias.md#s178); [S178 · 1215153835694366820](../pesquisa/fase-3/Fontes-e-Evidencias.md#s178); [S179 · 1215803888427466804](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1216087533188812810](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1217253095302627438](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1218716412407975957](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1218731018304098405](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1218733578918035607](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1218736977692856442](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179)
+
+<a id="cont-011"></a>
 
 ### CONT-011 — Yakkatsu e Bardock no Inferno
 
@@ -402,6 +442,8 @@ Yakkatsu chega por trajetória separada. Bardock o ajuda e relata o roubo humano
 
 **Evidências:** [S022 · 1221538855111495770](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1222367976473235466](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1222416275960238212](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1223498263101964298](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1230128741905334272](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1237188543332487168](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1239291835613053039](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1239353754151551107](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)
 
+<a id="cont-012"></a>
+
 ### CONT-012 — Reconstrução, Beatriz e Pantera
 
 **Data documental:** 16–26/03/2024.
@@ -410,29 +452,37 @@ Mouran é reconstruída. Ymir e Beatriz passam por terror mental cuja resoluçã
 
 **Evidências:** [S189 · 1218754514153377852](../pesquisa/fase-3/Fontes-e-Evidencias.md#s189); [S189 · 1218779906092306442](../pesquisa/fase-3/Fontes-e-Evidencias.md#s189); [S189 · 1219452803781623848](../pesquisa/fase-3/Fontes-e-Evidencias.md#s189); [S173 · 1221623742149693450](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S172 · 1221613735551045743](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172); [S172 · 1221631026896310394](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172); [S172 · 1221972476263796736](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172); [S172 · 1222001888384385154](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172); [S172 · 1222006809846480958](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172); [S172 · 1222172800437977129](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172); [S172 · 1222330295127375953](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172)
 
+<a id="cont-013"></a>
+
 ### CONT-013 — Calamidade, Note e novo ataque a Mouran
 
-**Data documental:** 21/03–12/04/2024.
+**Data documental:** 21/03–16/04/2024; chegada à Paróquia narrada em 15/04, explosão da flecha roxa em 16/04.
 
 Lilith e aliados derrubam Calamidade Emergente; ela fica ferida. Yoran é sucessor condicional, sem coroação mostrada. Ymir registra Note com Rank S, encomenda máscara, espada e bainha. Em Piferme, Lilith mata Mya durante trama ligada ao culto; operações contra minas são ordenadas, sem resultado recuperado. Lilith parte com tropa para Mouran; Note a auxilia e cria gelo em larga escala. A missão é encerrada com chegada à Paróquia e acesso a Mouran. Paralelamente, Bytes e Nairóbi se aproximam, treinam e iniciam namoro. Nairóbi entra em coma após café; Bytes obtém água e firma favor com entidade desconhecida. Trevor está vivo, mas corta sua garganta; Bytes se cura. Após seis dias explícitos, Nairóbi acorda. O grupo combate hordas; Nines salva Bytes e Nairóbi de explosão causada por flecha roxa de origem não identificada.
 
 **Evidências:** [S185 · 1221553129607135333](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1222376101641453598](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1222539953448288387](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1224182929182294119](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1226353004555272292](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1228740475742064742](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1229625286039961610](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S173 · 1223443843068727428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1225893559023173673](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226308878145421434](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226338374235984012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1229963027827265638](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1229973986486517800](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173)
 
+<a id="cont-014"></a>
+
 ### CONT-014 — Captura de Ymir e história de Nefa
 
-**Data documental:** 15–22/04/2024.
+**Data documental:** 15–23/04/2024; o ramo de Olta já prossegue em 23/04.
 
-Ymir desce pelo elevador e cai em floresta; a Árvore o mantém em jaula e ele é entregue a Altruístas canibais. Nefa o resgata, depois o entrega, e também é capturada. Ymir a liberta, recupera equipamento e veste a máscara em 21/4. A hipótese de influência de mana sobre a mente é fala da Árvore, não declaração de que tudo foi sonho. Depois Henry, Ymir, Nines e Topher partem de Mouran e entram em Olta na guerra civil. A Árvore tem núcleo fora de Fallhebe. Ymir perde braço e sofre risco de decapitação. Há combates e fugas; o nome de Deward é tratado com cautela, sem fundi-lo automaticamente a Edward.
+Ymir desce pelo elevador e cai em floresta; a Árvore o mantém em jaula e ele é entregue a Altruístas canibais. Nefa o resgata, depois o entrega, e também é capturada. Ymir a liberta, recupera equipamento e veste a máscara em 21/4. A hipótese de influência de mana sobre a mente é fala da Árvore, não declaração de que tudo foi sonho. Depois Henry, Ymir, Nines e Topher partem de Mouran e entram em Olta na guerra civil. Henry apresenta um núcleo associado à árvore fora de Fallhebe; o objeto persiste, mas a localização e o mecanismo dimensional não ganham uma definição universal. Ymir perde braço e sofre risco de decapitação. Há combates e fugas; o nome de Deward é tratado com cautela, sem fundi-lo automaticamente a Edward.
 
 **Evidências:** [S005 · 1229638997425524736](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1229961452153212989](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1231393955740909650](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1231400283389693962](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1231745941833384046](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1232100505891639337](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S187 · 1232139367523422270](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1232494994548330557](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1232501408843038721](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187)
 
+<a id="cont-015"></a>
+
 ### CONT-015 — Emma, Tarkaros e devastação
 
-**Data documental:** 22/04–03/05/2024.
+**Data documental:** 22/04–05/05/2024; ensino de Dark em 05/05.
 
 Lilith resgata menina e manda interrogar homem que se diz pai. A criança relata pai morto há anos e não o reconhece. O interrogatório não recebe desfecho. Lilith escolhe Emma; depois ela aparece como filha adotiva. Lilith mata cultistas e devasta metade de cassino de Mouran; volta ao palácio e procura instrução de gelo. Em Olta, o grupo enfrenta Tarkaros, cuja explosão destrói cerca de um terço da cidade. Frank é confirmado rei. O grupo retorna a Mouran e resgata reféns; a cidade sofre explosões. Ymir entrega a espada de Tarkaros a Bytes. Bytes aprende Dark com Lilith, sem aquisição de todos os usos imagináveis.
 
 **Evidências:** [S173 · 1232840610583412837](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1232841410353565787](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1232842253928763422](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1232871127362179122](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1234303840342245406](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S187 · 1235332522599256134](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1235339528621785098](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1235348862210674749](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1235355070154149899](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1236129297807442000](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1236841299081035818](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187)
+
+<a id="cont-016"></a>
 
 ### CONT-016 — Edward, Piferme e morte de Henry
 
@@ -442,6 +492,8 @@ Adulto Kian retorna à campanha junto de Michael, Henry e Lilith; o voo coletivo
 
 **Evidências:** [S187 · 1237204916741869608](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1237568074702655519](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1239347758230409237](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1239359270206836776](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1239380369401315428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1239387789804703764](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1239388856986374184](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S175 · 1239388643655684217](../pesquisa/fase-3/Fontes-e-Evidencias.md#s175); [S175 · 1239393683682361386](../pesquisa/fase-3/Fontes-e-Evidencias.md#s175); [S175 · 1239401047030628417](../pesquisa/fase-3/Fontes-e-Evidencias.md#s175); [S187 · 1237586020417929368](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187)
 
+<a id="cont-017"></a>
+
 ### CONT-017 — Azazel: infância, Tékia e fuga
 
 **Data documental:** 10/05–30/07/2024.
@@ -450,21 +502,27 @@ A continuidade confirmada pelo participante reúne Kian, Lúcifer e Azazel, mas 
 
 **Evidências:** [S013 · 1239350043090358362](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1246276865065222154](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1244481528608849961](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256054135342501908](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1264391204989177897](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1264741025797246987](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
 
+<a id="cont-018"></a>
+
 ### CONT-018 — Piferme reconstruída e escolhas de Lilith/Ymir
 
-**Data documental:** 19/05–11/06/2024.
+**Data documental:** 19/05–11/06/2024; o trecho de Balenon retomado em 12/05 é antecedente do ramo, sem calendário global conciliado.
 
 Ymir acorda em Piferme, sem ponte completa do cativeiro/retorno. A passagem por Bluemoon, Balenon, Nefa e caçada tem sete dias internos próprios e não é anulada como sonho. Lilith encontra reino reconstruído por magia e orbe; Fierch está vivo. Os quatro grã-mestres são nomeados; não inventar poder dominado por Ymir ao ser chamado quinto. Ymir percorre cidade de animais com Froid e Powl, aprende MUTON e Sexto Sentido com limites, conhece Myria e mata impostor demoníaco de Beatriz. A mãe alce morre apesar da ajuda; Tamura ajuda a curá-lo. Ymir volta a Mouran em quarenta minutos, encontra a verdadeira Beatriz em coma. Lilith pretende enfrentar Coiote, aprofunda amizade com Neyfor e cuida de Emma; o ataque de raízes à menina não tem causa identificada. Sua última narração mostra Yoran aproximar-se dela e Emma em Piferme.
 
 **Evidências:** [S005 · 1239100139839422495](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S002 · 1245904587211280395](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1245546784021811342](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1246289795299283095](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S001 · 1246923338597662841](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249112487421284494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249503535641526303](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1248818935307047012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249904508159397970](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1250234064183496755](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1250239705681760339](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S002 · 1249897869536923711](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1250239262905864275](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)
 
+<a id="cont-019"></a>
+
 ### CONT-019 — Campanha de Michael, Henry vivo e Bytes
 
-**Data documental:** 13–22/06/2024.
+**Data documental:** 07–22/06/2024; prosperidade de Mouran em 07/06, retorno de Henry em 13/06.
 
-Gwierlan está vivo e Mouran próspera. Michael pretende conquistar Piferme e sair em busca de força; no acampamento de Mytria, forças amigas e hostis se confundem. Henry reaparece vivo, afirma ter sido salvo por conhecido não nomeado; o mecanismo da ressurreição não foi recuperado. Ymir atravessa campo e depois encontra Lucas Sevenheart, que chega separadamente. Henry fere Lucas e o cura. A última cena de Michael conserva atacantes chegando a Vermund e partida ainda não concluída. Bytes aparece vivo em 22/6, procurando Nairóbi na sequência de Kral, sem resolução da busca.
+Gwierlan está vivo e Mouran próspera. Michael pretende conquistar Piferme e sair em busca de força; no acampamento de Mytria, forças amigas e hostis se confundem. Henry reaparece vivo, afirma ter sido salvo por conhecido não nomeado; o mecanismo do retorno à vida não foi recuperado. Ymir atravessa campo e depois encontra Lucas Sevenheart, que chega separadamente. Henry fere Lucas e o cura. A última cena de Michael conserva atacantes chegando a Vermund e partida ainda não concluída. Bytes aparece vivo em 22/6, procurando Nairóbi na sequência de Kral, sem resolução da busca.
 
 **Evidências:** [S016 · 1248815455267979354](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1250973599595102268](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1250998141038104717](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1250999274251091999](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252001160718585906](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252415496825999390](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252794260122636383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S014 · 1254259539386044456](../pesquisa/fase-3/Fontes-e-Evidencias.md#s014)
+
+<a id="cont-020"></a>
 
 ### CONT-020 — Coratayne, Beatriz desperta e cidade de elfos
 
@@ -474,7 +532,7 @@ Após fuga e bombardeio, Ymir acorda na Casa Coratayne, com Rans visível no jar
 
 **Evidências:** [S023 · 1264380808198885386](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264384888589783187](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264720088158699643](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265827259483164723](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265122213984473169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265129599449169931](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266899855322906676](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266903430354702428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266909119613370448](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266950138849656893](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)
 
-A vitória política de janeiro permite caminhos próprios: Michael governa e depois busca força; Lilith assume Piferme; God aceita a guarda da Árvore; Harry desenvolve sua linha com Stifen; Mulack entra na dungeon; Yakkatsu segue seu Inferno; Bytes aproxima-se de Nairóbi; Ymir reúne missões, Beatriz e o disfarce de Note. Há reencontros, mas não um grupo permanente presente em todos os acontecimentos. As últimas cenas dessas linhas pertencem a datas e lugares distintos.
+A vitória política de janeiro permite caminhos próprios: Michael governa e depois busca força; Lilith assume Piferme; God coopera com a Árvore e segue para treino e caça; Harry desenvolve sua linha com Stifen; Mulack entra na dungeon; Yakkatsu segue seu Inferno; Bytes aproxima-se de Nairóbi; Ymir reúne missões, Beatriz e o disfarce de Note. Há reencontros, mas não um grupo permanente presente em todos os acontecimentos. As últimas cenas dessas linhas pertencem a datas e lugares distintos.
 
 <a id="personagens"></a>
 
@@ -489,6 +547,10 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 **Comportamento demonstrado:** Desconfia do cocheiro, busca compreender o culto e tenta incriminá-lo. Ajuda Bytes e aconselha Rans sobre descanso, mas provoca/briga com companheiros. Competitivo no treino, prefere agir contra prefeito a ouvir seu passado; ambição convive com aprendizado e limites.
 
 **Percurso inicial:** Sobrevive e participa da fuga; desconfia do cocheiro e o incrimina. Sai com grupo, ajuda na crise de Henry e combate aranhas; desloca-se ao pomar. Luta no colosso, busca equipamento/controle com Karl; sobrevive às crises lunares e procura paróquia sem achá-la. Entre os sete; duelo mental afeta colegas; ajuda a matar Daupar e pantera. Retorna a Lilith e cria conexão de sangue; assume nome Michael Uchiyama perante grupo. Sai à superfície, irritado com suposto abandono de Rans.
+
+**Desenvolvimento e consequências posteriores:** Após janeiro, a abdicação de Gwierlan lhe dá responsabilidade política e reconstrução de Mouran. Coopera com lagartos e negocia com Olta/Piferme, mas o atentado interrompe a diplomacia. Baran demonstra os limites de sua força. Em maio enfrenta nova crise de Edward e perde Henry; em junho o reencontra vivo e tenta sair para fortalecer-se e conquistar Piferme. A conquista continua intenção no conflito de Mytria.
+
+**Evidências:** [S170 · 1200291569543151726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s170); [S155 · 1210630157392674907](../pesquisa/fase-3/Fontes-e-Evidencias.md#s155); [S016 · 1252794260122636383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)
 
 **Última cena documental:** 18/06/2024 22:17:07
 
@@ -518,13 +580,17 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 ### Rans
 
-**Entrada e origem registrada:** 08/12: abertura cancelada; 09/12: Rans se nomeia em S070, anterior à apresentação de S066.. Ficha: 15 anos, Anjo/Escorpião, Sangue, passado apagado.
+**Entrada e origem registrada:** 08/12: abertura cancelada; 09/12: Rans se nomeia em S070, anterior à apresentação de S066. Ficha: 15 anos, Anjo/Escorpião, Sangue, passado apagado.
 
 **Identidade:** Ganso de Guerra é identidade confirmada externamente. A falsa morte de janeiro pertence ao conhecimento do grupo; a sobrevivência só se torna pública no reencontro.
 
 **Comportamento demonstrado:** Observa, tenta sobreviver, desconfia da mulher e reconhece perigo de ferir amigos. Busca biblioteca para entender poderes. Treina continuamente por reconhecer fraqueza; interrompe o treino quando Trevor exige respeito.
 
-**Percurso inicial:** No elenco inicial; colabora na sobrevivência. Sai e segue rota sul; sangue e capacidades aladas entram na trajetória. Combate no colosso; retorna sem Harry; treina até exaustão; transformação ao beber sangue de Henry causa crise lunar. Vence rei escorpião/pantera com colegas. Pede falsa morte a Mulack; permanece, escapa do altar, perde controle para ser de sangue e é salvo. Acorda restaurado, sem ferrão, em cabana; encaminhado a treino de magia com salto interno de três dias. Hospital de 25/01 em S162 preservado; ponte desde cabana/treino ainda pendente.
+**Percurso inicial:** No elenco inicial; colabora na sobrevivência. Sai e segue rota sul; sangue e capacidades aladas entram na trajetória. Combate no colosso; retorna sem Harry; treina até exaustão; transformação ao beber sangue de Henry causa crise lunar. Vence rei escorpião/pantera com colegas. Pede falsa morte a Mulack; permanece, escapa do altar, perde controle para ser de sangue e é salvo. Acorda restaurado, sem ferrão, em cabana; encaminhado a treino de magia com salto interno de três dias. O hospital de janeiro tem cenas recuperadas; a ligação precisa com cada estágio anterior de treino não foi demonstrada.
+
+**Desenvolvimento e consequências posteriores:** A mentira de Mulack é desfeita quando Rans entra na reunião de janeiro. Ele reverte Hads ao corpo de Lilith e mantém vínculo amoroso, com planos sem casamento ou filhos consumados. O hospital e o treino revelam limites: conhecimento de cura transmitido não lhe concede toda a magia de Claws. O ramo de julho começa com memória dolorosa do Abismo, mas sem ponte completa; levar Hermione à Paróquia e pedir um selo não demonstra que o selo foi aplicado.
+
+**Evidências:** [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S166 · 1198780690678960128](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S167 · 1200238683786326126](../pesquisa/fase-3/Fontes-e-Evidencias.md#s167); [S167 · 1200258548966379704](../pesquisa/fase-3/Fontes-e-Evidencias.md#s167); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003)
 
 **Última cena documental:** 30/07/2024 23:09 (narração)
 
@@ -554,11 +620,15 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 ### Henry Chambers
 
-**Entrada e origem registrada:** 08/12/2023: tentativa de acordar e abertura em queda; retomada submersa em 09/12.. Ficha: 16 anos, Lobisomem, Fogo; passado anterior não recuperado.
+**Entrada e origem registrada:** 08/12/2023: tentativa de acordar e abertura em queda; retomada submersa em 09/12. Ficha: 16 anos, Lobisomem, Fogo; passado anterior não recuperado.
 
 **Comportamento demonstrado:** Medo explícito na guerra e diante da aranha; mantém preocupação de não colocar outros em perigo. Tenta conter briga e acolhe Mulack/Yakkatsu. Atento à ameaça na casa, avisa EREN, deseja aprender com Karl e aceita ajudar Resistência.
 
 **Percurso inicial:** Participa do grupo e sobrevive ao ataque/captura. Crise de lobo exige ação coletiva; acorda sem lembrança, Harry oculta episódio. Depois aprende o ocorrido e busca contenção lunar. Ajuda no colosso; núcleo traz lembrança; procura Karl e materiais; pratica ferraria/energia e enfrenta crises, com controle parcial. Nos sete; ajuda no rei escorpião e na defesa contra Michael. Não morre na visão do laboratório. Sobrevive a Daupar/sombras; gás restaura danos; sai e corre na clareira. Armas/armadura sofreram perdas observadas, não equipamento perfeito permanente.
+
+**Desenvolvimento e consequências posteriores:** Em janeiro quebra a coroa e mata Patrick transformado. No período seguinte treina, protege Chip e atua na diplomacia; Dimitri retorna vivo sob sua custódia. No Inferno aprende e usa Tigre Infernal pela arma, recusa Fogo Demoníaco e retorna com Ymir e máquinas. Em maio o golem se rompe e sua morte é narrada; em junho reaparece vivo, relatando salvamento por conhecido sem identificar o agente. Em julho sua presença é confirmada, mas a saída para um canal vazio encerra a continuidade recuperável.
+
+**Evidências:** [S123 · 1198777324062113794](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S161 · 1212959564643700736](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S178 · 1215148628428201984](../pesquisa/fase-3/Fontes-e-Evidencias.md#s178); [S187 · 1239359270206836776](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S016 · 1250998141038104717](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S023 · 1268003258262093956](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
 
 **Última cena documental:** 30/07/2024 21:20:38, última ação; 21:32:15, mestre encaminha para #mar
 
@@ -588,11 +658,15 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 ### God-Zilla
 
-**Entrada e origem registrada:** 09/12/2023, S038.. Ficha: 17 anos, Réptil, Terra; forma humana indicada com 2,25 m.
+**Entrada e origem registrada:** 09/12/2023, S038. Ficha: 17 anos, Réptil, Terra; forma humana indicada com 2,25 m.
 
 **Comportamento demonstrado:** Silêncio, cautela, procura esconderijo e tenta obter equipamentos de mortos no ataque.
 
-**Percurso inicial:** Mestre o inclui no conjunto inicial e embarque/cativeiro. Passagem individual não isolada em contexto suficiente; não inventar destino. Sem trajetória pessoal suficientemente reconstruída neste checkpoint.
+**Percurso inicial:** Mestre o inclui no conjunto inicial e embarque/cativeiro. Passagem individual não isolada em contexto suficiente; não inventar destino. A passagem inicial individual não está isolada, mas as cenas de janeiro e fevereiro recuperam participação na mansão, auxílio solicitado pela Árvore, treino e caça.
+
+**Desenvolvimento e consequências posteriores:** Em janeiro chega com EREN por teleporte ao ramo da mansão e participa do combate; não é identificado com o monstro de cem metros. Em fevereiro reencontra Lúcifer, leva-o à sala de controle e aciona o elevador. A Árvore se apresenta como guardiã de Mouran e pede ajuda para um amigo: God aceita o pedido, sem receber título formal. Recebe novo colar, coopera com Michael e treina reservatório com Gotter e Kian; a última presença é a caça de fevereiro. O pouco material posterior é limitação documental.
+
+**Evidências:** [S166 · 1198724716949684294](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198727892251725996](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S182 · 1208535365229748245](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S182 · 1208544243543441408](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S133 · 1208941116779663360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S133 · 1208942009910427669](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S134 · 1211100271015493663](../pesquisa/fase-3/Fontes-e-Evidencias.md#s134); [S135 · 1212569153345560607](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135); [S135 · 1212919221399326760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135)
 
 **Última cena documental:** 29/02/2024 21:27:57, caça com Gotter e Kian
 
@@ -602,9 +676,9 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Estado físico:** Vivo na última presença recuperada; nenhuma morte ou partida permanente demonstrada.
 
-**Estado psicológico conhecido:** Aceita proteção da Árvore e missões com Michael; não extrapolar silêncio para estado mental.
+**Estado psicológico conhecido:** Aceita o pedido de ajuda da Árvore e coopera com Michael; não extrapolar silêncio para estado mental.
 
-**Objetivo em andamento:** Aprimorar mana e ajudar a guardar Mouran.
+**Objetivo em andamento:** Aprimorar mana e prosseguir com Gotter e Kian na caça. Auxílio à Árvore ocorreu; dever permanente de guardião não está comprovado.
 
 **Relações:** Conhece Michael pelo nome em fevereiro; coopera com Kian/Lúcifer e Gotter.
 
@@ -612,7 +686,7 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Destino posterior conhecido:** Não há trajetória posterior pessoal validada.
 
-**Questões em aberto:** Continuidade após caça; dever de guardião; participação em ataques posteriores apenas mencionada.
+**Questões em aberto:** Continuidade após caça; resultado e alcance do auxílio à Árvore; participação posterior apenas mencionada. Não há título formal de guardião demonstrado.
 
 **Recuperação do estado:** SIM (última presença disponível). **Confiança:** ALTA na presença; baixa além dela.
 
@@ -622,13 +696,17 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 ### Harry Phils
 
-**Entrada e origem registrada:** 08/12/2023: S040; abertura e retomada na água.. Ficha: 23 anos, Ave, Teleporte; pai distante.
+**Entrada e origem registrada:** 08/12/2023: S040; abertura e retomada na água. Ficha: 23 anos, Ave, Teleporte; pai distante.
 
 **Identidade:** O ramo Astro é provável, com indicação OOC e autoria contextual; a ponte corporal e nominal não é confirmada.
 
 **Comportamento demonstrado:** Socorre feridos e ampara Kian; acolhe Rans apesar da suspeita/atração por sangue. Curioso sobre poderes e atento a orientação. Também se envolve em briga com Michael. Em S041 força conversa com mulher, testa poção ferindo veado, busca crédito/investimentos, procura confiança da fazendeira e propõe emprego; ela recusa abandonar fazenda por promessa ao pai. Não inferir poder de sedução nem romance consumado das brincadeiras.
 
 **Percurso inicial:** Cuida de companheiros e participa da fuga/captura. Ramo de minhocas e resgate; contribui para conter Henry e oculta lembrança da crise. Aranhas e viagem aérea o levam ao pomar. Identifica fraqueza do colosso; afasta-se e recusa retorno a Rans; cidade de répteis, atirador/castor e entidade da casa expandem linha pessoal. S043 encaminha a linha pessoal para S089, integrada à continuação histórica acima. Não inserir Harry na partida dos sete ou na pantera.
+
+**Desenvolvimento e consequências posteriores:** Sua separação após o colosso abre uma linha subterrânea de exploração e conflito. Fere e imobiliza Bytes em episódios próprios; abandoná-lo junto ao muro não prova assassinato. Salva Kral, desenvolve asas e voo e torna-se oficial, depois chefe de segurança. Investiga tatuagens, vermes e o culto; interrogações e mortes revelam seu lado coercitivo, enquanto informações sobre ressuscitar o Deus Dragão permanecem relatos de interrogados. Hospital, criatura negra e pacto introduzem nova capacidade/experiência mental. Zaraph o nomeia general, obtém financiamento e o conduz fisicamente para fora do subsolo. Dom Ray Harry é identificação usada em contexto social. Na mansão é engolido e causa dano interno, sem matar Patrick. Depois, com Stifen, controla Jakaw; Zex fica inerte e reaparece ativo sem reparo mostrado. Retorna no atentado e ajuda Michael. O ramo Astro de julho permanece separado como associação provável.
+
+**Evidências:** [S089 · 1188662631289073704](../pesquisa/fase-3/Fontes-e-Evidencias.md#s089); [S089 · 1189633346167377930](../pesquisa/fase-3/Fontes-e-Evidencias.md#s089); [S089 · 1189693310734975007](../pesquisa/fase-3/Fontes-e-Evidencias.md#s089); [S089 · 1190104064206311514](../pesquisa/fase-3/Fontes-e-Evidencias.md#s089); [S089 · 1190478050907930735](../pesquisa/fase-3/Fontes-e-Evidencias.md#s089); [S089 · 1190841244046348369](../pesquisa/fase-3/Fontes-e-Evidencias.md#s089); [S090 · 1198075538175184926](../pesquisa/fase-3/Fontes-e-Evidencias.md#s090); [S090 · 1198388118697549874](../pesquisa/fase-3/Fontes-e-Evidencias.md#s090); [S090 · 1198443136486215740](../pesquisa/fase-3/Fontes-e-Evidencias.md#s090); [S138 · 1200285987696287754](../pesquisa/fase-3/Fontes-e-Evidencias.md#s138); [S161 · 1212932064173629501](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161)
 
 **Última cena documental:** 01/03/2024 00h, ramo do atentado em Mouran
 
@@ -658,13 +736,17 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 ### Kian / Lúcifer / Azazel
 
-**Entrada e origem registrada:** 08/12/2023: S051. Troca em 09/12 às 20:19:52 é anterior ao contato com minhocas em S025.. Falta origem completa; despertar infantil em maio narrado sem ponte causal recuperada.
+**Entrada e origem registrada:** 08/12/2023: S051. Troca em 09/12 às 20:19:52 é anterior ao contato com minhocas em S025. Falta origem completa; despertar infantil em maio narrado sem ponte causal recuperada.
 
 **Identidade:** Os três nomes pertencem ao mesmo personagem segundo confirmação externa, com personalidades distintas. O mecanismo da transição corporal continua desconhecido.
 
 **Comportamento demonstrado:** Kian expressa medo e pede fim das agressões ao cocheiro. Lúcifer conversa amistosamente com Wilbur. Infância de Azazel inclui desejo de treinar e experiências arriscadas.
 
-**Percurso inicial:** Mesmo personagem segundo confirmação do participante; personalidades não concedem memória/corpo/poder compartilhado automaticamente. No grupo da rota sul; mestre corrige confusão com Kral e afirma humano normal nesse momento. Natureza atribuída em mudança explícita de regra. Linha pessoal não cruzada integralmente com nós de janeiro; ausência não autoriza morte. Maio: corpo infantil e nomes Kian/Azazel em narração e família. Saltos internos próprios; não construir ligação dimensional completa sem fonte.
+**Percurso inicial:** Mesmo personagem segundo confirmação do participante; personalidades não concedem memória/corpo/poder compartilhado automaticamente. No grupo da rota sul; mestre corrige confusão com Kral e afirma humano normal nesse momento. Natureza atribuída em mudança explícita de regra. A linha de estudo e reencontro com God em fevereiro está recuperada; ausências em outros nós não autorizam morte. Maio: corpo infantil e nomes Kian/Azazel em narração e família. Saltos internos próprios; não construir ligação dimensional completa sem fonte.
+
+**Desenvolvimento e consequências posteriores:** A concessão de Natureza em dezembro está documentada como decisão mecânica do mestre, mas o diálogo de maio contesta que um elemento tenha sido informado. Não apagar nenhuma versão nem transferir Natureza ao bebê automaticamente. Em fevereiro Lúcifer estuda por salto pessoal de vinte dias, apresenta marca negra e percebe energia inversa à mana; fracassa ao tentar curar o chão. Reencontra God, usa colar de madeira e materializa arcos/bestas em combate — proficiência que não concede todas as armas complexas. O Kian adulto reaparece em maio, sem ponte causal que explique o bebê Azazel. A infância, crescimento e linha de Tékia são recuperados: Magnatas e Miliart são organizações, Monarca é NPC, Westia participa da fuga. Magia negra, Trevas e Sombras precisam conservar seus efeitos locais.
+
+**Evidências:** [S032 · 1184265308962312352](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S184 · 1236836865416364124](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S182 · 1208243505642606613](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S182 · 1208531934695788554](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S182 · 1210006706478653450](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S182 · 1210410638049021952](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S187 · 1237204916741869608](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S013 · 1239350043090358362](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
 
 **Última cena documental:** 30/07/2024 20:50:56
 
@@ -694,13 +776,17 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 ### Lilith Chipper
 
-**Entrada e origem registrada:** 08/12/2023: S055.. Ficha posterior: humana, 19 anos, Gelo, rainha de Piferme
+**Entrada e origem registrada:** 08/12/2023: S055. Ficha posterior: humana, 19 anos, Gelo, rainha de Piferme
 
 **Identidade:** Lilith e Hads são continuidade do mesmo protagonista após mudança corporal. Rans restaura o corpo de Lilith em janeiro; não se demonstrou uma alma substituta.
 
 **Comportamento demonstrado:** Combate perseguidores e reage com ódio à traição. Ajuda Kral a buscar informação. Apoia EREN na briga, minimiza as mortes e tenta ajudá-lo na crise corporal. Procura renda, reage à agressão do cavaleiro e rejeita domínio dele sobre seu corpo. Retira homem dos guardas por curiosidade, mas nega intenção de salvá-lo; aceita poder do culto. Não reduzir a gesto altruísta nem a rótulo único de maldade.
 
 **Percurso inicial:** No grupo inicial; coopera em fuga e combates. Ajuda resgate e crise de Henry; põe Teler na água curativa. Separada na montanha, passa por ramo urbano e novo cativeiro; retorna às novas minas de Mouran. Combate no colosso e contata núcleo; coração explodido no mundo sombrio não vira morte definitiva, pois Rans/Henry a resgatam. Carrega Ymir/Yakkatsu exaustos; no segundo altar tenta se matar, morte é declarada e parasita restaura. Sangue de Michael a desperta; mestre muda corpo para masculino e esclarece que só corpo mudou. Personagem adota Hads Tahm; sai à superfície e vai ao rio.
+
+**Desenvolvimento e consequências posteriores:** O retorno de Hads ao corpo original não encerra suas responsabilidades. Em Piferme protege Garold, sofre mutilações no ataque de Solin e recebe o reino antes da morte dele. Participa da diplomacia e da expedição ao Inferno; derrota Calamidade com aliados. Ordena operações militares sem que cada ordem tenha execução narrada. Em abril resgata a criança depois chamada Emma e a trata como filha adotiva. Em maio/junho encontra Piferme reconstruída, busca instrução e proteção da filha; Neyfor é amizade confirmada. Orbe e plano coletivo de regeneração não demonstram braço restaurado. Coiote permanece alvo de intenção.
+
+**Evidências:** [S151 · 1210391082655813742](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151); [S151 · 1210392089955799050](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151); [S185 · 1221553129607135333](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S173 · 1232871127362179122](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S002 · 1245904587211280395](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1248807521704083528](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1249897869536923711](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1250239262905864275](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)
 
 **Última cena documental:** 11/06/2024 21:04:28 (mestre); ação seguinte 21:23:24
 
@@ -730,11 +816,15 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 ### Bytes Sky
 
-**Entrada e origem registrada:** 08/12/2023: S026, espera inicial e queda.. Ficha posterior: 18 anos, Elfo, Escuridão, família Sky.
+**Entrada e origem registrada:** 08/12/2023: S026, espera inicial e queda. Ficha posterior: 18 anos, Elfo, Escuridão, família Sky.
 
 **Comportamento demonstrado:** Curioso/explorador, tenta resistir à melodia; agradece ajuda e procura equipamento; pede descanso após esforço.
 
 **Percurso inicial:** Incluído no conjunto pelo resumo do mestre; ligação individual à saída ainda incompleta. Chega ao pomar, é nomeado e entra na convivência do grupo; não inventar segunda Surgência sem contexto. Expedição de materiais e ensino com Henry/Karl expandem trajetória; não está nos sete iniciais da partida. Retorna fora da floresta; na pantera busca ajuda e tenta intervir, mas pressão o lança ao túnel. Não vence solo nem morre pela piada de jogador. Sai com coletivo, a continuação posterior está integrada na seção histórica.
+
+**Desenvolvimento e consequências posteriores:** Sua trajetória não se resume a ataques combinados. Entra em conflito com Harry e sobrevive à separação; treina com Henry e recebe diagnósticos de Gertrude. A descida com Ymir e Beatriz ao Inferno termina por pedra azul; a aula de transformação fica adiada. Beatriz ensina cura, sem conceder todo o repertório de transmorfismo. O namoro com Nairóbi leva a tentativa de salvá-la após coma: Bytes assina um favor com entidade desconhecida e obtém água, mas não vende a alma de forma comprovada. Trevor lhe corta a garganta e ele se cura; Nairóbi desperta. Nines intervém para salvar os dois da explosão. Ymir lhe dá a espada de Tarkaros e Lilith ensina Dark, com custo e cegueira. O toque na esfera em maio não tem resolução; a cena de junho o mostra vivo procurando Nairóbi.
+
+**Evidências:** [S089 · 1189633346167377930](../pesquisa/fase-3/Fontes-e-Evidencias.md#s089); [S176 · 1212567274544959579](../pesquisa/fase-3/Fontes-e-Evidencias.md#s176); [S173 · 1221623742149693450](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1225893559023173673](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226308878145421434](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226338374235984012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1229973986486517800](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S187 · 1236129297807442000](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1236841299081035818](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S174 · 1239764239644626994](../pesquisa/fase-3/Fontes-e-Evidencias.md#s174); [S014 · 1254259539386044456](../pesquisa/fase-3/Fontes-e-Evidencias.md#s014)
 
 **Última cena documental:** 22/06/2024 23:16:03, entrada narrada; 23:19:37, ação de sair e procurar Nairóbi
 
@@ -764,11 +854,15 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 ### EREN
 
-**Entrada e origem registrada:** 09/12/2023: S031.. Gigante confirmado pela conversa em S032; origem geográfica não recuperada.
+**Entrada e origem registrada:** 09/12/2023: S031. Gigante confirmado pela conversa em S032; origem geográfica não recuperada.
 
 **Comportamento demonstrado:** Quieto e cauteloso no ataque; busca capacidade além de força. Recusa matar esquilo e tenta separar briga, mas força resulta em mortes que lamenta. Defende Ana como companheira, procura resgatar Ellen e relata mortes como acidente; desconfia de Trevor e encoraja Henry a aprender ferraria.
 
 **Percurso inicial:** No grupo inicial; força contribui à sobrevivência. Segue grupo; conhece objeto falante que passa por formas e recebe nome Ana. Pomar e contenção de Henry coexistem com sua linha. Ajuda no colosso, briga da rua B causa mortes/crise de tamanho e tem desfecho local; vai à academia e treina. No Time 1; retido na árvore e retorna com coroa/colares, declarando título de Natureza sem antecedente consolidado. Acorda confuso depois da pantera: não retroagir combate ativo. Abre passagem no teto para superfície; deita na grama.
+
+**Desenvolvimento e consequências posteriores:** Ana nasce como vínculo com objeto falante que assume formas de anel/arma; nomes são recusados antes da nomeação. EREN tenta evitar mortes, mas sua força e a briga da rua B produzem vítimas e remorso. Coroa, colares e declaração de príncipe de Natureza se ligam à Árvore, com legitimidade ainda parcial. Não está ativo na vitória da pantera apenas por constar no grupo; depois rompe o teto na saída. Em janeiro chega à mansão com God, combate e procura Ellen sem encontrá-la. O resgate efetivo é de Michael. Em fevereiro viaja com Michael, Ellen e Lilith para Olta; sair da carruagem para passear é a última ação, sem nova cena pessoal posterior.
+
+**Evidências:** [S025 · 1183910118895669268](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1186813288990912625](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S035 · 1187955478274252882](../pesquisa/fase-3/Fontes-e-Evidencias.md#s035); [S166 · 1198726133663936593](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198727892251725996](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S159 · 1211851946143653910](../pesquisa/fase-3/Fontes-e-Evidencias.md#s159)
 
 **Última cena documental:** 26/02/2024 22:46:59, ação de passear em Olta
 
@@ -780,11 +874,11 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Estado psicológico conhecido:** Curiosidade e saída da carruagem na ação do jogador; psiquismo posterior desconhecido.
 
-**Objetivo em andamento:** Vínculo de Natureza/Árvore e título têm origem ainda parcial.
+**Objetivo em andamento:** Passear por Olta na última ação. Investigar suas capacidades e o vínculo com Ana/Árvore permanece parte da trajetória, sem resultado posterior.
 
 **Relações:** Ana e Árvore no desenvolvimento anterior; não inventar novo encontro após ausência.
 
-**Itens e capacidades relevantes:** Armadura de madeira, coroa/colares e capacidade de Natureza no contexto; legitimidade de príncipe não equivale a reinado global.
+**Itens e capacidades relevantes:** Armadura de madeira, coroa/colares e capacidade de Natureza no contexto; título de príncipe declarado no contexto não comprova legitimidade completa ou reinado global.
 
 **Destino posterior conhecido:** Sem cena pessoal posterior recuperada.
 
@@ -798,13 +892,17 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 ### Mulack / Jin Mu-Won
 
-**Entrada e origem registrada:** 22/12/2023: em S024, já na cabana. Origem no pomar é relato posterior; não primeira cena global comprovada.. Ficha: 23 anos, híbrido, Escuridão/Fogo, procura memórias. Diz ter acordado em pomar e sido puxado à caverna.
+**Entrada e origem registrada:** 22/12/2023: em S024, já na cabana. Origem no pomar é relato posterior; não primeira cena global comprovada. Ficha: 23 anos, híbrido, Escuridão/Fogo, procura memórias. Diz ter acordado em pomar e sido puxado à caverna.
 
 **Identidade:** Armelt é alias de guilda. Jin Mu-Won é referência visual e de memorial; não há renomeação ficcional demonstrada.
 
 **Comportamento demonstrado:** Investigativo, desconfortável com caverna, insensível aos mortos na primeira cena; oferece guia a Yakkatsu e aceita companhia de Henry.
 
-**Percurso inicial:** Não inserir no prólogo por ficha ou nome de conta; entrada documentada no pomar é posterior. Desperta no pomar, acompanha encontro da Resistência e observa batalha; falta de arma no recorte limita ações. Reaparece na floresta e Ymir o ampara; combate Daupar e pantera; recolhe ovo da jaula. Atende pedido de Rans, fecha passagem e conta cobertura a Yakkatsu. Reúne-se, apaga de exaustão e é restaurado pelo gás; sai com grupo. A dungeon de fevereiro passa a definir a ruptura final; os eventos de janeiro não antecipam seu resultado.
+**Percurso inicial:** Não inserir no prólogo por ficha ou nome de conta; entrada global documentada na cabana é posterior; pomar é origem relatada. Relata ter despertado no pomar; as primeiras cenas globais recuperadas já o mostram na cabana e em convivência com a Resistência; falta de arma no recorte limita ações. Reaparece na floresta e Ymir o ampara; combate Daupar e pantera; recolhe ovo da jaula. Atende pedido de Rans, fecha passagem e conta cobertura a Yakkatsu. Reúne-se, apaga de exaustão e é restaurado pelo gás; sai com grupo. A dungeon de fevereiro passa a definir a ruptura final; os eventos de janeiro não antecipam seu resultado.
+
+**Desenvolvimento e consequências posteriores:** Sem memória anterior recuperada, passa de desorientado a guia de Yakkatsu e companheiro de treino. Ajuda no combate de Daupar e da pantera e aceita encobrir a sobrevivência de Rans; o reencontro público cobra essa mentira. O ovo recolhido dá origem a Nyxis, cujo nome é corrigido. Em Olta registra Mulack Armelt, recebe rank S e deixa Nyxis com Driade. Obtém Flor de Neve e armadura; na dungeon evacua feridos e prossegue sozinho, encontrando rei goblin já morto. Morte autodeclarada, ferimento inicialmente narrado, retificação e memorial entram em conflito. A recusa do jogador encerra a participação, sem resolver o destino ficcional.
+
+**Evidências:** [S118 · 1191962128911978496](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S158 · 1199583823701221416](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200230186864615535](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200952788314767390](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208234996578385950](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208245194445815818](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208617010959753236](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158)
 
 **Última cena documental:** 18/02/2024, término contestado da dungeon; memorial seguinte
 
@@ -838,7 +936,11 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Comportamento demonstrado:** Inicialmente cauteloso com força de Mulack; relaxa quando vê ausência de ameaça. Curioso, pergunta sobre cidade/guardas e aceita ser guiado.
 
-**Percurso inicial:** Entrada posterior; não presença inferida no prólogo. Encontra Mulack sem memórias e é apresentado; conversa com Henry e participa dos próximos preparativos. Entre sete; Time 2, esgotado e carregado por Lilith. Gravidade no contexto da correção de cores; mudança posterior para Linha permanece por períodos, não mistura automática. Tenta impedir morte de Lilith mas ação falha; questiona relato de Mulack e sofre confronto. Gás recupera danos; sai com grupo e quer investigar elemento/caçar. Não transformá-lo em salvador único da restauração feita por Michael.
+**Percurso inicial:** Entrada posterior; não presença inferida no prólogo. Encontra Mulack sem memórias e é apresentado; conversa com Henry e participa dos próximos preparativos. Entre sete; Time 2, esgotado e carregado por Lilith. Gravidade aparece em uma indicação antiga, depois retirada. Linhas prevalece; o personagem inicialmente ainda acreditava ter Gravidade, sem que essa crença concedesse o elemento. Tenta impedir morte de Lilith mas ação falha; questiona relato de Mulack e sofre confronto. Gás recupera danos; sai com grupo e quer investigar elemento/caçar. Não transformá-lo em salvador único da restauração feita por Michael.
+
+**Desenvolvimento e consequências posteriores:** Depois da mansão procura sobreviventes entre destroços e sofre culpa pela fraqueza. Aprende medicina e magia com Dr. Claws e realiza cura leve: isso não o torna capaz de regenerar braços como o mestre. Claws e um paciente desaparecem, sem invalidar os demais salvamentos do hospital. Yakkatsu segue com Bytes para Gertrude; a correção de Gravidade para Linhas é explícita. Em seu ramo do Inferno salva Bardock de afogamento, depois o perde em sacrifício. Não come o dedo, protege Stwart, combate monstros e sente culpa por matar demônios. A última alimentação após combate prova sobrevivência naquele ponto, sem saída recuperada.
+
+**Evidências:** [S167 · 1199602264017477673](../pesquisa/fase-3/Fontes-e-Evidencias.md#s167); [S167 · 1200226516022337597](../pesquisa/fase-3/Fontes-e-Evidencias.md#s167); [S167 · 1200240303492309093](../pesquisa/fase-3/Fontes-e-Evidencias.md#s167); [S081 · 1198096195873165383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S081 · 1198096352542982204](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245905402365743184](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)
 
 **Última cena documental:** 30/05/2024 22:58:05
 
@@ -862,7 +964,7 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Recuperação do estado:** SIM. **Confiança:** ALTA.
 
-**Evidências:** [S202 · 1191926706160795668](../pesquisa/fase-3/Fontes-e-Evidencias.md#s202); [S118 · 1191959040016793681](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S118 · 1191962128911978496](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245905402365743184](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S081 · 1198096352542982204](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081)
+**Evidências:** [S202 · 1191926706160795668](../pesquisa/fase-3/Fontes-e-Evidencias.md#s202); [S118 · 1191959040016793681](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S118 · 1191962128911978496](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245905402365743184](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S081 · 1198096195873165383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S081 · 1198096352542982204](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081)
 
 <a id="personagem-12"></a>
 
@@ -875,6 +977,10 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 **Comportamento demonstrado:** Busca anonimato, sigilo de rank e equipamentos; protege Nefa, coopera com Henry e relata planos/segredos.
 
 **Percurso inicial:** Emerge de poça no acampamento sem memórias; fala de irmãos retirada. Michael o leva à ferraria e treina mana com Karl. Parte entre sete; Time 2, ferido/exausto. Retcon corrige Cristal para Veneno. Ampara Mulack; sofre perfurações e autocura falha sem materiais. Imita voz de Rans; isso não é chegada de Rans. Gás recupera danos; autoanálise confirma corpo restaurado e núcleo a 97 °C. Memoriza rota onde Henry/Hads falham; sai e alcança rio. Nome falso na Guilda precede máscara; persona e anonimato contextuais conforme EXT-004, sem encantamento comprovado. Em 31/07 chega com Beatriz à cidade dos elfos; a cena foi recuperada e não constitui final da campanha.
+
+**Desenvolvimento e consequências posteriores:** A Surgência tardia e o corpo registrado como robô são contexto próprio, não presença retroativa no prólogo. Da ferraria e missão dos altares, passa a descidas ao Inferno, treino com Henry, golems, prisão e retorno. Beatriz e Ellen sustentam sua recuperação; a investigação de Pantera resgata vítimas, mas o líder escapa. Note é pseudônimo anterior à máscara e não garantia de anonimato; a captura pelos Altruístas, traição de Nefa e perda de braço deixam consequências persistentes. A guerra de Olta e a crise de Edward precedem a nova linha em Piferme. Ali aprende Previsão, MUTON e Sexto Sentido, com esgotamento; Ceifador não tem morte confirmada. Mata a impostora de Bia, encontra a verdadeira em coma e depois a reencontra desperta em julho. Livros, linhagem e irmã sequestrada orientam a partida à cidade dos elfos, sem cumprir resgate ou torneio.
+
+**Evidências:** [S179 · 1218731018304098405](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S172 · 1221613735551045743](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172); [S005 · 1231393955740909650](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1231400283389693962](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S001 · 1245888349609263136](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249112487421284494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249503535641526303](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249904508159397970](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1250239705681760339](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1265122213984473169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
 
 **Última cena documental:** 31/07/2024 00:04:29
 
@@ -920,7 +1026,7 @@ Os vínculos se alteram durante a campanha. A cooperação na prisão não elimi
 | Baran | Derrota Michael; sofre dano parcial, continua vivo. Paz posterior vem de relato, sem negociação completa em cena. |
 | Nyxis, Driade e Chip | Nyxis é familiar de Mulack, entregue a Driade em Olta; Chip é outro ser, aceito como mascote do grupo. |
 | Bardock e Stwart | Bardock ajuda Yakkatsu e morre em sacrifício; Stwart é protegido por Yakkatsu, sem saída comprovada do Inferno. |
-| Gotter e Árvore | Orientam deslocamentos, missões e equipamentos; God aceita função de guardião. |
+| Gotter e Árvore | Orientam deslocamentos, missões e equipamentos; God aceita um pedido de ajuda; a função formal de guardião não foi demonstrada. |
 | Stifen, Jakaw e Zex | Harry aprende controle de Jakaw; microchip de Zex removido, inatividade e retorno ativo sem cena de reparo. |
 | Nefa | Auxilia Ymir, depois o trai; Ymir ainda a resgata. A traição não apaga toda a jornada. |
 | Berthold e Garius | Berthold informa linhagem de Bia e cultos; Garius tem morte narrada. Relatos de resgate não recuperam toda a execução. |
@@ -931,6 +1037,23 @@ Os vínculos se alteram durante a campanha. A cooperação na prisão não elimi
 | Lucas Sevenheart, Kral, Richard, Noah, Stark, Akai e Akemi | Personagens de apoio ou de ramos adicionais; não são automaticamente aliases dos doze protagonistas. |
 
 Referências específicas estão na história, nos perfis e na matriz. A relação entre Ymir e Bia atravessa ferimentos, aprendizagem, coma e despertar. O demônio que imita Bia e é morto por Ymir não é a verdadeira Beatriz. Lilith mata Mya ligada ao culto; essa personagem não deve ser fundida com Maya de outro ramo.
+
+### Apoio, aprendizagem e identidades que não devem ser fundidas
+
+| Entrada | Papel e limite | Referência |
+| --- | --- | --- |
+| Ana | Objeto falante de EREN, passa por anel e arma; espada quebrada retorna a anel. Sua origem e continuidade final são abertas. | **Evidências:** [S025 · 1183910118895669268](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1186813288990912625](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025) |
+| Karl Benjamin, Elra e Ellen | Karl apresenta Ellen como filha e Elra como esposa. Relata violência, escravização e acredita que Elra vive; não fornece localização confirmada dela. | **Evidências:** [S068 · 1189300812862726164](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068); [S068 · 1189300963174010880](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068); [S068 · 1189302533852758088](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068) |
+| Redner | Reconhece os surgidos e entrega licença provisória após as primeiras minas; licença não remove marca. | **Evidências:** [S025 · 1183589717757923419](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183591494523834408](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025) |
+| Cocheiro e Galius | O primeiro vende o grupo e também é preso. Galius é morto por Azazel em outro ramo; sem prova de identidade comum. | **Evidências:** [S070 · 1183181442495299645](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S070 · 1183182176439775342](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070) |
+| Zaraph, Valmount e Jakaw Fierra | Autoridade, financiamento e rede de informações na linha de Harry; pactos e encenação não provam que Jakaw seja a criatura negra. | **Evidências:** [S090 · 1198369664980488304](../pesquisa/fase-3/Fontes-e-Evidencias.md#s090); [S090 · 1198382140782547075](../pesquisa/fase-3/Fontes-e-Evidencias.md#s090); [S090 · 1198388118697549874](../pesquisa/fase-3/Fontes-e-Evidencias.md#s090) |
+| Dr. Claws e Doutor | Claws ensina e cura no hospital; Doutor surge em flashback de Michael e menciona a sétima Surgência. Coincidência temática não demonstra identidade comum. | **Evidências:** [S167 · 1199602264017477673](../pesquisa/fase-3/Fontes-e-Evidencias.md#s167); [S167 · 1200226516022337597](../pesquisa/fase-3/Fontes-e-Evidencias.md#s167); [S153 · 1208224854835335250](../pesquisa/fase-3/Fontes-e-Evidencias.md#s153) |
+| Árvore / Vida | Apresenta-se como guardiã de Mouran. O pedido coletivo de proteção em outro ramo e o auxílio pedido a God são cenas distintas. | **Evidências:** [S153 · 1208544841592475668](../pesquisa/fase-3/Fontes-e-Evidencias.md#s153); [S153 · 1208545569287573564](../pesquisa/fase-3/Fontes-e-Evidencias.md#s153); [S133 · 1208940761857392652](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S133 · 1208941116779663360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133) |
+| Caeman / Caemon | Abriga e ensina no ramo do Inferno; é rei apresentado localmente, sem hierarquia universal demonstrada. | **Evidências:** [S178 · 1215080768917733426](../pesquisa/fase-3/Fontes-e-Evidencias.md#s178) |
+| Froid, Powl, Tamura e Myria | Froid ensina Ymir; Powl é urso nomeado; Tamura trata ferimentos; Myria perde a mãe, que morre apesar da ajuda. Myria não é a região Mytria. | **Evidências:** [S001 · 1245536396815368342](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245548494064848906](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1248818935307047012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249471643080986644](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001) |
+| Ceifador e Tengetsu | Froid afirma morte do adversário, mas Tamura/jornal a contestam. Tengetsu é organização adversária mencionada, sem dissolução demonstrada. | **Evidências:** [S001 · 1249170015576526909](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249464028150104148](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001) |
+| MontGround | Ferraria ligada às encomendas de Note em Piferme; pedido, entrega, retirada e uso são etapas distintas. | **Evidências:** [S185 · 1222558973627203715](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S005 · 1231745941833384046](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005) |
+| Homens desconhecidos | Figura negra do escorpião, ser do laboratório, velho de maio e homem de jaleco no vazio branco não têm identidade comum comprovada. Sem usar “Niin” como solução por semelhança ou hipótese. | **Evidências:** [S122 · 1195818699651825825](../pesquisa/fase-3/Fontes-e-Evidencias.md#s122); [S187 · 1239387789804703764](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S179 · 1218729826060337183](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179) |
 
 <a id="mundo"></a>
 
@@ -944,6 +1067,9 @@ Referências específicas estão na história, nos perfis e na matriz. A relaç�
 | Deserto e montanha | Orientação sul leva à caverna das aranhas, seguida pelo resgate ao pomar de Ellen. Não há distância global segura. |
 | Mouran | Pomar, cidade, minas, Resistência, altares e mansão. Outra prisão, diferente da primeira. Reconstruída após o governo de Michael e próspera em junho. |
 | Árvore | Espaço de controle, abrigo, equipamentos, colares e elevador. Guardiã com agência demonstrada; o episódio de Ymir com Altruístas não se reduz a sonho. |
+| Cidades de répteis | Harry e Michael percorrem linhas distintas em dezembro; não há prova de que as duas cidades sejam a mesma. |
+| Cidade de animais e Portão das Nuvens | Ymir chega à cidade de animais com Froid/Powl; a ida ao Portão das Nuvens é preparação, sem chegada demonstrada. |
+| Draconia | Reino/império mencionado no ramo urbano de Lilith; morte de princesa vem de relato, sem cena ou mapa recuperados. |
 | Piferme | Reino transmitido de Garold a Lilith; sofre ataques e é reconstruído por magia de Terra. Emma e a guilda pertencem a ramos ligados à região. |
 | Olta | Cidade com guilda, dungeon, diplomacia e crise militar. EREN chega em fevereiro; conflito com Tarkaros e explosão ocorre depois. |
 | Inferno | Diversas descidas e ramos pessoais. Caeman/Caemon governa região local ao norte; isso não demonstra governo universal. Rotas e saídas são particulares. |
@@ -951,7 +1077,7 @@ Referências específicas estão na história, nos perfis e na matriz. A relaç�
 | Balenon | Episódio de lua azul e salto de sete dias; não estabelece calendário de todas as linhas. |
 | Polã e Coratayne | Ramo de julho: jardim de Coratayne, resgate relatado e jornada para a corte. Polã aparece como reino na apresentação de ministro. |
 | Mytria e Vermund | Linha de Michael em junho; combate permanece aberto na última presença. |
-| Abismo, Paraíso, Magnatas e Miliart | Nomes e percursos da linha de Azazel; não montar árvore cosmológica universal pela proximidade das cenas. |
+| Tékia e Abismo do Paraíso | Locais da linha de Azazel; não montar árvore cosmológica universal pela proximidade das cenas. Magnatas e Miliart são organizações mencionadas nessa linha, não regiões. |
 | Submundo | Ramo Astro: ferimentos, corpo fragmentado e caverna. Natureza e equivalência com Inferno não são demonstradas. |
 | Cidade dos elfos | Última chegada de Ymir e Bia; casas de madeira e pavimento de pedra. Nome e fronteiras não recuperados. |
 | Milena | Destino de torneio proposto para depois do resgate da irmã de Bia; sem participação concluída. |
@@ -967,7 +1093,9 @@ As rotas confirmadas formam percursos, não um mapa de continentes: **paróquia 
 | Templo da Luz | Compra, marca, dívida, prisão e trabalho forçado; estrutura religiosa e paróquias. | Não demonstrada identidade institucional com todo culto ou soldado sagrado. |
 | Resistência de Mouran | Trevor/Patrick e aliados enfrentam o governo e os altares. | Traição de Daupar e de Patrick exige análise individual; não transforma cada integrante em traidor. |
 | Culto do Deus Dragão / Disare | Edward manifesta ligação e anuncia ameaça em maio. | Projeto de destruir o mundo é alegação; execução e entidade divina não comprovadas. |
-| Culto do Deus Demônio | Berthold o menciona em julho; Rans é descrito como caçador. | Equivalência com Deus Dragão não confirmada. |
+| Culto do Deus Demônio | Já aparece no ramo de Lilith em dezembro, com oferta de serpente/poder; Berthold usa o nome em julho, ligado a Disare. | Não comprovada equivalência com Deus Dragão ou identidade de todas as células/interlocutores. |
+| Tengetsu | Organização adversária apresentada na linha de Froid/Ymir, associada a Ceifador por relato. | Derrota local não comprova morte de Ceifador ou dissolução da organização. |
+| Magnatas e Miliart | Facções mencionadas no ramo de Azazel, com conflito e coerção. | Não são nomes de regiões nem prova de cosmologia comum aos cultos. |
 | Pantera | Investigação de Ymir encontra vítimas e membros; líder escapa. | Missão falha em capturar liderança; derrotas locais não extinguem o grupo. |
 | Altruístas | Escravizam Ymir; história posterior os associa a banimento dimensional. | Cadeia completa da chegada e hierarquia desconhecidas. |
 | Quimera | Responsabilizada pelo sequestro da irmã de Bia. | Resgate planejado, sem conclusão. |
@@ -976,6 +1104,10 @@ As rotas confirmadas formam percursos, não um mapa de continentes: **paróquia 
 | Guildas | Missões, dinheiro, ranks e máscaras; Note recebe rank S. | Rank não confere onipotência nem governo político. |
 | Governos de Mouran, Piferme e Olta | Michael, Lilith e Frank têm títulos demonstrados. | Título local não equivale a reinado mundial; sucessão condicional de Yoran não é coroação. |
 | Quatro Grão-Mestres de Piferme | Neyfor/Fogo, Beliart/Terra, Altier/Água, Letherm/Gelo. | Relação de Neyfor com Lilith demonstrada como amizade; romance não comprovado. |
+
+Ária é invocada religiosamente no templo e pela mãe de Azazel; a cura com luz verde é demonstrada, mas não há aparição divina ou cosmologia completa comprovada. A princesa de Draconia e os sugadores de alma são descritos por interlocutor no ramo de Lilith; seus relatos não recebem confirmação universal.
+
+**Evidências:** [S070 · 1183191185150460044](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S013 · 1238664338076598344](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1238664540514811954](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S057 · 1185997850581139517](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S057 · 1186013046045413486](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057)
 
 Há religião, demônios, dragões, planos nomeados e energia extraordinária. A campanha não fornece uma cosmologia completa nem comprova que cada nome divino corresponda a uma entidade presente. Santo Feuhs Beronth é apresentado como humano; a comparação de Westia a uma deusa não muda sua natureza. As falas de Caeman, Gotter, Edward e Berthold permanecem situadas, sem autoridade universal automática.
 
@@ -1317,9 +1449,12 @@ A documentação contém 18 entradas, incluindo propostas e pedidos futuros. Onz
 | Luz / Perfurar de Michael | Dano parcial contra Baran; equivalência nominal Penetração/Perfurar provável. Sangue real e cristal localizam Ellen em contexto específico, sem leitura mental ilimitada. |
 | Energia lunar de Henry | Crises afetam segurança do grupo; fogo e energia lunar intervêm na morte de Patrick. Henry recusa Fogo Demoníaco no Inferno. |
 | Sangue e cura de Rans | Restaura Lilith e atua em sangue/energia; cada resultado é local. Selo solicitado em julho não foi concedido em cena. |
-| Natureza de EREN | Vínculo com Árvore e equipamentos de madeira; legitimidade de príncipe não comprova reinado global. |
+| Natureza de EREN | Vínculo com Árvore e equipamentos de madeira; título de príncipe declarado não comprova legitimidade completa ou reinado global. |
 | Linhas de Yakkatsu | Gravidade retirada por correção; Linhas confirmado, inicialmente desconhecido pelo personagem. Reforço corporal falha em situações concretas. |
 | Dark de Bytes | Ensino por Lilith e usos posteriores; cegueira e custos demonstrados. Não fundir automaticamente com Sombras de Azazel. |
+| Previsão de Ymir | A morte antecipada no tiro é retificada para previsão de meio segundo e desvio; habilidade mental mítica nível 1, com grande esgotamento neural. Não é morte seguida de ressurreição nem onisciência. |
+| Cura de Yakkatsu | Aprendizagem e cura leve demonstradas com Claws; não lhe concede regeneração de membros nem toda a magia do instrutor. |
+| Natureza de Kian | Concessão mecânica em dezembro versus contestação de maio; continuidade do elemento não resolvida, sem transferência automática a Azazel. |
 | Dokato e Canhão Punch de Ymir | Aprendizagem parcial, 50% em estágio registrado. Energia do golpe permanece sem nome/dado definitivo; não chamar de poder divino. |
 | MUTON e Sexto Sentido de Ymir | MUTON 31 e conversão de água têm limites; Sexto Sentido documentado em seis metros. Memorização de nove livros não equivale a aprender todas as magias. |
 | Sombras e corpo de Azazel | Transição e aplicações pertencem à linha pessoal. Presença mental de Kian não comprova retorno de todo o repertório adulto. |
@@ -1327,6 +1462,10 @@ A documentação contém 18 entradas, incluindo propostas e pedidos futuros. Onz
 | Colapso e Null | Informações de Berthold e expressão “desativado” exigem contexto; não tratar como sistema universal resolvido. |
 
 As definições PWR podem conservar níveis e maestrias antigos ou edição sem data. “Primeira demonstração localizada” é limite da evidência indicada, não primeira absoluta na vida do personagem. Uma habilidade sem entrada PWR pode existir por narração; uma proposta PWR pode continuar não concedida.
+
+### Referências das capacidades sem entrada PWR
+
+**Evidências:** [S001 · 1245888265760931911](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245888349609263136](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245889280623116381](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245890328955981825](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S167 · 1200226516022337597](../pesquisa/fase-3/Fontes-e-Evidencias.md#s167); [S032 · 1184265308962312352](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S184 · 1236836865416364124](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184)
 
 ### Referências das definições de poderes
 
@@ -1372,8 +1511,8 @@ As definições PWR podem conservar níveis e maestrias antigos ou edição sem 
 
 | Elemento | Histórico recuperável | Regra editorial |
 | --- | --- | --- |
-| Marca de escravidão | Imposta na primeira prisão, ainda mencionada em janeiro. | Saída física não remove marca; última confirmação de Henry em 20/01. |
-| Coroa do ritual | Quebrada por Henry na mansão. | Não impede o ritual já ativado por Patrick. |
+| Marca de escravidão | Imposta na primeira prisão, ainda mencionada em janeiro. | Saída física não remove marca; referência de Henry em 20/01, sem nova inspeção do mestre. |
+| Coroa do ritual | Quebrada por Henry na mansão. | A quebra antecede a transformação, mas não impede o ritual da mansão ativado depois por Patrick. |
 | Colares da Árvore | Colares antigos restauram e explodem em janeiro; God recebe novo colar em fevereiro. | Não conservar o exemplar explodido como item intacto. |
 | Cristal ligado a Ellen | Michael obtém informação/localização por sangue real em contexto delimitado. | Não universalizar alcance ou efeito a todo personagem. |
 | Núcleos e gás | Absorção, lembranças e fortalecimento acontecem em episódios distintos. | Não unificar núcleo do lagarto de Kian, tigre de Henry, altar e outros. |
@@ -1381,9 +1520,12 @@ As definições PWR podem conservar níveis e maestrias antigos ou edição sem 
 | Flauta, pedra azul e golems | Meios de resgate e retorno; energia, gerador, peças, piloto e reparo importam. | Máquinas não operam indefinidamente; golem de Henry se quebra em maio. |
 | Flor de Neve e armadura | Obtidas por Mulack, com ligação a mana/escuridão. | Armadura intacta na retificação é relevante para a contradição do último combate. |
 | Máscara de Note | Encomendada e depois efetivamente usada. | Pseudônimo antecede máscara; pedido não equivale a recebimento imediato. |
+| Ana / anel e arma | Objeto nomeado, transformações e quebra em cenas de EREN. | Não confundir arma evolutiva com remédio universal ou assumir inventário final intacto. |
+| Orbe de linhas de Piferme | Reconstrução realizada por mago de Terra; item se esgota. Sombras atribuídas ao orbe por Yoran e negadas por Fierch. | Não resolver a divergência nem tratar a hipótese de cura coletiva do braço como resultado. |
+| Papel ZEYROC e bola de cristal | Objetos recolhidos no retorno do Inferno. | Presença não demonstra significado final ou função universal. |
 | Livros de julho | História e conceitos lembrados por Ymir. | Datas 507/610/629/635/680 são internas aos livros, sem conversão para ano da campanha. |
 | Jakaw e Zex | Controle aprendido, microchip removido e Zex depois ativo. | Reparação não mostrada; não inventar procedimento. |
-| Monstros de altar | Colosso, pantera e besta aparecem em contextos separados. | Besta destrói o quarto altar; Henry mata a besta depois. |
+| Monstros de altar | Colosso, pantera e besta aparecem em contextos separados. | Besta destrói o quarto altar; Henry atinge sua cabeça depois. A conclusão da luta é reconhecida; autoria exclusiva do abate não recebe resultado inequívoco separado. |
 | Dragões | Dragão negro do prólogo, gigante azul e dragão vermelho em ramos diferentes. | Aparência não demonstra identidade com God-Zilla. |
 | Nyxis e Chip | Nascimento e vínculos próprios. | Correção Nyxia → Nyxis não importa outra personagem de obra externa. |
 | Contrato de Bytes | Favor assinado para entidade não identificada. | Não afirmar venda da alma ou recompensa já cobrada. |
@@ -1530,7 +1672,7 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 **Conflito:** Resgatar Ellen e impedir plano atribuído ao prefeito exige aprendizado e coordenação de aliados com prioridades diferentes.
 
-**Resultado conhecido:** Altares levam à mansão: quarto destruído em cena, terceiro relatado; ritual grande transforma Patrick. Edward mata Karl e foge; Gwierlan é salvo; Henry mata Patrick-criatura; Ellen é resgatada por Michael. Fecha missão/luta e substituição do governo, com objetivo de impedir ritual frustrado. Edward/culto permanecem em arco sucessor, marca e contagens nas PS.
+**Resultado conhecido:** Altares levam à mansão: quarto destruído em cena, terceiro atribuído ao ramo aliado sem execução reconstruída; ritual da mansão transforma Patrick. Edward mata Karl e foge; Gwierlan é salvo; Henry mata Patrick-criatura; Ellen é resgatada por Michael. Fecha missão/luta e substituição do governo, com objetivo de impedir ritual frustrado. Edward/culto permanecem em arco sucessor, marca e contagens nas PS.
 
 **Consequências:** Vitórias locais e perdas conduzem à saída do subsolo. Em janeiro, Ellen é resgatada, Michael assume o governo, Edward foge e Patrick morre; a prevenção do ritual fracassa. A enumeração dos altares conserva divergências documentais.
 
@@ -1542,47 +1684,53 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 ### ARC-010 — Culto e crise política entre Mouran, Olta e Piferme
 
-**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Consultar a história e os perfis desta Bíblia.
+**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Michael, Lilith, Henry, Ymir, Bytes e aliados; Edward, Wilbur, Hermest, Frank e Tarkaros.
 
-**Conflito:** Culto e crise política entre Mouran, Olta e Piferme
+**Conflito:** A tentativa de reconstruir e negociar alianças enfrenta traições, cultos, atentados e guerra civil.
 
 **Resultado conhecido:** Edward escapa e reaparece; Hermest/Wilbur morrem, Frank vira rei; Tarkaros explode Olta; Mouran sofre horda e atentados; Piferme é reconstruída, sem resolução da campanha do culto.
 
-**Consequências:** Objetivos e últimos estados nos perfis desta Bíblia.
+**Consequências:** A fuga de Edward prolonga a ameaça; mortes e explosões alteram as lideranças e exigem reconstrução. Diplomacia proposta não cria império unificado.
 
-**Pendências:** Consultar as 40 pendências na matriz crítica.
+**Pendências:** [PS-007](19-Matriz-Canon-Critico.md#ps-007); [PS-016](19-Matriz-Canon-Critico.md#ps-016); [PS-035](19-Matriz-Canon-Critico.md#ps-035); [PS-036](19-Matriz-Canon-Critico.md#ps-036); [PS-037](19-Matriz-Canon-Critico.md#ps-037).
 
 **Evidências:** [S161 · 1212921304345346048](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S187 · 1235339528621785098](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1237568074702655519](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S023 · 1266947589476061254](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
+
+**Evidências:** [S166 · 1198753167433809981](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S161 · 1212921304345346048](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S187 · 1235339528621785098](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187)
 
 <a id="arc-011"></a>
 
 ### ARC-011 — Guerra, treino e golems do Inferno
 
-**Estado:** FECHADO NO EPISÓDIO DE RETORNO. **Envolvidos:** Consultar a história e os perfis desta Bíblia.
+**Estado:** FECHADO NO EPISÓDIO DE RETORNO. **Envolvidos:** Expedição com Michael, Henry, Ymir, Bytes, Kian, Lilith, Gotter e Gertrude; fechamento acompanha Henry/Ymir.
 
-**Conflito:** Guerra, treino e golems do Inferno
+**Conflito:** Estudo e busca de recursos levam a golems, roubos, retomada e punição em Balôra.
 
 **Resultado conhecido:** Ymir/Henry retornam à superfície com máquinas após treinamento, roubo, retomada, prisão e fuga. Não resolve destinos de todos os companheiros ou história universal do Inferno.
 
-**Consequências:** Objetivos e últimos estados nos perfis desta Bíblia.
+**Consequências:** Henry/Ymir recuperam a saída com máquinas, mantendo riscos materiais e destinos de companheiros não fechados.
 
-**Pendências:** Consultar as 40 pendências na matriz crítica.
+**Pendências:** [PS-006](19-Matriz-Canon-Critico.md#ps-006); [PS-015](19-Matriz-Canon-Critico.md#ps-015); [PS-032](19-Matriz-Canon-Critico.md#ps-032); [PS-033](19-Matriz-Canon-Critico.md#ps-033).
 
 **Evidências:** [S179 · 1218731018304098405](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1218736977692856442](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179)
+
+**Evidências:** [S179 · 1218716412407975957](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1218731018304098405](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179)
 
 <a id="arc-012"></a>
 
 ### ARC-012 — Lilith rainha e proteção de Emma
 
-**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Consultar a história e os perfis desta Bíblia.
+**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Lilith, Garold, Yoran, Emma, Neyfor, Fierch e grão-mestres.
 
-**Conflito:** Lilith rainha e proteção de Emma
+**Conflito:** Proteger Garold se transforma em responsabilidade de governar e proteger Emma, enquanto o reino sofre ataques.
 
 **Resultado conhecido:** Coroação recebida de Garold, conflitos e reconstrução; adoção de Emma e objetivo Coiote. Última cena Yoran/Emma, sem novo fim de governo.
 
-**Consequências:** Objetivos e últimos estados nos perfis desta Bíblia.
+**Consequências:** Coroação e reconstrução não encerram a ameaça de Coiote, a suspeita sobre sombras ou as mutilações.
 
-**Pendências:** Consultar as 40 pendências na matriz crítica.
+**Pendências:** [PS-028](19-Matriz-Canon-Critico.md#ps-028); [PS-039](19-Matriz-Canon-Critico.md#ps-039).
+
+**Evidências:** [S151 · 1210391082655813742](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151); [S173 · 1232871127362179122](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S002 · 1250239262905864275](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)
 
 **Evidências:** [S151 · 1210391082655813742](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151); [S173 · 1232871127362179122](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S002 · 1250239262905864275](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)
 
@@ -1590,31 +1738,35 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 ### ARC-013 — Bytes e Nairóbi
 
-**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Consultar a história e os perfis desta Bíblia.
+**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Bytes, Nairóbi, Beatriz, Lilith, Henry, Trevor, Nines e entidade desconhecida.
 
-**Conflito:** Bytes e Nairóbi
+**Conflito:** Vínculo afetivo, coma e perigo levam Bytes a buscar cura e assumir favor de natureza incompleta.
 
 **Resultado conhecido:** Namoro, coma, favor e cura; guerra, resgates e buscas. Nairóbi desperta, mas localização final na busca de junho fica desconhecida.
 
-**Consequências:** Objetivos e últimos estados nos perfis desta Bíblia.
+**Consequências:** Nairóbi desperta e sobrevive a resgates; o compromisso com a entidade e sua localização na busca final continuam abertos.
 
-**Pendências:** Consultar as 40 pendências na matriz crítica.
+**Pendências:** [PS-031](19-Matriz-Canon-Critico.md#ps-031).
 
 **Evidências:** [S173 · 1223443843068727428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226338374235984012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S014 · 1254259539386044456](../pesquisa/fase-3/Fontes-e-Evidencias.md#s014)
+
+**Evidências:** [S173 · 1225893559023173673](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226338374235984012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S014 · 1254259539386044456](../pesquisa/fase-3/Fontes-e-Evidencias.md#s014)
 
 <a id="arc-014"></a>
 
 ### ARC-014 — Yakkatsu e saída do Inferno
 
-**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Consultar a história e os perfis desta Bíblia.
+**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Yakkatsu, Bardock, Stwart e adversários do Inferno.
 
-**Conflito:** Yakkatsu e saída do Inferno
+**Conflito:** Sobreviver e sair do Inferno exige alianças, luta e cuidado com companheiros.
 
 **Resultado conhecido:** Bardock sacrifica-se, Stwart auxilia e segue vivo; Yakkatsu sobrevive aos perigos, mas não sai do Inferno em cena.
 
-**Consequências:** Objetivos e últimos estados nos perfis desta Bíblia.
+**Consequências:** Sacrifício de Bardock e culpa pelas mortes influenciam Yakkatsu; alimentação final confirma sobrevivência, sem retorno à superfície.
 
-**Pendências:** Consultar as 40 pendências na matriz crítica.
+**Pendências:** [PS-030](19-Matriz-Canon-Critico.md#ps-030).
+
+**Evidências:** [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)
 
 **Evidências:** [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)
 
@@ -1622,31 +1774,35 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 ### ARC-015 — Kian, Lúcifer e infância de Azazel
 
-**Estado:** ABERTO COM PONTE INSUFICIENTE. **Envolvidos:** Consultar a história e os perfis desta Bíblia.
+**Estado:** ABERTO COM PONTE INSUFICIENTE. **Envolvidos:** Kian/Lúcifer/Azazel, pais não nomeados, Galius, Yalia, Emília, Rith, Westia, Deward e Monarca.
 
-**Conflito:** Kian, Lúcifer e infância de Azazel
+**Conflito:** A continuidade identitária atravessa corpo infantil, memória parcial e violência em Tékia, sem mecanismo adulto→bebê recuperado.
 
 **Resultado conhecido:** Mesmo personagem por EXT-003; corpo infantil, crescimento, Tékia e fuga reconstruídos, mecanismo adulto→bebê ausente. Último repouso na cabana.
 
-**Consequências:** Objetivos e últimos estados nos perfis desta Bíblia.
+**Consequências:** A fuga e destruição subterrânea deixam aliados sem destino; o repouso final não restaura toda a mente ou repertório adulto.
 
-**Pendências:** Consultar as 40 pendências na matriz crítica.
+**Pendências:** [PS-021](19-Matriz-Canon-Critico.md#ps-021); [PS-037](19-Matriz-Canon-Critico.md#ps-037).
 
 **Evidências:** [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
+
+**Evidências:** [S013 · 1239350043090358362](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
 
 <a id="arc-016"></a>
 
 ### ARC-016 — Rans, sobrevivência e Hermione
 
-**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Consultar a história e os perfis desta Bíblia.
+**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Rans, Mulack, antigos companheiros, Lilith, Hermione e Feuhs Beronth.
 
-**Conflito:** Rans, sobrevivência e Hermione
+**Conflito:** Sobrevivência ocultada rompe confiança; a linha de julho exige proteger Hermione e buscar auxílio.
 
 **Resultado conhecido:** Falsa morte e retorno público resolvidos; linha de julho leva Hermione inconsciente à Paróquia e pede selo, sem aplicação recuperada.
 
-**Consequências:** Objetivos e últimos estados nos perfis desta Bíblia.
+**Consequências:** O retorno público resolve a falsa morte, mas o Abismo, o selo e reencontros posteriores continuam lacunas.
 
-**Pendências:** Consultar as 40 pendências na matriz crítica.
+**Pendências:** [PS-013](19-Matriz-Canon-Critico.md#ps-013); [PS-038](19-Matriz-Canon-Critico.md#ps-038).
+
+**Evidências:** [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003)
 
 **Evidências:** [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003)
 
@@ -1654,49 +1810,55 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 ### ARC-017 — Harry e ramo Astro
 
-**Estado:** PONTE INSUFICIENTE. **Envolvidos:** Consultar a história e os perfis desta Bíblia.
+**Estado:** PONTE INSUFICIENTE. **Envolvidos:** Harry, Bytes, Kral, Zaraph, Jakaw, Stifen, Zex; Astro e hospedeira na linha provável.
 
-**Conflito:** Harry e ramo Astro
+**Conflito:** Separação, autoridade e pacto ampliam a linha de Harry; o ramo Astro não tem transição identitária inequívoca.
 
 **Resultado conhecido:** Harry retorna no atentado; Astro usa corpo feminino e devasta Submundo em julho. Associação provável, sem transição inequívoca, conserva dossiês separados no limite.
 
-**Consequências:** Objetivos e últimos estados nos perfis desta Bíblia.
+**Consequências:** A última cena nominal de Harry e a última cena de Astro devem permanecer distintas; devastação do Submundo não encerra a campanha.
 
-**Pendências:** Consultar as 40 pendências na matriz crítica.
+**Pendências:** [PS-017](19-Matriz-Canon-Critico.md#ps-017); [PS-022](19-Matriz-Canon-Critico.md#ps-022).
 
 **Evidências:** [S161 · 1212959525368238090](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S008 · 1267301422656000131](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)
+
+**Evidências:** [S090 · 1198388118697549874](../pesquisa/fase-3/Fontes-e-Evidencias.md#s090); [S161 · 1212959525368238090](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S008 · 1267301422656000131](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)
 
 <a id="arc-018"></a>
 
 ### ARC-018 — Beatriz, família real e Quimera
 
-**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Consultar a história e os perfis desta Bíblia.
+**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Ymir, Beatriz, Henry, Rans, Berthold, Garius e irmã não nomeada de Beatriz.
 
-**Conflito:** Beatriz, família real e Quimera
+**Conflito:** Coma e busca de recuperação conduzem à revelação de linhagem e ao plano de resgatar a irmã sequestrada.
 
 **Resultado conhecido:** Beatriz desperta e recupera memória; Berthold confirma segunda princesa e relata sequestro da irmã. Ymir e ela chegam à cidade de elfos sem completar resgate.
 
-**Consequências:** Objetivos e últimos estados nos perfis desta Bíblia.
+**Consequências:** Despertar e memória de Bia permitem nova viagem; irmã/Quimera e torneio de Milena continuam objetivos.
 
-**Pendências:** Consultar as 40 pendências na matriz crítica.
+**Pendências:** [PS-024](19-Matriz-Canon-Critico.md#ps-024); [PS-025](19-Matriz-Canon-Critico.md#ps-025); [PS-026](19-Matriz-Canon-Critico.md#ps-026).
 
 **Evidências:** [S023 · 1266899855322906676](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
+
+**Evidências:** [S023 · 1265122213984473169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
 
 <a id="arc-019"></a>
 
 ### ARC-019 — Michael e campanha de Mytria
 
-**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Consultar a história e os perfis desta Bíblia.
+**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Michael, Henry, Lucas Sevenheart, Gwierlan, Vermund e forças locais.
 
-**Conflito:** Michael e campanha de Mytria
+**Conflito:** Buscar força e conquistar Piferme leva Michael ao campo de Mytria, onde alianças e hostilidade se confundem.
 
 **Resultado conhecido:** Rei de Mouran parte para fortalecer-se e conquistar Piferme; conflito de Vermund é último segmento.
 
-**Consequências:** Objetivos e últimos estados nos perfis desta Bíblia.
+**Consequências:** A volta de Henry resolve sua presença viva; o conflito de Vermund deixa partida e conquista sem conclusão.
 
-**Pendências:** Consultar as 40 pendências na matriz crítica.
+**Pendências:** [PS-023](19-Matriz-Canon-Critico.md#ps-023); [PS-040](19-Matriz-Canon-Critico.md#ps-040).
 
 **Evidências:** [S170 · 1200291569543151726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s170); [S016 · 1252794260122636383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)
+
+**Evidências:** [S016 · 1250998141038104717](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252794260122636383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)
 
 <a id="limite"></a>
 
@@ -1712,11 +1874,11 @@ O resgate da irmã de Beatriz, sequestrada pela Quimera, e a ida posterior ao to
 
 ## Reconstruções prováveis, incertezas e contradições
 
-**Reconstruções prováveis:** ramo Astro associado a Harry; associação funcional de Penetração e Perfurar; localização final de Rans herdada da continuidade da Paróquia. Essas inferências não autorizam preencher mecanismos corporais, nomes de técnicas ou presença de acompanhantes.
+**Reconstruções prováveis:** autoria exclusiva do abate da besta do quarto altar pela sequência de Henry; ramo Astro associado a Harry; associação funcional de Penetração e Perfurar; localização final de Rans herdada da continuidade da Paróquia. Essas inferências não autorizam preencher mecanismos corporais, nomes de técnicas ou presença de acompanhantes.
 
 **Informações incertas:** origem universal da Surgência; mecanismo Kian → Azazel; causalidade completa das dimensões dos Altruístas; resultado do toque de Bytes na esfera; favor da entidade; irmã de Bia; reparo de Zex; explicação do retorno de Henry. Há evidência para eventos ao redor dessas lacunas, sem evidência para completar suas causas.
 
-**Contradições:** morte/memorial de Mulack contra retificação do último combate; contagem e índices de altares em enunciados antigos; escala de Fallhebe; relatos divergentes sobre Ceifador. Não escolher uma versão apenas para tornar a história mais simples.
+**Contradições:** morte/memorial de Mulack contra retificação do último combate; contagem e índices de altares em enunciados antigos; escala de Fallhebe; relatos divergentes sobre Ceifador; Natureza de Kian; sombras do orbe atribuídas por Yoran e negadas por Fierch. Não escolher uma versão apenas para tornar a história mais simples.
 
 **Retificações resolvidas:** morte forjada de Rans desfeita publicamente; Lilith/Hads restaurada; Wilbur coletivo de dezembro anulado, preservando episódio pessoal anterior e morte válida de fevereiro; Neyfor não é namoro confirmado; Westia não é deusa literal; nome “Edward” aplicado ao velho de maio era brincadeira retificada; aparente morte de Westia era ilusão. Uma retificação não apaga eventos independentes de nome parecido.
 
@@ -1728,6 +1890,7 @@ Veja todas as 40 pendências e os pontos de alto impacto na [matriz crítica](19
 
 | Revisão | Alteração |
 | --- | --- |
+| 2 — 09/10/2026 | Auditoria editorial e canônica: continuidade dos 12 perfis, cronologia por ramos, referências contextualizadas, correção do título não demonstrado de God, poderes omitidos e divergências preservadas. Ver [relatório](../pesquisa/fase-3/21-Auditoria-Editorial-e-Canonica-Fase-4.md). |
 | 1 — 09/10/2026 | Primeira Bíblia consolidada após o fechamento da Fase 3; integração da fonte de poderes e das continuidades até julho; publicação editorial sem transcrições privadas. |
 
 Referências de trabalho: espinha dorsal, cronologia, perfis, atlas, poderes, organizações, 19 arcos, 40 pendências e últimos estados consolidados na Fase 3. Os arquivos de investigação e seus históricos permanecem preservados localmente; esta edição seleciona a informação necessária à consulta pública.

@@ -4,6 +4,16 @@ Registro público de identificação, sem transcrições, nomes de contas ou cam
 
 [Critérios e cobertura](README.md) · [Bíblia](../../canon-original/17-Biblia-Canon-Original.md)
 
+## Como localizar a evidência original
+
+1. Identifique na Bíblia ou matriz a fonte **Sxxx/PWRxxx** e o **ID de mensagem**.
+2. Use o arquivo ZIP indicado abaixo. A ligação abre o ZIP original na versão consultada do repositório; a interface do GitHub permite baixá-lo. A auditoria confirmou esses arquivos no commit `96398a99da1f5781c1c7e1e4d1dc02990d3eafae`.
+3. Extraia o ZIP e localize a **entrada pelo número ordinal**, contando todas as entradas da lista central, inclusive pastas, a partir de 1. Esse número foi conferido diretamente no arquivo original.
+4. Confirme o SHA-256 do HTML. Nas fontes S, o ID de canal também ajuda a identificar o nome do arquivo.
+5. Abra o HTML e procure o ID da mensagem no código-fonte. Leia mensagens anteriores e posteriores para distinguir ação, resultado, diálogo, mecânica e OOC.
+
+Os números ordinais permitem localizar arquivos sem republicar caminhos internos com aliases de contas. Referência válida não é prova automática da interpretação: confirme contexto e natureza da mensagem. Conteúdo privado permanece nos arquivos originais preservados; esta documentação não reproduz transcrições.
+
 ## Confirmações externas
 
 - EXT-001: Ganso de Guerra é Rans.
@@ -18,7 +28,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S001
 
-- Arquivo de origem: `Chats Privados.zip`.
+- Arquivo de origem: [`Chats Privados.zip`](../../../Chats%20Privados.zip).
+- Entrada no ZIP (ordinal, base 1): **2**.
 - Canal: `1241900939623927839`.
 - Mensagens: 1040.
 - Limites UTC: 2024-05-19T23:52:20.824000+00:00 — 2025-11-15T00:15:42.782000+00:00.
@@ -28,7 +39,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S002
 
-- Arquivo de origem: `Chats Privados.zip`.
+- Arquivo de origem: [`Chats Privados.zip`](../../../Chats%20Privados.zip).
+- Entrada no ZIP (ordinal, base 1): **3**.
 - Canal: `1241901101817659422`.
 - Mensagens: 783.
 - Limites UTC: 2024-05-19T23:54:17.563000+00:00 — 2024-07-28T04:13:31.621000+00:00.
@@ -38,7 +50,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S003
 
-- Arquivo de origem: `Chats Privados.zip`.
+- Arquivo de origem: [`Chats Privados.zip`](../../../Chats%20Privados.zip).
+- Entrada no ZIP (ordinal, base 1): **4**.
 - Canal: `1266918115925819435`.
 - Mensagens: 1016.
 - Limites UTC: 2024-07-28T00:48:16.186000+00:00 — 2024-07-31T02:16:25.246000+00:00.
@@ -48,7 +61,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S004
 
-- Arquivo de origem: `Chats Privados.zip`.
+- Arquivo de origem: [`Chats Privados.zip`](../../../Chats%20Privados.zip).
+- Entrada no ZIP (ordinal, base 1): **5**.
 - Canal: `1264361637109043311`.
 - Mensagens: 58.
 - Limites UTC: 2024-07-20T23:22:42.839000+00:00 — 2024-07-21T00:25:43.915000+00:00.
@@ -58,7 +72,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S005
 
-- Arquivo de origem: `Chats Privados.zip`.
+- Arquivo de origem: [`Chats Privados.zip`](../../../Chats%20Privados.zip).
+- Entrada no ZIP (ordinal, base 1): **6**.
 - Canal: `1229572703413866587`.
 - Mensagens: 991.
 - Limites UTC: 2024-04-15T23:23:12.611000+00:00 — 2024-05-12T22:26:00.974000+00:00.
@@ -68,7 +83,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S006
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **2**.
 - Canal: `1213282961630175343`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -78,7 +94,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S007
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **3**.
 - Canal: `1253866571370332171`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -88,7 +105,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S008
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **4**.
 - Canal: `1266911690339913759`.
 - Mensagens: 471.
 - Limites UTC: 2024-07-28T00:14:57.553000+00:00 — 2024-07-31T01:32:54.164000+00:00.
@@ -98,7 +116,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S009
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **5**.
 - Canal: `1241908083165237339`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -108,7 +127,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S010
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **6**.
 - Canal: `1244091854035751042`.
 - Mensagens: 635.
 - Limites UTC: 2024-05-26T00:57:02.535000+00:00 — 2024-06-14T00:01:26.687000+00:00.
@@ -118,7 +138,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S011
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **7**.
 - Canal: `1241900939623927839`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -128,7 +149,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S012
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **8**.
 - Canal: `1251990836506398750`.
 - Mensagens: 70.
 - Limites UTC: 2024-06-16T20:05:47.885000+00:00 — 2024-07-20T23:03:17.643000+00:00.
@@ -138,7 +160,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S013
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **9**.
 - Canal: `1238653909585891461`.
 - Mensagens: 2486.
 - Limites UTC: 2024-05-11T00:49:18.499000+00:00 — 2024-07-30T23:50:56.315000+00:00.
@@ -148,7 +171,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S014
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **10**.
 - Canal: `1250953909778776105`.
 - Mensagens: 244.
 - Limites UTC: 2024-06-13T23:24:42.601000+00:00 — 2024-06-23T02:23:59.458000+00:00.
@@ -158,7 +182,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S015
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **11**.
 - Canal: `1241900879473541200`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -168,7 +193,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S016
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **12**.
 - Canal: `1248787072353959997`.
 - Mensagens: 581.
 - Limites UTC: 2024-06-07T23:55:00.422000+00:00 — 2024-06-26T23:43:23.842000+00:00.
@@ -178,7 +204,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S017
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **13**.
 - Canal: `1241901101817659422`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -188,7 +215,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S018
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **14**.
 - Canal: `1241901018095030335`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -198,7 +226,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S019
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **15**.
 - Canal: `1239745630449045504`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -208,7 +237,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S020
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **16**.
 - Canal: `1266918115925819435`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -218,7 +248,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S021
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **17**.
 - Canal: `1264361637109043311`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -228,7 +259,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S022
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **18**.
 - Canal: `1218002838748270632`.
 - Mensagens: 2041.
 - Limites UTC: 2024-03-15T01:08:51.355000+00:00 — 2024-06-08T20:32:40.090000+00:00.
@@ -238,7 +270,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S023
 
-- Arquivo de origem: `Dragons cap 1 a 2 - ultimos chats.zip`.
+- Arquivo de origem: [`Dragons cap 1 a 2 - ultimos chats.zip`](../../../Dragons%20cap%201%20a%202%20-%20ultimos%20chats.zip).
+- Entrada no ZIP (ordinal, base 1): **19**.
 - Canal: `1250954122761343076`.
 - Mensagens: 1557.
 - Limites UTC: 2024-06-13T23:25:19.575000+00:00 — 2025-12-28T04:02:05.948000+00:00.
@@ -248,7 +281,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S024
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **2**.
 - Canal: `1187935652629717102`.
 - Mensagens: 61.
 - Limites UTC: 2023-12-23T01:52:24.802000+00:00 — 2024-12-19T16:24:08.522000+00:00.
@@ -258,7 +292,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S025
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **3**.
 - Canal: `1183191802501664779`.
 - Mensagens: 6428.
 - Limites UTC: 2023-12-09T23:42:22.258000+00:00 — 2023-12-20T01:51:13.172000+00:00.
@@ -268,7 +303,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S026
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **4**.
 - Canal: `1182820189994229781`.
 - Mensagens: 25.
 - Limites UTC: 2023-12-08T23:07:08.820000+00:00 — 2024-12-19T16:23:14.577000+00:00.
@@ -278,7 +314,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S027
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **5**.
 - Canal: `1184261964717883462`.
 - Mensagens: 5.
 - Limites UTC: 2023-12-12T22:34:27.438000+00:00 — 2024-12-19T16:23:44.524000+00:00.
@@ -288,7 +325,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S028
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **6**.
 - Canal: `1186841989610737696`.
 - Mensagens: 163.
 - Limites UTC: 2023-12-20T01:26:40.605000+00:00 — 2024-12-19T16:24:02.482000+00:00.
@@ -298,7 +336,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S029
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **7**.
 - Canal: `1189695160783736832`.
 - Mensagens: 18.
 - Limites UTC: 2023-12-27T22:24:01.088000+00:00 — 2024-12-19T16:24:30.531000+00:00.
@@ -308,7 +347,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S030
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **8**.
 - Canal: `1185371370440380567`.
 - Mensagens: 3.
 - Limites UTC: 2023-12-16T00:03:40.913000+00:00 — 2023-12-16T00:03:44.871000+00:00.
@@ -318,7 +358,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S031
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **9**.
 - Canal: `1182820482198798427`.
 - Mensagens: 6.
 - Limites UTC: 2023-12-09T21:33:16.137000+00:00 — 2024-12-19T16:23:16.504000+00:00.
@@ -328,7 +369,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S032
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **10**.
 - Canal: `1184208767882108949`.
 - Mensagens: 197.
 - Limites UTC: 2023-12-12T19:02:55.843000+00:00 — 2024-12-19T16:23:36.440000+00:00.
@@ -338,7 +380,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S033
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **11**.
 - Canal: `1186797866199552080`.
 - Mensagens: 7.
 - Limites UTC: 2023-12-19T22:31:48.696000+00:00 — 2024-12-19T16:23:58.479000+00:00.
@@ -348,7 +391,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S034
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **12**.
 - Canal: `1186842472454823966`.
 - Mensagens: 30.
 - Limites UTC: 2023-12-20T01:28:40.917000+00:00 — 2024-12-19T16:24:06.478000+00:00.
@@ -358,7 +402,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S035
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **13**.
 - Canal: `1187939427398467705`.
 - Mensagens: 263.
 - Limites UTC: 2023-12-23T02:07:20.502000+00:00 — 2024-12-19T16:24:10.489000+00:00.
@@ -368,7 +413,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S036
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **14**.
 - Canal: `1183571573328842872`.
 - Mensagens: 28.
 - Limites UTC: 2023-12-11T00:50:59.621000+00:00 — 2024-12-19T16:23:26.509000+00:00.
@@ -378,7 +424,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S037
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **15**.
 - Canal: `1189691283845939321`.
 - Mensagens: 938.
 - Limites UTC: 2023-12-27T22:08:45.212000+00:00 — 2023-12-28T04:15:08.410000+00:00.
@@ -388,7 +435,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S038
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **16**.
 - Canal: `1183158589259534438`.
 - Mensagens: 37.
 - Limites UTC: 2023-12-09T21:30:20.480000+00:00 — 2024-12-19T16:23:22.598000+00:00.
@@ -398,7 +446,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S039
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **17**.
 - Canal: `1183191846894190692`.
 - Mensagens: 248.
 - Limites UTC: 2023-12-09T23:43:20.166000+00:00 — 2024-12-19T16:23:24.401000+00:00.
@@ -408,7 +457,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S040
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **18**.
 - Canal: `1182820100357767238`.
 - Mensagens: 13.
 - Limites UTC: 2023-12-08T23:08:18.261000+00:00 — 2024-12-19T16:23:12.545000+00:00.
@@ -418,7 +468,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S041
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **19**.
 - Canal: `1184223388345061396`.
 - Mensagens: 931.
 - Limites UTC: 2023-12-12T20:01:02.834000+00:00 — 2024-12-19T16:23:42.688000+00:00.
@@ -428,7 +479,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S042
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **20**.
 - Canal: `1185992025678561411`.
 - Mensagens: 9.
 - Limites UTC: 2023-12-17T17:11:30.746000+00:00 — 2024-12-19T16:23:48.411000+00:00.
@@ -438,7 +490,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S043
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **21**.
 - Canal: `1186793946995761214`.
 - Mensagens: 848.
 - Limites UTC: 2023-12-19T22:15:37.855000+00:00 — 2023-12-23T06:25:43.290000+00:00.
@@ -448,7 +501,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S044
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **22**.
 - Canal: `1184208582829408256`.
 - Mensagens: 64.
 - Limites UTC: 2023-12-12T19:02:23.796000+00:00 — 2024-12-19T16:23:34.554000+00:00.
@@ -458,7 +512,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S045
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **23**.
 - Canal: `1182820010742251550`.
 - Mensagens: 21.
 - Limites UTC: 2023-12-08T23:06:21.006000+00:00 — 2024-12-19T16:23:05.246000+00:00.
@@ -468,7 +523,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S046
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **24**.
 - Canal: `1185996320570351707`.
 - Mensagens: 285.
 - Limites UTC: 2023-12-17T17:26:17.047000+00:00 — 2024-12-19T16:23:50.630000+00:00.
@@ -478,7 +534,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S047
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **25**.
 - Canal: `1186842109534277642`.
 - Mensagens: 185.
 - Limites UTC: 2023-12-20T01:27:34.077000+00:00 — 2024-12-19T16:24:04.482000+00:00.
@@ -488,7 +545,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S048
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **26**.
 - Canal: `1188651843954417684`.
 - Mensagens: 9.
 - Limites UTC: 2023-12-25T01:18:37.032000+00:00 — 2024-12-19T16:24:20.499000+00:00.
@@ -498,7 +556,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S049
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **27**.
 - Canal: `1189727927244443738`.
 - Mensagens: 82.
 - Limites UTC: 2023-12-28T00:34:13.837000+00:00 — 2024-12-19T16:24:32.557000+00:00.
@@ -508,7 +567,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S050
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **28**.
 - Canal: `1184182800442720376`.
 - Mensagens: 26.
 - Limites UTC: 2023-12-12T17:20:08.392000+00:00 — 2024-12-19T16:23:32.505000+00:00.
@@ -518,7 +578,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S051
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **29**.
 - Canal: `1182829242564743178`.
 - Mensagens: 9.
 - Limites UTC: 2023-12-08T23:41:23.891000+00:00 — 2024-12-19T16:23:18.520000+00:00.
@@ -528,7 +589,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S052
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **30**.
 - Canal: `1184209287350865971`.
 - Mensagens: 234.
 - Limites UTC: 2023-12-12T19:04:59.749000+00:00 — 2024-12-19T16:23:38.457000+00:00.
@@ -538,7 +600,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S053
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **31**.
 - Canal: `1186064060916179036`.
 - Mensagens: 9.
 - Limites UTC: 2023-12-17T21:56:22.953000+00:00 — 2024-12-19T16:23:54.689000+00:00.
@@ -548,7 +611,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S054
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **32**.
 - Canal: `1188653841193902172`.
 - Mensagens: 26.
 - Limites UTC: 2023-12-25T01:26:15.496000+00:00 — 2024-12-19T16:24:22.514000+00:00.
@@ -558,7 +622,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S055
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **33**.
 - Canal: `1182820047035572365`.
 - Mensagens: 15.
 - Limites UTC: 2023-12-08T23:39:16.513000+00:00 — 2024-12-19T16:23:08.478000+00:00.
@@ -568,7 +633,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S056
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **34**.
 - Canal: `1183910979784937572`.
 - Mensagens: 43.
 - Limites UTC: 2023-12-11T23:19:39.399000+00:00 — 2024-12-19T16:23:30.517000+00:00.
@@ -578,7 +644,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S057
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **35**.
 - Canal: `1185764367531257886`.
 - Mensagens: 361.
 - Limites UTC: 2023-12-17T02:04:35.904000+00:00 — 2024-12-19T16:23:46.509000+00:00.
@@ -588,7 +655,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S058
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **36**.
 - Canal: `1187940362904416267`.
 - Mensagens: 6.
 - Limites UTC: 2023-12-23T02:11:34.722000+00:00 — 2024-12-19T16:24:12.590000+00:00.
@@ -598,7 +666,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S059
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **37**.
 - Canal: `1188658303014797403`.
 - Mensagens: 53.
 - Limites UTC: 2023-12-25T01:44:07.528000+00:00 — 2024-12-19T16:24:24.561000+00:00.
@@ -608,7 +677,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S060
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **38**.
 - Canal: `1189750782543794346`.
 - Mensagens: 222.
 - Limites UTC: 2023-12-28T02:05:03.560000+00:00 — 2024-12-19T16:24:34.547000+00:00.
@@ -618,7 +688,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S061
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **39**.
 - Canal: `1186825580612681729`.
 - Mensagens: 11.
 - Limites UTC: 2023-12-20T00:21:55.461000+00:00 — 2024-12-19T16:24:00.563000+00:00.
@@ -628,7 +699,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S062
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **40**.
 - Canal: `1189301934390255738`.
 - Mensagens: 17.
 - Limites UTC: 2023-12-26T20:21:33.795000+00:00 — 2024-12-19T16:24:26.493000+00:00.
@@ -638,7 +710,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S063
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **41**.
 - Canal: `1183158379917615114`.
 - Mensagens: 10.
 - Limites UTC: 2023-12-09T21:36:18.814000+00:00 — 2024-12-19T16:23:20.559000+00:00.
@@ -648,7 +721,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S064
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **42**.
 - Canal: `1187958576329801849`.
 - Mensagens: 124.
 - Limites UTC: 2023-12-23T03:23:27.129000+00:00 — 2024-12-19T16:24:16.403000+00:00.
@@ -658,7 +732,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S065
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **43**.
 - Canal: `1182820072348192870`.
 - Mensagens: 21.
 - Limites UTC: 2023-12-08T23:39:30.560000+00:00 — 2024-12-19T16:23:10.488000+00:00.
@@ -668,7 +743,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S066
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **44**.
 - Canal: `1184221431484129340`.
 - Mensagens: 77.
 - Limites UTC: 2023-12-12T19:53:24.552000+00:00 — 2024-12-19T16:23:40.590000+00:00.
@@ -678,7 +754,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S067
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **45**.
 - Canal: `1186006404998381608`.
 - Mensagens: 29.
 - Limites UTC: 2023-12-17T18:06:17.822000+00:00 — 2024-12-19T16:23:52.545000+00:00.
@@ -688,7 +765,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S068
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **46**.
 - Canal: `1188642032726589480`.
 - Mensagens: 1121.
 - Limites UTC: 2023-12-25T00:39:43.517000+00:00 — 2024-12-19T16:24:18.549000+00:00.
@@ -698,7 +776,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S069
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **47**.
 - Canal: `1190093492748296343`.
 - Mensagens: 11.
 - Limites UTC: 2023-12-29T00:46:45.975000+00:00 — 2024-12-19T16:24:44.568000+00:00.
@@ -708,7 +787,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S070
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **48**.
 - Canal: `1183160834814386236`.
 - Mensagens: 802.
 - Limites UTC: 2023-12-09T21:39:56.392000+00:00 — 2024-06-10T22:31:36.359000+00:00.
@@ -718,7 +798,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S071
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **49**.
 - Canal: `1189770950837805126`.
 - Mensagens: 1.
 - Limites UTC: 2024-12-19T16:24:36.489000+00:00 — 2024-12-19T16:24:36.489000+00:00.
@@ -728,7 +809,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S072
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 1.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **50**.
 - Canal: `1189770955887747202`.
 - Mensagens: 14.
 - Limites UTC: 2023-12-28T03:25:06.013000+00:00 — 2024-12-19T16:24:38.468000+00:00.
@@ -738,7 +820,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S073
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **2**.
 - Canal: `1196649421081935904`.
 - Mensagens: 1390.
 - Limites UTC: 2024-01-16T02:58:06.967000+00:00 — 2024-01-25T02:39:20.483000+00:00.
@@ -748,7 +831,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S074
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **3**.
 - Canal: `1198055881380732958`.
 - Mensagens: 277.
 - Limites UTC: 2024-01-20T00:06:52.470000+00:00 — 2024-01-21T01:54:01.825000+00:00.
@@ -758,7 +842,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S075
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **4**.
 - Canal: `1197696031937278053`.
 - Mensagens: 175.
 - Limites UTC: 2024-01-19T00:16:52.729000+00:00 — 2024-01-19T02:10:26.386000+00:00.
@@ -768,7 +853,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S076
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **5**.
 - Canal: `1196271794848550992`.
 - Mensagens: 792.
 - Limites UTC: 2024-01-15T01:57:07.537000+00:00 — 2024-05-17T17:13:47.417000+00:00.
@@ -778,7 +864,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S077
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **6**.
 - Canal: `1196234330196938862`.
 - Mensagens: 414.
 - Limites UTC: 2024-01-14T23:29:57.218000+00:00 — 2024-12-19T16:25:52.541000+00:00.
@@ -788,7 +875,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S078
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **7**.
 - Canal: `1190107353681494197`.
 - Mensagens: 5.
 - Limites UTC: 2023-12-29T01:41:56.802000+00:00 — 2024-12-19T16:24:48.490000+00:00.
@@ -798,7 +886,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S079
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **8**.
 - Canal: `1191910649903714324`.
 - Mensagens: 6.
 - Limites UTC: 2024-01-03T01:07:30.315000+00:00 — 2024-12-19T16:25:00.467000+00:00.
@@ -808,7 +897,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S080
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **9**.
 - Canal: `1196649437833986048`.
 - Mensagens: 111.
 - Limites UTC: 2024-01-16T02:58:12.896000+00:00 — 2024-01-19T00:02:39.277000+00:00.
@@ -818,7 +908,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S081
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **10**.
 - Canal: `1198055612232237106`.
 - Mensagens: 571.
 - Limites UTC: 2024-01-20T00:05:40.453000+00:00 — 2024-01-21T01:33:57.081000+00:00.
@@ -828,7 +919,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S082
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **11**.
 - Canal: `1195529162006479049`.
 - Mensagens: 6.
 - Limites UTC: 2024-01-13T00:46:10.019000+00:00 — 2024-01-13T00:48:08.195000+00:00.
@@ -838,7 +930,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S083
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **12**.
 - Canal: `1190835630956085299`.
 - Mensagens: 15.
 - Limites UTC: 2023-12-31T01:56:00.008000+00:00 — 2024-12-19T16:24:54.547000+00:00.
@@ -848,7 +941,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S084
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **13**.
 - Canal: `1195843291216879676`.
 - Mensagens: 464.
 - Limites UTC: 2024-01-13T21:34:27.650000+00:00 — 2024-12-19T16:25:44.486000+00:00.
@@ -858,7 +952,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S085
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **14**.
 - Canal: `1196655550855921724`.
 - Mensagens: 17.
 - Limites UTC: 2024-01-16T03:22:05.072000+00:00 — 2024-01-16T03:35:35.323000+00:00.
@@ -868,7 +963,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S086
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **15**.
 - Canal: `1195856716647112735`.
 - Mensagens: 4066.
 - Limites UTC: 2024-01-13T22:27:46.557000+00:00 — 2025-02-23T14:58:52.040000+00:00.
@@ -878,7 +974,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S087
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **16**.
 - Canal: `1196244665809260644`.
 - Mensagens: 774.
 - Limites UTC: 2024-01-15T00:09:21.394000+00:00 — 2024-01-16T00:49:04.075000+00:00.
@@ -888,7 +985,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S088
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **17**.
 - Canal: `1196603176988721152`.
 - Mensagens: 1454.
 - Limites UTC: 2024-01-15T23:54:00.559000+00:00 — 2024-12-19T16:26:04.486000+00:00.
@@ -898,7 +996,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S089
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **18**.
 - Canal: `1187957842636963871`.
 - Mensagens: 2217.
 - Limites UTC: 2023-12-23T03:21:20.469000+00:00 — 2024-12-19T16:24:14.486000+00:00.
@@ -908,7 +1007,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S090
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **19**.
 - Canal: `1198059163809484870`.
 - Mensagens: 428.
 - Limites UTC: 2024-01-20T00:19:41.041000+00:00 — 2024-01-21T01:46:06.548000+00:00.
@@ -918,7 +1018,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S091
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **20**.
 - Canal: `1198491382961152123`.
 - Mensagens: 36.
 - Limites UTC: 2024-01-21T04:57:05.460000+00:00 — 2024-01-21T05:24:54.975000+00:00.
@@ -928,7 +1029,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S092
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **21**.
 - Canal: `1190086766842085386`.
 - Mensagens: 300.
 - Limites UTC: 2023-12-29T00:20:00.954000+00:00 — 2024-12-19T16:24:40.498000+00:00.
@@ -938,7 +1040,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S093
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **22**.
 - Canal: `1191942682268930148`.
 - Mensagens: 49.
 - Limites UTC: 2024-01-03T03:14:57.024000+00:00 — 2024-12-19T16:25:04.640000+00:00.
@@ -948,7 +1051,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S094
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **23**.
 - Canal: `1191953401332912188`.
 - Mensagens: 109.
 - Limites UTC: 2024-01-03T03:57:29.209000+00:00 — 2024-12-19T16:25:08.750000+00:00.
@@ -958,7 +1062,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S095
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **24**.
 - Canal: `1195836979951173782`.
 - Mensagens: 348.
 - Limites UTC: 2024-01-13T21:09:21.197000+00:00 — 2024-12-19T16:25:41.361000+00:00.
@@ -968,7 +1073,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S096
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **25**.
 - Canal: `1195182251575611502`.
 - Mensagens: 103.
 - Limites UTC: 2024-01-12T01:47:57.601000+00:00 — 2024-12-19T16:25:24.512000+00:00.
@@ -978,7 +1084,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S097
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **26**.
 - Canal: `1190089343038132265`.
 - Mensagens: 50.
 - Limites UTC: 2023-12-29T00:30:13.397000+00:00 — 2024-12-19T16:24:42.576000+00:00.
@@ -988,7 +1095,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S098
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **27**.
 - Canal: `1190529225309028413`.
 - Mensagens: 383.
 - Limites UTC: 2023-12-30T05:38:35.128000+00:00 — 2024-12-19T16:24:52.726000+00:00.
@@ -998,7 +1106,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S099
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **28**.
 - Canal: `1191958852153917512`.
 - Mensagens: 84.
 - Limites UTC: 2024-01-03T04:19:09.029000+00:00 — 2024-12-19T16:25:09.372000+00:00.
@@ -1008,7 +1117,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S100
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **29**.
 - Canal: `1195910283743473665`.
 - Mensagens: 54.
 - Limites UTC: 2024-01-14T02:00:38.309000+00:00 — 2024-12-19T16:25:50.538000+00:00.
@@ -1018,7 +1128,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S101
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **30**.
 - Canal: `1195818445674131526`.
 - Mensagens: 42.
 - Limites UTC: 2024-01-13T19:55:49.115000+00:00 — 2024-12-19T16:25:40.934000+00:00.
@@ -1028,7 +1139,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S102
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **31**.
 - Canal: `1196623103002951711`.
 - Mensagens: 32.
 - Limites UTC: 2024-01-16T01:13:04.609000+00:00 — 2024-12-19T16:26:06.487000+00:00.
@@ -1038,7 +1150,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S103
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **32**.
 - Canal: `1191946088236732446`.
 - Mensagens: 5.
 - Limites UTC: 2024-01-03T03:28:38.514000+00:00 — 2024-12-19T16:25:06.543000+00:00.
@@ -1048,7 +1161,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S104
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **33**.
 - Canal: `1196293518172364913`.
 - Mensagens: 165.
 - Limites UTC: 2024-01-15T03:23:32.404000+00:00 — 2024-12-19T16:25:54.505000+00:00.
@@ -1058,7 +1172,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S105
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **34**.
 - Canal: `1195538698876498042`.
 - Mensagens: 10.
 - Limites UTC: 2024-01-13T01:24:00.590000+00:00 — 2024-12-19T16:25:34.571000+00:00.
@@ -1068,7 +1183,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S106
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **35**.
 - Canal: `1190069567347761282`.
 - Mensagens: 1848.
 - Limites UTC: 2023-12-28T23:31:46.909000+00:00 — 2024-05-17T16:30:04.972000+00:00.
@@ -1078,7 +1194,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S107
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **36**.
 - Canal: `1190513777372831795`.
 - Mensagens: 3104.
 - Limites UTC: 2023-12-30T04:38:39.693000+00:00 — 2024-12-19T16:24:50.628000+00:00.
@@ -1088,7 +1205,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S108
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **37**.
 - Canal: `1190095263684108458`.
 - Mensagens: 230.
 - Limites UTC: 2023-12-29T00:53:50.002000+00:00 — 2024-12-19T16:24:46.463000+00:00.
@@ -1098,7 +1216,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S109
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **38**.
 - Canal: `1190513480516767784`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -1108,7 +1227,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S110
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **39**.
 - Canal: `1190835993775964181`.
 - Mensagens: 118.
 - Limites UTC: 2023-12-31T01:57:18.364000+00:00 — 2024-12-19T16:24:56.534000+00:00.
@@ -1118,7 +1238,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S111
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **40**.
 - Canal: `1195579613993259108`.
 - Mensagens: 193.
 - Limites UTC: 2024-01-13T04:06:44.836000+00:00 — 2024-12-19T16:25:36.581000+00:00.
@@ -1128,7 +1249,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S112
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **41**.
 - Canal: `1197260127590432788`.
 - Mensagens: 1836.
 - Limites UTC: 2024-01-17T19:24:34.311000+00:00 — 2024-06-10T01:57:02.228000+00:00.
@@ -1138,7 +1260,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S113
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **42**.
 - Canal: `1195847188509634731`.
 - Mensagens: 88.
 - Limites UTC: 2024-01-13T21:50:15.686000+00:00 — 2024-12-19T16:25:46.520000+00:00.
@@ -1148,7 +1271,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S114
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **43**.
 - Canal: `1196649388794200145`.
 - Mensagens: 28.
 - Limites UTC: 2024-01-16T02:58:38.578000+00:00 — 2024-01-16T03:24:52.767000+00:00.
@@ -1158,7 +1282,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S115
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **44**.
 - Canal: `1195535908141809664`.
 - Mensagens: 1410.
 - Limites UTC: 2024-01-13T01:13:05.724000+00:00 — 2024-12-19T16:25:30.509000+00:00.
@@ -1168,7 +1293,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S116
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **45**.
 - Canal: `1195535984050307112`.
 - Mensagens: 1062.
 - Limites UTC: 2024-01-13T01:13:39.867000+00:00 — 2024-12-19T16:25:32.500000+00:00.
@@ -1178,7 +1304,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S117
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **46**.
 - Canal: `1195531941722734592`.
 - Mensagens: 193.
 - Limites UTC: 2024-01-13T00:57:11.008000+00:00 — 2024-12-19T16:25:28.528000+00:00.
@@ -1188,7 +1315,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S118
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **47**.
 - Canal: `1191931831428333699`.
 - Mensagens: 213.
 - Limites UTC: 2024-01-03T02:31:46.648000+00:00 — 2024-12-19T16:25:02.581000+00:00.
@@ -1198,7 +1326,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S119
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **48**.
 - Canal: `1195151884420395018`.
 - Mensagens: 172.
 - Limites UTC: 2024-01-11T23:47:03.868000+00:00 — 2024-12-19T16:25:20.523000+00:00.
@@ -1208,7 +1337,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S120
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **49**.
 - Canal: `1195187025368846366`.
 - Mensagens: 78.
 - Limites UTC: 2024-01-12T02:06:48.830000+00:00 — 2024-12-19T16:25:26.642000+00:00.
@@ -1218,7 +1348,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S121
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **50**.
 - Canal: `1196624308915683328`.
 - Mensagens: 75.
 - Limites UTC: 2024-01-16T01:18:04.385000+00:00 — 2024-12-19T16:26:08.545000+00:00.
@@ -1228,7 +1359,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S122
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 2.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 2.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%202.zip).
+- Entrada no ZIP (ordinal, base 1): **51**.
 - Canal: `1195808275174785156`.
 - Mensagens: 935.
 - Limites UTC: 2024-01-13T19:15:13.932000+00:00 — 2024-12-19T16:25:38.729000+00:00.
@@ -1238,7 +1370,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S123
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **2**.
 - Canal: `1198728385183092769`.
 - Mensagens: 1494.
 - Limites UTC: 2024-01-21T20:38:56.610000+00:00 — 2024-02-19T01:17:37.820000+00:00.
@@ -1248,7 +1381,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S124
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **3**.
 - Canal: `1209654127295070268`.
 - Mensagens: 3.
 - Limites UTC: 2024-02-21T00:13:54.752000+00:00 — 2024-02-21T00:14:39.267000+00:00.
@@ -1258,7 +1392,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S125
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **4**.
 - Canal: `1199875622172897440`.
 - Mensagens: 32.
 - Limites UTC: 2024-01-25T00:37:40.423000+00:00 — 2024-03-11T01:37:49.134000+00:00.
@@ -1268,7 +1403,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S126
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **5**.
 - Canal: `1200226836068700200`.
 - Mensagens: 1231.
 - Limites UTC: 2024-01-25T23:53:12.631000+00:00 — 2024-02-23T01:11:13.797000+00:00.
@@ -1278,7 +1414,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S127
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **6**.
 - Canal: `1200515256431169626`.
 - Mensagens: 616.
 - Limites UTC: 2024-01-26T18:59:32.108000+00:00 — 2024-02-18T22:04:35.663000+00:00.
@@ -1288,7 +1425,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S128
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **7**.
 - Canal: `1211846153256177794`.
 - Mensagens: 123.
 - Limites UTC: 2024-02-27T01:24:15.036000+00:00 — 2024-02-28T02:17:12.062000+00:00.
@@ -1298,7 +1436,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S129
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **8**.
 - Canal: `1199864631250915488`.
 - Mensagens: 10.
 - Limites UTC: 2024-01-24T23:53:56.266000+00:00 — 2024-01-25T00:21:40.930000+00:00.
@@ -1308,7 +1447,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S130
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **9**.
 - Canal: `1200517519891497100`.
 - Mensagens: 13.
 - Limites UTC: 2024-01-26T19:08:16.182000+00:00 — 2024-01-26T19:12:17.754000+00:00.
@@ -1318,7 +1458,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S131
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **10**.
 - Canal: `1208901535912951860`.
 - Mensagens: 13.
 - Limites UTC: 2024-02-18T22:23:28.238000+00:00 — 2024-02-18T23:47:23.504000+00:00.
@@ -1328,7 +1469,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S132
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **11**.
 - Canal: `1198714576313798778`.
 - Mensagens: 5.
 - Limites UTC: 2024-01-21T19:43:57.730000+00:00 — 2024-01-21T19:45:53.425000+00:00.
@@ -1338,7 +1480,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S133
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **12**.
 - Canal: `1208514117464367244`.
 - Mensagens: 154.
 - Limites UTC: 2024-02-17T20:43:57.055000+00:00 — 2024-02-19T01:06:29.692000+00:00.
@@ -1348,7 +1491,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S134
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **13**.
 - Canal: `1211083330951315476`.
 - Mensagens: 225.
 - Limites UTC: 2024-02-24T22:52:54.191000+00:00 — 2024-02-25T01:23:26.145000+00:00.
@@ -1358,7 +1502,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S135
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **14**.
 - Canal: `1212551771063324772`.
 - Mensagens: 214.
 - Limites UTC: 2024-02-29T00:08:08.479000+00:00 — 2024-03-02T00:07:05.750000+00:00.
@@ -1368,7 +1513,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S136
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **15**.
 - Canal: `1199586427525144597`.
 - Mensagens: 863.
 - Limites UTC: 2024-01-24T05:28:29.928000+00:00 — 2024-03-10T01:17:29.338000+00:00.
@@ -1378,7 +1524,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S137
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **16**.
 - Canal: `1211126247401197618`.
 - Mensagens: 155.
 - Limites UTC: 2024-02-25T01:48:54.073000+00:00 — 2024-02-26T03:10:56.319000+00:00.
@@ -1388,7 +1535,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S138
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **17**.
 - Canal: `1198791358119428206`.
 - Mensagens: 1295.
 - Limites UTC: 2024-01-24T04:38:19.866000+00:00 — 2024-01-27T05:59:02.916000+00:00.
@@ -1398,7 +1546,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S139
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **18**.
 - Canal: `1200990129175674930`.
 - Mensagens: 32.
 - Limites UTC: 2024-01-28T02:26:11.805000+00:00 — 2024-01-28T03:14:10.221000+00:00.
@@ -1408,7 +1557,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S140
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **19**.
 - Canal: `1199813316487426098`.
 - Mensagens: 44.
 - Limites UTC: 2024-01-24T20:30:01.957000+00:00 — 2024-01-24T23:24:44.109000+00:00.
@@ -1418,7 +1568,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S141
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **20**.
 - Canal: `1200225077577388072`.
 - Mensagens: 372.
 - Limites UTC: 2024-01-25T23:46:10.115000+00:00 — 2024-01-26T04:25:33.775000+00:00.
@@ -1428,7 +1579,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S142
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **21**.
 - Canal: `1200607149395546303`.
 - Mensagens: 64.
 - Limites UTC: 2024-01-27T01:06:00.034000+00:00 — 2024-01-27T03:07:23.313000+00:00.
@@ -1438,7 +1590,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S143
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **22**.
 - Canal: `1208204937930997831`.
 - Mensagens: 143.
 - Limites UTC: 2024-02-17T00:15:41.468000+00:00 — 2024-02-18T23:22:54.367000+00:00.
@@ -1448,7 +1601,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S144
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **23**.
 - Canal: `1212950197899108393`.
 - Mensagens: 22.
 - Limites UTC: 2024-03-01T02:31:28.872000+00:00 — 2024-03-01T03:07:03.039000+00:00.
@@ -1458,7 +1612,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S145
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **24**.
 - Canal: `1212569471949217802`.
 - Mensagens: 166.
 - Limites UTC: 2024-02-29T01:18:35.773000+00:00 — 2024-02-29T23:56:22.527000+00:00.
@@ -1468,7 +1623,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S146
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **25**.
 - Canal: `1198762496694165515`.
 - Mensagens: 71.
 - Limites UTC: 2024-01-21T22:54:28.725000+00:00 — 2024-01-22T00:19:22.965000+00:00.
@@ -1478,7 +1634,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S147
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **26**.
 - Canal: `1211376249239511070`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -1488,7 +1645,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S148
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **27**.
 - Canal: `1212542749824520223`.
 - Mensagens: 5.
 - Limites UTC: 2024-02-28T23:32:17.027000+00:00 — 2024-02-28T23:42:26.988000+00:00.
@@ -1498,7 +1656,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S149
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **28**.
 - Canal: `1198446716756705451`.
 - Mensagens: 39.
 - Limites UTC: 2024-01-21T01:59:45.909000+00:00 — 2024-01-21T04:07:16.836000+00:00.
@@ -1508,7 +1667,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S150
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **29**.
 - Canal: `1199863303858556960`.
 - Mensagens: 82.
 - Limites UTC: 2024-01-24T23:48:33.123000+00:00 — 2024-01-25T02:52:28.753000+00:00.
@@ -1518,7 +1678,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S151
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **30**.
 - Canal: `1210006756051255386`.
 - Mensagens: 691.
 - Limites UTC: 2024-02-21T23:35:08.073000+00:00 — 2024-02-28T02:26:17.692000+00:00.
@@ -1528,7 +1689,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S152
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **31**.
 - Canal: `1200667713576648826`.
 - Mensagens: 649.
 - Limites UTC: 2024-01-27T05:05:04.019000+00:00 — 2024-02-17T00:45:09.112000+00:00.
@@ -1538,7 +1700,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S153
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **32**.
 - Canal: `1208218904556470303`.
 - Mensagens: 677.
 - Limites UTC: 2024-02-17T01:11:12.231000+00:00 — 2024-02-18T21:42:23.854000+00:00.
@@ -1548,7 +1711,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S154
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **33**.
 - Canal: `1210049619870875658`.
 - Mensagens: 326.
 - Limites UTC: 2024-02-22T02:25:30.492000+00:00 — 2024-02-23T20:50:20.397000+00:00.
@@ -1558,7 +1722,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S155
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **34**.
 - Canal: `1210394357660913675`.
 - Mensagens: 739.
 - Limites UTC: 2024-02-23T01:15:24.387000+00:00 — 2024-02-24T00:34:37.369000+00:00.
@@ -1568,7 +1733,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S156
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **35**.
 - Canal: `1199858170307301397`.
 - Mensagens: 373.
 - Limites UTC: 2024-01-24T23:28:16.328000+00:00 — 2024-01-26T03:16:10.587000+00:00.
@@ -1578,7 +1744,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S157
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **36**.
 - Canal: `1198714652247462039`.
 - Mensagens: 57.
 - Limites UTC: 2024-01-21T19:44:11.551000+00:00 — 2024-01-21T19:57:40.068000+00:00.
@@ -1588,7 +1755,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S158
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **37**.
 - Canal: `1198785739161350164`.
 - Mensagens: 2116.
 - Limites UTC: 2024-01-22T00:26:45.699000+00:00 — 2024-03-11T02:05:44.063000+00:00.
@@ -1598,7 +1766,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S159
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **38**.
 - Canal: `1211511738701447209`.
 - Mensagens: 440.
 - Limites UTC: 2024-02-26T03:15:38.139000+00:00 — 2024-02-28T01:14:36.375000+00:00.
@@ -1608,7 +1777,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S160
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **39**.
 - Canal: `1213276549869211708`.
 - Mensagens: 406.
 - Limites UTC: 2024-03-02T00:08:56.630000+00:00 — 2024-03-02T01:42:38.263000+00:00.
@@ -1618,7 +1788,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S161
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **40**.
 - Canal: `1211510443215036456`.
 - Mensagens: 1716.
 - Limites UTC: 2024-02-26T03:10:18.770000+00:00 — 2024-03-28T01:38:38.364000+00:00.
@@ -1628,7 +1799,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S162
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **41**.
 - Canal: `1200219703210147942`.
 - Mensagens: 121.
 - Limites UTC: 2024-01-25T23:24:51.016000+00:00 — 2024-06-28T13:15:17.760000+00:00.
@@ -1638,7 +1810,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S163
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **42**.
 - Canal: `1200673877458698240`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -1648,7 +1821,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S164
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **43**.
 - Canal: `1212217097896075284`.
 - Mensagens: 38.
 - Limites UTC: 2024-02-28T01:58:20.409000+00:00 — 2024-02-29T23:12:07.585000+00:00.
@@ -1658,7 +1832,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S165
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **44**.
 - Canal: `1198440604531707954`.
 - Mensagens: 199.
 - Limites UTC: 2024-01-21T01:35:22.427000+00:00 — 2024-01-21T02:15:39.224000+00:00.
@@ -1668,7 +1843,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S166
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **45**.
 - Canal: `1198450346025029702`.
 - Mensagens: 2700.
 - Limites UTC: 2024-01-21T02:14:06.102000+00:00 — 2024-01-22T00:23:11.487000+00:00.
@@ -1678,7 +1854,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S167
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **46**.
 - Canal: `1199573679160426566`.
 - Mensagens: 354.
 - Limites UTC: 2024-01-24T04:37:45.129000+00:00 — 2024-01-26T02:46:13.026000+00:00.
@@ -1688,7 +1865,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S168
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **47**.
 - Canal: `1200580085401534537`.
 - Mensagens: 21.
 - Limites UTC: 2024-01-26T23:16:53.553000+00:00 — 2024-01-27T01:15:20.403000+00:00.
@@ -1698,7 +1876,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S169
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **48**.
 - Canal: `1200215883168100412`.
 - Mensagens: 22.
 - Limites UTC: 2024-01-25T23:10:34.719000+00:00 — 2024-01-26T00:22:04.927000+00:00.
@@ -1708,7 +1887,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S170
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **49**.
 - Canal: `1200245400582496256`.
 - Mensagens: 680.
 - Limites UTC: 2024-01-26T01:07:05.061000+00:00 — 2024-01-27T05:07:05.977000+00:00.
@@ -1718,7 +1898,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S171
 
-- Arquivo de origem: `Dragons Cap 1 a 2 temporada 3.zip`.
+- Arquivo de origem: [`Dragons Cap 1 a 2 temporada 3.zip`](../../../Dragons%20Cap%201%20a%202%20temporada%203.zip).
+- Entrada no ZIP (ordinal, base 1): **50**.
 - Canal: `1200583762728198214`.
 - Mensagens: 203.
 - Limites UTC: 2024-01-26T23:31:31.397000+00:00 — 2024-01-28T00:31:11.561000+00:00.
@@ -1728,7 +1909,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S172
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **2**.
 - Canal: `1219439064122654813`.
 - Mensagens: 2245.
 - Limites UTC: 2024-03-19T00:15:43.143000+00:00 — 2024-05-25T02:31:23.089000+00:00.
@@ -1738,7 +1920,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S173
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **3**.
 - Canal: `1221247493430444123`.
 - Mensagens: 2446.
 - Limites UTC: 2024-03-24T00:01:48.118000+00:00 — 2024-05-01T20:04:54.329000+00:00.
@@ -1748,7 +1931,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S174
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **4**.
 - Canal: `1239760936076578858`.
 - Mensagens: 13.
 - Limites UTC: 2024-05-14T02:07:36.844000+00:00 — 2024-05-14T02:20:28.437000+00:00.
@@ -1758,7 +1942,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S175
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **5**.
 - Canal: `1233879213895847986`.
 - Mensagens: 470.
 - Limites UTC: 2024-04-27T20:35:53.697000+00:00 — 2024-05-13T02:17:16.570000+00:00.
@@ -1768,7 +1953,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S176
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **6**.
 - Canal: `1211845680142745631`.
 - Mensagens: 616.
 - Limites UTC: 2024-02-27T01:22:18.446000+00:00 — 2024-03-02T01:44:55.495000+00:00.
@@ -1778,7 +1964,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S177
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **7**.
 - Canal: `1208935922792534056`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -1788,7 +1975,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S178
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **8**.
 - Canal: `1213300692073324585`.
 - Mensagens: 1422.
 - Limites UTC: 2024-03-02T01:46:07.457000+00:00 — 2024-03-08T23:13:40.046000+00:00.
@@ -1798,7 +1986,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S179
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **9**.
 - Canal: `1215454796505554954`.
 - Mensagens: 2433.
 - Limites UTC: 2024-03-08T00:23:55.840000+00:00 — 2024-03-17T02:05:37.969000+00:00.
@@ -1808,7 +1997,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S180
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **10**.
 - Canal: `1219465673441542154`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -1818,7 +2008,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S181
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **11**.
 - Canal: `1221257682917527602`.
 - Mensagens: 1.
 - Limites UTC: 2024-03-24T00:42:28.778000+00:00 — 2024-03-24T00:42:28.778000+00:00.
@@ -1828,7 +2019,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S182
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **12**.
 - Canal: `1208241372549877792`.
 - Mensagens: 394.
 - Limites UTC: 2024-02-17T02:41:36.482000+00:00 — 2024-02-23T23:50:19.177000+00:00.
@@ -1838,7 +2030,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S183
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **13**.
 - Canal: `1220163348373700680`.
 - Mensagens: 181.
 - Limites UTC: 2024-03-21T00:13:48.945000+00:00 — 2024-03-24T02:39:55.625000+00:00.
@@ -1848,7 +2041,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S184
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **14**.
 - Canal: `1232873001385459774`.
 - Mensagens: 578.
 - Limites UTC: 2024-04-25T01:57:39.464000+00:00 — 2024-05-07T00:26:47.058000+00:00.
@@ -1858,7 +2052,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S185
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **15**.
 - Canal: `1220159148885414048`.
 - Mensagens: 1811.
 - Limites UTC: 2024-03-20T23:57:01.159000+00:00 — 2024-05-13T00:45:07.256000+00:00.
@@ -1868,7 +2063,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S186
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **16**.
 - Canal: `1213687862763982908`.
 - Mensagens: 42.
 - Limites UTC: 2024-03-03T03:33:02.388000+00:00 — 2024-03-05T02:46:09.717000+00:00.
@@ -1878,7 +2074,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S187
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **17**.
 - Canal: `1232136025145344040`.
 - Mensagens: 2962.
 - Limites UTC: 2024-04-23T01:09:13.309000+00:00 — 2024-05-13T02:33:30.530000+00:00.
@@ -1888,7 +2085,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S188
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **18**.
 - Canal: `1213707955271237692`.
 - Mensagens: 25.
 - Limites UTC: 2024-03-03T04:42:30.802000+00:00 — 2024-03-03T04:57:09.677000+00:00.
@@ -1898,7 +2096,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S189
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **19**.
 - Canal: `1218753534816944128`.
 - Mensagens: 689.
 - Limites UTC: 2024-03-17T02:51:41.394000+00:00 — 2024-03-20T16:31:37.321000+00:00.
@@ -1908,7 +2107,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S190
 
-- Arquivo de origem: `Dragons Cap 3 a 4 temporada 1.zip`.
+- Arquivo de origem: [`Dragons Cap 3 a 4 temporada 1.zip`](../../../Dragons%20Cap%203%20a%204%20temporada%201.zip).
+- Entrada no ZIP (ordinal, base 1): **20**.
 - Canal: `1229572703413866587`.
 - Mensagens: 0.
 - Limites UTC: None — None.
@@ -1918,7 +2118,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S191
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **2**.
 - Canal: `1182140479761039411`.
 - Mensagens: 1.
 - Limites UTC: 2023-12-12T15:42:14.425000+00:00 — 2023-12-12T15:42:14.425000+00:00.
@@ -1928,7 +2129,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S192
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **3**.
 - Canal: `1194858715136925717`.
 - Mensagens: 19.
 - Limites UTC: 2024-03-29T20:52:07.827000+00:00 — 2024-12-19T16:25:12.431000+00:00.
@@ -1938,7 +2140,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S193
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **4**.
 - Canal: `1182142244522840154`.
 - Mensagens: 3.
 - Limites UTC: 2023-12-12T15:49:29.965000+00:00 — 2024-12-19T16:22:23.080000+00:00.
@@ -1948,7 +2151,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S194
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **5**.
 - Canal: `1182141952062390282`.
 - Mensagens: 27.
 - Limites UTC: 2023-12-12T22:56:40.602000+00:00 — 2024-12-19T16:22:21.123000+00:00.
@@ -1958,7 +2162,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S195
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **6**.
 - Canal: `1182142074523492422`.
 - Mensagens: 1.
 - Limites UTC: 2024-02-27T16:40:17.147000+00:00 — 2024-02-27T16:40:17.147000+00:00.
@@ -1968,7 +2173,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S196
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **7**.
 - Canal: `1182142198607786014`.
 - Mensagens: 6.
 - Limites UTC: 2023-12-12T15:37:15.968000+00:00 — 2024-12-19T16:22:22.689000+00:00.
@@ -1978,7 +2184,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S197
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **8**.
 - Canal: `1182314809472061531`.
 - Mensagens: 5.
 - Limites UTC: 2023-12-13T15:24:36.591000+00:00 — 2024-12-19T16:22:24.345000+00:00.
@@ -1988,7 +2195,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S198
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **9**.
 - Canal: `1182142031506706495`.
 - Mensagens: 17.
 - Limites UTC: 2024-01-03T02:45:10.079000+00:00 — 2024-12-19T16:22:21.790000+00:00.
@@ -1998,7 +2206,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S199
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **10**.
 - Canal: `1182142311598129262`.
 - Mensagens: 40.
 - Limites UTC: 2023-12-12T15:51:50.098000+00:00 — 2024-01-19T01:50:10.460000+00:00.
@@ -2008,7 +2217,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S200
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **11**.
 - Canal: `1182141992294158346`.
 - Mensagens: 5.
 - Limites UTC: 2023-12-28T19:23:06.600000+00:00 — 2024-12-19T16:22:21.574000+00:00.
@@ -2018,7 +2228,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S201
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **12**.
 - Canal: `1182142274386264104`.
 - Mensagens: 6.
 - Limites UTC: 2024-02-27T00:37:24.738000+00:00 — 2024-05-27T23:28:53.146000+00:00.
@@ -2028,7 +2239,8 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ### S202
 
-- Arquivo de origem: `jogadores.zip`.
+- Arquivo de origem: [`jogadores.zip`](../../../jogadores.zip).
+- Entrada no ZIP (ordinal, base 1): **13**.
 - Canal: `1182142133331841064`.
 - Mensagens: 29.
 - Limites UTC: 2024-01-03T02:11:11.676000+00:00 — 2024-12-19T16:22:22.287000+00:00.
@@ -2036,17 +2248,19 @@ Essas confirmações foram fornecidas pelo usuário durante a investigação; n�
 
 ## Documentação de poderes
 
-| ID | Mensagens | SHA-256 do HTML |
-| --- | --- | --- |
-| <a id="pwr001"></a>PWR001 | 13 | `593ff9b7b7e4377846256a2d8a240337f6235bb1e558fbc1304b6451cc34326c` |
-| <a id="pwr002"></a>PWR002 | 3 | `a68587cac2f3fcdd21c978f439c38c6655a51facb2597d2a1706b5f31f516396` |
-| <a id="pwr003"></a>PWR003 | 5 | `08832a693bf1e41ac34b6e1631442b23c87aa9adeaddb64520b1d55831436c22` |
-| <a id="pwr004"></a>PWR004 | 1 | `be4a6e4a9521fa73ff36474f86f0b2545d95995be2f99420a7129f8b77ce6788` |
-| <a id="pwr005"></a>PWR005 | 1 | `e134fc17932a2ae57e10026f9de80eb6474a6b1bbdc11adb153d66c9fa54ccc3` |
-| <a id="pwr006"></a>PWR006 | 2 | `a649cea6915a8f72688774aa11cd379329c4b35f46e6c589607975830fda26bc` |
-| <a id="pwr007"></a>PWR007 | 1 | `ad059cfe9191e697952efa7db0ce4b97449dcdea24fa651400fb485b462c246c` |
-| <a id="pwr008"></a>PWR008 | 4 | `4fa3b25f44328f96c4a00d4fbe4f9451c9051bcd2a7f29890b5b1f07ec2af780` |
-| <a id="pwr009"></a>PWR009 | 111 | `790ee01376b0ddea7c1f803dda50204e29f4946dc5d67272e2b7e8651c6bb753` |
-| <a id="pwr010"></a>PWR010 | 3 | `d8692cde05e2868a0cfa0cbec2ffafe59874fd723fac7628837179282bc74fa1` |
-| <a id="pwr011"></a>PWR011 | 13 | `949ab392628790e63282c3c8b5b8497e708329f2dbec3cb7b9f5a3ef1329d697` |
-| <a id="pwr012"></a>PWR012 | 1 | `5f5c9e379b7ef5f9aae54d9a626eb1f8d4f4cd15e0c321e95831b5adc2443d43` |
+Arquivo original: [Poderes Jogadores.zip](../../../Poderes%20Jogadores.zip).
+
+| ID | Mensagens | Entrada no ZIP (base 1) | SHA-256 do HTML |
+| --- | --- | --- | --- |
+| <a id="pwr001"></a>PWR001 | 13 | 3 | `593ff9b7b7e4377846256a2d8a240337f6235bb1e558fbc1304b6451cc34326c` |
+| <a id="pwr002"></a>PWR002 | 3 | 5 | `a68587cac2f3fcdd21c978f439c38c6655a51facb2597d2a1706b5f31f516396` |
+| <a id="pwr003"></a>PWR003 | 5 | 7 | `08832a693bf1e41ac34b6e1631442b23c87aa9adeaddb64520b1d55831436c22` |
+| <a id="pwr004"></a>PWR004 | 1 | 9 | `be4a6e4a9521fa73ff36474f86f0b2545d95995be2f99420a7129f8b77ce6788` |
+| <a id="pwr005"></a>PWR005 | 1 | 11 | `e134fc17932a2ae57e10026f9de80eb6474a6b1bbdc11adb153d66c9fa54ccc3` |
+| <a id="pwr006"></a>PWR006 | 2 | 13 | `a649cea6915a8f72688774aa11cd379329c4b35f46e6c589607975830fda26bc` |
+| <a id="pwr007"></a>PWR007 | 1 | 15 | `ad059cfe9191e697952efa7db0ce4b97449dcdea24fa651400fb485b462c246c` |
+| <a id="pwr008"></a>PWR008 | 4 | 17 | `4fa3b25f44328f96c4a00d4fbe4f9451c9051bcd2a7f29890b5b1f07ec2af780` |
+| <a id="pwr009"></a>PWR009 | 111 | 19 | `790ee01376b0ddea7c1f803dda50204e29f4946dc5d67272e2b7e8651c6bb753` |
+| <a id="pwr010"></a>PWR010 | 3 | 21 | `d8692cde05e2868a0cfa0cbec2ffafe59874fd723fac7628837179282bc74fa1` |
+| <a id="pwr011"></a>PWR011 | 13 | 23 | `949ab392628790e63282c3c8b5b8497e708329f2dbec3cb7b9f5a3ef1329d697` |
+| <a id="pwr012"></a>PWR012 | 1 | 25 | `5f5c9e379b7ef5f9aae54d9a626eb1f8d4f4cd15e0c321e95831b5adc2443d43` |
