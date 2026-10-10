@@ -1,5 +1,7 @@
 # Ymir — três arquiteturas históricas de ascensão suprema
 
+**Escolha posterior do criador:** Trajetória I aprovada como espinha principal de desenvolvimento; dimensão criadora da III admitida como complemento coerente, sem adotar todo o enredo. II preservada como alternativa histórica não selecionada. Abertura da Continuidade Entre Mundos é candidato prioritário, com nome, mecanismo, data, participantes, abrangência e consequências pendentes. Arven, Dhor, Sera e demais elementos novos continuam candidatos. As três arquiteturas abaixo preservam o estado original desta análise; decisões atuais em [13](13-Registro-de-Decisoes-do-Bloco-D.md), próxima deliberação de Kian em [19](19-Bloco-D-Kian-Deliberacao-Historica-e-Mitologica.md).
+
 ## Aprovação, origem das propostas e ponto de partida
 
 **OBJETIVO CRIATIVO DE DESTINO APROVADO:** Ymir alcançará divindade suprema (DD-14). **DIREÇÃO COSMOLÓGICA APROVADA:** Modelo D com Modelo B como operação central (DD-19). **DIREÇÃO DE ASCENSÃO APROVADA PARA APROFUNDAMENTO:** emergência II com possível desenvolvimento até ruptura/reconstituição IV (DD-20). **INFORMAÇÃO AUTORAL CONFIRMADA:** Beatriz é esposa de Ymir, sem cronologia conjugal escolhida (DD-16/DD-17).
