@@ -1,5 +1,7 @@
 # Bloco D — Ymir e Kian/Lúcifer/Azazel: alternativas aprofundadas
 
+**Atualização autoral posterior:** Ymir deverá alcançar divindade suprema; Beatriz é sua esposa por informação autoral, com cronologia pendente. Esta análise preserva a rodada anterior: finais mortais/transcendentes de Ymir não continuam equivalentes ao destino escolhido. Modelos e mecanismos agora em [16](16-Bloco-D-Ymir-Divindade-Suprema-e-Beatriz.md), divergência documental em [17](17-Nota-Autoral-Casamento-Ymir-Beatriz.md) e decisões em [13](13-Registro-de-Decisoes-do-Bloco-D.md). Kian permanece em deliberação.
+
 **Estado integral: PROPOSTA PENDENTE.** Os oito caminhos e suas combinações são ADAPTADO DO RPG + CRIADO PARA O JOGO. Cada cadeia começa por uma situação documentada e depois propõe conflitos, decisões e consequências futuros; não é continuação definitiva. Uma alternativa pode alcançar grandeza sem divindade, fundação institucional ou crise cósmica.
 
 **DIRETRIZ CRIATIVA APROVADA:** fundamentos dos Blocos A–C e orientação desta rodada de diversificar motivações, objetivos, conflitos e formas de grandeza. **DIREÇÃO DE DESENVOLVIMENTO APROVADA:** eixos de Michael, Lilith, Rans, Henry, Harry e Bytes no [registro 13](13-Registro-de-Decisoes-do-Bloco-D.md). Nenhuma direção de Ymir/Kian foi escolhida nesta rodada. **ACONTECIMENTO CANÔNICO DEFINITIVO:** nenhum novo resgate, transformação, ascensão, guerra, fundação, casamento, morte ou destino aprovado.

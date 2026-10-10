@@ -1,6 +1,6 @@
 # Registro de decisões do Bloco D
 
-Consolidação do registro preparatório local 24 e das decisões expressas do criador. A publicação e o merge não aprovam alternativas narrativas. Fontes de aprovação: pedidos “FASE 5.1 — BLOCO D: DIREÇÕES DE MICHAEL E LILITH + ANÁLISE DE RANS E HENRY”, “FASE 5.1 — BLOCO D: DIREÇÕES DE RANS E HENRY + ANÁLISE DE HARRY E BYTES” e “FASE 5.1 — BLOCO D: HARRY E BYTES + ANÁLISE APROFUNDADA DE YMIR E KIAN”.
+Consolidação do registro preparatório local 24 e das decisões expressas do criador. A publicação e o merge não aprovam alternativas narrativas. Fontes de aprovação: pedidos “FASE 5.1 — BLOCO D: DIREÇÕES DE MICHAEL E LILITH + ANÁLISE DE RANS E HENRY”, “FASE 5.1 — BLOCO D: DIREÇÕES DE RANS E HENRY + ANÁLISE DE HARRY E BYTES”, “FASE 5.1 — BLOCO D: HARRY E BYTES + ANÁLISE APROFUNDADA DE YMIR E KIAN” e “FASE 5.1 — BLOCO D: YMIR REALMHEART, DIVINDADE SUPREMA, E BEATRIZ”.
 
 ## Estados obrigatórios
 
@@ -10,6 +10,8 @@ Consolidação do registro preparatório local 24 e das decisões expressas do c
 | DIRETRIZ CRIATIVA APROVADA | Fundamento expressamente autorizado; Blocos A, B e C em [07](07-Diretrizes-Criativas-Aprovadas.md), [08](08-Fundamentos-Cosmologicos.md) e [09](09-Registro-de-Aprovacoes-e-Pendencias.md). |
 | DIREÇÃO DE DESENVOLVIMENTO APROVADA | Escolha de trajetória para aprofundamento; não confirma todos os acontecimentos necessários. |
 | PROPOSTA PENDENTE | Alternativa, mecanismo, combinação ou recomendação ainda não escolhidos. |
+| OBJETIVO CRIATIVO DE DESTINO APROVADO | Destino geral expressamente escolhido; não estabelece mecanismo, cronologia ou acontecimentos individuais. |
+| INFORMAÇÃO AUTORAL CONFIRMADA | Declaração direta do criador; origem autoral separada de evidência documental do Discord e de cronologia ainda não definida. |
 | ACONTECIMENTO CANÔNICO DEFINITIVO | Ocorrência específica expressamente aprovada para a história adaptada. Nenhuma nova ocorrência aprovada nesta sincronização. |
 
 Origem e aprovação são eixos separados: CRIADO PARA O JOGO não significa aprovado. MECANISMO PROPOSTO continua candidato até decisão própria. DECISÃO PENDENTE continua aberta, mesmo quando um documento é mesclado.
@@ -62,18 +64,30 @@ A análise do [documento 14](14-Bloco-D-Harry-e-Bytes-Alternativas.md) preserva 
 
 ## Ymir e Kian/Lúcifer/Azazel
 
-**PROPOSTA PENDENTE:** as alternativas, combinações, transformações e candidaturas do [documento 15](15-Bloco-D-Ymir-e-Kian-Alternativas.md). Nenhuma direção de Ymir ou Kian foi escolhida nesta rodada. A orientação de diversificar motivações, conflitos, consequências e formas de grandeza vale para o desenvolvimento; não distribui arquétipos nem aprova acontecimentos.
+**PROPOSTA PENDENTE:** as alternativas, combinações, transformações e candidaturas do [documento 15](15-Bloco-D-Ymir-e-Kian-Alternativas.md). Esse era o estado da rodada Ymir/Kian; a escolha autoral posterior de Ymir está registrada em DD-14. Kian continua sem direção escolhida. As opções de término mortal/transcendente de Ymir no documento 15 não são alternativas finais equivalentes ao destino agora aprovado. A orientação de diversificar motivações, conflitos, consequências e formas de grandeza vale para o desenvolvimento; não distribui arquétipos nem aprova acontecimentos.
 
 **CANON ORIGINAL:** Note é pseudônimo anterior à máscara, persona de Ymir, não segundo ser. Ymir e Beatriz chegam à cidade dos elfos; busca da irmã e torneio permanecem abertos. Kian/Lúcifer/Azazel têm continuidade pessoal confirmada externamente; mecanismo adulto–bebê não recuperado. Consultar [PS-018](../canon-original/19-Matriz-Canon-Critico.md#ps-018), [PS-025](../canon-original/19-Matriz-Canon-Critico.md#ps-025) e [PS-021](../canon-original/19-Matriz-Canon-Critico.md#ps-021).
 
+## Ymir supremo e Beatriz — nova declaração autoral
+
+| ID | Estado | Conteúdo e limites |
+| --- | --- | --- |
+| DD-14 | OBJETIVO CRIATIVO DE DESTINO APROVADO | Ymir Realmheart deverá alcançar DIVINDADE SUPREMA na história adaptada. Supremacia verdadeira e objetiva, não apenas título religioso. Destino geral escolhido, sem equivalência final com permanecer mortal ou transcendente comum; ausência de mecanismos não autoriza rebaixamento. |
+| DD-15 | PROPOSTA PENDENTE | Significado preciso da supremacia, autoridade constitutiva, aquisição, cronologia, acontecimentos, condições de existência, personalidade, relações divinas e consequências cósmicas. Modelos A–D e quatro arquiteturas do documento 16 são propostas; nenhuma ascensão individual já ocorrida. |
+| DD-16 | INFORMAÇÃO AUTORAL CONFIRMADA | Beatriz, a elfa, é esposa de Ymir Realmheart, por declaração expressa do criador nesta rodada. Não é fala recuperada do Discord; não inventar cerimônia, data, filhos ou acontecimentos intermediários. |
+| DD-17 | PROPOSTA PENDENTE | Cronologia do casamento e reconciliação com a declaração documental de julho de 2024. Casamento posterior é conciliação possível, não fato escolhido. Se o criador definir casamento anterior/já vigente nessa cena, registrar correção autoral transparente preservando os registros. Ver nota 17. |
+| DD-18 | DIRETRIZ CRIATIVA APROVADA | Beatriz conserva identidade élfica, origem/família, vínculo com Berthold, condição de princesa, conhecimentos, capacidades, objetivos e autonomia. Casamento não aprova divindade, imortalidade, consorte divina, governo de plano, autoridade partilhada ou subordinação. |
+
+A [análise específica 16](16-Bloco-D-Ymir-Divindade-Suprema-e-Beatriz.md) e a [nota autoral 17](17-Nota-Autoral-Casamento-Ymir-Beatriz.md) separam destino aprovado, casamento confirmado por autoria, evidência histórica e propostas. Note permanece pseudônimo/persona da mesma pessoa. Supremacia não transforma outros protagonistas em auxiliares ou subordinados automáticos.
+
 ## Próximas decisões
 
-Deliberar separadamente sobre YMIR-A/B/C/D e KIAN-A/B/C/D: direção principal, combinações que merecem aprofundamento e candidaturas extraordinárias a investigar. As dez características de cada candidatura divina no documento 15 continuam propostas. Mecanismos futuros não explicam retroativamente a passagem Kian–Azazel. Decidir resultados de buscas, relações e acontecimentos concretos em etapas próprias; nenhuma presença na época do jogador está garantida.
+Escolher modelo de supremacia e arquitetura de aquisição de autoridade de Ymir, preservando o destino geral aprovado. Deliberar sobre cronologia do casamento e natureza futura de Beatriz separadamente. KIAN-A/B/C/D e seu mecanismo futuro continuam em discussão, sem explicar retroativamente adulto–bebê. Nenhum resultado da busca da irmã, casamento cerimonial, descendência ou presença na época do jogador foi definido.
 
-**ACONTECIMENTO CANÔNICO DEFINITIVO:** nenhum novo destino, ascensão, autoridade individual, guerra ou morte foi aprovado. Fase 6 e continuação definitiva permanecem sem início.
+**ACONTECIMENTO CANÔNICO DEFINITIVO:** nenhuma cena nova de ascensão, autoridade específica adquirida, guerra, morte ou cerimônia aprovada. Isso não revoga DD-14 (destino geral) nem DD-16 (informação conjugal autoral). Fase 6 e continuação definitiva permanecem sem início.
 
 ## Reconciliação e publicação
 
-O conteúdo aprovado dos Blocos A, B e C do arquivo preparatório 24 já está nos documentos 07–09; não foi duplicado. DD-01 a DD-04 registram a rodada Michael/Lilith; DD-05 a DD-08 registram a deliberação posterior Rans/Henry, com direções e candidaturas separadas. O registro 09 aponta para esta atualização. Os arquivos locais 25, 27 e 28 foram incorporados como 10, 11 e 12, preservando alternativas, justificativas e cadeias causais, com referências ajustadas. O documento 14 preserva integralmente a análise Harry/Bytes; DD-09 a DD-13 registram a deliberação posterior. O documento 15 acrescenta a análise Ymir/Kian. Recomendações antigas nos documentos 10–14 descrevem seus estados anteriores; este registro contém a decisão atual.
+O conteúdo aprovado dos Blocos A, B e C do arquivo preparatório 24 já está nos documentos 07–09; não foi duplicado. DD-01 a DD-04 registram a rodada Michael/Lilith; DD-05 a DD-08 registram a deliberação posterior Rans/Henry, com direções e candidaturas separadas. O registro 09 aponta para esta atualização. Os arquivos locais 25, 27 e 28 foram incorporados como 10, 11 e 12, preservando alternativas, justificativas e cadeias causais, com referências ajustadas. O documento 14 preserva integralmente a análise Harry/Bytes; DD-09 a DD-13 registram a deliberação posterior. O documento 15 acrescenta a análise Ymir/Kian. A escolha posterior Ymir/Beatriz está em DD-14 a DD-18 e documentos 16–17. Recomendações antigas nos documentos 10–15 descrevem seus estados anteriores; este registro contém a decisão atual.
 
 O fluxo anterior de retenção local/revisão manual foi substituído pela [autorização permanente de publicação e preservação](../Fluxo-de-Publicacao-e-Preservacao.md). Essa autorização é operacional, não narrativa. Instruções específicas futuras do criador prevalecem.
