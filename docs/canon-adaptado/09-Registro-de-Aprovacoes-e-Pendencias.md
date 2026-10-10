@@ -59,4 +59,10 @@ As 36 alternativas de [análise mitológica](02-Analise-Mitologica-dos-Protagoni
 
 O Bloco D está autorizado para primeira comparação dos doze protagonistas: trajetória, duas ou três direções, ascensão possível, justificativas, riscos, relações e recomendação editorial. Novas alternativas devem ser identificadas como criação. Nenhuma recomendação será seleção definitiva sem aprovação do criador.
 
-Publicação autorizada na branch `lore/fase-5-1-diretrizes-criativas`, com estes três arquivos novos e PR de revisão. Canon Original e seis documentos da Fase 5 preservados integralmente. Sem merge automático, continuação definitiva ou início da Fase 6.
+Na entrega original, publicação autorizada na branch `lore/fase-5-1-diretrizes-criativas`, com três arquivos novos e PR de revisão; não havia autorização para merge automático. A atualização operacional abaixo substitui essa restrição. Canon Original e seis documentos da Fase 5 preservados; continuação definitiva e Fase 6 seguem sem início.
+
+## Atualização posterior — Bloco D e autorização operacional
+
+Michael M-A com possível evolução M-B, Lilith L-A sob pressões L-B e autonomia política entre ambos são DIREÇÕES DE DESENVOLVIMENTO APROVADAS, com limites no [registro 13](13-Registro-de-Decisoes-do-Bloco-D.md). Rans/Henry permanecem PROPOSTAS PENDENTES. As análises completas estão em 10–12; os fundamentos já consolidados não foram duplicados.
+
+A [nova instrução permanente](../Fluxo-de-Publicacao-e-Preservacao.md) autoriza publicação e merge de PRs documentais próprios após verificações, substituindo a restrição operacional anterior. Nenhum acontecimento é aprovado por merge; Fase 6 continua sem início.

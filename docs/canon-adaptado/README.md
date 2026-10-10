@@ -1,28 +1,35 @@
-# Cânone adaptado — arquitetura preliminar
+# Canon Adaptado — diretrizes e propostas
 
-Fase 5 · 09/10/2026
-
-**PROPOSTA DE CANON ADAPTADO — NÃO APROVADA.** Esta pasta contém fundamentos, alternativas e decisões pendentes para transformar a campanha em passado do novo jogo. Não contém continuação definitiva nem canonização de destinos, divindades, mortes ou cosmologia.
+Esta pasta reúne a arquitetura da Fase 5, os fundamentos aprovados da Fase 5.1 e análises do Bloco D. Publicação não aprova automaticamente propostas ou acontecimentos. GitHub é a fonte oficial atualizada; cópias locais são material de trabalho.
 
 ## Documentos
 
-1. [Fundamentos da adaptação](01-Fundamentos-da-Adaptacao.md) — princípios, classificações, preservações e limites.
-2. [Análise mitológica dos protagonistas](02-Analise-Mitologica-dos-Protagonistas.md) — 12 análises e 36 alternativas justificadas.
-3. [Eras e cronologia proposta](03-Eras-e-Cronologia-Proposta.md) — sete posições funcionais e três arquiteturas temporais, sem datas ficcionais absolutas.
-4. [Continuidade e lacunas adaptáveis](04-Continuidade-e-Lacunas-Adaptaveis.md) — cobertura dos 19 arcos e das 40 pendências; três formas possíveis de convergência.
-5. [Mundo herdado e transformações](05-Mundo-Herdado-e-Transformacoes.md) — regiões, organizações, crenças, tecnologia e diferença entre história e memória.
-6. [Propostas e decisões pendentes](06-Propostas-e-Decisoes-Pendentes.md) — comparação de conjuntos e 18 decisões, com PD-08A/B independentes.
+1. [Fundamentos da adaptação](01-Fundamentos-da-Adaptacao.md) — arquitetura original da Fase 5, preservada.
+2. [Análise mitológica dos protagonistas](02-Analise-Mitologica-dos-Protagonistas.md) — 12 perfis e 36 alternativas originais.
+3. [Eras e cronologia proposta](03-Eras-e-Cronologia-Proposta.md) — propostas históricas anteriores; não são eras escolhidas.
+4. [Continuidade e lacunas adaptáveis](04-Continuidade-e-Lacunas-Adaptaveis.md) — arcos, pendências e convergências possíveis.
+5. [Mundo herdado e transformações](05-Mundo-Herdado-e-Transformacoes.md) — regiões, crenças e tecnologia.
+6. [Propostas e decisões pendentes da Fase 5](06-Propostas-e-Decisoes-Pendentes.md) — registro histórico, sem atualizar silenciosamente propostas antigas.
+7. [Diretrizes criativas aprovadas](07-Diretrizes-Criativas-Aprovadas.md) — Blocos A, B e C.
+8. [Fundamentos cosmológicos](08-Fundamentos-Cosmologicos.md) — princípios aprovados e mecanismos ainda propostos.
+9. [Registro de aprovações e pendências](09-Registro-de-Aprovacoes-e-Pendencias.md) — alcance das decisões da Fase 5.1.
+10. [Comparação dos doze protagonistas](10-Bloco-D-Comparacao-dos-12-Protagonistas.md) — alternativas históricas e mitológicas, não destinos.
+11. [Michael e Lilith: alternativas aprofundadas](11-Bloco-D-Michael-e-Lilith-Alternativas.md) — seis cadeias causais e cenários relacionais.
+12. [Rans e Henry: alternativas aprofundadas](12-Bloco-D-Rans-e-Henry-Alternativas.md) — oito cadeias e testes cosmológicos.
+13. [Registro de decisões do Bloco D](13-Registro-de-Decisoes-do-Bloco-D.md) — direções aprovadas e escolhas ainda abertas.
 
 ## Como ler
 
-**HERDADO DO RPG** mantém a qualificação da [Bíblia Original](../canon-original/17-Biblia-Canon-Original.md). **ADAPTADO DO RPG** identifica reinterpretação consciente. **CRIADO PARA O JOGO** identifica informação nova, inclusive instituições, tradições e acontecimentos futuros apenas propostos. Origem e aprovação são eixos diferentes: todas as propostas desta fase permanecem não aprovadas.
+**CANON ORIGINAL / HERDADO DO RPG:** fato e qualificação documental; **ADAPTADO DO RPG:** reinterpretação identificada; **CRIADO PARA O JOGO:** informação nova, inclusive apenas proposta. Origem e aprovação são eixos independentes.
 
-Cada perfil parte de identidade, comportamento, conquistas, falhas, motivações e relações. As opções futuras não são cargos distribuídos por elemento. As eras são posições relativas e podem sobrepor-se; datas de mensagens, livros e saltos pessoais não foram convertidas em calendário global.
+**DIRETRIZ CRIATIVA APROVADA:** fundamento autorizado. **DIREÇÃO DE DESENVOLVIMENTO APROVADA:** trajetória escolhida para aprofundar. **PROPOSTA PENDENTE:** alternativa não escolhida. **ACONTECIMENTO CANÔNICO DEFINITIVO:** ocorrência concreta expressamente aprovada. Nenhum acontecimento novo foi aprovado pela publicação destas análises.
 
-As versões culturais propostas não contradizem a documentação por padrão. Fato adaptado objetivo, crença dos habitantes e evidência acessível ao jogador precisam de decisões distintas. A história posterior e as especificações de game design não foram escritas.
+Michael: expansão com possibilidade de evolução para alianças. Lilith: construção de potência sob pressões de autoridade. Relação: autonomia com cooperação e competição possíveis. Natureza futura de ambos pendente. Todas as alternativas de Rans/Henry e recomendações respectivas continuam pendentes.
 
-## Base e estado
+Os seis documentos da Fase 5 preservam seu estado histórico. Para decisões posteriores, consultar 07–09 e 13. Cinco períodos flexíveis não são cinco eras obrigatórias; datas documentais não são calendário ficcional. Resultados de arcos, panteões, destinos e game design continuam sujeitos a decisões próprias.
 
-A base é `main` após o merge dos PRs #1 e #2, commit `463c0d9a03db3caffaf66b7f05d6ff7a6d8fa90f`. A Bíblia auditada, o índice, a matriz, os registros de pesquisa e os oito ZIPs originais permanecem preservados. Veja a [auditoria da Fase 4](../pesquisa/fase-3/21-Auditoria-Editorial-e-Canonica-Fase-4.md).
+## Base, preservação e publicação
 
-A arquitetura está na branch `lore/fase-5-arquitetura-adaptada` para revisão. A incorporação dos documentos não aprova automaticamente alternativas incompatíveis entre si. Consolidação do cânone adaptado, ascensões, mortes definitivas, resultados de arcos e cosmologia dependem de aprovação expressa do criador no [registro de decisões](06-Propostas-e-Decisoes-Pendentes.md#decisoes). Nenhum merge automático está autorizado.
+Canon Original auditado nos PRs #1/#2; arquitetura no PR #3; fundamentos aprovados no PR #4, confirmado mesclado antes desta sincronização. [Bíblia](../canon-original/17-Biblia-Canon-Original.md) e [auditoria](../pesquisa/fase-3/21-Auditoria-Editorial-e-Canonica-Fase-4.md) preservadas com fontes, índice e matriz.
+
+As análises finais são publicadas por branch, commits e PR, com merge autorizado após verificações. Veja [fluxo permanente de publicação e preservação](../Fluxo-de-Publicacao-e-Preservacao.md). Instruções específicas futuras prevalecem. Publicação não escreve continuação definitiva nem inicia Fase 6.
