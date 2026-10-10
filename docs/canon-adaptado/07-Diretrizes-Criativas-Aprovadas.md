@@ -51,4 +51,4 @@ Conhecimentos, religiões, tecnologias, tradições, artefatos e instituições 
 
 **ACONTECIMENTO CANÔNICO DEFINITIVO:** nenhum acontecimento posterior à campanha foi aprovado por esta consolidação. A última cena recuperável do original continua sendo a chegada de Ymir e Beatriz à cidade dos elfos, seguida de fim de sessão; isso não encerra a história.
 
-Não foi autorizada a Fase 6, a continuação definitiva ou a mesclagem automática deste material.
+Na entrega original, Fase 6, continuação definitiva e merge automático não estavam autorizados. A autorização operacional posterior de [publicação e merge após verificações](../Fluxo-de-Publicacao-e-Preservacao.md) substitui apenas a restrição de merge; limites narrativos permanecem. Direções posteriores do Bloco D estão no [registro 13](13-Registro-de-Decisoes-do-Bloco-D.md).
