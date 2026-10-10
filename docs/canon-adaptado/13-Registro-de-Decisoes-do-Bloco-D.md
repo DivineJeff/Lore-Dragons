@@ -1,6 +1,6 @@
 # Registro de decisões do Bloco D
 
-Consolidação do registro preparatório local 24 e das decisões expressas do criador. A publicação e o merge não aprovam alternativas narrativas. Fontes de aprovação: pedidos “FASE 5.1 — BLOCO D: DIREÇÕES DE MICHAEL E LILITH + ANÁLISE DE RANS E HENRY” e “FASE 5.1 — BLOCO D: DIREÇÕES DE RANS E HENRY + ANÁLISE DE HARRY E BYTES”.
+Consolidação do registro preparatório local 24 e das decisões expressas do criador. A publicação e o merge não aprovam alternativas narrativas. Fontes de aprovação: pedidos “FASE 5.1 — BLOCO D: DIREÇÕES DE MICHAEL E LILITH + ANÁLISE DE RANS E HENRY”, “FASE 5.1 — BLOCO D: DIREÇÕES DE RANS E HENRY + ANÁLISE DE HARRY E BYTES” e “FASE 5.1 — BLOCO D: HARRY E BYTES + ANÁLISE APROFUNDADA DE YMIR E KIAN”.
 
 ## Estados obrigatórios
 
@@ -46,18 +46,34 @@ Objeto, operação, alcance, requisitos, exclusões e interfaces das autoridades
 
 ## Harry e Bytes
 
-**PROPOSTA PENDENTE:** oito alternativas aprofundadas, combinações, autoridades candidatas e recomendações do [documento 14](14-Bloco-D-Harry-e-Bytes-Alternativas.md). HARRY-A a HARRY-D e BYTES-A a BYTES-D são identificadores analíticos, sem aprovação de direção ou destino.
+A análise do [documento 14](14-Bloco-D-Harry-e-Bytes-Alternativas.md) preserva o estado da rodada anterior. A deliberação posterior aprova direções, sem aprovar as cadeias causais.
+
+| ID | Estado | Conteúdo e limites |
+| --- | --- | --- |
+| DD-09 | DIREÇÃO DE DESENVOLVIMENTO APROVADA | Harry: HARRY-A sob tensões de HARRY-B. Potência institucional com enorme influência política, estratégica e histórica; conflito entre proteger/organizar sociedades e convertê-las em instrumentos de controle pessoal. Preservar auxílio, investigação, coerção e manipulação, sem absolvição automática ou antagonismo inevitável. |
+| DD-10 | PROPOSTA PENDENTE | Harry: HARRY-C, transcendência dependente de resolução adaptada Harry–Astro, sem ponte corporal, compartilhamento de identidade ou continuidade criada aprovados. HARRY-D, coexistência delimitada, é candidatura mitológica relevante para investigação futura; autoridade, ascensão, imortalidade e presença na época do jogador não aprovadas. |
+| DD-11 | DIREÇÃO DE DESENVOLVIMENTO APROVADA | Bytes: BYTES-A + BYTES-D. Exploração e transmissão de conhecimentos com identidade histórica própria e potencial para contribuir para civilização extraordinária. Investigar civilização voluntária e possível realidade habitável distinta, preservando autonomia e protagonismo dos habitantes, colaboradores e demais fundadores. Nenhuma sociedade é automaticamente propriedade de Bytes. |
+| DD-12 | PROPOSTA PENDENTE | Bytes: BYTES-B como conflito potencial; BYTES-C como transcendência candidata. Habitabilidade em BYTES-D permanece candidatura cosmológica, sem poder ou ascensão aprovados. Favor, entidade e esfera não têm origem comum obrigatória nem destino definido; venda da alma não comprovada. |
+| DD-13 | DIREÇÃO DE DESENVOLVIMENTO APROVADA | Harry e Bytes mantêm trajetórias independentes. Violência de Harry contra Bytes não pode ser apagada, relativizada ou convertida automaticamente em reconciliação. Cooperação futura considera interesses/autonomia de Bytes; amizade, rivalidade eterna, perdão, instituição ou ascensão conjunta não são obrigatórios. |
+
+**PROPOSTA PENDENTE:** todas as fundações, guerras, descobertas específicas, transformações, ascensões, mortes e destinos das cadeias do documento 14. Aprovação de direção não confirma fundação civilizacional como acontecimento histórico definitivo.
 
 **CANON ORIGINAL:** Harry–Astro é associação provável, sem ponte corporal recuperada; favor de Bytes foi assinado com entidade desconhecida, sem venda da alma comprovada; toque na esfera não prova morte ou absorção final. Busca de Nairóbi continua aberta. Consultar [PS-022](../canon-original/19-Matriz-Canon-Critico.md#ps-022) e [PS-031](../canon-original/19-Matriz-Canon-Critico.md#ps-031).
 
+## Ymir e Kian/Lúcifer/Azazel
+
+**PROPOSTA PENDENTE:** as alternativas, combinações, transformações e candidaturas do [documento 15](15-Bloco-D-Ymir-e-Kian-Alternativas.md). Nenhuma direção de Ymir ou Kian foi escolhida nesta rodada. A orientação de diversificar motivações, conflitos, consequências e formas de grandeza vale para o desenvolvimento; não distribui arquétipos nem aprova acontecimentos.
+
+**CANON ORIGINAL:** Note é pseudônimo anterior à máscara, persona de Ymir, não segundo ser. Ymir e Beatriz chegam à cidade dos elfos; busca da irmã e torneio permanecem abertos. Kian/Lúcifer/Azazel têm continuidade pessoal confirmada externamente; mecanismo adulto–bebê não recuperado. Consultar [PS-018](../canon-original/19-Matriz-Canon-Critico.md#ps-018), [PS-025](../canon-original/19-Matriz-Canon-Critico.md#ps-025) e [PS-021](../canon-original/19-Matriz-Canon-Critico.md#ps-021).
+
 ## Próximas decisões
 
-Deliberar separadamente sobre Harry e Bytes: direção política/histórica, possíveis combinações e eventual investigação de natureza extraordinária. Para Harry, decidir a ponte adaptada com Astro antes de tratar continuidade como premissa narrativa. Para Bytes, decidir se e como desenvolver favor e esfera, sem fundir suas causas automaticamente. Rans/Henry têm direções aprovadas, mas suas naturezas e acontecimentos continuam abertos. Relações não eliminam agência própria; reencontros e conflitos não estão consumados.
+Deliberar separadamente sobre YMIR-A/B/C/D e KIAN-A/B/C/D: direção principal, combinações que merecem aprofundamento e candidaturas extraordinárias a investigar. As dez características de cada candidatura divina no documento 15 continuam propostas. Mecanismos futuros não explicam retroativamente a passagem Kian–Azazel. Decidir resultados de buscas, relações e acontecimentos concretos em etapas próprias; nenhuma presença na época do jogador está garantida.
 
 **ACONTECIMENTO CANÔNICO DEFINITIVO:** nenhum novo destino, ascensão, autoridade individual, guerra ou morte foi aprovado. Fase 6 e continuação definitiva permanecem sem início.
 
 ## Reconciliação e publicação
 
-O conteúdo aprovado dos Blocos A, B e C do arquivo preparatório 24 já está nos documentos 07–09; não foi duplicado. DD-01 a DD-04 registram a rodada Michael/Lilith; DD-05 a DD-08 registram a deliberação posterior Rans/Henry, com direções e candidaturas separadas. O registro 09 aponta para esta atualização. Os arquivos locais 25, 27 e 28 foram incorporados como 10, 11 e 12, preservando alternativas, justificativas e cadeias causais, com referências ajustadas. O documento 14 preserva integralmente a nova análise de Harry/Bytes. Recomendações antigas nos documentos 10–12 descrevem seus estados anteriores; este registro contém a decisão atual.
+O conteúdo aprovado dos Blocos A, B e C do arquivo preparatório 24 já está nos documentos 07–09; não foi duplicado. DD-01 a DD-04 registram a rodada Michael/Lilith; DD-05 a DD-08 registram a deliberação posterior Rans/Henry, com direções e candidaturas separadas. O registro 09 aponta para esta atualização. Os arquivos locais 25, 27 e 28 foram incorporados como 10, 11 e 12, preservando alternativas, justificativas e cadeias causais, com referências ajustadas. O documento 14 preserva integralmente a análise Harry/Bytes; DD-09 a DD-13 registram a deliberação posterior. O documento 15 acrescenta a análise Ymir/Kian. Recomendações antigas nos documentos 10–14 descrevem seus estados anteriores; este registro contém a decisão atual.
 
 O fluxo anterior de retenção local/revisão manual foi substituído pela [autorização permanente de publicação e preservação](../Fluxo-de-Publicacao-e-Preservacao.md). Essa autorização é operacional, não narrativa. Instruções específicas futuras do criador prevalecem.
