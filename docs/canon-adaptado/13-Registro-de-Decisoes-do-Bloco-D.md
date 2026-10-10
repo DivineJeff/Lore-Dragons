@@ -1,6 +1,6 @@
 # Registro de decisões do Bloco D
 
-Consolidação do registro preparatório local 24 e das decisões expressas do criador. A publicação e o merge não aprovam alternativas narrativas. Fontes de aprovação: pedidos “FASE 5.1 — BLOCO D: DIREÇÕES DE MICHAEL E LILITH + ANÁLISE DE RANS E HENRY”, “FASE 5.1 — BLOCO D: DIREÇÕES DE RANS E HENRY + ANÁLISE DE HARRY E BYTES”, “FASE 5.1 — BLOCO D: HARRY E BYTES + ANÁLISE APROFUNDADA DE YMIR E KIAN” e “FASE 5.1 — BLOCO D: YMIR REALMHEART, DIVINDADE SUPREMA, E BEATRIZ”.
+Consolidação do registro preparatório local 24 e das decisões expressas do criador. A publicação e o merge não aprovam alternativas narrativas. Fontes de aprovação: pedidos “FASE 5.1 — BLOCO D: DIREÇÕES DE MICHAEL E LILITH + ANÁLISE DE RANS E HENRY”, “FASE 5.1 — BLOCO D: DIREÇÕES DE RANS E HENRY + ANÁLISE DE HARRY E BYTES”, “FASE 5.1 — BLOCO D: HARRY E BYTES + ANÁLISE APROFUNDADA DE YMIR E KIAN”, “FASE 5.1 — BLOCO D: YMIR REALMHEART, DIVINDADE SUPREMA, E BEATRIZ” e “FASE 5.1 — BLOCO D: DEFINIÇÃO DA SUPREMACIA DE YMIR E DESENVOLVIMENTO DA ASCENSÃO”.
 
 ## Estados obrigatórios
 
@@ -9,6 +9,8 @@ Consolidação do registro preparatório local 24 e das decisões expressas do c
 | CANON ORIGINAL | Fato recuperado com qualificações, contradições e lacunas da campanha; HERDADO DO RPG é identificação de origem equivalente. |
 | DIRETRIZ CRIATIVA APROVADA | Fundamento expressamente autorizado; Blocos A, B e C em [07](07-Diretrizes-Criativas-Aprovadas.md), [08](08-Fundamentos-Cosmologicos.md) e [09](09-Registro-de-Aprovacoes-e-Pendencias.md). |
 | DIREÇÃO DE DESENVOLVIMENTO APROVADA | Escolha de trajetória para aprofundamento; não confirma todos os acontecimentos necessários. |
+| DIREÇÃO COSMOLÓGICA APROVADA | Fundamento e orientação cosmológica escolhidos, sem implantação detalhada ou acontecimentos automaticamente aprovados. |
+| DIREÇÃO DE ASCENSÃO APROVADA PARA APROFUNDAMENTO | Arquitetura escolhida para desenvolver; não fixa quantidade de transformações, guerra, ruptura ou cronologia. |
 | PROPOSTA PENDENTE | Alternativa, mecanismo, combinação ou recomendação ainda não escolhidos. |
 | OBJETIVO CRIATIVO DE DESTINO APROVADO | Destino geral expressamente escolhido; não estabelece mecanismo, cronologia ou acontecimentos individuais. |
 | INFORMAÇÃO AUTORAL CONFIRMADA | Declaração direta do criador; origem autoral separada de evidência documental do Discord e de cronologia ainda não definida. |
@@ -73,21 +75,33 @@ A análise do [documento 14](14-Bloco-D-Harry-e-Bytes-Alternativas.md) preserva 
 | ID | Estado | Conteúdo e limites |
 | --- | --- | --- |
 | DD-14 | OBJETIVO CRIATIVO DE DESTINO APROVADO | Ymir Realmheart deverá alcançar DIVINDADE SUPREMA na história adaptada. Supremacia verdadeira e objetiva, não apenas título religioso. Destino geral escolhido, sem equivalência final com permanecer mortal ou transcendente comum; ausência de mecanismos não autoriza rebaixamento. |
-| DD-15 | PROPOSTA PENDENTE | Significado preciso da supremacia, autoridade constitutiva, aquisição, cronologia, acontecimentos, condições de existência, personalidade, relações divinas e consequências cósmicas. Modelos A–D e quatro arquiteturas do documento 16 são propostas; nenhuma ascensão individual já ocorrida. |
+| DD-15 | PROPOSTA PENDENTE | Significado preciso da supremacia, autoridade constitutiva, aquisição, cronologia, acontecimentos, condições de existência, personalidade, relações divinas e consequências cósmicas. A deliberação inicial dos modelos A–D está preservada no documento 16; a escolha posterior D/B e II/possível IV está em DD-19/DD-20. Implementações específicas permanecem pendentes; nenhuma ascensão individual já ocorrida. |
 | DD-16 | INFORMAÇÃO AUTORAL CONFIRMADA | Beatriz, a elfa, é esposa de Ymir Realmheart, por declaração expressa do criador nesta rodada. Não é fala recuperada do Discord; não inventar cerimônia, data, filhos ou acontecimentos intermediários. |
 | DD-17 | PROPOSTA PENDENTE | Cronologia do casamento e reconciliação com a declaração documental de julho de 2024. Casamento posterior é conciliação possível, não fato escolhido. Se o criador definir casamento anterior/já vigente nessa cena, registrar correção autoral transparente preservando os registros. Ver nota 17. |
 | DD-18 | DIRETRIZ CRIATIVA APROVADA | Beatriz conserva identidade élfica, origem/família, vínculo com Berthold, condição de princesa, conhecimentos, capacidades, objetivos e autonomia. Casamento não aprova divindade, imortalidade, consorte divina, governo de plano, autoridade partilhada ou subordinação. |
 
 A [análise específica 16](16-Bloco-D-Ymir-Divindade-Suprema-e-Beatriz.md) e a [nota autoral 17](17-Nota-Autoral-Casamento-Ymir-Beatriz.md) separam destino aprovado, casamento confirmado por autoria, evidência histórica e propostas. Note permanece pseudônimo/persona da mesma pessoa. Supremacia não transforma outros protagonistas em auxiliares ou subordinados automáticos.
 
+## Definição da supremacia e desenvolvimento histórico — rodada posterior
+
+| ID | Estado | Conteúdo e limites |
+| --- | --- | --- |
+| DD-19 | DIREÇÃO COSMOLÓGICA APROVADA | Modelo D, supremacia integrada, com Modelo B como operação central: estabelecer, sustentar ou reformular condições fundamentais de atuação e efeitos de autoridades divinas sobre a realidade. Nenhuma entidade possui instância superior no fundamento abrangido. Explorar toda a cosmologia, incluindo planos/divindades anteriores, sem presumir criação retroativa. Consequências hierárquicas/existenciais derivam do mesmo fundamento; não mera mediação, título, elemento, energia ou propaganda. |
+| DD-20 | DIREÇÃO DE ASCENSÃO APROVADA PARA APROFUNDAMENTO | Arquitetura II, emergência de autoridade, com possível desenvolvimento até Arquitetura IV, ruptura/reconstituição. Primeiro estado divino e supremacia podem não coincidir; não confirmar duas ascensões, guerra divina ou destruição de ordem anterior. |
+| DD-21 | PROPOSTA PENDENTE | Três trajetórias históricas do documento 18, testes concretos, detalhes de autoridade/natureza, acontecimentos, poderes individuais, alcance implementado, propriedades absolutas, cronologia, papel de Ymir no presente e destino futuro de Beatriz. DD-14 mantém destino supremo aprovado; DD-16 mantém casamento autoral confirmado, com cronologia DD-17 ainda pendente. |
+
+A [análise histórica 18](18-Bloco-D-Ymir-Arquiteturas-de-Ascensao-Suprema.md) propõe causas, agentes, decisões e consequências para realizar a direção aprovada. Supremacia não exige superioridade em toda capacidade particular; não introduzir esgotamento/custos arbitrários para dar relevância aos demais. Onipotência, onisciência, onipresença, independência existencial, imortalidade e criação são propriedades distintas, ainda sujeitas às decisões indicadas no documento 18.
+
+Beatriz é esposa; casamento posterior ao diálogo de 27/07/2024 continua possibilidade editorial compatível, sem data ou cerimônia escolhidas. Sua condição futura é independente da ascensão; nenhuma existência, transformação ou sacrifício dela é requisito obrigatório. Kian e os outros protagonistas mantêm decisões e destinos próprios.
+
 ## Próximas decisões
 
-Escolher modelo de supremacia e arquitetura de aquisição de autoridade de Ymir, preservando o destino geral aprovado. Deliberar sobre cronologia do casamento e natureza futura de Beatriz separadamente. KIAN-A/B/C/D e seu mecanismo futuro continuam em discussão, sem explicar retroativamente adulto–bebê. Nenhum resultado da busca da irmã, casamento cerimonial, descendência ou presença na época do jogador foi definido.
+Escolher entre as três arquiteturas históricas do documento 18 e aprofundar acontecimentos/mecanismos dentro de D/B e II/possível IV já aprovados. Deliberar sobre cronologia do casamento e natureza futura de Beatriz separadamente. KIAN-A/B/C/D e seu mecanismo futuro continuam em discussão, sem explicar retroativamente adulto–bebê. Nenhum resultado da busca da irmã, casamento cerimonial, descendência ou presença na época do jogador foi definido.
 
 **ACONTECIMENTO CANÔNICO DEFINITIVO:** nenhuma cena nova de ascensão, autoridade específica adquirida, guerra, morte ou cerimônia aprovada. Isso não revoga DD-14 (destino geral) nem DD-16 (informação conjugal autoral). Fase 6 e continuação definitiva permanecem sem início.
 
 ## Reconciliação e publicação
 
-O conteúdo aprovado dos Blocos A, B e C do arquivo preparatório 24 já está nos documentos 07–09; não foi duplicado. DD-01 a DD-04 registram a rodada Michael/Lilith; DD-05 a DD-08 registram a deliberação posterior Rans/Henry, com direções e candidaturas separadas. O registro 09 aponta para esta atualização. Os arquivos locais 25, 27 e 28 foram incorporados como 10, 11 e 12, preservando alternativas, justificativas e cadeias causais, com referências ajustadas. O documento 14 preserva integralmente a análise Harry/Bytes; DD-09 a DD-13 registram a deliberação posterior. O documento 15 acrescenta a análise Ymir/Kian. A escolha posterior Ymir/Beatriz está em DD-14 a DD-18 e documentos 16–17. Recomendações antigas nos documentos 10–15 descrevem seus estados anteriores; este registro contém a decisão atual.
+O conteúdo aprovado dos Blocos A, B e C do arquivo preparatório 24 já está nos documentos 07–09; não foi duplicado. DD-01 a DD-04 registram a rodada Michael/Lilith; DD-05 a DD-08 registram a deliberação posterior Rans/Henry, com direções e candidaturas separadas. O registro 09 aponta para esta atualização. Os arquivos locais 25, 27 e 28 foram incorporados como 10, 11 e 12, preservando alternativas, justificativas e cadeias causais, com referências ajustadas. O documento 14 preserva integralmente a análise Harry/Bytes; DD-09 a DD-13 registram a deliberação posterior. O documento 15 acrescenta a análise Ymir/Kian. A escolha posterior Ymir/Beatriz está em DD-14 a DD-18 e documentos 16–17; DD-19 a DD-21 registram a direção cosmológica/ascensão e pendências históricas do documento 18. Recomendações antigas nos documentos 10–15 descrevem seus estados anteriores; este registro contém a decisão atual.
 
 O fluxo anterior de retenção local/revisão manual foi substituído pela [autorização permanente de publicação e preservação](../Fluxo-de-Publicacao-e-Preservacao.md). Essa autorização é operacional, não narrativa. Instruções específicas futuras do criador prevalecem.

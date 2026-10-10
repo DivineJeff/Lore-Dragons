@@ -1,5 +1,7 @@
 # Ymir Realmheart — divindade suprema e Beatriz
 
+**Deliberação posterior:** Modelo D com operação central B e emergência II com possível evolução IV foram aprovados para desenvolvimento. Este documento preserva os modelos e arquiteturas da rodada anterior; não altera a história já recuperada. Estado atual em [13](13-Registro-de-Decisoes-do-Bloco-D.md), três trajetórias propostas em [18](18-Bloco-D-Ymir-Arquiteturas-de-Ascensao-Suprema.md).
+
 ## Decisão autoral e escopo desta rodada
 
 **OBJETIVO CRIATIVO DE DESTINO APROVADO — DD-14:** Ymir Realmheart deverá alcançar **DIVINDADE SUPREMA** na história adaptada de Dragons. O destino geral está escolhido; permanecer mortal ou transcendente comum não é final equivalente. As propostas deste documento disputam como realizar essa escolha com grandeza objetiva. Mecanismos ausentes não autorizam reduzir a condição pretendida.
