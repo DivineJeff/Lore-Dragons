@@ -1,5 +1,7 @@
 # Kian / Lúcifer / Azazel — deliberação histórica e mitológica
 
+**Deliberação posterior do criador:** A+D sob consequências de B aprovado como direção histórica; convivência diferenciada e responsabilidade por atos aprovadas, sem integração total obrigatória. Integração parcial permanece proposta. Natureza futura aberta: investigar transcendência e C, sem limitar possível divindade à conversão mana/energia inversa; outras autoridades poderão ser propostas conforme Bloco C. Arsenal, guerra, vitória, renúncia, redenção, instituição e destino não aprovados. A análise abaixo preserva seu estado original; decisões atuais em [13](13-Registro-de-Decisoes-do-Bloco-D.md), próximas alternativas em [20](20-Bloco-D-God-Zilla-e-EREN-Alternativas-Aprofundadas.md).
+
 ## Estado e finalidade desta rodada
 
 **PROPOSTA PENDENTE:** KIAN-A, B, C e D, as combinações, os mecanismos, os agentes novos e todos os acontecimentos futuros deste documento. A análise direciona a escolha, sem repetir as quatro cadeias completas do [documento 15](15-Bloco-D-Ymir-e-Kian-Alternativas.md). As recomendações são **ADAPTADO DO RPG + CRIADO PARA O JOGO**, não destinos escolhidos.
