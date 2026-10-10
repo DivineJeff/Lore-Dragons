@@ -17,6 +17,7 @@ Esta pasta reúne a arquitetura da Fase 5, os fundamentos aprovados da Fase 5.1 
 11. [Michael e Lilith: alternativas aprofundadas](11-Bloco-D-Michael-e-Lilith-Alternativas.md) — seis cadeias causais e cenários relacionais.
 12. [Rans e Henry: alternativas aprofundadas](12-Bloco-D-Rans-e-Henry-Alternativas.md) — oito cadeias e testes cosmológicos.
 13. [Registro de decisões do Bloco D](13-Registro-de-Decisoes-do-Bloco-D.md) — direções aprovadas e escolhas ainda abertas.
+14. [Harry e Bytes: alternativas aprofundadas](14-Bloco-D-Harry-e-Bytes-Alternativas.md) — oito cadeias de dez pontos, identidade, compromissos, relações e testes cosmológicos; propostas pendentes.
 
 ## Como ler
 
@@ -24,7 +25,7 @@ Esta pasta reúne a arquitetura da Fase 5, os fundamentos aprovados da Fase 5.1 
 
 **DIRETRIZ CRIATIVA APROVADA:** fundamento autorizado. **DIREÇÃO DE DESENVOLVIMENTO APROVADA:** trajetória escolhida para aprofundar. **PROPOSTA PENDENTE:** alternativa não escolhida. **ACONTECIMENTO CANÔNICO DEFINITIVO:** ocorrência concreta expressamente aprovada. Nenhum acontecimento novo foi aprovado pela publicação destas análises.
 
-Michael: expansão com possibilidade de evolução para alianças. Lilith: construção de potência sob pressões de autoridade. Relação: autonomia com cooperação e competição possíveis. Natureza futura de ambos pendente. Todas as alternativas de Rans/Henry e recomendações respectivas continuam pendentes.
+Michael: expansão com possibilidade de evolução para alianças. Lilith: construção de potência sob pressões de autoridade. Rans: proteção com influência estratégica e conflitos de confiança (R-A + R-D). Henry: artífice civilizacional com conflitos de distribuição de conhecimentos (H-A + H-D). Relações preservam autonomia, cooperação e divergências possíveis. Naturezas extraordinárias dos quatro permanecem pendentes; R-C tem prioridade de investigação, sem autoridade aprovada. Todas as alternativas de Harry/Bytes continuam pendentes. Direções aprovadas não confirmam acontecimentos.
 
 Os seis documentos da Fase 5 preservam seu estado histórico. Para decisões posteriores, consultar 07–09 e 13. Cinco períodos flexíveis não são cinco eras obrigatórias; datas documentais não são calendário ficcional. Resultados de arcos, panteões, destinos e game design continuam sujeitos a decisões próprias.
 

@@ -1,6 +1,6 @@
 # Registro de decisões do Bloco D
 
-Consolidação do registro preparatório local 24 e das decisões expressas do criador. A publicação e o merge não aprovam alternativas narrativas. Fonte: pedido “FASE 5.1 — BLOCO D: DIREÇÕES DE MICHAEL E LILITH + ANÁLISE DE RANS E HENRY”.
+Consolidação do registro preparatório local 24 e das decisões expressas do criador. A publicação e o merge não aprovam alternativas narrativas. Fontes de aprovação: pedidos “FASE 5.1 — BLOCO D: DIREÇÕES DE MICHAEL E LILITH + ANÁLISE DE RANS E HENRY” e “FASE 5.1 — BLOCO D: DIREÇÕES DE RANS E HENRY + ANÁLISE DE HARRY E BYTES”.
 
 ## Estados obrigatórios
 
@@ -29,25 +29,35 @@ A [comparação dos doze](10-Bloco-D-Comparacao-dos-12-Protagonistas.md) preserv
 
 ## Rans e Henry
 
-**PROPOSTA PENDENTE:** todas as oito alternativas e suas combinações no [documento 12](12-Bloco-D-Rans-e-Henry-Alternativas.md).
+As alternativas do [documento 12](12-Bloco-D-Rans-e-Henry-Alternativas.md) permanecem preservadas como análise anterior. A nova deliberação aprova direções, não suas cadeias de eventos.
 
-| Personagem | Alternativas | Recomendação editorial não aprovada |
+| ID | Estado | Conteúdo e limites |
 | --- | --- | --- |
-| Rans | R-A herói/protetor; R-B transcendente vinculado; R-C divindade candidata da separabilidade delimitada; R-D estrategista do segredo e confiança contestada. | Aprofundar R-D e R-C em contraste; não é direção escolhida pelo criador. |
-| Henry | H-A artífice civilizacional; H-B defensor transcendente; H-C divindade candidata da sustentação estrutural; H-D distribuidor insurgente de conhecimentos e capacidade. | H-A com possibilidade de H-D; não é direção escolhida pelo criador. |
+| DD-05 | DIREÇÃO DE DESENVOLVIMENTO APROVADA | Rans: R-A + R-D, herói protetor que desenvolve influência estratégica, política ou histórica e enfrenta conflitos de informação, confiança, segredos e autonomia. Preservar vínculos e contradições; consequências, oposição e crescimento. Nem manipulador cruel automático nem herói moralmente perfeito. Não limitar antecipadamente sua grandeza. |
+| DD-06 | DIREÇÃO DE DESENVOLVIMENTO APROVADA | Henry: H-A + H-D, grande artífice civilizacional confrontado pela distribuição e pelo controle de conhecimentos e capacidades. Conquistas dependem de aprendizado, colaboração, recursos e acontecimentos concretos. Michael pode cooperar ou divergir; ruptura não é inevitável. |
+| DD-07 | PROPOSTA PENDENTE | Rans: R-C, possível autoridade da separabilidade de vínculos extraordinários, recebe prioridade de investigação mitológica. Prioridade não aprova autoridade, mecanismo ou ascensão. R-B, transcendência sem divindade, continua disponível. |
+| DD-08 | PROPOSTA PENDENTE | Henry: H-B e H-C continuam possibilidades posteriores de transcendência ou divindade; nenhuma transformação extraordinária, autoridade ou mecanismo de ascensão aprovado. |
 
 Objeto, operação, alcance, requisitos, exclusões e interfaces das autoridades sugeridas são propostas. Nenhum domínio foi atribuído. Transcendência não exige divindade nem constitui etapa obrigatória para ela. Rans e Henry não formam dupla necessária.
 
 **CANON ORIGINAL:** falsa morte de Rans não é ressurreição; aplicação do selo não demonstrada; Hermione não tem morte confirmada. Morte e reaparição de Henry são documentadas, com causa desconhecida. A análise não explica retroativamente seu retorno. Veja [PS-038](../canon-original/19-Matriz-Canon-Critico.md#ps-038) e [PS-023](../canon-original/19-Matriz-Canon-Critico.md#ps-023).
 
+**PROPOSTA PENDENTE:** guerras, fundações de instituições, conquistas, obras específicas, mudanças corporais, ascensões, divindades individuais, mortes definitivas, destinos finais e todos os eventos das cadeias causais anteriores. DD-05/DD-06 não os aprovam em conjunto.
+
+## Harry e Bytes
+
+**PROPOSTA PENDENTE:** oito alternativas aprofundadas, combinações, autoridades candidatas e recomendações do [documento 14](14-Bloco-D-Harry-e-Bytes-Alternativas.md). HARRY-A a HARRY-D e BYTES-A a BYTES-D são identificadores analíticos, sem aprovação de direção ou destino.
+
+**CANON ORIGINAL:** Harry–Astro é associação provável, sem ponte corporal recuperada; favor de Bytes foi assinado com entidade desconhecida, sem venda da alma comprovada; toque na esfera não prova morte ou absorção final. Busca de Nairóbi continua aberta. Consultar [PS-022](../canon-original/19-Matriz-Canon-Critico.md#ps-022) e [PS-031](../canon-original/19-Matriz-Canon-Critico.md#ps-031).
+
 ## Próximas decisões
 
-Selecionar separadamente eixos de Rans e Henry, combinações e prioridade de natureza extraordinária, sem aprovar automaticamente cadeias de acontecimentos. Relações com Lilith/Michael não eliminam agência própria; reencontros e conflitos não estão consumados. Antes dos próximos protagonistas, deliberar sobre essas alternativas.
+Deliberar separadamente sobre Harry e Bytes: direção política/histórica, possíveis combinações e eventual investigação de natureza extraordinária. Para Harry, decidir a ponte adaptada com Astro antes de tratar continuidade como premissa narrativa. Para Bytes, decidir se e como desenvolver favor e esfera, sem fundir suas causas automaticamente. Rans/Henry têm direções aprovadas, mas suas naturezas e acontecimentos continuam abertos. Relações não eliminam agência própria; reencontros e conflitos não estão consumados.
 
 **ACONTECIMENTO CANÔNICO DEFINITIVO:** nenhum novo destino, ascensão, autoridade individual, guerra ou morte foi aprovado. Fase 6 e continuação definitiva permanecem sem início.
 
 ## Reconciliação e publicação
 
-O conteúdo aprovado dos Blocos A, B e C do arquivo preparatório 24 já está nos documentos 07–09; não foi duplicado. As novas direções DD-01 a DD-03 e pendência DD-04 são consolidadas aqui. O registro 09 aponta para esta atualização. Os arquivos locais 25, 27 e 28 foram incorporados como 10, 11 e 12, preservando alternativas, justificativas e cadeias causais, com referências ajustadas.
+O conteúdo aprovado dos Blocos A, B e C do arquivo preparatório 24 já está nos documentos 07–09; não foi duplicado. DD-01 a DD-04 registram a rodada Michael/Lilith; DD-05 a DD-08 registram a deliberação posterior Rans/Henry, com direções e candidaturas separadas. O registro 09 aponta para esta atualização. Os arquivos locais 25, 27 e 28 foram incorporados como 10, 11 e 12, preservando alternativas, justificativas e cadeias causais, com referências ajustadas. O documento 14 preserva integralmente a nova análise de Harry/Bytes. Recomendações antigas nos documentos 10–12 descrevem seus estados anteriores; este registro contém a decisão atual.
 
 O fluxo anterior de retenção local/revisão manual foi substituído pela [autorização permanente de publicação e preservação](../Fluxo-de-Publicacao-e-Preservacao.md). Essa autorização é operacional, não narrativa. Instruções específicas futuras do criador prevalecem.
