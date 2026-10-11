@@ -1,5 +1,7 @@
 # Índice rápido do cânone — Dragons
 
+**Estado atual — B002.3:** B002 encerrado no escopo crítico; C=D=19562, principal sem C=69751, zero diferença; auditoria global em andamento, B003 planejado. [Checkpoint atual](../canon-adaptado/27-Auditoria-B002-3-Fechamento-e-Qualidade.md). Números e conclusões das seções anteriores são registros históricos preservados.
+
 Fase 4 · Revisão 3 · 10/10/2026
 
 ## Leitura por assunto

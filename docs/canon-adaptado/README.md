@@ -1,5 +1,7 @@
 # Canon Adaptado — diretrizes e propostas
 
+**Estado atual — B002.3:** B002 encerrado no escopo crítico; C=D=19562, principal sem C=69751, zero diferença; auditoria global em andamento, B003 planejado. [Checkpoint atual](27-Auditoria-B002-3-Fechamento-e-Qualidade.md). Números e conclusões das seções anteriores são registros históricos preservados.
+
 Esta pasta reúne a arquitetura da Fase 5, os fundamentos aprovados da Fase 5.1 e análises do Bloco D. Publicação não aprova automaticamente propostas ou acontecimentos. GitHub é a fonte oficial atualizada; cópias locais são material de trabalho.
 
 ## Documentos

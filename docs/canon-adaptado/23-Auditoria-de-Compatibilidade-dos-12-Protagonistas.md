@@ -341,3 +341,7 @@ Para Mulack, Philip Glorian e pesquisa racial já estão incorporados na Bíblia
 OM-011 corrige somente premissas factuais repetidas sobre Kian nos documentos 02/15/19: mente ainda Kian, morte aparente dele desfeita por Westia, velha dormindo ao entrar na cabana. Continuidade pessoal, responsabilidade e convivência diferenciada permanecem aprovadas. Nenhum DD-01–43 alterado.
 
 Ver [B002.2](26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2). Ymir segue supremacia D/B e Trajetória I; Beatriz é esposa por informação autoral, sem cronologia fixada. B003 e grandes acontecimentos permanecem por executar.
+
+## Reconciliação B002.3
+
+OM-015 corrige agente da prisão de Ymir: habitantes de aldeia em árvores, sem atribuição comprovada à Árvore Rainha. OM-016–019 enriquecem motivações/limites e ramos menores; não impõem direções novas. Kian mantém continuidade externa com mecanismo aberto; Harry/Astro provável; Mulack sobrevivência adaptada preservada; Rans remoção ainda não confirmada; Beatriz esposa e cronologia aberta. Propostas de torre/conselho/transferência da Árvore não implantação completa. [Impactos e fontes](27-Auditoria-B002-3-Fechamento-e-Qualidade.md). DD-01–43/D/B/Trajetória I intactos; sem novos acontecimentos definitivos.

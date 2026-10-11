@@ -1,5 +1,7 @@
 # Auditoria B002 — continuidades e varredura sistemática
 
+**Estado atual — B002.3:** B002 encerrado no escopo crítico; C=D=19562, principal sem C=69751, zero diferença; auditoria global em andamento, B003 planejado. [Checkpoint atual](27-Auditoria-B002-3-Fechamento-e-Qualidade.md). Números e conclusões das seções anteriores são registros históricos preservados.
+
 <a id="checkpoint-b002-2"></a>
 
 ## Checkpoint B002.2 — confronto concluído nos intervalos, B002 ainda parcial

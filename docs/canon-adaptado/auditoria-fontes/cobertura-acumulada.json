@@ -1,20 +1,20 @@
 {
-  "checkpoint": "B002.2",
+  "checkpoint": "B002.3",
   "A_inventory": "CONCLUÍDO",
   "B_processing": "CONCLUÍDO",
   "C_triage": "PARCIAL",
   "D_confrontation": "PARCIAL",
   "B001_distinct": 437,
-  "B002_new_distinct": 9994,
+  "B002_new_distinct": 19125,
   "B002_revisited_B001_distinct": 17,
-  "C_cumulative_distinct": 10431,
-  "D_cumulative_distinct": 10431,
-  "C_principal_distinct": 10273,
-  "C_principal_percent": 11.522629,
-  "C_combined_percent": 11.679151,
-  "D_combined_percent": 11.679151,
+  "C_cumulative_distinct": 19562,
+  "D_cumulative_distinct": 19562,
+  "C_principal_distinct": 19404,
+  "C_principal_percent": 21.764343,
+  "C_combined_percent": 21.902747,
+  "D_combined_percent": 21.902747,
   "powers_distinct": 158,
-  "remaining_principal_C": 78882,
+  "remaining_principal_C": 69751,
   "per_source": [
     {
       "source": "S001",
@@ -43,18 +43,18 @@
     {
       "source": "S004",
       "messages": 58,
-      "C_distinct": 0,
-      "D_distinct": 0,
-      "remaining_C": 58,
-      "state": "NÃO INICIADA"
+      "C_distinct": 58,
+      "D_distinct": 58,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S005",
       "messages": 991,
-      "C_distinct": 0,
-      "D_distinct": 0,
-      "remaining_C": 991,
-      "state": "NÃO INICIADA"
+      "C_distinct": 991,
+      "D_distinct": 991,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S006",
@@ -91,10 +91,10 @@
     {
       "source": "S010",
       "messages": 635,
-      "C_distinct": 0,
-      "D_distinct": 0,
-      "remaining_C": 635,
-      "state": "NÃO INICIADA"
+      "C_distinct": 635,
+      "D_distinct": 635,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S011",
@@ -235,9 +235,9 @@
     {
       "source": "S028",
       "messages": 163,
-      "C_distinct": 5,
-      "D_distinct": 5,
-      "remaining_C": 158,
+      "C_distinct": 9,
+      "D_distinct": 9,
+      "remaining_C": 154,
       "state": "PARCIAL"
     },
     {
@@ -307,9 +307,9 @@
     {
       "source": "S037",
       "messages": 938,
-      "C_distinct": 15,
-      "D_distinct": 15,
-      "remaining_C": 923,
+      "C_distinct": 19,
+      "D_distinct": 19,
+      "remaining_C": 919,
       "state": "PARCIAL"
     },
     {
@@ -331,10 +331,10 @@
     {
       "source": "S040",
       "messages": 13,
-      "C_distinct": 0,
-      "D_distinct": 0,
-      "remaining_C": 13,
-      "state": "NÃO INICIADA"
+      "C_distinct": 13,
+      "D_distinct": 13,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S041",
@@ -419,18 +419,18 @@
     {
       "source": "S051",
       "messages": 9,
-      "C_distinct": 0,
-      "D_distinct": 0,
-      "remaining_C": 9,
-      "state": "NÃO INICIADA"
+      "C_distinct": 9,
+      "D_distinct": 9,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S052",
       "messages": 234,
-      "C_distinct": 0,
-      "D_distinct": 0,
-      "remaining_C": 234,
-      "state": "NÃO INICIADA"
+      "C_distinct": 234,
+      "D_distinct": 234,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S053",
@@ -571,10 +571,10 @@
     {
       "source": "S070",
       "messages": 802,
-      "C_distinct": 0,
-      "D_distinct": 0,
-      "remaining_C": 802,
-      "state": "NÃO INICIADA"
+      "C_distinct": 802,
+      "D_distinct": 802,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S071",
@@ -731,10 +731,10 @@
     {
       "source": "S090",
       "messages": 428,
-      "C_distinct": 0,
-      "D_distinct": 0,
-      "remaining_C": 428,
-      "state": "NÃO INICIADA"
+      "C_distinct": 428,
+      "D_distinct": 428,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S091",
@@ -955,9 +955,9 @@
     {
       "source": "S118",
       "messages": 213,
-      "C_distinct": 10,
-      "D_distinct": 10,
-      "remaining_C": 203,
+      "C_distinct": 33,
+      "D_distinct": 33,
+      "remaining_C": 180,
       "state": "PARCIAL"
     },
     {
@@ -995,9 +995,9 @@
     {
       "source": "S123",
       "messages": 1494,
-      "C_distinct": 20,
-      "D_distinct": 20,
-      "remaining_C": 1474,
+      "C_distinct": 24,
+      "D_distinct": 24,
+      "remaining_C": 1470,
       "state": "PARCIAL"
     },
     {
@@ -1115,10 +1115,10 @@
     {
       "source": "S138",
       "messages": 1295,
-      "C_distinct": 0,
-      "D_distinct": 0,
-      "remaining_C": 1295,
-      "state": "NÃO INICIADA"
+      "C_distinct": 205,
+      "D_distinct": 205,
+      "remaining_C": 1090,
+      "state": "PARCIAL"
     },
     {
       "source": "S139",
@@ -1251,9 +1251,9 @@
     {
       "source": "S155",
       "messages": 739,
-      "C_distinct": 15,
-      "D_distinct": 15,
-      "remaining_C": 724,
+      "C_distinct": 26,
+      "D_distinct": 26,
+      "remaining_C": 713,
       "state": "PARCIAL"
     },
     {
@@ -1275,10 +1275,10 @@
     {
       "source": "S158",
       "messages": 2116,
-      "C_distinct": 836,
-      "D_distinct": 836,
-      "remaining_C": 1280,
-      "state": "PARCIAL"
+      "C_distinct": 2116,
+      "D_distinct": 2116,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S159",
@@ -1299,10 +1299,10 @@
     {
       "source": "S161",
       "messages": 1716,
-      "C_distinct": 216,
-      "D_distinct": 216,
-      "remaining_C": 1500,
-      "state": "PARCIAL"
+      "C_distinct": 1716,
+      "D_distinct": 1716,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S162",
@@ -1435,9 +1435,9 @@
     {
       "source": "S178",
       "messages": 1422,
-      "C_distinct": 37,
-      "D_distinct": 37,
-      "remaining_C": 1385,
+      "C_distinct": 41,
+      "D_distinct": 41,
+      "remaining_C": 1381,
       "state": "PARCIAL"
     },
     {
@@ -1483,10 +1483,10 @@
     {
       "source": "S184",
       "messages": 578,
-      "C_distinct": 0,
-      "D_distinct": 0,
-      "remaining_C": 578,
-      "state": "NÃO INICIADA"
+      "C_distinct": 578,
+      "D_distinct": 578,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S185",
@@ -1507,10 +1507,10 @@
     {
       "source": "S187",
       "messages": 2962,
-      "C_distinct": 614,
-      "D_distinct": 614,
-      "remaining_C": 2348,
-      "state": "PARCIAL"
+      "C_distinct": 2962,
+      "D_distinct": 2962,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
     },
     {
       "source": "S188",
@@ -1729,8 +1729,8 @@
       "state": "TRIAGEM INTEGRAL"
     }
   ],
-  "deduplication": "União de IDs em B001, B002.1 e B002.2; revisitas não aumentam C, D acrescenta apenas IDs anteriormente sem confronto.",
-  "previous_checkpoint": "B002.1",
+  "deduplication": "União dos IDs de B001/B002.1/B002.2/B002.3; QA e revisitas não aumentam progresso anterior.",
+  "previous_checkpoint": "B002.2",
   "B002_1_new_distinct": 4105,
   "B002_2_metrics": {
     "new_C_distinct": 5889,
@@ -1745,5 +1745,54 @@
     "remaining_principal_C": 78882,
     "recovery_reread_accesses": 41
   },
-  "C_without_D_distinct": 0
+  "C_without_D_distinct": 0,
+  "state_at_B002_2": {
+    "checkpoint": "B002.2",
+    "A_inventory": "CONCLUÍDO",
+    "B_processing": "CONCLUÍDO",
+    "C_triage": "PARCIAL",
+    "D_confrontation": "PARCIAL",
+    "B001_distinct": 437,
+    "B002_new_distinct": 9994,
+    "B002_revisited_B001_distinct": 17,
+    "C_cumulative_distinct": 10431,
+    "D_cumulative_distinct": 10431,
+    "C_principal_distinct": 10273,
+    "C_principal_percent": 11.522629,
+    "C_combined_percent": 11.679151,
+    "D_combined_percent": 11.679151,
+    "powers_distinct": 158,
+    "remaining_principal_C": 78882,
+    "deduplication": "União de IDs em B001, B002.1 e B002.2; revisitas não aumentam C, D acrescenta apenas IDs anteriormente sem confronto.",
+    "previous_checkpoint": "B002.1",
+    "B002_1_new_distinct": 4105,
+    "B002_2_metrics": {
+      "new_C_distinct": 5889,
+      "revisited_previous_C_distinct": 574,
+      "new_D_distinct": 6458,
+      "previous_C_without_D_confronted": 569,
+      "C_cumulative_distinct": 10431,
+      "D_cumulative_distinct": 10431,
+      "C_without_D_distinct": 0,
+      "distinct_reviewed_this_checkpoint": 6463,
+      "partially_read_content_messages": 0,
+      "remaining_principal_C": 78882,
+      "recovery_reread_accesses": 41
+    },
+    "C_without_D_distinct": 0
+  },
+  "batch_status": "CONCLUÍDO NO ESCOPO CRÍTICO DECLARADO",
+  "B002_3_metrics": {
+    "new_C_distinct": 9131,
+    "revisited_previous_C_distinct": 197,
+    "new_D_distinct": 9131,
+    "C_cumulative_distinct": 19562,
+    "D_cumulative_distinct": 19562,
+    "C_without_D_distinct": 0,
+    "distinct_reviewed_this_checkpoint": 9328,
+    "registered_read_accesses_with_overlap": 9333,
+    "internal_reread_accesses_not_additional_coverage": 92,
+    "remaining_principal_C": 69751,
+    "partially_read_content_messages": 0
+  }
 }

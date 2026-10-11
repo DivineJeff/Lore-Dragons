@@ -1,0 +1,488 @@
+{
+  "seed": "DRAGONS-B002.3-QA-v1",
+  "population": 10431,
+  "method": "6 fontes por estado, menor SHA256(seed+estado+source); um ID por fonte pelo menor SHA256(seed+ID); complemento dirigido declarado, não aleatório e sem pesos estatísticos. Classes semânticas verificadas após leitura, não rótulos individuais existentes.",
+  "samples": [
+    {
+      "sample": "Q01",
+      "source": "S016",
+      "index": 85,
+      "id": "1250984815877161011",
+      "stratum": "fonte TRIAGEM INTEGRAL; seleção SHA256",
+      "context": [
+        81,
+        89
+      ],
+      "timestamp_utc": "2024-06-14T01:27:02.279000+00:00",
+      "effective_classification": "METAJOGO SEM EFEITO",
+      "documents_confronted": "CONT-019; Michael",
+      "result": "Discussão Gojo/Black Flash fora de personagem; combate vizinho não concede habilidade. Mantido D por tratamento de exclusão.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "333295e4f96b944064db23a25befff605d5e6ffb9de215c372bbc8043bea105f"
+    },
+    {
+      "sample": "Q02",
+      "source": "S182",
+      "index": 115,
+      "id": "1208541824352780319",
+      "stratum": "fonte TRIAGEM INTEGRAL; seleção SHA256",
+      "context": [
+        111,
+        119
+      ],
+      "timestamp_utc": "2024-02-17T22:33:44.547000+00:00",
+      "effective_classification": "RESOLUÇÃO DO MESTRE",
+      "documents_confronted": "CONT-006; God/Kian",
+      "result": "Aprende chamar elevador por documentos; detalhe operacional do percurso, não viagem dimensional. Contexto já coberto.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "b447ef96e4fd33be55b085546dfbbdbc4b940f8dd7ba634b1563f7520c710a2e"
+    },
+    {
+      "sample": "Q03",
+      "source": "S001",
+      "index": 524,
+      "id": "1248799900477689876",
+      "stratum": "fonte TRIAGEM INTEGRAL; seleção SHA256",
+      "context": [
+        520,
+        528
+      ],
+      "timestamp_utc": "2024-06-08T00:44:57.854000+00:00",
+      "effective_classification": "AÇÃO/FALA; RESULTADO LIMITADO",
+      "documents_confronted": "CONT-018; Ymir",
+      "result": "Cura tentada/alívio não garante sobrevivência da mãe alce. Morte posterior conservada, sem omissão causal.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "435b816b0a86aeb6e9a714a9f4d803d66b2c9d8d713ec6a615c463fb2ab23406"
+    },
+    {
+      "sample": "Q04",
+      "source": "S008",
+      "index": 307,
+      "id": "1267311219405094912",
+      "stratum": "fonte TRIAGEM INTEGRAL; seleção SHA256",
+      "context": [
+        303,
+        311
+      ],
+      "timestamp_utc": "2024-07-29T02:42:20.210000+00:00",
+      "effective_classification": "AÇÃO DE DESLOCAMENTO",
+      "documents_confronted": "Harry/Astro; ARC-017",
+      "result": "Caminha becos do mercado; não novo plano cósmico ou ponte nominal. Contexto e geografia suficientes.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "64330bf32baf4081d53fbd37ef94ea71edae3e75ca1a707e7c3c9f2f01cd23cb"
+    },
+    {
+      "sample": "Q05",
+      "source": "S003",
+      "index": 420,
+      "id": "1266967745287688192",
+      "stratum": "fonte TRIAGEM INTEGRAL; seleção SHA256",
+      "context": [
+        416,
+        424
+      ],
+      "timestamp_utc": "2024-07-28T03:57:29.599000+00:00",
+      "effective_classification": "METAJOGO DE PERSONALIDADE",
+      "documents_confronted": "Rans/Hermione; PS-038",
+      "result": "Referência Geto não alteração ficcional automática; entorno definição Vento separado. Mantido.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "8d5d92cdd5f8af1dd10390c3f1fe717ba36faeeb9bafd5f97755fbbfcbb6db62"
+    },
+    {
+      "sample": "Q06",
+      "source": "S174",
+      "index": 9,
+      "id": "1239762446936182894",
+      "stratum": "fonte TRIAGEM INTEGRAL; seleção SHA256",
+      "context": [
+        5,
+        12
+      ],
+      "timestamp_utc": "2024-05-14T02:13:21.022000+00:00",
+      "effective_classification": "REAÇÃO AMBÍGUA",
+      "documents_confronted": "Bytes; CRIT-020; PS-031",
+      "result": "Reação não explica esfera; toque posterior sem resposta. Classificação B001 mantida.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "6fb831a6d44367be9ebe0a5fad726405408e7b2a75171fac5e3852c4611759d5"
+    },
+    {
+      "sample": "Q07",
+      "source": "S158",
+      "index": 1381,
+      "id": "1200994056684175390",
+      "stratum": "fonte PARCIAL; seleção SHA256",
+      "context": [
+        1377,
+        1385
+      ],
+      "timestamp_utc": "2024-01-28T02:41:36.504000+00:00",
+      "effective_classification": "PERGUNTA OOC",
+      "documents_confronted": "Mulack; CONT-005",
+      "result": "Pergunta sobre fases da dungeon, não evento futuro executado. Philip/formação tratados no contexto.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "0ad2f4c0020ed323f55047bfcf91aadd4fdfcab090f36dd71eda060453f7642c"
+    },
+    {
+      "sample": "Q08",
+      "source": "S037",
+      "index": 301,
+      "id": "1189750160436248686",
+      "stratum": "fonte PARCIAL; seleção SHA256",
+      "context": [
+        297,
+        305
+      ],
+      "timestamp_utc": "2023-12-28T02:02:22.737000+00:00",
+      "effective_classification": "CORREÇÃO OOC DO MESTRE",
+      "documents_confronted": "HAB-009; Henry; Rans",
+      "result": "Pergunta/retificação: era preparação, não ataque consumado; contraste percebido não percepção ilimitada. Mantido.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "6d64b20de33289625e9109cfe11f0d1d78969c529dfbcdffa5fe2417f3d4217a"
+    },
+    {
+      "sample": "Q09",
+      "source": "S178",
+      "index": 460,
+      "id": "1214381016207069236",
+      "stratum": "fonte PARCIAL; seleção SHA256",
+      "context": [
+        456,
+        464
+      ],
+      "timestamp_utc": "2024-03-05T01:16:36.372000+00:00",
+      "effective_classification": "AÇÃO/DIÁLOGO",
+      "documents_confronted": "CONT-010; HAB-014; Henry",
+      "result": "Conduz pássaro e comenta vapor; asa-delta falha, não nova habilidade universal. D mantido.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "a6b63bcf10227084346d24b2e746cfe88d67209a9e01a3c398c1adfb9385a61e"
+    },
+    {
+      "sample": "Q10",
+      "source": "S155",
+      "index": 479,
+      "id": "1210458560560107581",
+      "stratum": "fonte PARCIAL; seleção SHA256",
+      "context": [
+        475,
+        483
+      ],
+      "timestamp_utc": "2024-02-23T05:30:10.070000+00:00",
+      "effective_classification": "AUXILIAR SEM CONTEÚDO FICCIONAL",
+      "documents_confronted": "HAB-004; Michael",
+      "result": "Letra isolada em conversa sobre contagem de mana. Rótulo B001 contexto de ação/fala demasiadamente amplo; corrigido para auxiliar. Não remove C/D nem altera derrota narrada.",
+      "decision": "CORRIGIR RÓTULO INDIVIDUAL; PRESERVAR C/D",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "148de9c5a7a44d19e56cd9ae1a554bf67847afb0c58f6e12fa29ac7ddfca9940"
+    },
+    {
+      "sample": "Q11",
+      "source": "S028",
+      "index": 65,
+      "id": "1186853483962441748",
+      "stratum": "fonte PARCIAL; seleção SHA256",
+      "context": [
+        61,
+        69
+      ],
+      "timestamp_utc": "2023-12-20T02:12:01.248000+00:00",
+      "effective_classification": "METAJOGO/MECÂNICA",
+      "documents_confronted": "HAB-002; Michael/Rans",
+      "result": "Alegação de purificar mana não prova superioridade universal; mestre explica Perfurar e diz básico. Mantido.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "996234042d45481053bda24e3c384a88156bfe4f86400c3deb86483cf22049b6"
+    },
+    {
+      "sample": "Q12",
+      "source": "S123",
+      "index": 225,
+      "id": "1198737140071289004",
+      "stratum": "fonte PARCIAL; seleção SHA256",
+      "context": [
+        221,
+        229
+      ],
+      "timestamp_utc": "2024-01-21T21:13:25.652000+00:00",
+      "effective_classification": "AÇÃO PROPOSTA",
+      "documents_confronted": "HAB-004; CONT-003; Michael",
+      "result": "Barragem/clones/velocidade são autodeclaração, não concessão automática. Bíblia já distingue proposta de resultado.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "a3d48d192b3b312fc6364e406dd77a101b5aa6cc71982c4ef7ebab384d1fb907"
+    },
+    {
+      "sample": "Q13",
+      "source": "S013",
+      "index": 2245,
+      "id": "1256034729728413797",
+      "stratum": "retificação/identidade; seleção dirigida",
+      "context": [
+        2241,
+        2249
+      ],
+      "timestamp_utc": "2024-06-27T23:53:35.564000+00:00",
+      "effective_classification": "ESCLARECIMENTO AUXILIAR",
+      "documents_confronted": "Kian; CONT-017",
+      "result": "Reação à explosão dos braços e demonificação posterior; não identidade nova nem conhecimento universal. Mantido.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "9ddca739d02bf25dce68678c03b1ff380358dccd95acc65a17035726e0244116"
+    },
+    {
+      "sample": "Q14",
+      "source": "S013",
+      "index": 2375,
+      "id": "1264714281186885642",
+      "stratum": "correção publicada; seleção dirigida",
+      "context": [
+        2371,
+        2379
+      ],
+      "timestamp_utc": "2024-07-21T22:43:01.890000+00:00",
+      "effective_classification": "NARRAÇÃO DE ESTADO",
+      "documents_confronted": "Kian; CONT-017",
+      "result": "Desmaia/acorda em céu roxo; não morte real ou descanso na cabana. Mantido.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "ebb40057e956e70157e8c3ec558973682250d31b83c4ba5969ef003c7474a116"
+    },
+    {
+      "sample": "Q15",
+      "source": "S023",
+      "index": 742,
+      "id": "1265827765341519953",
+      "stratum": "diálogo conjugal; seleção dirigida",
+      "context": [
+        738,
+        746
+      ],
+      "timestamp_utc": "2024-07-25T00:27:37.200000+00:00",
+      "effective_classification": "DIÁLOGO NPC",
+      "documents_confronted": "Beatriz; CONT-020; OM-014",
+      "result": "Autonomia e nove livros; tratamento pequena não idade infantil ou cerimônia. Mantido.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "b2e99358a815aa2180117a769e32e7203f6811fcfc04ce18c548b29714279562"
+    },
+    {
+      "sample": "Q16",
+      "source": "S008",
+      "index": 211,
+      "id": "1266951386948435969",
+      "stratum": "continuidade/hospedeira; seleção dirigida",
+      "context": [
+        207,
+        215
+      ],
+      "timestamp_utc": "2024-07-28T02:52:29.467000+00:00",
+      "effective_classification": "AÇÃO DE SAÍDA",
+      "documents_confronted": "Astro; CONT-020",
+      "result": "Sai do cassino; não prova saída do corpo feminino nesse ID. Disposição de intervalo válida no conjunto, sem atribuir todo evento a cada mensagem.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "833ac635fb2f542d8ed0bf021c2d9662e4b3b631e8e7b133dce3e0002c7951fa"
+    },
+    {
+      "sample": "Q17",
+      "source": "S001",
+      "index": 762,
+      "id": "1249466921376550962",
+      "stratum": "poder/correção publicada; seleção dirigida",
+      "context": [
+        758,
+        766
+      ],
+      "timestamp_utc": "2024-06-09T20:55:28.029000+00:00",
+      "effective_classification": "DIÁLOGO NPC",
+      "documents_confronted": "Myria; CONT-018",
+      "result": "Menina diz magia Natureza ensinada pela mãe; não novo poder Ymir. Estrato inicial era indicativo do intervalo, corrigido aqui para conteúdo efetivo.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "b3fbab1ba7e7cf804e941133a6d172be1e92a5587edfdae01c110bc59577b14c"
+    },
+    {
+      "sample": "Q18",
+      "source": "S023",
+      "index": 551,
+      "id": "1264750464344522823",
+      "stratum": "livro/correção publicada; seleção dirigida",
+      "context": [
+        547,
+        555
+      ],
+      "timestamp_utc": "2024-07-22T01:06:48.627000+00:00",
+      "effective_classification": "LIMITE DO MESTRE",
+      "documents_confronted": "Ymir; OM-013; CRIT-027",
+      "result": "Pode levar anos: não treino concluído até grau7. Bíblia mantém leitura distinta de execução.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "71c533ebe336b2e5238398319639bf7bfbca24b0ab4c2fdcefb3de9f6b043e0c"
+    },
+    {
+      "sample": "Q19",
+      "source": "PWR001",
+      "index": 0,
+      "id": "1184158911138385961",
+      "stratum": "fonte auxiliar; seleção dirigida",
+      "context": [
+        0,
+        4
+      ],
+      "timestamp_utc": "2023-12-12T15:44:45.024000+00:00",
+      "effective_classification": "DEFINIÇÃO DO MESTRE",
+      "documents_confronted": "HAB-001; Michael",
+      "result": "Punhos de Ferro +25/0maestria; não invulnerabilidade. Referência coincide com definição publicada.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "449660753b3cae99c74f2d79d6bb97612360ca3547304d0a85d6fd8f942907fc"
+    },
+    {
+      "sample": "Q20",
+      "source": "S198",
+      "index": 0,
+      "id": "1191935255842652281",
+      "stratum": "metajogo/memorial; seleção dirigida",
+      "context": [
+        0,
+        4
+      ],
+      "timestamp_utc": "2024-01-03T02:45:10.079000+00:00",
+      "effective_classification": "FICHA EDITADA",
+      "documents_confronted": "Mulack; OM-002; CRIT-004",
+      "result": "Morto em ficha editada não data a inserção; memorial conflita com retificação. Mantido.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "950cd3d1a3dc1cbd07f324af2b581e25dca5a80fedbcc9859f41b4aac8e99204"
+    },
+    {
+      "sample": "Q21",
+      "source": "S013",
+      "index": 1849,
+      "id": "1253899431401492600",
+      "stratum": "complemento dirigido: correção OM-011",
+      "context": [
+        1845,
+        1853
+      ],
+      "timestamp_utc": "2024-06-22T02:28:40.771000+00:00",
+      "effective_classification": "NARRAÇÃO/DEFINIÇÃO",
+      "documents_confronted": "Kian; OM-011; CRIT-006",
+      "result": "Mente ainda Kian, pouco conhecimento; correção incorporada à Bíblia e02/15/19. Mantido.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "48ebd3121c1a69176568f0dd0faa488cc6579b8fee78027b30d30b91146e6397"
+    },
+    {
+      "sample": "Q22",
+      "source": "S013",
+      "index": 2305,
+      "id": "1256055716578590780",
+      "stratum": "complemento dirigido: retificação OM-011",
+      "context": [
+        2301,
+        2313
+      ],
+      "timestamp_utc": "2024-06-28T01:16:59.219000+00:00",
+      "effective_classification": "RETIFICAÇÃO DO MESTRE",
+      "documents_confronted": "Kian; OM-011; CONT-017",
+      "result": "Explosão da cabeça foi ilusão que Westia desfaz; aparente morte é de Azazel. Correção anterior correta.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "9b40fbf95d8ffe4f5a57036e2d6e0c29a208f18fc43bc923f008e9bc3ad0a395"
+    },
+    {
+      "sample": "Q23",
+      "source": "S001",
+      "index": 839,
+      "id": "1249503535641526303",
+      "stratum": "complemento dirigido: correção OM-010",
+      "context": [
+        835,
+        843
+      ],
+      "timestamp_utc": "2024-06-09T23:20:57.550000+00:00",
+      "effective_classification": "DEFINIÇÃO/RESULTADO",
+      "documents_confronted": "Ymir; OM-010; CRIT-027",
+      "result": "Raio6m com custo grave; 10m posterior permanece distinto. Correção anterior mantida.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "0340da5a60a1efdd2be6c465104d11168b5ebcd571a89be120d02604c8a7f27a"
+    },
+    {
+      "sample": "Q24",
+      "source": "S023",
+      "index": 875,
+      "id": "1266903430354702428",
+      "stratum": "complemento dirigido: diálogo OM-014",
+      "context": [
+        871,
+        880
+      ],
+      "timestamp_utc": "2024-07-27T23:41:55.724000+00:00",
+      "effective_classification": "DIÁLOGO CONJUGAL",
+      "documents_confronted": "Ymir/Beatriz; OM-014",
+      "result": "Chama esposa antes de casados nesse diálogo; declaração autoral preservada, cronologia não resolvida.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "7bbd8c793ff3bda57800f8bbf364d3ba321719269b6fab1c19ca7db3fb722d55"
+    },
+    {
+      "sample": "Q25",
+      "source": "S198",
+      "index": 3,
+      "id": "1208627711023644682",
+      "stratum": "complemento dirigido: mensagem sem texto",
+      "context": [
+        0,
+        4
+      ],
+      "timestamp_utc": "2024-02-18T04:15:01.525000+00:00",
+      "effective_classification": "SEM TEXTO",
+      "documents_confronted": "Mulack; S198",
+      "result": "Não acrescenta fato; contexto memorial analisado, D válido pela disposição explícita.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "sample": "Q26",
+      "source": "S198",
+      "index": 16,
+      "id": "1319339050569695234",
+      "stratum": "complemento dirigido: spam irrelevante",
+      "context": [
+        12,
+        16
+      ],
+      "timestamp_utc": "2024-12-19T16:22:21.790000+00:00",
+      "effective_classification": "SPAM NÃO CANÔNICO",
+      "documents_confronted": "S198; PS-032",
+      "result": "Mensagem comercial sem papel ficcional; irrelevância contextual confirmada. Não abrir link nem produzir acontecimento.",
+      "decision": "MANTER",
+      "original_D_verified_in_scope": true,
+      "original_text_sha256": "aacef5441ff2901cce25c1007bbf3686649835436cd235e0cb9a66d09db7e379"
+    }
+  ],
+  "checkpoint": "B002.3",
+  "sample_size": 26,
+  "random_hash_selected": 12,
+  "purposive_complement": 14,
+  "classification_corrections": 1,
+  "fictional_false_confirmation_found": 0,
+  "omitted_important_conclusions_in_sample": 0,
+  "scope": "Nova verificação dos registros/documentos, independente do mero cálculo de C=D; não segundo avaliador humano ou certificação estatística do restante.",
+  "limitations": [
+    "B002.1/2 registram categorias não exclusivas e disposição por intervalo, não classificação semântica individual de todos os IDs.",
+    "Estratos semânticos são conferidos após leitura; seleção dirigida não é aleatória, não permite estimar taxa global de erros.",
+    "Q10 expõe rótulo amplo do B001; demais casos mostram que templates exigem conferência contextual. Correção aditiva localizada, sem modificar ledger histórico."
+  ]
+}
