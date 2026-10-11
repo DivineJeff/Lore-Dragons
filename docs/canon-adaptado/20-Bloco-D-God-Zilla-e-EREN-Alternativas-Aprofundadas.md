@@ -1,5 +1,7 @@
 # God-Zilla e EREN — alternativas históricas e mitológicas aprofundadas
 
+**Deliberação posterior do criador:** GOD-B+A e EREN-A+B aprovados como direções. God-C/D permanecem possibilidades futuras; EREN-D é complemento prioritário e C segue disponível. Ana mantém autonomia, títulos/Árvore não conferem divindade ou soberania, não há dupla obrigatória. Nenhuma autoridade, transformação ou ocorrência específica aprovada. A análise abaixo preserva sua rodada original; estado atual em [13](13-Registro-de-Decisoes-do-Bloco-D.md), próximas alternativas em [21](21-Bloco-D-Mulack-e-Yakkatsu-Alternativas-Aprofundadas.md), panorama preparatório em [22](22-Panorama-Preparatorio-dos-12-Protagonistas.md).
+
 ## Estado, escopo e método
 
 **Estado das oito arquiteturas: PROPOSTA PENDENTE.** São ADAPTADO DO RPG + CRIADO PARA O JOGO, com causas, escolhas e consequências futuras para deliberar. Nenhum agente novo, fenômeno, obra, instituição, conquista ou transformação foi aprovado por escrever ou publicar esta análise. **ACONTECIMENTO CANÔNICO DEFINITIVO:** nenhuma ocorrência nova nesta rodada.
