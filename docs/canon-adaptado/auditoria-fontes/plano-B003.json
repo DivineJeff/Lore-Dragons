@@ -1,0 +1,899 @@
+{
+  "checkpoint_prepared_at": "B002.3",
+  "batch": "B003",
+  "status": "PLANEJADO; NÃO EXECUTADO",
+  "base_coverage": {
+    "new_C_distinct": 9131,
+    "revisited_previous_C_distinct": 197,
+    "new_D_distinct": 9131,
+    "C_cumulative_distinct": 19562,
+    "D_cumulative_distinct": 19562,
+    "C_without_D_distinct": 0,
+    "distinct_reviewed_this_checkpoint": 9328,
+    "registered_read_accesses_with_overlap": 9333,
+    "internal_reread_accesses_not_additional_coverage": 92,
+    "remaining_principal_C": 69751,
+    "partially_read_content_messages": 0
+  },
+  "interval_convention": "zero-based inclusive; complementar a união C/D dos quatro ledgers",
+  "priorities": [
+    {
+      "characters": "Bytes",
+      "sources": [
+        {
+          "source": "S014",
+          "messages": 244,
+          "unreviewed_intervals": [
+            [
+              0,
+              243
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S126",
+          "messages": 1231,
+          "unreviewed_intervals": [
+            [
+              0,
+              1230
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S173",
+          "messages": 2446,
+          "unreviewed_intervals": [
+            [
+              0,
+              2445
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S174",
+          "messages": 13,
+          "unreviewed_intervals": [],
+          "already_complete_skip": true
+        }
+      ],
+      "related": "PS-031; CRIT-020/021; ARC-013",
+      "objectives_and_risks": "Nairóbi, favor, esfera, capacidades e consequências; distinguir autocura, Nines, pedido e concessão.",
+      "done_when": "Sequência delimitada/contextos lidos e confrontados; estado, causas, contradições e últimas presenças registrados; limites de cobertura explícitos."
+    },
+    {
+      "characters": "Yakkatsu",
+      "sources": [
+        {
+          "source": "S022",
+          "messages": 2041,
+          "unreviewed_intervals": [
+            [
+              0,
+              2040
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S081",
+          "messages": 571,
+          "unreviewed_intervals": [
+            [
+              0,
+              570
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S118",
+          "messages": 213,
+          "unreviewed_intervals": [
+            [
+              0,
+              77
+            ],
+            [
+              101,
+              116
+            ],
+            [
+              122,
+              122
+            ],
+            [
+              128,
+              212
+            ]
+          ],
+          "already_complete_skip": false
+        }
+      ],
+      "related": "PS-030; CRIT-019; ARC-006/014",
+      "objectives_and_risks": "Bardock, Stwart, Inferno e último estado; não fundir STWART LITTLE ou dragões por cor.",
+      "done_when": "Sequência delimitada/contextos lidos e confrontados; estado, causas, contradições e últimas presenças registrados; limites de cobertura explícitos."
+    },
+    {
+      "characters": "God-Zilla",
+      "sources": [
+        {
+          "source": "S117",
+          "messages": 193,
+          "unreviewed_intervals": [
+            [
+              0,
+              192
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S133",
+          "messages": 154,
+          "unreviewed_intervals": [
+            [
+              0,
+              153
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S134",
+          "messages": 225,
+          "unreviewed_intervals": [
+            [
+              0,
+              224
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S135",
+          "messages": 214,
+          "unreviewed_intervals": [
+            [
+              0,
+              213
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S178",
+          "messages": 1422,
+          "unreviewed_intervals": [
+            [
+              0,
+              428
+            ],
+            [
+              434,
+              455
+            ],
+            [
+              465,
+              474
+            ],
+            [
+              480,
+              1166
+            ],
+            [
+              1173,
+              1187
+            ],
+            [
+              1194,
+              1194
+            ],
+            [
+              1205,
+              1421
+            ]
+          ],
+          "already_complete_skip": false
+        }
+      ],
+      "related": "PS-017/029; CRIT-017; ARC-010",
+      "objectives_and_risks": "Gotter/Árvore, caçada e vínculos; não transformar pedido de ajuda em nomeação de guardião.",
+      "done_when": "Sequência delimitada/contextos lidos e confrontados; estado, causas, contradições e últimas presenças registrados; limites de cobertura explícitos."
+    },
+    {
+      "characters": "EREN",
+      "sources": [
+        {
+          "source": "S032",
+          "messages": 197,
+          "unreviewed_intervals": [
+            [
+              0,
+              196
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S084",
+          "messages": 464,
+          "unreviewed_intervals": [
+            [
+              0,
+              463
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S095",
+          "messages": 348,
+          "unreviewed_intervals": [
+            [
+              0,
+              347
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S159",
+          "messages": 440,
+          "unreviewed_intervals": [
+            [
+              0,
+              439
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S166",
+          "messages": 2700,
+          "unreviewed_intervals": [
+            [
+              0,
+              1789
+            ],
+            [
+              1795,
+              1822
+            ],
+            [
+              1828,
+              2699
+            ]
+          ],
+          "already_complete_skip": false
+        }
+      ],
+      "related": "PS-012; CRIT-002/010; ARC-004",
+      "objectives_and_risks": "Ana, título Natureza, coroa, capacidades/últimos estados; título autodeclarado não ascensão.",
+      "done_when": "Sequência delimitada/contextos lidos e confrontados; estado, causas, contradições e últimas presenças registrados; limites de cobertura explícitos."
+    },
+    {
+      "characters": "Lilith",
+      "sources": [
+        {
+          "source": "S037",
+          "messages": 938,
+          "unreviewed_intervals": [
+            [
+              0,
+              296
+            ],
+            [
+              306,
+              318
+            ],
+            [
+              324,
+              324
+            ],
+            [
+              330,
+              937
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S057",
+          "messages": 361,
+          "unreviewed_intervals": [
+            [
+              0,
+              360
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S076",
+          "messages": 792,
+          "unreviewed_intervals": [
+            [
+              0,
+              791
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S077",
+          "messages": 414,
+          "unreviewed_intervals": [
+            [
+              0,
+              413
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S087",
+          "messages": 774,
+          "unreviewed_intervals": [
+            [
+              0,
+              773
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S102",
+          "messages": 32,
+          "unreviewed_intervals": [
+            [
+              0,
+              31
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S151",
+          "messages": 691,
+          "unreviewed_intervals": [
+            [
+              0,
+              690
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S166",
+          "messages": 2700,
+          "unreviewed_intervals": [
+            [
+              0,
+              1789
+            ],
+            [
+              1795,
+              1822
+            ],
+            [
+              1828,
+              2699
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S173",
+          "messages": 2446,
+          "unreviewed_intervals": [
+            [
+              0,
+              2445
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S185",
+          "messages": 1811,
+          "unreviewed_intervals": [
+            [
+              0,
+              1810
+            ]
+          ],
+          "already_complete_skip": false
+        }
+      ],
+      "related": "PS-014/028/039; CRIT-002/015/023; ARC-008/012",
+      "objectives_and_risks": "Hads, Emma, governos e relações; autonomia de NPCs, ordem versus resultado e braço não regenerado por plano.",
+      "done_when": "Sequência delimitada/contextos lidos e confrontados; estado, causas, contradições e últimas presenças registrados; limites de cobertura explícitos."
+    },
+    {
+      "characters": "Michael",
+      "sources": [
+        {
+          "source": "S155",
+          "messages": 739,
+          "unreviewed_intervals": [
+            [
+              0,
+              439
+            ],
+            [
+              445,
+              445
+            ],
+            [
+              451,
+              467
+            ],
+            [
+              484,
+              738
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S159",
+          "messages": 440,
+          "unreviewed_intervals": [
+            [
+              0,
+              439
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S166",
+          "messages": 2700,
+          "unreviewed_intervals": [
+            [
+              0,
+              1789
+            ],
+            [
+              1795,
+              1822
+            ],
+            [
+              1828,
+              2699
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S170",
+          "messages": 680,
+          "unreviewed_intervals": [
+            [
+              0,
+              679
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S175",
+          "messages": 470,
+          "unreviewed_intervals": [
+            [
+              0,
+              469
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S185",
+          "messages": 1811,
+          "unreviewed_intervals": [
+            [
+              0,
+              1810
+            ]
+          ],
+          "already_complete_skip": false
+        }
+      ],
+      "related": "PS-034/035/040; CRIT-009/016; ARC-010/019",
+      "objectives_and_risks": "Governo/conflitos/projetos; alianças pretendidas não anexação consumada. Gwierlan vivo não adjudica cada relato.",
+      "done_when": "Sequência delimitada/contextos lidos e confrontados; estado, causas, contradições e últimas presenças registrados; limites de cobertura explícitos."
+    },
+    {
+      "characters": "Rans",
+      "sources": [
+        {
+          "source": "S075",
+          "messages": 175,
+          "unreviewed_intervals": [
+            [
+              0,
+              174
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S076",
+          "messages": 792,
+          "unreviewed_intervals": [
+            [
+              0,
+              791
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S104",
+          "messages": 165,
+          "unreviewed_intervals": [
+            [
+              0,
+              164
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S165",
+          "messages": 199,
+          "unreviewed_intervals": [
+            [
+              0,
+              198
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S166",
+          "messages": 2700,
+          "unreviewed_intervals": [
+            [
+              0,
+              1789
+            ],
+            [
+              1795,
+              1822
+            ],
+            [
+              1828,
+              2699
+            ]
+          ],
+          "already_complete_skip": false
+        }
+      ],
+      "related": "PS-013/038; CRIT-001/040; ARC-003/016",
+      "objectives_and_risks": "Falsa morte, Hermione e relações anteriores; não fundir voz materna/divina com Feuhs, nem supor selo removido.",
+      "done_when": "Sequência delimitada/contextos lidos e confrontados; estado, causas, contradições e últimas presenças registrados; limites de cobertura explícitos."
+    },
+    {
+      "characters": "Henry",
+      "sources": [
+        {
+          "source": "S037",
+          "messages": 938,
+          "unreviewed_intervals": [
+            [
+              0,
+              296
+            ],
+            [
+              306,
+              318
+            ],
+            [
+              324,
+              324
+            ],
+            [
+              330,
+              937
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S046",
+          "messages": 285,
+          "unreviewed_intervals": [
+            [
+              0,
+              284
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S074",
+          "messages": 277,
+          "unreviewed_intervals": [
+            [
+              0,
+              276
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S106",
+          "messages": 1848,
+          "unreviewed_intervals": [
+            [
+              0,
+              670
+            ],
+            [
+              676,
+              703
+            ],
+            [
+              709,
+              714
+            ],
+            [
+              722,
+              1514
+            ],
+            [
+              1520,
+              1523
+            ],
+            [
+              1529,
+              1629
+            ],
+            [
+              1635,
+              1643
+            ],
+            [
+              1649,
+              1684
+            ],
+            [
+              1690,
+              1701
+            ],
+            [
+              1707,
+              1737
+            ],
+            [
+              1743,
+              1847
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S134",
+          "messages": 225,
+          "unreviewed_intervals": [
+            [
+              0,
+              224
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S172",
+          "messages": 2245,
+          "unreviewed_intervals": [
+            [
+              0,
+              2244
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S173",
+          "messages": 2446,
+          "unreviewed_intervals": [
+            [
+              0,
+              2445
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S178",
+          "messages": 1422,
+          "unreviewed_intervals": [
+            [
+              0,
+              428
+            ],
+            [
+              434,
+              455
+            ],
+            [
+              465,
+              474
+            ],
+            [
+              480,
+              1166
+            ],
+            [
+              1173,
+              1187
+            ],
+            [
+              1194,
+              1194
+            ],
+            [
+              1205,
+              1421
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S179",
+          "messages": 2433,
+          "unreviewed_intervals": [
+            [
+              0,
+              2432
+            ]
+          ],
+          "already_complete_skip": false
+        }
+      ],
+      "related": "PS-002/023/033; CRIT-003/018/035; ARC-003/011",
+      "objectives_and_risks": "Construções/habilidades/consequências; projeto não produção, morte/retorno sem nomear salvador por semelhança.",
+      "done_when": "Sequência delimitada/contextos lidos e confrontados; estado, causas, contradições e últimas presenças registrados; limites de cobertura explícitos."
+    },
+    {
+      "characters": "Harry, Zex, Stifen e rede",
+      "sources": [
+        {
+          "source": "S041",
+          "messages": 931,
+          "unreviewed_intervals": [
+            [
+              0,
+              930
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S043",
+          "messages": 848,
+          "unreviewed_intervals": [
+            [
+              0,
+              847
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S089",
+          "messages": 2217,
+          "unreviewed_intervals": [
+            [
+              0,
+              2216
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S138",
+          "messages": 1295,
+          "unreviewed_intervals": [
+            [
+              0,
+              1089
+            ]
+          ],
+          "already_complete_skip": false
+        }
+      ],
+      "related": "PS-017/022; CRIT-005; ARC-017",
+      "objectives_and_risks": "Antecedentes ainda fora do recorte, construção de Zex e fontes de memória; procurar ponte sem certificar Astro por autoria.",
+      "done_when": "Sequência delimitada/contextos lidos e confrontados; estado, causas, contradições e últimas presenças registrados; limites de cobertura explícitos."
+    },
+    {
+      "characters": "Apoios e organizações",
+      "sources": [
+        {
+          "source": "S012",
+          "messages": 70,
+          "unreviewed_intervals": [
+            [
+              0,
+              69
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S057",
+          "messages": 361,
+          "unreviewed_intervals": [
+            [
+              0,
+              360
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S119",
+          "messages": 172,
+          "unreviewed_intervals": [
+            [
+              0,
+              171
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S156",
+          "messages": 373,
+          "unreviewed_intervals": [
+            [
+              0,
+              372
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S172",
+          "messages": 2245,
+          "unreviewed_intervals": [
+            [
+              0,
+              2244
+            ]
+          ],
+          "already_complete_skip": false
+        },
+        {
+          "source": "S185",
+          "messages": 1811,
+          "unreviewed_intervals": [
+            [
+              0,
+              1810
+            ]
+          ],
+          "already_complete_skip": false
+        }
+      ],
+      "related": "PS-001/007/027; CRIT-024/038; ARC-009/018",
+      "objectives_and_risks": "Stark/Richard/Maya, Altruístas, Nefa, Pantera e religião; não criar homônimos unificados ou mortes por OOC.",
+      "done_when": "Sequência delimitada/contextos lidos e confrontados; estado, causas, contradições e últimas presenças registrados; limites de cobertura explícitos."
+    }
+  ],
+  "systematic_next": "S012: primeiro núcleo ainda sem C/D; S004/S005/S010 concluídas. S006/S007/S009/S011 vazias, S008 já completa. Não executar B003 nesta entrega.",
+  "closure_criteria": [
+    "Ler todos os intervalos selecionados e fronteiras necessárias; registrar IDs/disposição concreta.",
+    "Confrontar Bíblia, PS/CRIT/ARC e premissas adaptadas antes de atribuir D.",
+    "Preservar divergências, cronologia documental e autonomia dos envolvidos.",
+    "Só declarar revisão global quando todo escopo relevante disponível estiver recuperado; lacuna narrativa não é lacuna de cobertura.",
+    "Publicar validação/união e handoff sem escrever grandes acontecimentos definitivos."
+  ]
+}

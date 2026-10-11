@@ -1,5 +1,7 @@
 # Auditoria de cobertura e integridade das fontes — Etapa A
 
+**Estado atual — B002.3:** B002 encerrado no escopo crítico; C=D=19562, principal sem C=69751, zero diferença; auditoria global em andamento, B003 planejado. [Checkpoint atual](27-Auditoria-B002-3-Fechamento-e-Qualidade.md). Números e conclusões das seções anteriores são registros históricos preservados.
+
 **Estado atual:** Etapa A concluída; B001 concluído; checkpoint B002.1 concluído e lote B002 em andamento. Auditoria final inteira ainda em andamento. Esta entrega não autoriza os grandes acontecimentos definitivos nem a Fase 6. A ressalva do PR #14 foi investigada, preservada e aprofundada; não foi descartada.
 
 ## Base histórica do B001 e preservação

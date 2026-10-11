@@ -19,7 +19,7 @@
     "S190"
   ],
   "PWR": "PWR001–PWR012 integralmente triadas e confrontadas em B001; não reiniciar.",
-  "next_systematic": "S004 0–57 integral; depois S005 0–199 com contexto 0–204. S001–S003 concluídas em C/D; S006/S007 vazias. B002 continua dirigido antes de B003.",
+  "next_systematic": "S012: primeiro núcleo ainda sem C/D; S004/S005/S010 concluídas. S006/S007/S009/S011 vazias, S008 já completa. Não executar B003 nesta entrega.",
   "intervals": [
     {
       "source": "S001",
@@ -271,10 +271,10 @@
         0,
         57
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 58,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 58,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 58
     },
     {
       "source": "S005",
@@ -286,10 +286,10 @@
         0,
         204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S005",
@@ -301,10 +301,10 @@
         195,
         404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S005",
@@ -316,10 +316,10 @@
         395,
         604
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S005",
@@ -331,10 +331,10 @@
         595,
         804
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S005",
@@ -346,10 +346,10 @@
         795,
         990
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 191,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 191,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 191
     },
     {
       "source": "S008",
@@ -406,10 +406,10 @@
         0,
         204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S010",
@@ -421,10 +421,10 @@
         195,
         404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S010",
@@ -436,10 +436,10 @@
         395,
         604
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S010",
@@ -451,10 +451,10 @@
         595,
         634
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 35,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 35,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 35
     },
     {
       "source": "S012",
@@ -1576,10 +1576,10 @@
         0,
         162
       ],
-      "C_reviewed_in_core": 5,
-      "remaining_in_core": 158,
+      "C_reviewed_in_core": 9,
+      "remaining_in_core": 154,
       "status": "PARCIAL",
-      "D_reviewed_in_core": 5
+      "D_reviewed_in_core": 9
     },
     {
       "source": "S029",
@@ -1741,10 +1741,10 @@
         195,
         404
       ],
-      "C_reviewed_in_core": 15,
-      "remaining_in_core": 185,
+      "C_reviewed_in_core": 19,
+      "remaining_in_core": 181,
       "status": "PARCIAL",
-      "D_reviewed_in_core": 15
+      "D_reviewed_in_core": 19
     },
     {
       "source": "S037",
@@ -1846,10 +1846,10 @@
         0,
         12
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 13,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 13,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 13
     },
     {
       "source": "S041",
@@ -2146,10 +2146,10 @@
         0,
         8
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 9,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 9,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 9
     },
     {
       "source": "S052",
@@ -2161,10 +2161,10 @@
         0,
         204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S052",
@@ -2176,10 +2176,10 @@
         195,
         233
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 34,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 34,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 34
     },
     {
       "source": "S053",
@@ -2551,10 +2551,10 @@
         0,
         204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S070",
@@ -2566,10 +2566,10 @@
         195,
         404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S070",
@@ -2581,10 +2581,10 @@
         395,
         604
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S070",
@@ -2596,10 +2596,10 @@
         595,
         801
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S070",
@@ -2611,10 +2611,10 @@
         795,
         801
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 2,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 2,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 2
     },
     {
       "source": "S071",
@@ -3766,10 +3766,10 @@
         0,
         204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S090",
@@ -3781,10 +3781,10 @@
         195,
         404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S090",
@@ -3796,10 +3796,10 @@
         395,
         427
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 28,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 28,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 28
     },
     {
       "source": "S091",
@@ -4936,10 +4936,10 @@
         0,
         204
       ],
-      "C_reviewed_in_core": 10,
-      "remaining_in_core": 190,
+      "C_reviewed_in_core": 33,
+      "remaining_in_core": 167,
       "status": "PARCIAL",
-      "D_reviewed_in_core": 10
+      "D_reviewed_in_core": 33
     },
     {
       "source": "S118",
@@ -5101,10 +5101,10 @@
         195,
         404
       ],
-      "C_reviewed_in_core": 10,
-      "remaining_in_core": 190,
+      "C_reviewed_in_core": 14,
+      "remaining_in_core": 186,
       "status": "PARCIAL",
-      "D_reviewed_in_core": 10
+      "D_reviewed_in_core": 14
     },
     {
       "source": "S123",
@@ -5716,10 +5716,10 @@
         995,
         1204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 110,
+      "remaining_in_core": 90,
+      "status": "PARCIAL",
+      "D_reviewed_in_core": 110
     },
     {
       "source": "S138",
@@ -5731,10 +5731,10 @@
         1195,
         1294
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 95,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 95,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 95
     },
     {
       "source": "S139",
@@ -6166,10 +6166,10 @@
         395,
         604
       ],
-      "C_reviewed_in_core": 15,
-      "remaining_in_core": 185,
+      "C_reviewed_in_core": 26,
+      "remaining_in_core": 174,
       "status": "PARCIAL",
-      "D_reviewed_in_core": 15
+      "D_reviewed_in_core": 26
     },
     {
       "source": "S155",
@@ -6241,10 +6241,10 @@
         0,
         204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S158",
@@ -6256,10 +6256,10 @@
         195,
         404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S158",
@@ -6271,10 +6271,10 @@
         395,
         604
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S158",
@@ -6286,10 +6286,10 @@
         595,
         804
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S158",
@@ -6301,10 +6301,10 @@
         795,
         1004
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S158",
@@ -6316,10 +6316,10 @@
         995,
         1204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S158",
@@ -6331,10 +6331,10 @@
         1195,
         1404
       ],
-      "C_reviewed_in_core": 120,
-      "remaining_in_core": 80,
-      "status": "PARCIAL",
-      "D_reviewed_in_core": 120
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S158",
@@ -6496,10 +6496,10 @@
         0,
         204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S161",
@@ -6511,10 +6511,10 @@
         195,
         404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S161",
@@ -6526,10 +6526,10 @@
         395,
         604
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S161",
@@ -6541,10 +6541,10 @@
         595,
         804
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S161",
@@ -6556,10 +6556,10 @@
         795,
         1004
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S161",
@@ -6571,10 +6571,10 @@
         995,
         1204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S161",
@@ -6586,10 +6586,10 @@
         1195,
         1404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S161",
@@ -6601,10 +6601,10 @@
         1395,
         1604
       ],
-      "C_reviewed_in_core": 100,
-      "remaining_in_core": 100,
-      "status": "PARCIAL",
-      "D_reviewed_in_core": 100
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S161",
@@ -7561,10 +7561,10 @@
         395,
         604
       ],
-      "C_reviewed_in_core": 15,
-      "remaining_in_core": 185,
+      "C_reviewed_in_core": 19,
+      "remaining_in_core": 181,
       "status": "PARCIAL",
-      "D_reviewed_in_core": 15
+      "D_reviewed_in_core": 19
     },
     {
       "source": "S178",
@@ -7906,10 +7906,10 @@
         0,
         204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S184",
@@ -7921,10 +7921,10 @@
         195,
         404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S184",
@@ -7936,10 +7936,10 @@
         395,
         577
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 178,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 178,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 178
     },
     {
       "source": "S185",
@@ -8116,10 +8116,10 @@
         0,
         204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8131,10 +8131,10 @@
         195,
         404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8146,10 +8146,10 @@
         395,
         604
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8161,10 +8161,10 @@
         595,
         804
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8176,10 +8176,10 @@
         795,
         1004
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8191,10 +8191,10 @@
         995,
         1204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8206,10 +8206,10 @@
         1195,
         1404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8221,10 +8221,10 @@
         1395,
         1604
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8236,10 +8236,10 @@
         1595,
         1804
       ],
-      "C_reviewed_in_core": 100,
-      "remaining_in_core": 100,
-      "status": "PARCIAL",
-      "D_reviewed_in_core": 100
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8251,10 +8251,10 @@
         1795,
         2004
       ],
-      "C_reviewed_in_core": 141,
-      "remaining_in_core": 59,
-      "status": "PARCIAL",
-      "D_reviewed_in_core": 141
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8266,10 +8266,10 @@
         1995,
         2204
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8281,10 +8281,10 @@
         2195,
         2404
       ],
-      "C_reviewed_in_core": 0,
-      "remaining_in_core": 200,
-      "status": "PENDENTE",
-      "D_reviewed_in_core": 0
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8296,10 +8296,10 @@
         2395,
         2604
       ],
-      "C_reviewed_in_core": 61,
-      "remaining_in_core": 139,
-      "status": "PARCIAL",
-      "D_reviewed_in_core": 61
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8311,10 +8311,10 @@
         2595,
         2804
       ],
-      "C_reviewed_in_core": 150,
-      "remaining_in_core": 50,
-      "status": "PARCIAL",
-      "D_reviewed_in_core": 150
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO",
+      "D_reviewed_in_core": 200
     },
     {
       "source": "S187",
@@ -8587,5 +8587,5 @@
       "D_reviewed_in_core": 0
     }
   ],
-  "checkpoint": "B002.2"
+  "checkpoint": "B002.3"
 }

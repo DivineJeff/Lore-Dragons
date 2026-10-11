@@ -249,3 +249,59 @@ OM-001–007 e checkpoints anteriores preservados. Os casos novos distinguem com
 **COR-E01 — revisão editorial, sem descoberta narrativa:** ARC-014 passa a “Yakkatsu e busca por sair do Inferno”; removida somente a cópia idêntica do bloco de evidências nessa seção. ID, links e ausência de saída consumada preservados.
 
 **Reconciliação adicional de OM-003/004/007:** a base factual do documento 12 ainda atribuía pedido de ajuda/selo a Feuhs. Corrigida para a experiência com voz materna/divina e pedido de remoção dos próprios selos; execução não demonstrada. A referência a selo aplicado foi substituída por remoção. Não é nova cena/OM, mas propagação da correção antiga à proposta correspondente. [S003 · 1268024904721367103](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003).
+
+<a id="registro-b002-3"></a>
+
+## Registro adicional B002.3
+
+<a id="om-015"></a>
+
+### OM-015 — Agente da prisão de Ymir
+
+**Impacto:** CORREÇÃO FACTUAL NECESSÁRIA. **Confiança:** alta nos resultados e nas falas como falas; insuficiente nas causas não recuperadas.
+
+**Antes, descoberta e correção:** CONT-014 atribuía à Árvore a jaula e entrega aos Altruístas. A fonte descreve moradores em cidade nas árvores e homem que decreta escravidão; a Árvore Rainha posteriormente diz não conhecer Nefa/Altruístas. Corrigida atribuição, sem concluir que todas as cenas eram sonho.
+
+**Fonte/contexto:** [S005 · 1229625869576962089](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1229626189757288509](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1229638202130960454](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1229638718202314802](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1229638997425524736](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1229937418921054249](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1232096882164236392](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1232099473002332160](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1232100505891639337](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005). [Intervalos e limites](27-Auditoria-B002-3-Fechamento-e-Qualidade.md).
+
+<a id="om-016"></a>
+
+### OM-016 — Nefa, Balenon e custos da caçada
+
+**Impacto:** AJUSTE DE INTERPRETAÇÃO RECOMENDADO. **Confiança:** alta nos resultados e nas falas como falas; insuficiente nas causas não recuperadas.
+
+**Antes, descoberta e correção:** A Bíblia resumia traição/treino sem motivação e contraponto moral suficientes. Nefa justifica entregar Ymir para proteger aldeia; sua privacidade/recusas são demonstradas. Balenon questiona luta interminável; encontro com criança não é cura automática. Metade dos doze de Coleros morre; última pergunta sobre Nefa não tem resolução. Recuperados detalhes, sem destino inventado ou calendário universal.
+
+**Fonte/contexto:** [S005 · 1230128027409584268](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1231394174729982062](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1231401197731184771](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1239084143598370990](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1239088690962235493](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1239088709748391968](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1239297436933947442](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1239302970827341914](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1239341038569652254](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1239342848562692169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005). [Intervalos e limites](27-Auditoria-B002-3-Fechamento-e-Qualidade.md).
+
+<a id="om-017"></a>
+
+### OM-017 — Limites da sombra adulta de Kian
+
+**Impacto:** AJUSTE DE INTERPRETAÇÃO RECOMENDADO. **Confiança:** alta nos resultados e nas falas como falas; insuficiente nas causas não recuperadas.
+
+**Antes, descoberta e correção:** Perfil tratava poderes genericamente sem servidão versus união e retirada impossível de sombra viva. Sombra própria custa força; galinha morta submete-se e transporta Kian. Elemento ainda não definido; lapso Ymir não muda protagonista. Acrescentado complemento com espada persistente após despertar, sem fechar adulto–bebê.
+
+**Fonte/contexto:** [S184 · 1235315352720642159](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1235337655672111174](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1235338598811697244](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1235751034643812483](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1236130301084831764](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1236832133784539236](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1236832690473271387](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1236838310249500773](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1237183069585145908](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1237183703915036723](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1237197270206779554](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1237198222175502386](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1237198913648328826](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184). [Intervalos e limites](27-Auditoria-B002-3-Fechamento-e-Qualidade.md).
+
+<a id="om-018"></a>
+
+### OM-018 — Mulack, Driade e preparação delimitada
+
+**Impacto:** AJUSTE DE INTERPRETAÇÃO RECOMENDADO. **Confiança:** alta nos resultados e nas falas como falas; insuficiente nas causas não recuperadas.
+
+**Antes, descoberta e correção:** Flor de Neve/armadura e expedição já constavam, mas faltavam homenagem ao frio de Mouran, espécie de Nyxis desconhecida, seleção de dez companheiros A+B e limite corporal/circulação. Driade Fistine é nome, não raça; negociar servidão não comprova selo. Elemento não repele mana. Complementados preparação e limites, sem nova solução da contradição.
+
+**Fonte/contexto:** [S158 · 1199907745139273849](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1199910418072743986](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200267273198370856](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200273843000971356](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200508845991137352](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200585040766177381](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200586227448033401](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200678512223322132](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200678747788030032](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200679111094456350](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200680701712941186](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200949573078757537](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200949796932956321](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158). [Intervalos e limites](27-Auditoria-B002-3-Fechamento-e-Qualidade.md).
+
+<a id="om-019"></a>
+
+### OM-019 — Ramos de Stark e Richard
+
+**Impacto:** AJUSTE DE INTERPRETAÇÃO RECOMENDADO. **Confiança:** alta nos resultados e nas falas como falas; insuficiente nas causas não recuperadas.
+
+**Antes, descoberta e correção:** Apoios eram apenas enumerados. Recuperado encontro de Stark com Emma e carona oferecida; sem unificar menina à filha de Lilith. Richard constrói, recebe aviso de Maya, mata lobo e encontra orbe; melhora física é narrada depois do gás, sem mecanismo completo. Maya morreu é OOC; Cot/Cop não unificado ao lobo. Último grunhido e projeto de arma continuam abertos.
+
+**Fonte/contexto:** [S004 · 1264366352353984554](../pesquisa/fase-3/Fontes-e-Evidencias.md#s004); [S004 · 1264366386701008967](../pesquisa/fase-3/Fontes-e-Evidencias.md#s004); [S004 · 1264374090811052063](../pesquisa/fase-3/Fontes-e-Evidencias.md#s004); [S004 · 1264374501576282245](../pesquisa/fase-3/Fontes-e-Evidencias.md#s004); [S010 · 1244446541968838778](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1244449778620694538](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1245912806469931051](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1245922295810228315](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1246280393515208757](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1246667764836470866](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1246667765176078458](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1246915249890656276](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1246919793823453274](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1246938115763998772](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1246996868161081395](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1247006701199167626](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010); [S010 · 1250963275642830868](../pesquisa/fase-3/Fontes-e-Evidencias.md#s010). [Intervalos e limites](27-Auditoria-B002-3-Fechamento-e-Qualidade.md).
+
+**QA-E02:** Q10/S155479: corrigido rótulo amplo de contexto de ação/fala para mensagem auxiliar sem conteúdo ficcional. Ledger B001 preservado; correção aditiva em qualidade-B002.3.json, sem remover C/D ou mudar fato.
