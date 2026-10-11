@@ -284,7 +284,7 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Classificação:** RETIFICAÇÃO CONFIRMADA. **Confiança:** ALTA.
 
-**Consequência editorial:** Westia humana; aparente morte ilusória. Velho não é Edward por brincadeira.
+**Consequência editorial:** Westia humana; ela desfaz por ilusão a aparente morte de Azazel, não uma morte própria. [S013 · 1256055535262765096](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013). Velho não é Edward por brincadeira.
 
 **Evidências:** [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
 
@@ -296,7 +296,7 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Classificação:** CONFIRMADO em condições locais. **Confiança:** ALTA.
 
-**Consequência editorial:** MUTON 31; percepção seis metros; memorizar não aprender todas as magias.
+**Consequência editorial:** MUTON 31; Sexto Sentido seis metros em S001 e dez metros em S023 com gasto energético, diferença sem explicação explícita; memorizar nove livros não aprende todas as magias. [S001 · 1249503535641526303](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1253510297570775060](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1253510981565550622](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023).
 
 **Evidências:** [S001 · 1249112487421284494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249503535641526303](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1265827259483164723](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
 
@@ -439,6 +439,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 **Resposta recuperável:** Nenhuma origem universal demonstrada. Livros/relatos de Insurgência e intervenção branca não provam mecanismo único.
 
 **Evidências:** [S070 · 1183178984125628457](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S119 · 1195156289676922930](../pesquisa/fase-3/Fontes-e-Evidencias.md#s119); [S023 · 1264746364479340665](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
+
+**Confronto B002.2:** Vermund descreve Surgência como filhos da terra e maldição; relato local não explica a origem universal. [S016 · 1252044546620260434](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252046302754115595](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016). Revisão do caso permanece parcial.
 
 <a id="ps-002"></a>
 
@@ -722,6 +724,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Evidências:** [S187 · 1237586020417929368](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
 
+**Confronto B002.2:** S182 alterna Lúcifer e Kian na mesma sequência; S013 inteira mantém mente Kian com limites de conhecimento, sem narrar o mecanismo adulto–bebê. [S182 · 1210399522900025374](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S182 · 1210408537759551550](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S182 · 1210411459293618269](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182); [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013). Revisão do caso permanece parcial.
+
 <a id="ps-022"></a>
 
 ### PS-022 — Harry → Astro e hospedeira
@@ -735,6 +739,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 **Resposta recuperável:** Comentário identifica corpo usado por Harry; canal e ações de Astro dão continuidade provável, mas ausência de cena de transição impede identificação inequívoca. S177 e S007 vazios não provam conteúdo que existiu.
 
 **Evidências:** [S008 · 1267301422656000131](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1267308668810952705](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)
+
+**Confronto B002.2:** Harry nominal coordena Zex em S161; isso não demonstra ponte Harry–Astro, memória completa ou entrada na hospedeira. [S161 · 1212959525368238090](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212960389114105856](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161). Revisão do caso permanece parcial.
 
 <a id="ps-023"></a>
 
@@ -750,6 +756,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Evidências:** [S187 · 1239359270206836776](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S016 · 1250998141038104717](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1250999274251091999](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S023 · 1266909119613370448](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
 
+**Confronto B002.2:** S016 integral mantém Henry vivo; conhecido sem nome/método não é identificado com velho de maio. [S016 · 1252415496825999390](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252436450813673483](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016). Revisão do caso permanece parcial.
+
 <a id="ps-024"></a>
 
 ### PS-024 — Beatriz: coma e memória
@@ -763,6 +771,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 **Resposta recuperável:** Coma em junho; desperta em julho, memória recupera e pernas estão perfeitas. Causa integral não demonstrada; resgate relatado por guarda é situado. Resolução delimita estado, não autoria da cura.
 
 **Evidências:** [S001 · 1250239705681760339](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1265122213984473169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265129599449169931](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267278128569385011](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
+
+**Confronto B002.2:** Bia relata despertar na Árvore da Vida e procura por Ymir; memória/tempos subjetivos não explicam todos os intermediários. [S023 · 1265122955902582845](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265123169551781989](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265123714819686492](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265126250595221638](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265130372312731709](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023). Revisão do caso permanece parcial.
 
 <a id="ps-025"></a>
 
@@ -792,6 +802,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Evidências:** [S005 · 1231393955740909650](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1231400283389693962](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S023 · 1267289119973838870](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
 
+**Confronto B002.2:** Berthold descreve Colapso consumindo alma como tijolos de ponte preexistente, com exigência de energia/força mental; não é uso demonstrado por Ymir. [S023 · 1267291152055537777](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267291238357536790](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267292607780884511](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267292668371931230](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267292808889237527](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023). Revisão do caso permanece parcial.
+
 <a id="ps-027"></a>
 
 ### PS-027 — Líder Pantera
@@ -820,6 +832,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Evidências:** [S173 · 1232841410353565787](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1232842253928763422](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1232871127362179122](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S002 · 1249897869536923711](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)
 
+**Confronto B002.2:** Esquecimento OOC de Emma foi retificado pelo mestre; raízes e despertar da menina não identificam causa ou poder. [S002 · 1249884573295448166](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1249884869157191791](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1249886132129366066](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1249897869536923711](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002). Revisão do caso permanece parcial.
+
 <a id="ps-029"></a>
 
 ### PS-029 — God depois da caça
@@ -847,6 +861,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 **Resposta recuperável:** Bardock morre; Stwart continua com Yakkatsu. Último registro é alimentação após combate, sem saída.
 
 **Evidências:** [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)
+
+**Confronto B002.2:** STWART LITTLE executado na floresta de S023 não recebe equivalência com Stwart do Inferno. Ajuste editorial de ARC-014 preserva busca sem saída narrada; não certifica o ramo. [S023 · 1250995109940564018](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1250996371771756586](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023). Revisão do caso permanece parcial.
 
 <a id="ps-031"></a>
 
@@ -946,6 +962,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Evidências:** [S089 · 1191768442324398200](../pesquisa/fase-3/Fontes-e-Evidencias.md#s089); [S073 · 1197732187341062185](../pesquisa/fase-3/Fontes-e-Evidencias.md#s073); [S179 · 1215808711109382226](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S013 · 1246276865065222154](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
 
+**Confronto B002.2:** Sexto Sentido: seis metros em S001, dez em S023 com gasto de energia, diferença não explicada. Livros datam 507/610/629/635/680 como perspectiva da fonte, sem fixar ano atual; ontem de Bia versus semanas de Ymir permanece lacuna. [S001 · 1249503535641526303](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1253510297570775060](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1253510981565550622](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264729987290894417](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264735034259275869](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264742359690907708](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264743912321454120](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265130372312731709](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023). Revisão do caso permanece parcial.
+
 <a id="ps-038"></a>
 
 ### PS-038 — Rans, Hermione e selo
@@ -974,6 +992,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Evidências:** [S002 · 1249855831466442764](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1250239262905864275](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)
 
+**Confronto B002.2:** Coiote continua alvo de intenção, sem operação consumada ao fim de S002. Magos podem recusar pedidos; governação não torna NPCs instrumentos automáticos. [S002 · 1246288766285516820](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1246288859193675868](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1249856202578460682](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1250239149672501328](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002). Revisão do caso permanece parcial.
+
 <a id="ps-040"></a>
 
 ### PS-040 — Michael, Mytria e conquista
@@ -987,6 +1007,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 **Resposta recuperável:** Última cena conserva conflito perto de Vermund. Conquista e nova viagem não consumadas.
 
 **Evidências:** [S016 · 1252794260122636383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)
+
+**Confronto B002.2:** Último trecho de S016 mantém atacantes e pedido de ajuda de Vermund; planos de conquistar Piferme/partir não viram resultados. [S016 · 1252790108688486410](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252790159959785614](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252794260122636383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016). Revisão do caso permanece parcial.
 
 <a id="revisao"></a>
 

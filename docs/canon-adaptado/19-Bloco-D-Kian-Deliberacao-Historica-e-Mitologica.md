@@ -12,11 +12,11 @@
 
 **CANON ORIGINAL:** continuidade pessoal de Kian, Lúcifer e Azazel confirmada externamente, com manifestações e comportamentos distintos. Kian expressa medo e oposição a agressões; Lúcifer conversa amistosamente e busca aprendizado; Azazel demonstra curiosidade, treinamento, risco e violência. Esses exemplos não constituem três essências morais fixas, nem três deuses ou diagnóstico clínico.
 
-Em 30/07/2024, Azazel está vivo, com corpo evoluído até doze anos por saltos pessoais, dormindo na cabana de uma velha em terras de vegetação roxa após ferimentos da queda. Kian não voltou integralmente à mente. A continuidade confirmada não prova acesso igual a memórias, intenções, habilidades ou controle em todos os estados. O mecanismo adulto–bebê não foi recuperado; uma causa criada na adaptação deve ser identificada como nova.
+Em 30/07/2024, Azazel está vivo, com corpo evoluído até doze anos por saltos pessoais, entrando na cabana de uma velha em terras de vegetação roxa após ferimentos da queda; é a velha que dorme. O mestre afirma que sua mente ainda é Kian, com pouco conhecimento de Trevas/Sombras. A continuidade confirmada não prova acesso igual a memórias, intenções, habilidades ou controle em todos os estados. O mecanismo adulto–bebê não foi recuperado; uma causa criada na adaptação deve ser identificada como nova.
 
 O estudo prolongado de Lúcifer, a marca negra, a percepção de energia inversa à mana e a tentativa frustrada de curar o chão são documentados em seus contextos. Não provam conversão energética, cura universal ou acesso integral de Azazel a esse aprendizado. Natureza concedida em dezembro e contestada depois permanece contradição; não é transferida automaticamente ao bebê. Absorção não concede todo repertório do alvo. Trevas, Sombras e magia negra conservam efeitos situados.
 
-Westia é humana; sua morte aparente foi ilusão. God/Gotter não conhecem automaticamente toda a biografia. A velha não é divindade identificada. Destinos de Yalia, Emília, Rith e Monarca permanecem abertos. Nada disso é solucionado para fornecer aliados, antagonistas ou sacrifícios convenientes.
+Westia é humana; ela desfaz por ilusão a aparente morte de Azazel. God/Gotter não conhecem automaticamente toda a biografia. A velha não é divindade identificada. Destinos de Yalia, Emília, Rith e Monarca permanecem abertos. Nada disso é solucionado para fornecer aliados, antagonistas ou sacrifícios convenientes.
 
 | Referência | O que sustenta nesta deliberação |
 | --- | --- |
@@ -183,3 +183,5 @@ Para a próxima aprovação, bastam três decisões:
 3. **Tratamento da complexidade pessoal:** aprofundar convivência diferenciada e responsabilidade por ato, sem integração total obrigatória; ou investigar integração parcial como possível desenvolvimento, preservando manifestações e continuidade. Memórias, controle e mecanismo concreto serão deliberados depois.
 
 Não é necessário escolher já morte, imortalidade, presença no jogo, regime de manifestação ou explicação adaptada da infância. A seleção de uma direção não canoniza seus agentes e ocorrências. [Fluxo de publicação](../Fluxo-de-Publicacao-e-Preservacao.md) e [registro atual](13-Registro-de-Decisoes-do-Bloco-D.md). **Canon Original preservado; Kian sem destino escolhido; nenhuma continuação definitiva ou Fase 6 iniciada.**
+
+**Correção da base factual B002.2 — OM-011:** [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992776528625697](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013). Somente a premissa recuperada do RPG foi corrigida; alternativas e direções autorais mantêm seus estados de aprovação.
