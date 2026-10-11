@@ -16,3 +16,12 @@ Os ZIPs originais permanecem preservados na raiz. Não foram duplicadas exporta�
 Revisão 1 — 09/10/2026: seleção editorial da consolidação final da Fase 3.
 
 Revisão 2 — 09/10/2026: evidências passam a incluir localizadores verificáveis nos ZIPs; auditoria corrige a síntese publicada sem refazer a investigação.
+
+## Nota de alcance da cobertura — verificação documental posterior
+
+Os totais acima descrevem o **corpus indexado** e o resultado da investigação da Fase 3. A [Bíblia do Canon Original](../../canon-original/17-Biblia-Canon-Original.md) declara que as 186 exportações narrativas não vazias foram integralmente lidas naquela etapa. A [auditoria da Fase 4](21-Auditoria-Editorial-e-Canonica-Fase-4.md), por sua vez, registra expressamente que **não refez a leitura sequencial das 89.155 mensagens**: revisou a consolidação e retornou às evidências de forma dirigida. A [auditoria de compatibilidade da Fase 5.1](../../canon-adaptado/23-Auditoria-de-Compatibilidade-dos-12-Protagonistas.md) também se concentra na documentação e nas decisões autorais, não numa releitura completa do corpus.
+
+Esses enunciados não provam, por si, que uma informação foi omitida ou que a leitura original da Fase 3 não ocorreu. Entretanto, **validar 214 localizadores e a estrutura dos ZIPs não é o mesmo que demonstrar, independentemente, que cada mensagem relevante foi incorporada à Bíblia**. Para certificar a completude de conteúdo, ainda seria necessário conferir um eventual registro detalhado de progresso da Fase 3, reconciliar as métricas de cobertura reportadas durante a investigação e efetuar verificação dirigida adicional em trechos de maior impacto e menor sustentação, consultando os exports quando acessíveis.
+
+Portanto, a documentação continua sendo referência consolidada do material **recuperável**, com lacunas e contradições explícitas. Não deve ser interpretada como garantia absoluta de inexistência de informações não incorporadas, mensagens apagadas, canais vazios ou conteúdos fora dos ZIPs. Esta nota é uma ressalva de **método e rastreabilidade**, não altera o Canon Original, suas fontes, os resultados de personagens ou decisões de adaptação.
+

@@ -308,3 +308,22 @@ Não é necessário redesenhar doze alternativas, deliberar todos os destinos ou
 **Profundidade e relações prioritárias:** dar continuidade própria a God/EREN, impacto além de exploração a Mulack, ambição além de fuga/governo infernal a Yakkatsu e consequência pública à complexidade de Kian. Desenvolver relações conforme o núcleo escolhido, com especial atenção a Mulack/Nyxis/Driade, Yakkatsu/Stwart/memória de Bardock, Lilith/Emma/Rans, Rans/Hermione, Harry/Bytes e Ymir/Beatriz/família. Não usar menor volume de mensagens como teto de importância.
 
 **Situação final:** seleção inicial dos doze concluída; auditoria conjunta disponível; implementações, pendências críticas condicionais e revisão autoral dos próximos núcleos permanecem abertas. A publicação segue o [fluxo autorizado](../Fluxo-de-Publicacao-e-Preservacao.md). Nenhum arquivo do Canon Original foi reescrito; nenhuma proposta deste parecer foi promovida a acontecimento; Fase 6 não iniciada.
+
+## 11. Verificação independente posterior — integridade documental e ressalva de completude
+
+Esta verificação adicional examinou a árvore da `main` após o merge do PR #13 (commit `e9367b73b926328705e945b8f8f2180a1c61ffd1`), os registros de aprovação e a organização das referências. Não substitui o exame narrativo anterior nem promove propostas a acontecimentos.
+
+| Controle | Resultado verificado | Limite |
+| --- | --- | --- |
+| Arquivos publicados | 32 arquivos Markdown e 8 ZIPs originais presentes na árvore examinada. O PR #13 alterou somente sete arquivos Markdown. | A existência e a preservação dos ZIPs no diff **não** equivalem à releitura de seus conteúdos. |
+| Referências Markdown relativas | 1.870 destinos relativos presentes na árvore. Âncoras internas correspondentes localizadas nos documentos de destino. | Um link íntegro garante localização, não que a afirmação seja sustentada semanticamente pela mensagem citada. |
+| Registro de decisões | DD-01 a DD-43 presentes no [registro 13](13-Registro-de-Decisoes-do-Bloco-D.md), sem lacunas ou duplicações de entrada. | O registro documenta escolhas; não confirma todos os acontecimentos propostos. |
+| Estrutura do Canon Original | 19 IDs ARC na Bíblia e 40 IDs PS + 39 IDs CRIT na [matriz crítica](../canon-original/19-Matriz-Canon-Critico.md). | Contagens coerentes não atestam, isoladamente, exaustividade das mensagens-fonte. |
+| Estados autorais centrais | Doze direções registradas; Mulack vivo **na adaptação**, Ymir destinado à divindade suprema e Beatriz esposa por declaração autoral, com cronologia pendente. | Nenhuma dessas decisões reescreve a evidência original ou escolhe as cadeias de acontecimentos futuras. |
+
+**Ponto que requer verificação de fonte, não correção narrativa automática:** a [Bíblia do Canon Original](../canon-original/17-Biblia-Canon-Original.md) declara leitura integral das exportações não vazias durante a Fase 3; a [auditoria editorial da Fase 4](../pesquisa/fase-3/21-Auditoria-Editorial-e-Canonica-Fase-4.md) informa que **não repetiu** a leitura sequencial das 89.155 mensagens. A presente auditoria independente também não refez essa leitura e não inspecionou individualmente cada arquivo dentro dos ZIPs. Não há prova, nesta checagem, de omissão narrativa específica; tampouco há base para declarar *independentemente demonstrada* a ausência de todas as omissões.
+
+**Ação recomendada antes de alegar completude exaustiva:** localizar o protocolo ou registros de progresso da Fase 3, reconciliar as métricas de cobertura registradas ao longo da pesquisa e realizar uma rechecagem focalizada das fontes de maior consequência — sobretudo transições não recuperadas, retificações do mestre, relações autorais, interpretações contestadas e arquivos vazios ou incompletos. Manter [Fontes e Evidências](../pesquisa/fase-3/Fontes-e-Evidencias.md) como localizador, distinguindo ocorrência comprovada, confirmação externa e proposta adaptada. Ver também a [nota de alcance da pesquisa](../pesquisa/fase-3/README.md#nota-de-alcance-da-cobertura--verificação-documental-posterior).
+
+**Parecer complementar:** nenhum erro de ligação, identificação de decisão ou incompatibilidade necessária foi identificado na verificação documental. O único ajuste efetuado é a explicitação do alcance metodológico. Nenhuma nova decisão criativa, correção do Canon Original, solução de lacuna narrativa ou liberação da Fase 6 é produzida por esta nota.
+
