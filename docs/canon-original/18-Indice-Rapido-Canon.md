@@ -1,6 +1,6 @@
 # Índice rápido do cânone — Dragons
 
-Fase 4 · Revisão 2 · 09/10/2026
+Fase 4 · Revisão 3 · 10/10/2026
 
 ## Leitura por assunto
 
@@ -127,3 +127,10 @@ Os blocos se sobrepõem após a dispersão. Comece pelo [guia de causalidade](17
 - [Registro de fontes](../pesquisa/fase-3/Fontes-e-Evidencias.md)
 - [Critérios e cobertura](../pesquisa/fase-3/README.md)
 - [Página do projeto](../../README.md)
+
+## Auditoria independente de fontes em andamento
+
+- [Cobertura e integridade verificadas — etapa A](../canon-adaptado/24-Auditoria-de-Cobertura-e-Integridade-das-Fontes.md)
+- [Omissões e correções do primeiro lote B001](../canon-adaptado/25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md)
+
+Revisão 3 — 10/10/2026: localizadores do novo checkpoint; revisão completa dos protagonistas, arcos e pendências ainda em andamento.

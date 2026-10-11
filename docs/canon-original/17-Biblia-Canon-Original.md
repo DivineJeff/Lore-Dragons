@@ -1,6 +1,6 @@
 # BÍBLIA DO CANON — DRAGONS
 
-Fase 4 · Cânone Original · Revisão 2 · 09/10/2026
+Fase 4 · Cânone Original · Revisão 3 · 10/10/2026
 
 Dragons nasceu como RPG no Discord. Esta Bíblia reúne a história recuperável, seus personagens e as regras demonstradas, preservando as lacunas de uma campanha sem encerramento narrado. O texto serve como referência editorial para consultar o RPG sem reiniciar a investigação dos chats.
 
@@ -23,7 +23,7 @@ Dragons nasceu como RPG no Discord. Esta Bíblia reúne a história recuperável
 
 ## Critérios de leitura
 
-A reconstrução abrange 202 exportações narrativas: 186 não vazias, integralmente lidas, com 89.155 mensagens, e 16 vazias. A fonte adicional de poderes contém 12 exportações e 158 mensagens. Cobertura integral significa leitura do material disponível; não significa recuperar mensagens apagadas ou obter respostas para todos os mistérios.
+A reconstrução abrange 202 exportações narrativas: 186 não vazias, com 89.155 mensagens, e 16 vazias. A fonte adicional de poderes contém 12 exportações e 158 mensagens. A Fase 3 registrou leitura integral e encerramento por saturação estrutural. A auditoria independente posterior confirmou inventário e processamento desses totais, encontrou registros de investigação após o checkpoint de 36,93%, mas não comprovou nem refutou retrospectivamente a leitura semântica de cada mensagem. Inventário, processamento, triagem e consolidação são coberturas distintas; consulte a [auditoria de fontes](../canon-adaptado/24-Auditoria-de-Cobertura-e-Integridade-das-Fontes.md). Mensagens apagadas ou conteúdo não exportado permanecem inacessíveis.
 
 | Classe | Uso nesta Bíblia |
 | --- | --- |
@@ -926,6 +926,8 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Recuperação do estado:** NÃO (versão contraditória). **Confiança:** ALTA na existência da contradição.
 
+**Complemento documental retrospectivo (OM-002):** Em maio, o mestre comenta que só então leu o memorial e atribui a morte à ação do jogador. É comentário fora de personagem sobre o conflito, não nova cena de morte nem resolução inequívoca da retificação da dungeon. A contradição permanece; a sobrevivência escolhida para a adaptação tem origem autoral separada. **Evidências:** [S198 · 1239836014919553084](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198); [S198 · 1239836048151019552](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198).
+
 **Evidências:** [S024 · 1187937247761272942](../pesquisa/fase-3/Fontes-e-Evidencias.md#s024); [S024 · 1187951293659086899](../pesquisa/fase-3/Fontes-e-Evidencias.md#s024); [S064 · 1187967945352155136](../pesquisa/fase-3/Fontes-e-Evidencias.md#s064); [S158 · 1208614984473518100](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616829837377536](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208617010959753236](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S198 · 1208627532962992218](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198)
 
 <a id="personagem-11"></a>
@@ -1361,13 +1363,13 @@ A documentação contém 18 entradas, incluindo propostas e pedidos futuros. Onz
 
 **Aplicação recuperada:** 21/01: mestre narra fortalecimento intenso e depois nomeia o despertar.
 
-**Limites:** Uso de mana; ganho de maestria não por ligar/desligar indefinidamente, discussão fixa uma vez por hora.
+**Limites:** Uso de mana; ganho de maestria não por ligar/desligar indefinidamente. A discussão menciona uma vez por hora, mas a concessão permanece a critério do mestre, que também admite avaliar estudo e melhoria da habilidade. Não constitui progressão automática por tempo ligado nem tabela universal de pontos.
 
 **Evolução:** Sem evolução documentada além do estado descrito.
 
 **Questões:** Mensagem sobre mais de 100 por minuto não basta para custo fixo universal; preservar discussão mecânica.
 
-**Evidências:** [S166 · 1198529438103654500](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198531110511058964](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)
+**Evidências:** [S166 · 1198529438103654500](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198531110511058964](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [PWR009 · 1198533275191349318](../pesquisa/fase-3/Fontes-e-Evidencias.md#pwr009); [PWR009 · 1198533324440883250](../pesquisa/fase-3/Fontes-e-Evidencias.md#pwr009); [PWR009 · 1198533338915405925](../pesquisa/fase-3/Fontes-e-Evidencias.md#pwr009)
 
 <a id="hab-015"></a>
 
@@ -1899,3 +1901,5 @@ Referências de trabalho: espinha dorsal, cronologia, perfis, atlas, poderes, or
 - [Matriz crítica](19-Matriz-Canon-Critico.md)
 - [Método e cobertura](../pesquisa/fase-3/README.md)
 - [Fontes e evidências](../pesquisa/fase-3/Fontes-e-Evidencias.md)
+
+**Revisão 3 — 10/10/2026:** COR-M01 qualifica a cobertura histórica; OM-001 explicita a concessão de maestria em HAB-014; OM-002 acrescenta comentário retrospectivo ao conflito de Mulack. Formulações anteriores, fontes e impacto no [registro de correções](../canon-adaptado/25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md). Sem seleção de novo destino.
