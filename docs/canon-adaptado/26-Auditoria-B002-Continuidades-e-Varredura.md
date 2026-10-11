@@ -1,5 +1,202 @@
 # Auditoria B002 — continuidades e varredura sistemática
 
+<a id="checkpoint-b002-2"></a>
+
+## Checkpoint B002.2 — confronto concluído nos intervalos, B002 ainda parcial
+
+Base verificada: main `9973184d9770e3add3acea04e02563b7dbad6649`, PR #16 mesclado; branch própria `lore/auditoria-b002-2-confronto`. Esta seção é o estado atual; o relatório B002.1 abaixo é histórico e conserva seus contadores/pendências da época. A/B concluídas, C/D do corpus parciais. Nenhuma decisão DD, adaptação definitiva ou B003 executado.
+
+### Cobertura e denominadores
+
+| Métrica | B002.1 | B002.2 atual |
+| --- | --- | --- |
+| Corpus principal + poderes | 89.155 + 158 | 89.155 + 158 = 89.313 |
+| C acumulada por união de IDs | 4.542 | 10,431 |
+| D acumulada por união de IDs | 3.973 | 10,431 |
+| C sem D | 569 | 0 |
+| Principais ainda sem C | 84.771 | 78,882 |
+| Trajetórias integralmente revistas | 0 | 0 |
+
+Nesta rodada: **5,889 novas C**, **574 revisitas distintas**, **6,458 novas D** (incluem as 569 antigas C sem D). Total efetivamente lido/confrontado: 6,463 IDs distintas. Os 41 acessos repetidos de S023 205–245 recuperaram uma saída truncada, sem acréscimo; validação posterior de citações também não acrescenta cobertura. **Zero mensagens com conteúdo parcialmente lido nos intervalos declarados**, após recuperação; isto não elimina lacunas ficcionais ou partes de fontes não examinadas. C/D atual 11.679151% do total; principal 11.522629%. 158 poderes continuam cobertos por B001, sem reinício.
+
+[Ledger adicional: todas as IDs, hashes, índices, disposições e D](auditoria-fontes/triagem-B002.2.json). B001, B002.1 e respectivas validações preservados byte a byte. [Acumulado](auditoria-fontes/cobertura-acumulada.json), [plano](auditoria-fontes/plano-varredura.json), [matrizes](auditoria-fontes/matrizes-revisao.json), [validação](auditoria-fontes/validacao-B002.2.json).
+
+### Intervalos realmente examinados
+
+Índices base zero, extremos inclusivos. J01–J06 identificam precisamente as 569 antigas C sem D; J07 é fronteira já revisada. Os demais são novas leituras. A avaliação contextual de cada intervalo explicita acontecimentos, tentativas, NPCs, retificações, metajogo e disposição documental. Não houve releitura de S008 ou reinício dos trechos concluídos.
+
+| Intervalo | Fonte | Índices inclusivos | IDs lidas | Frente | Documentos confrontados |
+| --- | --- | --- | --- | --- | --- |
+| J01 | [S016](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016) | 176–260 | 85 | revisita C sem D | CONT-019, Henry, Michael, PS-023 |
+| J02 | [S013](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013) | 148–230 | 83 | revisita C sem D | CONT-017, Kian, ARC-015 |
+| J03 | [S023](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) | 820–862 | 43 | revisita C sem D | CONT-020, Ymir, OM-014 |
+| J04 | [S023](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) | 904–1020 | 117 | revisita C sem D | CONT-020, Henry, Ymir |
+| J05 | [S023](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) | 1070–1249 | 180 | revisita C sem D | CONT-020, PS-026, PS-036, OM-008 |
+| J06 | [S023](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) | 1339–1399 | 61 | revisita C sem D | CONT-020, PS-001, PS-026 |
+| J07 | [S001](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001) | 236–240 | 5 | contexto de fronteira | CONT-018, CRIT-033 |
+| J08 | [S016](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016) | 261–405 | 145 | dirigida | CONT-019, PS-001, PS-023, Henry, Ymir |
+| J09 | [S016](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016) | 406–580 | 175 | dirigida | CONT-019, Henry, Michael |
+| J10 | [S161](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161) | 1500–1715 | 216 | dirigida | Harry, CRIT-005, PS-022, CONT-016 |
+| J11 | [S023](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) | 0–170 | 171 | dirigida | CONT-020, Ymir, Beatriz |
+| J12 | [S023](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) | 171–340 | 170 | dirigida | CONT-020, NPCs, OM-009 |
+| J13 | [S023](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) | 341–480 | 140 | dirigida | CONT-020, CRIT-027, OM-010 |
+| J14 | [S023](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) | 481–650 | 170 | dirigida | CONT-020, CRIT-027, PS-037, OM-012, OM-013 |
+| J15 | [S023](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) | 651–819 | 169 | dirigida | CONT-020, Ymir, Beatriz, OM-012, OM-014 |
+| J16 | [S001](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001) | 241–450 | 210 | sistemática | CONT-018, Ymir, NPCs |
+| J17 | [S001](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001) | 451–690 | 240 | sistemática | CONT-018, Ymir, CRIT-027 |
+| J18 | [S001](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001) | 691–850 | 160 | sistemática | CONT-018, CRIT-027, CRIT-031, OM-010 |
+| J19 | [S001](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001) | 851–1039 | 189 | sistemática | CONT-018, Ymir, Beatriz |
+| J20 | [S182](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182) | 0–210 | 211 | dirigida | Kian, CONT-016, PS-021 |
+| J21 | [S182](../pesquisa/fase-3/Fontes-e-Evidencias.md#s182) | 211–393 | 183 | dirigida | Kian, CONT-016, PS-021 |
+| J22 | [S187](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187) | 1700–1940 | 241 | dirigida | Kian, Henry, CONT-016, PS-021 |
+| J23 | [S187](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187) | 2405–2465 | 61 | dirigida | Kian, PS-021, CONT-016 |
+| J24 | [S013](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013) | 231–450 | 220 | dirigida | CONT-017, Kian, ARC-015 |
+| J25 | [S013](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013) | 451–750 | 300 | dirigida | CONT-017, Yalia, Kian |
+| J26 | [S013](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013) | 751–1050 | 300 | dirigida | CONT-017, Kian, organizações |
+| J27 | [S013](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013) | 1051–1350 | 300 | dirigida | CONT-017, Kian, poderes |
+| J28 | [S013](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013) | 1351–1650 | 300 | dirigida | CONT-017, Kian, Emília |
+| J29 | [S013](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013) | 1651–1950 | 300 | dirigida | CONT-017, Kian, OM-011 |
+| J30 | [S013](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013) | 1951–2250 | 300 | dirigida | CONT-017, Kian, NPCs, facções |
+| J31 | [S013](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013) | 2251–2485 | 235 | dirigida | CONT-017, CRIT-026, ARC-015, OM-011 |
+| J32 | [S002](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002) | 0–240 | 241 | sistemática | CONT-018, Lilith, Ymir, CRIT-032 |
+| J33 | [S002](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002) | 241–500 | 260 | sistemática | CONT-018, Lilith, Ymir, CRIT-032 |
+| J34 | [S002](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002) | 501–782 | 282 | sistemática | CONT-018, Lilith, Ymir, PS-039, OM-014 |
+
+### Disposição editorial por intervalo
+
+**J01 — S016 176–260:** Ataque ao acampamento: campo/trapas de Michael são tentativas. Bola de Henry atinge árvore, não aniquila tropas; Michael derruba troncos e o salva. Narração, ações propostas e comentários auxiliares separados. CASO 1: sequência geral documentada; resultado de Henry não ampliado. Limites/IDs de início e fim no ledger.
+
+**J02 — S013 148–230:** Floresta, sombra limitada, ferramentas e lobo: ferimentos e sobrevivência confirmados; caminhada continua. Piadas de Henry/entidades não são intervenção divina. CASO 1, identidade preservada, transição não explicada. Limites/IDs de início e fim no ledger.
+
+**J03 — S023 820–862:** Diálogo conjugal e condição de princesa: casamento tratado como plano neste contexto, sem revogar informação autoral de esposa. Nenhuma cerimônia recuperada. Falas e metajogo não estabelecem cronologia global. Limites/IDs de início e fim no ledger.
+
+**J04 — S023 904–1020:** Henry presente e caminhada ao quarto de Garius. Relato de retorno não explica mecanismo nem nomeia salvador. CASO 1; encontro não realiza resgate da irmã. Limites/IDs de início e fim no ledger.
+
+**J05 — S023 1070–1249:** Morte/luto de Garius e Berthold: Disare e missão diplomática são relatos situados. Rumores sobre órgãos não viram poder adquirido. Colapso usa alma como tijolos de ponte segundo NPC, não ação realizada; Quimera/Deus Demônio não fundidos. OM-008 detalha custo e limites omitidos. Limites/IDs de início e fim no ledger.
+
+**J06 — S023 1339–1399:** Henry chamado rei demônio não comprova soberania. Identificação de Surgência e idade de guitarra são falas locais; piada de 60 mil anos de Rans não entra no calendário. Flauta não convoca Nines neste uso. CASO 1, resultado negativo preservado. Limites/IDs de início e fim no ledger.
+
+**J07 — S001 236–240:** Revisita de cinco IDs da entrada na torre para interpretar a fuga posterior; abrigo narrado, sem morte do atirador. Não aumenta C ou D. Limites/IDs de início e fim no ledger.
+
+**J08 — S016 261–405:** Batalha termina localmente. Michael cogita usurpar liderança; não obtém reino. Mestre retifica Lucas: chega separadamente, não acompanhou Ymir. Vermund descreve Surgência como filhos da terra e maldição; testemunho NPC sem mecanismo universal. Espada luminosa de Lucas falha; falta de memória anterior ao despertar não é memória completa. Limites/IDs de início e fim no ledger.
+
+**J09 — S016 406–580:** Henry fere Lucas e depois o cura; chuva de formigas/perda de consciência são narradas, agente não identificado. Prisioneiros e convite de Henry à ferraria; aprendizagem não concluída. Michael abandona plano de armadilhas; atacantes ainda chegam e partida não se conclui. Piadas Dani/dez anos/evento canônico não criam NPC, calendário ou causa divina. Limites/IDs de início e fim no ledger.
+
+**J10 — S161 1500–1715:** Harry nominal ajuda cura e coordena Zex/civis; mestre considera ações feitas. Flecha abdominal retirada por Zex e limite de cura com mana específico. Sem Astro ou ponte de corpo neste recorte final. Henry inconsciente e efeito do vento não são transformação nova. Personalidade/nominalidade confirmadas aqui; vínculo pessoal Harry–Astro provável por S008 anterior, memória e ponte corporal insuficientes. Limites/IDs de início e fim no ledger.
+
+**J11 — S023 0–170:** Vermund revela projeto Solus de bombardear Piferme, sem execução. Ferimento das asas de Kral e tentativa de cura excessiva de Ymir não demonstram restauração completa. Fala de exterminar fadas e relatos de morte de pelotões são ações/relatos, não regra universal ou fusão da floresta com Myria pessoa. Limites/IDs de início e fim no ledger.
+
+**J12 — S023 171–340:** Floresta, prisioneiro STWART LITTLE e execução de pescoço pelo mestre; nenhuma ponte com Stwart do Inferno de Yakkatsu. Infiltração da fortaleza e disparos: pedidos de cura total e matar todos não substituem resultados. CASO 5 por homônimo que exige documentação separada. Limites/IDs de início e fim no ledger.
+
+**J13 — S023 341–480:** Ymir mata adversários da sala e foge do bombardeio, permanece ferido. Scroll Froid/rei dos mares não concede todas técnicas. Mestre confirma Sexto Sentido 10 m com gasto de energia. Tentar criar ar da água falha; desmaio antecede despertar enfaixado na Casa Coratayne. Rans aparece no jardim. Recuperação não restaura braço. Limites/IDs de início e fim no ledger.
+
+**J14 — S023 481–650:** Limia atribui resgate a Garius, administrador da casa/ministro de Polã. Livros registram datas/eventos históricos com perspectiva da fonte, não ano atual. Magias 9–0 e custos/anos não significam aprendizado pleno. Null/All e fortalecimento DeHe requerem explicação literal. Beatriz reencontra Ymir, relata despertar na Árvore da Vida e procura por ele. Objetivos pessoais e memória parcial preservados. Limites/IDs de início e fim no ledger.
+
+**J15 — S023 651–819:** Pernas de Beatriz perfeitas; braço de Ymir ausente. Ela diz ontem enquanto ele conta semanas, sem calendário conciliado. Mestre retifica DeHe como fortalecimento por reconstruir fibras; regeneração é outra linha. Nove livros memorizados, não biblioteca inteira. Afeto/beijo e casamento oferecido em metajogo não são cerimônia ou conjunção cronológica demonstrada. Limites/IDs de início e fim no ledger.
+
+**J16 — S001 241–450:** Fuga da torre e cartazes de missões; gangue retirada por mal-entendido, sem missão concluída. Quémero nomeado sem posto de comandante confirmado. Cidade de animais, Powl/Froid, combate com canguru e compra de manoplas. Plano de desmontar organização e hipérbole de meio universo não são vitórias realizadas. Resgate iniciado no ataque de aves. Limites/IDs de início e fim no ledger.
+
+**J17 — S001 451–690:** Resgate da menina aceito e Ceifador lançado por golpe, não decapitado por ação unilateral. Cura alivia mulher, mas ela depois morre; Tamura e treino com Froid seguem. MUTON 31; nove técnicas de água descritas não são todas adquiridas. Conversão mana/água tem demonstrações locais e desgaste. Limites/IDs de início e fim no ledger.
+
+**J18 — S001 691–850:** Treino produz doze litros e fadiga; não supera Froid por afirmação do jogador. Tengetsu nomeado, notícias de governador e assassinatos permanecem relatos. Myria é pessoa, distinta de região. Sexto Sentido desperta em seis metros e exige energia, com hemorragia. Pedidos de cura/controle coletivo não executam automaticamente. Limites/IDs de início e fim no ledger.
+
+**J19 — S001 851–1039:** Ajuda de Powl/Froid e raízes de Myria; cura de Ymir falha antes de posterior extração de bala e auxílio Tamura. Beatriz impostora pede amputação que Ymir não executa; demoníaca revelação/morte não atinge a verdadeira Beatriz em coma. Retorno corrigido de três horas para quarenta minutos, sem regra global. Nostalgia final OOC não continua história. Limites/IDs de início e fim no ledger.
+
+**J20 — S182 0–210:** Lúcifer estuda e adapta energia, marca abdominal; pedidos de dominar armas não concedem tudo. Encontra God/Michael, estuda energia inversa, testa esfera e sofre exaustão. Ruínas/sobreviventes de Mouran; elevador atinge carro de Henry. Não é viagem dimensional nem novo rei estabelecido. Limites/IDs de início e fim no ledger.
+
+**J21 — S182 211–393:** Relatos de fome e inflação em Mouran. Gwierlan usa rei do inferno ironicamente, e cidade infernal como metáfora. Cura de terra falha. Mestre alterna Kian/Lúcifer na mesma sequência ao chegar à Árvore, receber equipamento e lutar. Armas simples autorizadas, armas complexas recusadas. Velho não identificado como Edward por hipótese OOC. Retorno final é intenção. Limites/IDs de início e fim no ledger.
+
+**J22 — S187 1700–1940:** Kian aparece adulto no palácio com Henry/Michael/Lilith; galinha de sombras tem alcance de 30 m e retorna ao usuário. Cura Travessa cancelada antes da cura de Henry. Transporte no pássaro coletivo e proximidade do castelo destruído narrados. Recordação fragmentária de castelo no céu não é memória total. Incidentes de Bytes/Nai e exageros auxiliares não encerram seus arcos. Limites/IDs de início e fim no ledger.
+
+**J23 — S187 2405–2465:** Contexto de luta com Edward e comentários de jogador sobre morrer/flecha de fogo: metajogo não demonstra morte corporal de Kian nem explica adulto–bebê. Comparação com morte de Henry no trecho já auditado não funde resultados. CASO 1: lacuna conservada. Limites/IDs de início e fim no ledger.
+
+**J24 — S013 231–450:** Azazel deixa floresta, nomeia-se, chega com Galius ao subterrâneo de Tékia. Flecha é descrita como mana; Galius morto e absorção involuntária do cérebro são narrados, não todo poder controlado. Desmaio, sangue e choro não recuperam todas memórias anteriores. Abismo do Paraíso é designação da cidade subterrânea, sem plano Inferno confirmado. Limites/IDs de início e fim no ledger.
+
+**J25 — S013 451–750:** Yalia acolhe; agressores batidos fogem. Cura Travessa apodrece carne e restaura com limitações; flashback da absorção não é nova morte. Trabalho/feira e engano por velho de cinco dracos; salto e agressor ainda gemendo não são morte neste primeiro golpe. Vulnerabilidade não equivale a divindade. Limites/IDs de início e fim no ledger.
+
+**J26 — S013 751–1050:** Morte do agressor por esmagamento e energia esgotada. Brown oferece trabalho; servidor confunde Kian e pede desculpas. Contrato dos Magnatas não unifica todas facções. Miliart impõe ordens locais. Mortos erguidos por sombras após falhas, corpos ficam e sombras somem por limite energético. Tentativa de comer cadáver provoca vômito; impulso não define terceira alma. Limites/IDs de início e fim no ledger.
+
+**J27 — S013 1051–1350:** Yalia ajuda. Trevas/Sombras e níveis locais distintos; absorção tipo buraco negro tem alcance cinco metros, falhas e explosão. Armazena espadas na sombra; tentativa de espada antiga falha neste ponto. Confronto, sombras, dano ao braço e alteração muscular: não conferem corpo adulto permanente. Captura começa com arqueiro e correntes. Limites/IDs de início e fim no ledger.
+
+**J28 — S013 1351–1650:** Cativeiro e violência contra ambos tratados sem reproduzir material privado explícito. Emília liberta Azazel e participa ativamente da fuga; curas falham/perigo de morte. Ele mata torturador e guarda; energia interrompe transformação. Hotel cobra dracos. Cena da menina curada como criada é sonho, ela segue desacordada ao despertar. Limites/IDs de início e fim no ledger.
+
+**J29 — S013 1651–1950:** Demonificação contextual com custo zero não zera efeitos de toda magia. Rith relata três dias locais; Emília nomeia-se. Hotel invadido, camuflagem e fuga; atropelamento de slime é corrigido e entrada dele no corpo negada OOC, sem Astro/Kian fundidos. Yalia acolhe Emília. Mestre diz que a mente ainda é Kian, com pouco conhecimento de Trevas/Sombras. Sombra própria emerge; integração e controle ainda observados em etapas. Limites/IDs de início e fim no ledger.
+
+**J30 — S013 1951–2250:** Yalia vê sombra, Azazel a recolhe; não apenas sonho. Emília aparece viva no café. Pedido condicional de anunciar morte não é morte. Casa de Rith destruída e bilhete não confirmam seu destino. Westia humana; Rezi/raizel são nomes usados no diálogo. Bombas, cultistas e portal; demonização do cultista não identifica culto com Quimera/Deus Dragão. Monarca é adversário distinto de Kian. Limites/IDs de início e fim no ledger.
+
+**J31 — S013 2251–2485:** Braços negros e espada recuperada; aparente morte de Azazel desfeita pela ilusão de Westia. Ela permanece ferida, não morreu ilusoriamente. Colapso de metade do teto subterrâneo e abalo na cidade não destroem todo reino. Destinos de aliados/Monarca não concluídos. Terras roxas, ave, absorção involuntária por contato sem núcleo explicitado, queda e entrada na cabana. Velha dorme na cadeira; Azazel observa casa com poções. Não demonstrar que ele dormiu ou que anfitriã é Ellen. Limites/IDs de início e fim no ledger.
+
+**J32 — S002 0–240:** Lilith desperta e encontra Ymir. Sete dias e reconstrução por mago Terra/orbe confirmados localmente. Custo militar na primeira recuperação e relato de ave/orbe não significam quest realizada aqui. Ymir lembra Mouran/Ellen sem transporte demonstrado. Montanha/sombras: Yoran atribui orbe e Fierch está vivo, sem impostor comprovado. Limites/IDs de início e fim no ledger.
+
+**J33 — S002 241–500:** Fierch nega vínculo do orbe à montanha, contradizendo Yoran; normalidade de corpo tem explicação metafísica do NPC, não prova impostor. Desgaste neural e drenagem contrapõem ausência de efeitos mencionada. Beliart retifica quem o usou; quatro o obtiveram. Sonho de tábua termina ao despertar, sem apagar batalha de S001. Quinto mago é forma de tratamento; autonomia/refusa de NPC explícita. Limites/IDs de início e fim no ledger.
+
+**J34 — S002 501–782:** Nomes/elementos dos quatro magos recuperados. Ymir diz esposa e prioriza despertá-la; plano dos cinco/orbe para braço não executado. Neyfor/Lilith tornam-se amigos, sem romance consumado. Coiote alvo de intenção. Mestre esquece e depois retoma Emma, não apaga existência. Raízes e despertar da menina coincidem sem causalidade/poder atribuído. Yoran chega ao fim, ataque não narrado. Limites/IDs de início e fim no ledger.
+
+### Continuidade de Henry
+
+**Comprovado:** morte narrada em S187 e tratamento do corpo/alma já confrontados em B002.1; retorno vivo em S016, continuidade da batalha e cura de Lucas. A causa anterior à morte não é o soco cerebral tentado e recusado como golpe conclusivo. **Relato:** Henry diz ter sido salvo por um conhecido, sem nome ou método. **Provável:** alguma intervenção intermediária segundo ele; não identificada independentemente. **Desconhecido:** como corpo/alma voltaram e quem executou o retorno. Velho de maio e conhecido de junho não foram fundidos. A leitura integral de S016 encerra o intervalo, não a biografia de Henry.
+
+### Harry–Astro: cinco condições separadas
+
+| Condição | Resultado documental | Limite |
+| --- | --- | --- |
+| Continuidade pessoal | Provável pela associação OOC de S008 anteriormente examinada. | S161 final confirma Harry, sem ponte explícita a Astro. |
+| Continuidade de memória | Insuficiente; versões locais discordam. | Não garantir memória íntegra do Harry anterior. |
+| Continuidade corporal | Insuficiente entre Harry nominal e hospedeira. | Entrada na mulher não recuperada; ela sobrevive após saída. |
+| Mudança de manifestação | Astro sai da mulher e ocupa homem prestes a morrer em S008. | Não demonstrar que novo homem já era cadáver, ou que mulher vira Harry. |
+| Identidade nominal | Harry nomeado pelo mestre/Zex em S161; Astro apresenta-se em S008. | Dois nomes não provam ou negam automaticamente pessoa única. |
+
+Lyone é procurado e há fotografia; parentesco não é confirmado. S008 foi usado como confronto documental já realizado, sem nova contagem. [S161 · 1212959525368238090](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212960389114105856](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161). Transição e antecedentes continuam pendentes em S161 0–1499 e outras fontes pertinentes.
+
+### Kian / Lúcifer / Azazel: matriz de manifestações
+
+| Aparição/nome | Corpo, memória e controle | Capacidade/personalidade observada | Afirmação do jogador versus resultado do mestre | Lacuna |
+| --- | --- | --- | --- | --- |
+| S187 1700–1940, Kian | Adulto no palácio e transporte; recordação fragmentária de castelo. | Sombra com alcance 30 m; pouca agressividade não vira essência moral fixa. | Cura Travessa é cancelada; cura de Henry não creditada a Kian. Transporte coletivo confirmado. | Outras aparições adultas S187 ainda não revistas. |
+| S182 0–393, Lúcifer/Kian | Adulto, estudo prolongado local, adaptação energética e marca abdominal. | Curiosidade, estudo, conversa e testes que esgotam. | Mestre usa ambos nomes na mesma sequência; cura do chão falha, armas complexas recusadas. Rei do inferno é ironia, sem soberania. | Não demonstra mecanismo de chegada ao bebê. |
+| S187 2405–2465, morte comentada | Corpo de Kian não recebe resolução conclusiva nesse comentário. | Falas informais e OOC. | Morri/flecha de fogo do jogador não substitui morte narrada. | Causa/transição ainda desconhecidas. |
+| S013 integral, Azazel | Bebê chamado Azazel; crescimento pessoal até doze anos. Mestre afirma mente ainda Kian, com pouco conhecimento de Trevas/Sombras. | Curiosidade, sobrevivência, absorções involuntárias, violência e limites de energia. | Propostas de controlar todas sombras, recuperar espada ou curar Emília têm falhas e resoluções próprias. Sonho de cura não realiza cura. | Memória/repertório completos não demonstrados; identidade pessoal autoral confirmada. |
+| Final S013 | Vivo e ferido, entra na cabana; velha dorme. | Observa poções/alquimia, sem repouso próprio confirmado. | Absorção da ave por contato não nomeia núcleo; ilusão desfaz aparente morte de Azazel, não Westia. | Identidade da velha e destinos de aliados continuam abertos. |
+
+[S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055535262765096](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1264741025797246987](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992776528625697](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013). Não são três personagens independentes; não há integração completa, terceira alma ou mecanismo adulto–bebê inventado.
+
+### Ymir, Beatriz e antecedentes
+
+Projeto Solus de Vermund permanece intenção de bombardeio de Piferme; não fundido ao bombardeio da fortaleza. Ferimentos, tentativa de criar ar fracassada e desmaio antecedem Casa Coratayne; resgate atribuído por Limia a Garius. Ele administra a casa e é ministro de Polã, sem posse/soberania universal. Beatriz relata despertar na Árvore da Vida, casa reconhecida e procura por Ymir; reencontro afetuoso e pernas perfeitas narrados, braço de Ymir ausente. Seu ontem versus semanas dele não resolve o calendário. Família, missão diplomática e sequestro da irmã são relatos; ela quer perguntar, escolher e buscar a irmã, não mero instrumento de Ymir. Garius morto, luto e viagem dos dois culminam na chegada à cidade élfica; missão e Milena não realizados.
+
+**Beatriz esposa por informação autoral confirmada; cronologia do casamento aberta.** S002 usa esposa, julho contém plano, sem cerimônia recuperada. **Supremacia futura D/B e Trajetória I de Ymir mantidas** no adaptado; sem feito retroativo. Livros, títulos, custos e limites são documentados com atribuição e escala local.
+
+### Reconciliação e correções
+
+Rans: pedido de remover selos à voz materna/divina; experiência narrada, identidade objetiva/remoção/recuperação de Hermione incertas. Perfil, relações, ARC-016, PS-038, CRIT-040, índice e propostas foram reconciliados com OM-003/004/007; corrigida a premissa residual do pedido no documento 12. Mulack: Philip Glorian/pesquisa racial incorporados; natureza das criaturas e desfecho original contraditórios; sobrevivência adaptada aprovada. Rechecadas relações/arcos/índices/propostas, sem novo destino ou alteração desnecessária. Reconciliação no [documento 23](23-Auditoria-de-Compatibilidade-dos-12-Protagonistas.md).
+
+Novas OM-008–014 no [registro 25](25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md#registro-adicional-b0022): Colapso/custo; homônimo Stwart; Sexto seis/dez metros; quatro erros de Azazel; Null/All/DeHe; história dos livros; cronologia conjugal. COR-E01 é editorial: ARC-014 explicita busca por sair, com duplicata idêntica removida, resultado preservado. Correções de Kian propagadas apenas às bases factuais dos documentos adaptados 02/15/19; DD-01–43 intactos. CONT-018/019 e demais sequências corroboradas não foram reconstruídas do zero.
+
+### Matrizes proporcionais
+
+**PS (40 entradas):** 17 parcialmente revisado; 22 não iniciado; 1 em investigação.
+
+**CRIT (40 entradas):** 25 não iniciado; 15 parcialmente revisado.
+
+**ARC (19 entradas):** 11 não iniciado; 8 parcialmente revisado.
+
+**protagonists (12 entradas):** 8 parcialmente revisado; 4 não iniciado.
+
+S002 trouxe exame incidental de Lilith como varredura; sua frente dirigida de B003 permanece por executar. PS-030 está em investigação somente pela ressalva do homônimo; ARC-014 recebe ajuste editorial, sem revisão contextual do ramo de Yakkatsu. Nenhuma entrada ou trajetória foi elevada a revisão concluída.
+
+### Fontes concluídas e trabalho restante
+
+**Integrais em C/D (não biografias):** S001, S002, S003, S008, S013, S016, S023, S174, S182, S198, PWR001, PWR002, PWR003, PWR004, PWR005, PWR006, PWR007, PWR008, PWR009, PWR010, PWR011, PWR012 — 22 fontes não vazias. **Parciais:** S025, S028, S037, S068, S106, S118, S123, S146, S155, S158, S161, S166, S178, S187 — 14. **Sem exame semântico independente:** 162 fontes não vazias; lista completa por fonte no acumulado. As 16 vazias não são leitura narrativa. Novas fontes completas nesta rodada: S001, S002, S013, S016, S023, S182.
+
+**B002 ainda em andamento.** Falta confrontar o restante adulto de S187: 0–1699, 1941–2404, 2466–2649; trechos 2650–2961 já auditados em B002.1 não devem ser reiniciados. Antecedentes Kian em S184 0–577, S051 0–8, S052 0–233 e S070 (tamanho/partes já C no manifesto/ledger) precisam de revisão contextual proporcional. Harry: S161 0–1499 e pontes pessoais/memória/corpo ainda não demonstradas. Mulack: S158 0–1279 e fontes anteriores continuam pendentes. Henry/Ymir/Rans têm outras fontes ainda parciais; ausência de explicação nos arquivos completos não autoriza fechá-las globalmente. Próxima varredura: S004 0–57, depois S005 em núcleos de até 200 com contexto; nenhuma dessas leituras foi contada aqui.
+
+B003 permanece **não executado**, condicionado ao fechamento verificável das investigações B002; futuros focos já planejados (Bytes/Nairóbi, Yakkatsu/Bardock/Stwart, God/Gotter/Árvore, EREN/Ana, Lilith/Hads/Emma, Michael, Rans, Henry) não são progresso narrativo. Não há parecer de prontidão para criar grandes acontecimentos nem nova era/cronologia adaptada.
+
+---
+
+## Relatório histórico B002.1 — preservado
+
+
 **Checkpoint B002.1 finalizado; lote B002 EM ANDAMENTO.** Base: main `0be4f883d1bbcf206d28fc838fcc7f82f794bc04`, PR #15 mesclado. Não reinicia A, processamento ou B001. Nenhuma construção histórica definitiva autorizada.
 
 ## Cobertura independente

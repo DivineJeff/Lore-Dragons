@@ -74,7 +74,7 @@ Os blocos se sobrepõem após a dispersão. Comece pelo [guia de causalidade](17
 - [ARC-011 — Guerra, treino e golems do Inferno](17-Biblia-Canon-Original.md#arc-011)
 - [ARC-012 — Lilith rainha e proteção de Emma](17-Biblia-Canon-Original.md#arc-012)
 - [ARC-013 — Bytes e Nairóbi](17-Biblia-Canon-Original.md#arc-013)
-- [ARC-014 — Yakkatsu e saída do Inferno](17-Biblia-Canon-Original.md#arc-014)
+- [ARC-014 — Yakkatsu e busca por sair do Inferno](17-Biblia-Canon-Original.md#arc-014)
 - [ARC-015 — Kian, Lúcifer e infância de Azazel](17-Biblia-Canon-Original.md#arc-015)
 - [ARC-016 — Rans, sobrevivência e Hermione](17-Biblia-Canon-Original.md#arc-016)
 - [ARC-017 — Harry e ramo Astro](17-Biblia-Canon-Original.md#arc-017)
@@ -138,3 +138,7 @@ Revisão 3 — 10/10/2026: localizadores do novo checkpoint; revisão completa d
 ## Checkpoint B002.1 da auditoria independente
 
 [4.542 IDs distintas acumuladas; correções e matrizes](../canon-adaptado/26-Auditoria-B002-Continuidades-e-Varredura.md). B002 em andamento, sem conclusão integral do corpus ou dos protagonistas. Inventário/processamento e B001 preservados.
+
+## Correções verificadas em B002.2
+
+Azazel entra na cabana onde a velha dorme; a ilusão de Westia desfaz a morte aparente dele. Consultar [CONT-017](17-Biblia-Canon-Original.md#cont-017), [CRIT-026](19-Matriz-Canon-Critico.md#crit-026) e [checkpoint B002.2](../canon-adaptado/26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2). ARC-014 conserva a busca e a ausência de saída narrada.

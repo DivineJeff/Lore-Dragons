@@ -323,3 +323,7 @@ Cinco ocorrências OM-003–007: premissa de selo corrigida, experiência matern
 
 
 B002 continua aberto pelos intervalos explicitamente pendentes. B003 está planejado, não executado. Prontidão global provisória NÃO APTO por cobertura insuficiente; decisões criativas protegidas. [Validação deste checkpoint](auditoria-fontes/validacao-B002.json).
+
+## Atualização independente B002.2
+
+Estado atual em [26](26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2). Novas C 5,889; revisitas 574; novas D 6,458; C/D acumuladas 10,431; C sem D zero. 78,882 principais ainda sem C. Fontes integrais 22, parciais 14, não examinadas semanticamente 162, vazias 16. Os totais anteriores neste documento são históricos, preservados. A/B completas, C/D parciais; nenhum protagonista integral. B002 ainda parcial e B003 não executado. [Ledger adicional](auditoria-fontes/triagem-B002.2.json) e [validação](auditoria-fontes/validacao-B002.2.json).

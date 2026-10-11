@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "checkpoint": "B002.2",
+  "batch_status": "EM ANDAMENTO",
+  "base_main": "9973184d9770e3add3acea04e02563b7dbad6649",
+  "protected_existing_blobs": 40,
+  "original_ZIPs_preserved_and_sha256_verified": 8,
+  "used_HTML_members_sha256_verified": 8,
+  "historical_B001_B002_1_ledgers_and_validations_preserved": true,
+  "authorial_DD_01_43_preserved": true,
+  "relative_links_checked": 2524,
+  "source_ID_reference_occurrences_checked": 1175,
+  "message_text_hashes_verified": 6463,
+  "metrics": {
+    "new_C_distinct": 5889,
+    "revisited_previous_C_distinct": 574,
+    "new_D_distinct": 6458,
+    "previous_C_without_D_confronted": 569,
+    "C_cumulative_distinct": 10431,
+    "D_cumulative_distinct": 10431,
+    "C_without_D_distinct": 0,
+    "distinct_reviewed_this_checkpoint": 6463,
+    "partially_read_content_messages": 0,
+    "remaining_principal_C": 78882,
+    "recovery_reread_accesses": 41
+  },
+  "matrices": {
+    "PS": {
+      "PARCIALMENTE REVISADO": 17,
+      "NÃO INICIADO": 22,
+      "EM INVESTIGAÇÃO": 1
+    },
+    "CRIT": {
+      "NÃO INICIADO": 25,
+      "PARCIALMENTE REVISADO": 15
+    },
+    "ARC": {
+      "NÃO INICIADO": 11,
+      "PARCIALMENTE REVISADO": 8
+    },
+    "protagonists": {
+      "PARCIALMENTE REVISADO": 8,
+      "NÃO INICIADO": 4
+    }
+  },
+  "source_status_counts": {
+    "TRIAGEM INTEGRAL": 22,
+    "NÃO INICIADA": 162,
+    "SEM MENSAGENS": 16,
+    "PARCIAL": 14
+  },
+  "protagonists_complete": 0,
+  "new_canonical_future_events": 0,
+  "B003_executed": false,
+  "errors": []
+}

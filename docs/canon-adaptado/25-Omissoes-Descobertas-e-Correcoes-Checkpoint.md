@@ -1,6 +1,8 @@
-# Omissões, descobertas e correções — checkpoints B001 e B002.1
+# Omissões, descobertas e correções — checkpoints B001, B002.1 e B002.2
 
 Auditoria independente de Dragons · 10/10/2026 · Etapa B iniciada, sem encerramento global.
+
+**Atualização 11/10/2026:** OM-008–014 e COR-E01 em [registro adicional B002.2](#registro-adicional-b0022); seções anteriores conservam os estados históricos.
 
 ## Escopo e método
 
@@ -169,3 +171,81 @@ Cinco ocorrências OM-003–007: premissa de selo corrigida, experiência matern
 **Correção/pendência:** Perfil Rans e auditoria 23 recuperam afeto/atividade e qualificam estado; não inventam casamento nem cura.
 
 B002 continua aberto pelos intervalos explicitamente pendentes. B003 está planejado, não executado. Prontidão global provisória NÃO APTO por cobertura insuficiente; decisões criativas protegidas. [Validação deste checkpoint](auditoria-fontes/validacao-B002.json).
+
+## Registro adicional B002.2
+
+OM-001–007 e checkpoints anteriores preservados. Os casos novos distinguem complemento, informação omitida, erro e insuficiência; não apagam contradições ou decisões autorais.
+
+<a id="om-008"></a>
+
+### OM-008 — Colapso e custo de alma
+
+**Classificação:** CASO 2 — complemento documental. **Confiança:** ALTA no relato; INSUFICIENTE para uso.
+
+**Antes, descoberta, impacto e correção:** A Bíblia preservava nome/contexto, mas não explicitava o custo e a ponte preexistente. Berthold atribui a Belphegor uma técnica que consome parte da alma como tijolos, esgota e exige mais energia/força mental do que Ymir possui. Relato de NPC, sem aquisição ou uso demonstrado. Complemento na Bíblia, poderes, PS-026 e PS-037; nenhuma nova cosmologia aprovada.
+
+**Fonte/contexto:** [S023 · 1267291152055537777](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267291238357536790](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267292607780884511](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267292668371931230](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267292808889237527](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023). Intervalos e limites em [B002.2](26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2).
+
+<a id="om-009"></a>
+
+### OM-009 — STWART LITTLE e Stwart
+
+**Classificação:** CASO 5 — identidade insuficiente. **Confiança:** ALTA nas cenas; INSUFICIENTE na equivalência.
+
+**Antes, descoberta, impacto e correção:** A Bíblia tinha Stwart vivo no ramo de Yakkatsu e não distinguia o nome encontrado no ramo florestal. O mestre narra Ymir matando o prisioneiro STWART LITTLE. Registrados como entradas contextuais distintas até surgir ponte; não se declara morte do companheiro de Yakkatsu nem se refaz seu arco. Complemento de NPCs e ressalva em PS-030; B003 não executado.
+
+**Fonte/contexto:** [S023 · 1250995109940564018](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1250996371771756586](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023). Intervalos e limites em [B002.2](26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2).
+
+<a id="om-010"></a>
+
+### OM-010 — Sexto Sentido: seis e dez metros
+
+**Classificação:** CASO 2 — limite local adicional. **Confiança:** ALTA; causa da diferença INSUFICIENTE.
+
+**Antes, descoberta, impacto e correção:** Bíblia/CRIT-027 limitavam a descrição a seis metros. S023 confirma uso de dez metros e gasto de energia. Mantidas ambas medidas em seus contextos; progressão, erro ou circunstância causadora não explicitados. Corrigidos poderes/CRIT-027, PS-037 mantém escalas abertas.
+
+**Fonte/contexto:** [S001 · 1249503535641526303](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1253510297570775060](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1253510981565550622](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023). Intervalos e limites em [B002.2](26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2).
+
+<a id="om-011"></a>
+
+### OM-011 — Azazel: mente, ilusão e último estado
+
+**Classificação:** CASO 4 — erros factuais corrigidos. **Confiança:** ALTA.
+
+**Antes, descoberta, impacto e correção:** A síntese atribuía morte ilusória a Westia, dizia que a mente de Kian ainda não voltou, inventava sono final de Azazel e chamava absorção da ave de núcleo. O mestre mantém a mente de Kian com conhecimento limitado; a cabeça de Azazel aparentemente explode antes da ilusão de Westia; absorção por contato não menciona núcleo; a velha dorme e Azazel observa a casa. Correções em CONT-017, perfil, ARC-015, panorama/retificações, CRIT-026, índice e bases factuais dos documentos adaptados 02/15/19. Direções e DD não alterados.
+
+**Fonte/contexto:** [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055535262765096](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1264741025797246987](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992776528625697](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013). Intervalos e limites em [B002.2](26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2).
+
+<a id="om-012"></a>
+
+### OM-012 — Null, All e DeHe
+
+**Classificação:** CASO 2 — definição e retificação recuperadas. **Confiança:** ALTA na formulação; interpretação de Null ABERTA.
+
+**Antes, descoberta, impacto e correção:** A tabela citava Null e ressalva literal, sem separar claramente supressão, detecção e fortalecimento. Livros descrevem Null/All; a palavra desativado gera ambiguidade conservada. Mestre distingue DeHe fortalecimento por reconstrução e a linha de regeneração. Complemento nos poderes; sem braço regenerado ou magia universal por memorização.
+
+**Fonte/contexto:** [S023 · 1264755017882275860](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264755398020300892](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264756113216241755](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265110015639814347](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265822830906572912](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023). Intervalos e limites em [B002.2](26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2).
+
+<a id="om-013"></a>
+
+### OM-013 — Livros da Casa Coratayne
+
+**Classificação:** CASO 3 — informação histórica omitida. **Confiança:** ALTA no conteúdo dos livros; MEDIANA como história objetiva.
+
+**Antes, descoberta, impacto e correção:** CONT-020 citava datas históricas sem os acontecimentos principais. Recuperados 507/Kerteós/portal/Polã, 610/sucessão de Draconia, 629/isolamento élfico, 635 e 680/influência/queda de Hebe. Tabela atribuída aos livros, sem fixar ano atual, conciliar versões ou aprovar eras adaptadas. Complemento na Bíblia e PS-037.
+
+**Fonte/contexto:** [S023 · 1264729987290894417](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264733348517908571](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264733583650717737](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264735034259275869](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264742359690907708](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264743912321454120](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023). Intervalos e limites em [B002.2](26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2).
+
+<a id="om-014"></a>
+
+### OM-014 — Ymir e Beatriz: esposa e plano de casamento
+
+**Classificação:** CASO 5 — cronologia conjugal insuficiente. **Confiança:** ALTA nas falas e informação autoral; cronologia ABERTA.
+
+**Antes, descoberta, impacto e correção:** CONT-020 dizia categoricamente que Beatriz não era casada. S002 usa minha esposa e vontade de despertá-la; julho contém casamento futuro em diálogo/metajogo. A informação autoral de esposa é confirmada, mas não há cerimônia/data que concilie as cenas. Corrigida negação absoluta e mantida lacuna cronológica, sem retrocriar casamento.
+
+**Fonte/contexto:** [S002 · 1246295509371457588](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1246644820898877471](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S023 · 1265841931104026769](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265842000763031623](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023). Intervalos e limites em [B002.2](26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2).
+
+**COR-E01 — revisão editorial, sem descoberta narrativa:** ARC-014 passa a “Yakkatsu e busca por sair do Inferno”; removida somente a cópia idêntica do bloco de evidências nessa seção. ID, links e ausência de saída consumada preservados.
+
+**Reconciliação adicional de OM-003/004/007:** a base factual do documento 12 ainda atribuía pedido de ajuda/selo a Feuhs. Corrigida para a experiência com voz materna/divina e pedido de remoção dos próprios selos; execução não demonstrada. A referência a selo aplicado foi substituída por remoção. Não é nova cena/OM, mas propagação da correção antiga à proposta correspondente. [S003 · 1268024904721367103](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003).

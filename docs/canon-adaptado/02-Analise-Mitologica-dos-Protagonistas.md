@@ -179,7 +179,7 @@ A terceira coluna é comparação de propostas, não classificação dos persona
 
 **Motivações:** compreender forças e identidades, treinar e sobreviver são demonstrados. Uma missão de unir almas, governar Trevas ou superar morte universal seria criação. A necessidade de conhecer-se não autoriza converter todas as experiências em plano deliberado.
 
-**Relações:** God/Gotter ligam o adulto ao aprendizado; família do bebê e Yalia, Emília, Rith, Westia e Monarca pertencem à linha posterior. Destinos não resolvidos impedem uma família histórica pronta. Westia é humana e sua morte aparente era ilusão.
+**Relações:** God/Gotter ligam o adulto ao aprendizado; família do bebê e Yalia, Emília, Rith, Westia e Monarca pertencem à linha posterior. Destinos não resolvidos impedem uma família histórica pronta. Westia é humana; ela desfaz por ilusão a aparente morte de Azazel.
 
 **Potencial histórico — análise:** a trajetória sustenta questões sobre continuidade da pessoa, responsabilidade e memória. A relevância pode vir do que instituições posteriores fazem com essas questões; nomes Lúcifer/Azazel e magia negra não comprovam linhagem demoníaca ou cosmologia religiosa externa.
 
@@ -372,3 +372,5 @@ Michael e Lilith têm potencial político diferente: reconstrução e ambição 
 God e EREN podem relacionar-se com a Árvore sem tomar seu lugar ou monopolizar Natureza. Kian pode sustentar perguntas sobre identidade sem se tornar resposta cósmica para Henry, Bytes e Astro. Mulack pode conservar importância por companheiros, mesmo sem seleção imediata de destino. Harry e Ymir lidam com informação por caminhos éticos diferentes; uma cultura posterior pode confundi-los, mas a arquitetura editorial não deve fazê-lo.
 
 As alternativas religiosas literais são poucas e condicionais. Nenhuma é recomendada por distribuição de elementos. A decisão sobre divindade objetiva antecede qualquer escolha individual; veja [PD-02 e PD-10](06-Propostas-e-Decisoes-Pendentes.md#decisoes). A seleção final dos papéis deverá ocorrer personagem por personagem, com justificativa e registro, na PD-18.
+
+**Correção da base factual B002.2 — OM-011:** [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992776528625697](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013). Somente a premissa recuperada do RPG foi corrigida; alternativas e direções autorais mantêm seus estados de aprovação.

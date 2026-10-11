@@ -18,9 +18,9 @@ Os nove passos são arquiteturas condicionais. Etapas e períodos podem ser comb
 
 **HERDADO DO RPG:** sobrevivência, treino, limites e perigo de ferir amigos; falsa morte combinada com Mulack, depois desfeita publicamente; cura e restauração corporal de Lilith em contextos delimitados; relação amorosa sem casamento/descendência; proteção de Hermione. A ponte do Abismo é incompleta.
 
-Último estado: vivo, acordando após repouso; Terceira Paróquia é continuidade local com confiança média. Hermione estava inconsciente, não morta; presença ao lado da cama não confirmada. Rans pediu ajuda/selo a Feuhs Beronth, mas aplicação não demonstrada. Feuhs é apresentado como humano, não deus.
+Último estado: vivo, acordando após repouso; Terceira Paróquia é continuidade local com confiança média. Hermione estava inconsciente, não morta; presença ao lado da cama não confirmada. O mestre narra luz, clamores, pressão sobre a alma e voz que se identifica como deusa/mãe; Rans pede a essa voz a remoção de seus próprios selos, sem execução demonstrada. Feuhs é apresentado como humano, não deus.
 
-Qualquer alternativa precisa decidir futuramente como continua a busca de auxílio e a relação com Hermione. Não precisa preencher todo o Abismo para avançar, nem pressupor selo aplicado, cura completa ou reencontro com Lilith.
+Qualquer alternativa precisa decidir futuramente como continua a busca de auxílio e a relação com Hermione. Não precisa preencher todo o Abismo para avançar, nem pressupor remoção dos selos, cura completa ou reencontro com Lilith.
 
 ### R-A — Herói histórico que escolhe quem proteger
 
@@ -176,3 +176,5 @@ Todas as alternativas começam após esse limite, mediante ponte futura a aprova
 Escolher separadamente um eixo prioritário para Rans (A/B/C/D ou combinação) e para Henry (A/B/C/D ou combinação). Depois decidir se transcendência/divindade é candidatura a aprofundar ou fica aberta. Selecionar caminho não aprova seus nove acontecimentos, domínio, mecanismo ou presença no presente.
 
 Registro de Michael/Lilith: DIREÇÃO DE DESENVOLVIMENTO APROVADA. Todas as alternativas deste arquivo: PROPOSTA PENDENTE. Acontecimentos canônicos novos aprovados nesta rodada: nenhum. Material publicado como análise de propostas, sem aprovação narrativa automática.
+
+**Reconciliação B002.2 de OM-003/004/007:** corrigida a premissa factual do pedido de Rans, preservando experiência narrada, incerteza da voz e todas as propostas/direções. [S003 · 1268024904721367103](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003).

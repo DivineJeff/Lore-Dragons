@@ -1,5 +1,5 @@
 {
-  "checkpoint": "B002.1",
+  "checkpoint": "B002.2",
   "PS": [
     {
       "id": "PS-001",
@@ -24,14 +24,52 @@
           "1264746364479340665"
         ]
       ],
-      "status": "NÃO INICIADO",
+      "status": "PARCIALMENTE REVISADO",
       "additional_sources_researched": [],
-      "actually_read_intervals": [],
-      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
-      "current_result": "INVESTIGAÇÃO PENDENTE",
-      "confidence": "NÃO REAVALIADA",
-      "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "actually_read_intervals": [
+        "J08",
+        "J13",
+        "J14",
+        "J06"
+      ],
+      "new_evidence_assessment": "Vermund/livros acrescentam relatos de Surgência, sem mecanismo comum demonstrado.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "A verificar; não libera construção histórica",
+      "state_at_B002_1": {
+        "id": "PS-001",
+        "title": "Origem da Surgência",
+        "known_sources": [
+          "S023",
+          "S070",
+          "S119"
+        ],
+        "known_evidence": [
+          [
+            "S070",
+            "1183178984125628457"
+          ],
+          [
+            "S119",
+            "1195156289676922930"
+          ],
+          [
+            "S023",
+            "1264746364479340665"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "additional_sources_researched": [],
+        "actually_read_intervals": [],
+        "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+        "current_result": "INVESTIGAÇÃO PENDENTE",
+        "confidence": "NÃO REAVALIADA",
+        "classification": "INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "A verificar; não libera construção histórica"
+      },
+      "B002_2_assessment": "Vermund/livros acrescentam relatos de Surgência, sem mecanismo comum demonstrado.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-002",
@@ -67,7 +105,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-003",
@@ -93,7 +132,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-004",
@@ -132,7 +172,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-005",
@@ -159,7 +200,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-006",
@@ -199,7 +241,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-007",
@@ -230,7 +273,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-008",
@@ -270,7 +314,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-009",
@@ -305,7 +350,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-010",
@@ -332,7 +378,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-011",
@@ -369,7 +416,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-012",
@@ -401,7 +449,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-013",
@@ -445,7 +494,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-014",
@@ -491,7 +541,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-015",
@@ -527,7 +578,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-016",
@@ -572,7 +624,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-017",
@@ -609,7 +662,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-018",
@@ -638,14 +692,54 @@
           "1231745941833384046"
         ]
       ],
-      "status": "NÃO INICIADO",
+      "status": "PARCIALMENTE REVISADO",
       "additional_sources_researched": [],
-      "actually_read_intervals": [],
-      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
-      "current_result": "INVESTIGAÇÃO PENDENTE",
-      "confidence": "NÃO REAVALIADA",
-      "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "actually_read_intervals": [
+        "J18",
+        "J19"
+      ],
+      "new_evidence_assessment": "Antecedentes de Ymir/Note confirmados; origem da máscara não relida, sem certificação integral.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "A verificar; não libera construção histórica",
+      "state_at_B002_1": {
+        "id": "PS-018",
+        "title": "Note: nome, máscara e anonimato",
+        "known_sources": [
+          "S005",
+          "S185",
+          "S187"
+        ],
+        "known_evidence": [
+          [
+            "S185",
+            "1222374089239564358"
+          ],
+          [
+            "S185",
+            "1222558973627203715"
+          ],
+          [
+            "S187",
+            "1232493773087445003"
+          ],
+          [
+            "S005",
+            "1231745941833384046"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "additional_sources_researched": [],
+        "actually_read_intervals": [],
+        "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+        "current_result": "INVESTIGAÇÃO PENDENTE",
+        "confidence": "NÃO REAVALIADA",
+        "classification": "INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "A verificar; não libera construção histórica"
+      },
+      "B002_2_assessment": "Antecedentes de Ymir/Note confirmados; origem da máscara não relida, sem certificação integral.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-019",
@@ -675,14 +769,57 @@
           "1268041570423406726"
         ]
       ],
-      "status": "NÃO INICIADO",
+      "status": "PARCIALMENTE REVISADO",
       "additional_sources_researched": [],
-      "actually_read_intervals": [],
-      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
-      "current_result": "INVESTIGAÇÃO PENDENTE",
-      "confidence": "NÃO REAVALIADA",
-      "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "actually_read_intervals": [
+        "J09",
+        "J15",
+        "J19",
+        "J21"
+      ],
+      "new_evidence_assessment": "Finais locais confrontados; guilda e trajetórias de outros protagonistas continuam incompletas.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "A verificar; não libera construção histórica",
+      "state_at_B002_1": {
+        "id": "PS-019",
+        "title": "Ponte à Guilda/Piferme/Olta e fim da campanha",
+        "known_sources": [
+          "S023",
+          "S088",
+          "S185",
+          "S187"
+        ],
+        "known_evidence": [
+          [
+            "S088",
+            "1196646090519359640"
+          ],
+          [
+            "S185",
+            "1222374089239564358"
+          ],
+          [
+            "S187",
+            "1232494772137230376"
+          ],
+          [
+            "S023",
+            "1268041570423406726"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "additional_sources_researched": [],
+        "actually_read_intervals": [],
+        "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+        "current_result": "INVESTIGAÇÃO PENDENTE",
+        "confidence": "NÃO REAVALIADA",
+        "classification": "INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "A verificar; não libera construção histórica"
+      },
+      "B002_2_assessment": "Finais locais confrontados; guilda e trajetórias de outros protagonistas continuam incompletas.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-020",
@@ -734,7 +871,8 @@
       "current_result": "CONTRADIÇÃO PRESERVADA",
       "confidence": "ALTA na contradição",
       "classification": "CONTRADIÇÃO PRESERVADA",
-      "historical_impact": "alto; original não impõe morte na adaptação"
+      "historical_impact": "alto; original não impõe morte na adaptação",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-021",
@@ -760,13 +898,59 @@
       ],
       "actually_read_intervals": [
         "I16",
-        "I17"
+        "I17",
+        "J02",
+        "J20",
+        "J21",
+        "J22",
+        "J23",
+        "J24",
+        "J25",
+        "J26",
+        "J27",
+        "J28",
+        "J29",
+        "J30",
+        "J31"
       ],
-      "new_evidence_assessment": "Corpo infantil e uso dos nomes em narração; continuidade externa mantida, mecanismo não recuperado no início. Adulto e Lúcifer ainda faltam.",
-      "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
-      "confidence": "ALTA na continuidade externa; insuficiente no mecanismo",
-      "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "alto; ponte corporal"
+      "new_evidence_assessment": "Kian/Lúcifer na mesma sequência; infância integral e mente ainda Kian. Mecanismo adulto–bebê continua não demonstrado; S187 parcial.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "alto; ponte corporal",
+      "state_at_B002_1": {
+        "id": "PS-021",
+        "title": "Adulto Kian → bebê Azazel",
+        "known_sources": [
+          "S013",
+          "S187"
+        ],
+        "known_evidence": [
+          [
+            "S187",
+            "1237586020417929368"
+          ],
+          [
+            "S013",
+            "1253899431401492600"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "additional_sources_researched": [
+          "S013"
+        ],
+        "actually_read_intervals": [
+          "I16",
+          "I17"
+        ],
+        "new_evidence_assessment": "Corpo infantil e uso dos nomes em narração; continuidade externa mantida, mecanismo não recuperado no início. Adulto e Lúcifer ainda faltam.",
+        "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+        "confidence": "ALTA na continuidade externa; insuficiente no mecanismo",
+        "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "alto; ponte corporal"
+      },
+      "B002_2_assessment": "Kian/Lúcifer na mesma sequência; infância integral e mente ainda Kian. Mecanismo adulto–bebê continua não demonstrado; S187 parcial.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-022",
@@ -796,13 +980,51 @@
       "actually_read_intervals": [
         "I13",
         "I14",
-        "I15"
+        "I15",
+        "J10"
       ],
-      "new_evidence_assessment": "S008 integral: associação OOC, hospedeira viva, homem ainda moribundo, mercado local. Última cena nominal de Harry ainda por confrontar.",
-      "current_result": "PROVÁVEL; INVESTIGAÇÃO PENDENTE",
-      "confidence": "MÉDIA na associação",
-      "classification": "PROVÁVEL; INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "alto; não unificar dossiês automaticamente"
+      "new_evidence_assessment": "Harry nominal em S161 confirmado; vínculo pessoal Astro provável, memória e ponte corporal insuficientes. S008 já integral em B002.1, sem releitura.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "alto; não unificar dossiês automaticamente",
+      "state_at_B002_1": {
+        "id": "PS-022",
+        "title": "Harry → Astro e hospedeira",
+        "known_sources": [
+          "S008"
+        ],
+        "known_evidence": [
+          [
+            "S008",
+            "1267301422656000131"
+          ],
+          [
+            "S008",
+            "1267308668810952705"
+          ],
+          [
+            "S008",
+            "1268018113236963443"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "additional_sources_researched": [
+          "S008"
+        ],
+        "actually_read_intervals": [
+          "I13",
+          "I14",
+          "I15"
+        ],
+        "new_evidence_assessment": "S008 integral: associação OOC, hospedeira viva, homem ainda moribundo, mercado local. Última cena nominal de Harry ainda por confrontar.",
+        "current_result": "PROVÁVEL; INVESTIGAÇÃO PENDENTE",
+        "confidence": "MÉDIA na associação",
+        "classification": "PROVÁVEL; INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "alto; não unificar dossiês automaticamente"
+      },
+      "B002_2_assessment": "Harry nominal em S161 confirmado; vínculo pessoal Astro provável, memória e ponte corporal insuficientes. S008 já integral em B002.1, sem releitura.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-023",
@@ -841,13 +1063,63 @@
         "I01",
         "I02",
         "I18",
-        "I21"
+        "I21",
+        "J01",
+        "J08",
+        "J09",
+        "J04"
       ],
-      "new_evidence_assessment": "Morte, alma-orbe e retorno confirmados. Relato de conhecido não identifica velho ou técnica; restante S016 e cenas intermediárias faltam.",
-      "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
-      "confidence": "ALTA nos extremos; insuficiente na causa",
-      "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "alto; sem ressurreição divina inventada"
+      "new_evidence_assessment": "S016 integral; Henry vivo, desconhecido nome/método do salvador. Não identificar conhecido com velho de maio.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "alto; sem ressurreição divina inventada",
+      "state_at_B002_1": {
+        "id": "PS-023",
+        "title": "Henry volta à vida",
+        "known_sources": [
+          "S016",
+          "S023",
+          "S187"
+        ],
+        "known_evidence": [
+          [
+            "S187",
+            "1239359270206836776"
+          ],
+          [
+            "S016",
+            "1250998141038104717"
+          ],
+          [
+            "S016",
+            "1250999274251091999"
+          ],
+          [
+            "S023",
+            "1266909119613370448"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "additional_sources_researched": [
+          "S016",
+          "S023",
+          "S187"
+        ],
+        "actually_read_intervals": [
+          "I01",
+          "I02",
+          "I18",
+          "I21"
+        ],
+        "new_evidence_assessment": "Morte, alma-orbe e retorno confirmados. Relato de conhecido não identifica velho ou técnica; restante S016 e cenas intermediárias faltam.",
+        "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+        "confidence": "ALTA nos extremos; insuficiente na causa",
+        "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "alto; sem ressurreição divina inventada"
+      },
+      "B002_2_assessment": "S016 integral; Henry vivo, desconhecido nome/método do salvador. Não identificar conhecido com velho de maio.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-024",
@@ -883,13 +1155,64 @@
         "I18",
         "I19",
         "I20",
-        "I21"
+        "I21",
+        "J11",
+        "J12",
+        "J13",
+        "J14",
+        "J15",
+        "J03",
+        "J19",
+        "J34"
       ],
-      "new_evidence_assessment": "Beatriz presente, transformando-se, afeto e vontade; precedentes de despertar/recuperação ainda pendentes em S023 0–819.",
-      "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
-      "confidence": "ALTA nas cenas lidas",
-      "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "alto; cronologia da recuperação"
+      "new_evidence_assessment": "Despertar de Beatriz e lembranças relatados, pernas recuperadas; casamento autoral confirmado, cronologia aberta.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "alto; cronologia da recuperação",
+      "state_at_B002_1": {
+        "id": "PS-024",
+        "title": "Beatriz: coma e memória",
+        "known_sources": [
+          "S001",
+          "S023"
+        ],
+        "known_evidence": [
+          [
+            "S001",
+            "1250239705681760339"
+          ],
+          [
+            "S023",
+            "1265122213984473169"
+          ],
+          [
+            "S023",
+            "1265129599449169931"
+          ],
+          [
+            "S023",
+            "1267278128569385011"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "additional_sources_researched": [
+          "S023"
+        ],
+        "actually_read_intervals": [
+          "I18",
+          "I19",
+          "I20",
+          "I21"
+        ],
+        "new_evidence_assessment": "Beatriz presente, transformando-se, afeto e vontade; precedentes de despertar/recuperação ainda pendentes em S023 0–819.",
+        "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+        "confidence": "ALTA nas cenas lidas",
+        "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "alto; cronologia da recuperação"
+      },
+      "B002_2_assessment": "Despertar de Beatriz e lembranças relatados, pernas recuperadas; casamento autoral confirmado, cronologia aberta.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-025",
@@ -916,13 +1239,50 @@
         "I18",
         "I19",
         "I20",
-        "I21"
+        "I21",
+        "J05",
+        "J06",
+        "J15"
       ],
-      "new_evidence_assessment": "Irmã e Quimera por relato de Berthold; Beatriz quer buscá-la. Ordem anterior para ignorar mensagem preservada; não há resgate no fim lido.",
-      "current_result": "ABERTA; PARCIALMENTE REVISADA",
-      "confidence": "ALTA na fala; limitada nos fatos relatados",
-      "classification": "ABERTA; PARCIALMENTE REVISADA",
-      "historical_impact": "alto; objetivo político/familiar aberto"
+      "new_evidence_assessment": "Missão e sequestro segundo Berthold; vontade de Bia preservada, nenhum resgate/torneio realizado.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "alto; objetivo político/familiar aberto",
+      "state_at_B002_1": {
+        "id": "PS-025",
+        "title": "Irmã de Beatriz / Quimera / Milena",
+        "known_sources": [
+          "S023"
+        ],
+        "known_evidence": [
+          [
+            "S023",
+            "1267310497997389854"
+          ],
+          [
+            "S023",
+            "1268041570423406726"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "additional_sources_researched": [
+          "S023"
+        ],
+        "actually_read_intervals": [
+          "I18",
+          "I19",
+          "I20",
+          "I21"
+        ],
+        "new_evidence_assessment": "Irmã e Quimera por relato de Berthold; Beatriz quer buscá-la. Ordem anterior para ignorar mensagem preservada; não há resgate no fim lido.",
+        "current_result": "ABERTA; PARCIALMENTE REVISADA",
+        "confidence": "ALTA na fala; limitada nos fatos relatados",
+        "classification": "ABERTA; PARCIALMENTE REVISADA",
+        "historical_impact": "alto; objetivo político/familiar aberto"
+      },
+      "B002_2_assessment": "Missão e sequestro segundo Berthold; vontade de Bia preservada, nenhum resgate/torneio realizado.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-026",
@@ -951,13 +1311,51 @@
         "S023"
       ],
       "actually_read_intervals": [
-        "I20"
+        "I20",
+        "J05",
+        "J14"
       ],
-      "new_evidence_assessment": "Berthold relata banimento e Colapso, sem uso realizado; Nefa e travessias anteriores não relidas.",
-      "current_result": "INVESTIGAÇÃO PENDENTE",
-      "confidence": "ALTA na fala; insuficiente na ponte",
-      "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "alto; acesso dimensional"
+      "new_evidence_assessment": "Colapso exige alma/energia segundo NPC; não usado. Nefa e Altruístas ainda exigem outras fontes.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "alto; acesso dimensional",
+      "state_at_B002_1": {
+        "id": "PS-026",
+        "title": "Nefa e Altruístas",
+        "known_sources": [
+          "S005",
+          "S023"
+        ],
+        "known_evidence": [
+          [
+            "S005",
+            "1231393955740909650"
+          ],
+          [
+            "S005",
+            "1231400283389693962"
+          ],
+          [
+            "S023",
+            "1267289119973838870"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "additional_sources_researched": [
+          "S023"
+        ],
+        "actually_read_intervals": [
+          "I20"
+        ],
+        "new_evidence_assessment": "Berthold relata banimento e Colapso, sem uso realizado; Nefa e travessias anteriores não relidas.",
+        "current_result": "INVESTIGAÇÃO PENDENTE",
+        "confidence": "ALTA na fala; insuficiente na ponte",
+        "classification": "INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "alto; acesso dimensional"
+      },
+      "B002_2_assessment": "Colapso exige alma/energia segundo NPC; não usado. Nefa e Altruístas ainda exigem outras fontes.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-027",
@@ -983,7 +1381,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-028",
@@ -1011,14 +1410,52 @@
           "1249897869536923711"
         ]
       ],
-      "status": "NÃO INICIADO",
+      "status": "PARCIALMENTE REVISADO",
       "additional_sources_researched": [],
-      "actually_read_intervals": [],
-      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
-      "current_result": "INVESTIGAÇÃO PENDENTE",
-      "confidence": "NÃO REAVALIADA",
-      "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "actually_read_intervals": [
+        "J34"
+      ],
+      "new_evidence_assessment": "Emma existe após esquecimento OOC retificado; raízes e despertar não provam agente/poder. Pai não investigado.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "A verificar; não libera construção histórica",
+      "state_at_B002_1": {
+        "id": "PS-028",
+        "title": "Emma e pai alegado",
+        "known_sources": [
+          "S002",
+          "S173"
+        ],
+        "known_evidence": [
+          [
+            "S173",
+            "1232841410353565787"
+          ],
+          [
+            "S173",
+            "1232842253928763422"
+          ],
+          [
+            "S173",
+            "1232871127362179122"
+          ],
+          [
+            "S002",
+            "1249897869536923711"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "additional_sources_researched": [],
+        "actually_read_intervals": [],
+        "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+        "current_result": "INVESTIGAÇÃO PENDENTE",
+        "confidence": "NÃO REAVALIADA",
+        "classification": "INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "A verificar; não libera construção histórica"
+      },
+      "B002_2_assessment": "Emma existe após esquecimento OOC retificado; raízes e despertar não provam agente/poder. Pai não investigado.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-029",
@@ -1045,7 +1482,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-030",
@@ -1064,14 +1502,43 @@
           "1245919202536067172"
         ]
       ],
-      "status": "NÃO INICIADO",
+      "status": "EM INVESTIGAÇÃO",
       "additional_sources_researched": [],
-      "actually_read_intervals": [],
-      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
-      "current_result": "INVESTIGAÇÃO PENDENTE",
-      "confidence": "NÃO REAVALIADA",
-      "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "actually_read_intervals": [
+        "J12"
+      ],
+      "new_evidence_assessment": "Somente ressalva de homônimo e COR-E01. Stwart/Yakkatsu do Inferno NÃO revistos contextualmente; investigação dirigida B003 pendente.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "A verificar; não libera construção histórica",
+      "state_at_B002_1": {
+        "id": "PS-030",
+        "title": "Yakkatsu sai do Inferno",
+        "known_sources": [
+          "S022"
+        ],
+        "known_evidence": [
+          [
+            "S022",
+            "1222368028759691355"
+          ],
+          [
+            "S022",
+            "1245919202536067172"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "additional_sources_researched": [],
+        "actually_read_intervals": [],
+        "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+        "current_result": "INVESTIGAÇÃO PENDENTE",
+        "confidence": "NÃO REAVALIADA",
+        "classification": "INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "A verificar; não libera construção histórica"
+      },
+      "B002_2_assessment": "Somente ressalva de homônimo e COR-E01. Stwart/Yakkatsu do Inferno NÃO revistos contextualmente; investigação dirigida B003 pendente.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-031",
@@ -1102,7 +1569,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-032",
@@ -1143,7 +1611,8 @@
       "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
       "confidence": "ALTA na existência das notificações",
       "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "alto; limites do material"
+      "historical_impact": "alto; limites do material",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-033",
@@ -1177,7 +1646,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-034",
@@ -1204,7 +1674,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-035",
@@ -1235,7 +1706,8 @@
       "current_result": "INVESTIGAÇÃO PENDENTE",
       "confidence": "NÃO REAVALIADA",
       "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "historical_impact": "A verificar; não libera construção histórica",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-036",
@@ -1255,14 +1727,45 @@
           "1266947589476061254"
         ]
       ],
-      "status": "NÃO INICIADO",
+      "status": "PARCIALMENTE REVISADO",
       "additional_sources_researched": [],
-      "actually_read_intervals": [],
-      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
-      "current_result": "INVESTIGAÇÃO PENDENTE",
-      "confidence": "NÃO REAVALIADA",
-      "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "actually_read_intervals": [
+        "J05",
+        "J30"
+      ],
+      "new_evidence_assessment": "Cultos, portal/cultista e nomes situados; não há equivalência objetiva Deus Dragão/Demônio/Quimera demonstrada.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "A verificar; não libera construção histórica",
+      "state_at_B002_1": {
+        "id": "PS-036",
+        "title": "Culto do Deus Dragão / Deus Demônio",
+        "known_sources": [
+          "S023",
+          "S187"
+        ],
+        "known_evidence": [
+          [
+            "S187",
+            "1237568193715769406"
+          ],
+          [
+            "S023",
+            "1266947589476061254"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "additional_sources_researched": [],
+        "actually_read_intervals": [],
+        "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+        "current_result": "INVESTIGAÇÃO PENDENTE",
+        "confidence": "NÃO REAVALIADA",
+        "classification": "INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "A verificar; não libera construção histórica"
+      },
+      "B002_2_assessment": "Cultos, portal/cultista e nomes situados; não há equivalência objetiva Deus Dragão/Demônio/Quimera demonstrada.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-037",
@@ -1303,13 +1806,69 @@
         "I18",
         "I19",
         "I20",
-        "I21"
+        "I21",
+        "J13",
+        "J14",
+        "J15",
+        "J18",
+        "J21",
+        "J31",
+        "J32",
+        "J33"
       ],
-      "new_evidence_assessment": "Saltos da infância são pessoais. Janeiro/25 de julho em S008 e torneio ainda futuro nas falas precisam confronto temporal ampliado.",
-      "current_result": "INVESTIGAÇÃO PENDENTE",
-      "confidence": "ALTA nos registros; insuficiente no calendário global",
-      "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "alto; nenhuma era criada"
+      "new_evidence_assessment": "Seis/dez metros, livros datados e tempos subjetivos preservados sem harmonização automática.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "alto; nenhuma era criada",
+      "state_at_B002_1": {
+        "id": "PS-037",
+        "title": "Escalas e calendários",
+        "known_sources": [
+          "S013",
+          "S073",
+          "S089",
+          "S179"
+        ],
+        "known_evidence": [
+          [
+            "S089",
+            "1191768442324398200"
+          ],
+          [
+            "S073",
+            "1197732187341062185"
+          ],
+          [
+            "S179",
+            "1215808711109382226"
+          ],
+          [
+            "S013",
+            "1246276865065222154"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "additional_sources_researched": [
+          "S013",
+          "S023"
+        ],
+        "actually_read_intervals": [
+          "I16",
+          "I17",
+          "I18",
+          "I19",
+          "I20",
+          "I21"
+        ],
+        "new_evidence_assessment": "Saltos da infância são pessoais. Janeiro/25 de julho em S008 e torneio ainda futuro nas falas precisam confronto temporal ampliado.",
+        "current_result": "INVESTIGAÇÃO PENDENTE",
+        "confidence": "ALTA nos registros; insuficiente no calendário global",
+        "classification": "INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "alto; nenhuma era criada"
+      },
+      "B002_2_assessment": "Seis/dez metros, livros datados e tempos subjetivos preservados sem harmonização automática.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-038",
@@ -1339,7 +1898,8 @@
       "current_result": "PREMISSA CORRIGIDA; DESFECHOS ABERTOS",
       "confidence": "ALTA na correção; insuficiente no resultado",
       "classification": "PREMISSA CORRIGIDA; DESFECHOS ABERTOS",
-      "historical_impact": "alto; retirar selo adquirido como requisito falso"
+      "historical_impact": "alto; retirar selo adquirido como requisito falso",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "PS-039",
@@ -1358,14 +1918,45 @@
           "1250239262905864275"
         ]
       ],
-      "status": "NÃO INICIADO",
+      "status": "PARCIALMENTE REVISADO",
       "additional_sources_researched": [],
-      "actually_read_intervals": [],
-      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
-      "current_result": "INVESTIGAÇÃO PENDENTE",
-      "confidence": "NÃO REAVALIADA",
-      "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "actually_read_intervals": [
+        "J32",
+        "J33",
+        "J34"
+      ],
+      "new_evidence_assessment": "Governo reconstruído, magos, Emma e intenção contra Coiote; operação não realizada.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "A verificar; não libera construção histórica",
+      "state_at_B002_1": {
+        "id": "PS-039",
+        "title": "Coiote e governo de Piferme",
+        "known_sources": [
+          "S002"
+        ],
+        "known_evidence": [
+          [
+            "S002",
+            "1249855831466442764"
+          ],
+          [
+            "S002",
+            "1250239262905864275"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "additional_sources_researched": [],
+        "actually_read_intervals": [],
+        "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+        "current_result": "INVESTIGAÇÃO PENDENTE",
+        "confidence": "NÃO REAVALIADA",
+        "classification": "INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "A verificar; não libera construção histórica"
+      },
+      "B002_2_assessment": "Governo reconstruído, magos, Emma e intenção contra Coiote; operação não realizada.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     },
     {
       "id": "PS-040",
@@ -1380,14 +1971,42 @@
           "1252794260122636383"
         ]
       ],
-      "status": "NÃO INICIADO",
+      "status": "PARCIALMENTE REVISADO",
       "additional_sources_researched": [],
-      "actually_read_intervals": [],
-      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
-      "current_result": "INVESTIGAÇÃO PENDENTE",
-      "confidence": "NÃO REAVALIADA",
-      "classification": "INVESTIGAÇÃO PENDENTE",
-      "historical_impact": "A verificar; não libera construção histórica"
+      "actually_read_intervals": [
+        "J01",
+        "J08",
+        "J09",
+        "J11"
+      ],
+      "new_evidence_assessment": "Campanha e planos de Michael com último ataque ainda em andamento; não conquistou Piferme nesse trecho.",
+      "current_result": "PARCIAL; lacunas preservadas",
+      "confidence": "ALTA nas resoluções citadas; INSUFICIENTE nas transições não demonstradas",
+      "classification": "EVIDÊNCIAS LOCAIS CONFRONTADAS; SEM SOLUÇÃO GLOBAL",
+      "historical_impact": "A verificar; não libera construção histórica",
+      "state_at_B002_1": {
+        "id": "PS-040",
+        "title": "Michael, Mytria e conquista",
+        "known_sources": [
+          "S016"
+        ],
+        "known_evidence": [
+          [
+            "S016",
+            "1252794260122636383"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "additional_sources_researched": [],
+        "actually_read_intervals": [],
+        "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+        "current_result": "INVESTIGAÇÃO PENDENTE",
+        "confidence": "NÃO REAVALIADA",
+        "classification": "INVESTIGAÇÃO PENDENTE",
+        "historical_impact": "A verificar; não libera construção histórica"
+      },
+      "B002_2_assessment": "Campanha e planos de Michael com último ataque ainda em andamento; não conquistou Piferme nesse trecho.",
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada."
     }
   ],
   "CRIT": [
@@ -1418,7 +2037,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-002",
@@ -1435,7 +2055,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-003",
@@ -1467,9 +2088,47 @@
       "actually_read_intervals": [
         "I01",
         "I02",
-        "I18"
+        "I18",
+        "J01",
+        "J08",
+        "J09",
+        "J04"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-003",
+        "title": "Henry morre em maio e reaparece em junho",
+        "known_sources": [
+          "S016",
+          "S187"
+        ],
+        "known_evidence": [
+          [
+            "S187",
+            "1239359270206836776"
+          ],
+          [
+            "S187",
+            "1239380369401315428"
+          ],
+          [
+            "S016",
+            "1250998141038104717"
+          ],
+          [
+            "S016",
+            "1250999274251091999"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I01",
+          "I02",
+          "I18"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "S016 completa confirma reaparição e continuidade; causa da volta continua lacuna."
     },
     {
       "id": "CRIT-004",
@@ -1513,7 +2172,8 @@
         "I06",
         "I07"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-005",
@@ -1536,9 +2196,35 @@
       "actually_read_intervals": [
         "I13",
         "I14",
-        "I15"
+        "I15",
+        "J10"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-005",
+        "title": "Astro associado a Harry",
+        "known_sources": [
+          "S008"
+        ],
+        "known_evidence": [
+          [
+            "S008",
+            "1267301422656000131"
+          ],
+          [
+            "S008",
+            "1268018113236963443"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I13",
+          "I14",
+          "I15"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Harry nominal/Zex; relação pessoal com Astro provável, corpo/memória sem ponte."
     },
     {
       "id": "CRIT-006",
@@ -1568,9 +2254,53 @@
       ],
       "status": "PARCIALMENTE REVISADO",
       "actually_read_intervals": [
-        "I16"
+        "I16",
+        "J20",
+        "J21",
+        "J22",
+        "J23",
+        "J24",
+        "J25",
+        "J26",
+        "J27",
+        "J28",
+        "J29",
+        "J30",
+        "J31"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-006",
+        "title": "Kian/Lúcifer/Azazel é continuidade confirmada externamente",
+        "known_sources": [
+          "S013",
+          "S187"
+        ],
+        "known_evidence": [
+          [
+            "S187",
+            "1237586020417929368"
+          ],
+          [
+            "S013",
+            "1239350043090358362"
+          ],
+          [
+            "S013",
+            "1253899431401492600"
+          ],
+          [
+            "S187",
+            "1237586151188205609"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I16"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Nomes e manifestações confrontados; continuidade pessoal autoral preservada; mecanismo ausente."
     },
     {
       "id": "CRIT-007",
@@ -1600,7 +2330,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-008",
@@ -1621,7 +2352,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-009",
@@ -1653,7 +2385,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-010",
@@ -1682,7 +2415,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-011",
@@ -1704,7 +2438,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-012",
@@ -1733,7 +2468,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-013",
@@ -1771,7 +2507,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-014",
@@ -1793,7 +2530,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-015",
@@ -1814,7 +2552,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-016",
@@ -1835,7 +2574,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-017",
@@ -1865,7 +2605,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-018",
@@ -1882,7 +2623,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-019",
@@ -1912,7 +2654,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-020",
@@ -1934,7 +2677,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-021",
@@ -1960,7 +2704,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-022",
@@ -1993,9 +2738,49 @@
         "I18",
         "I19",
         "I20",
-        "I21"
+        "I21",
+        "J11",
+        "J14",
+        "J15",
+        "J03",
+        "J34"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-022",
+        "title": "Beatriz viva, princesa e recuperada",
+        "known_sources": [
+          "S001",
+          "S023"
+        ],
+        "known_evidence": [
+          [
+            "S001",
+            "1249904508159397970"
+          ],
+          [
+            "S023",
+            "1265122213984473169"
+          ],
+          [
+            "S023",
+            "1265129599449169931"
+          ],
+          [
+            "S023",
+            "1266899855322906676"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I18",
+          "I19",
+          "I20",
+          "I21"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Bia viva/princesa/recuperada; esposa por autoria, sem data demonstrada."
     },
     {
       "id": "CRIT-023",
@@ -2015,9 +2800,33 @@
           "1249897869536923711"
         ]
       ],
-      "status": "NÃO INICIADO",
-      "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "J34"
+      ],
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-023",
+        "title": "Emma e raízes",
+        "known_sources": [
+          "S002",
+          "S173"
+        ],
+        "known_evidence": [
+          [
+            "S173",
+            "1232871127362179122"
+          ],
+          [
+            "S002",
+            "1249897869536923711"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "actually_read_intervals": [],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Raízes/Emma e esquecimento OOC retificado; causalidade não identificada."
     },
     {
       "id": "CRIT-024",
@@ -2039,7 +2848,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-025",
@@ -2066,9 +2876,40 @@
       ],
       "status": "PARCIALMENTE REVISADO",
       "actually_read_intervals": [
-        "I19"
+        "I19",
+        "J05",
+        "J30"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-025",
+        "title": "Deus Dragão e Deus Demônio",
+        "known_sources": [
+          "S023",
+          "S057",
+          "S187"
+        ],
+        "known_evidence": [
+          [
+            "S023",
+            "1266947589476061254"
+          ],
+          [
+            "S187",
+            "1237568074702655519"
+          ],
+          [
+            "S057",
+            "1186017251208482906"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I19"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Relatos de cultos não comprovam equivalência por nomes ou ritos."
     },
     {
       "id": "CRIT-026",
@@ -2098,9 +2939,42 @@
       ],
       "status": "PARCIALMENTE REVISADO",
       "actually_read_intervals": [
-        "I01"
+        "I01",
+        "J31"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-026",
+        "title": "Westia e velho de maio",
+        "known_sources": [
+          "S013",
+          "S187"
+        ],
+        "known_evidence": [
+          [
+            "S013",
+            "1256055716578590780"
+          ],
+          [
+            "S187",
+            "1239387756665376841"
+          ],
+          [
+            "S187",
+            "1239387789804703764"
+          ],
+          [
+            "S013",
+            "1255327101939220512"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I01"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Corrigida ilusão: morte aparente de Azazel, desfeita por Westia. Velho de maio permanece não identificado."
     },
     {
       "id": "CRIT-027",
@@ -2124,9 +2998,41 @@
           "1265827259483164723"
         ]
       ],
-      "status": "NÃO INICIADO",
-      "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "J13",
+        "J14",
+        "J15",
+        "J17",
+        "J18"
+      ],
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-027",
+        "title": "MUTON, Sexto Sentido e livros",
+        "known_sources": [
+          "S001",
+          "S023"
+        ],
+        "known_evidence": [
+          [
+            "S001",
+            "1249112487421284494"
+          ],
+          [
+            "S001",
+            "1249503535641526303"
+          ],
+          [
+            "S023",
+            "1265827259483164723"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "actually_read_intervals": [],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "MUTON 31, Sexto seis/dez metros, nove livros, Null/All/DeHe locais; não onipotência."
     },
     {
       "id": "CRIT-028",
@@ -2145,7 +3051,8 @@
       "actually_read_intervals": [
         "I21"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-029",
@@ -2166,9 +3073,38 @@
       ],
       "status": "PARCIALMENTE REVISADO",
       "actually_read_intervals": [
-        "I21"
+        "I21",
+        "J09",
+        "J15",
+        "J19",
+        "J21",
+        "J31",
+        "J34"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-029",
+        "title": "Fim recuperável",
+        "known_sources": [
+          "S023"
+        ],
+        "known_evidence": [
+          [
+            "S023",
+            "1268041570423406726"
+          ],
+          [
+            "S023",
+            "1268041754809208842"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I21"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Finais individuais de fontes lidas confrontados; nenhuma trajetória inteira certificada."
     },
     {
       "id": "CRIT-030",
@@ -2198,7 +3134,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-031",
@@ -2221,9 +3158,39 @@
           "1249464028150104148"
         ]
       ],
-      "status": "NÃO INICIADO",
-      "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "J16",
+        "J17",
+        "J18",
+        "J19"
+      ],
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-031",
+        "title": "Ceifador, Froid e Tengetsu",
+        "known_sources": [
+          "S001"
+        ],
+        "known_evidence": [
+          [
+            "S001",
+            "1248786801670226024"
+          ],
+          [
+            "S001",
+            "1249170015576526909"
+          ],
+          [
+            "S001",
+            "1249464028150104148"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "actually_read_intervals": [],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Ceifador não decapitado pela proposta unilateral; Froid e Tengetsu situados; ramos anteriores ainda pendentes."
     },
     {
       "id": "CRIT-032",
@@ -2248,9 +3215,38 @@
       ],
       "status": "PARCIALMENTE REVISADO",
       "actually_read_intervals": [
-        "I22"
+        "I22",
+        "J32",
+        "J33"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "CRIT-032",
+        "title": "Sombras do orbe de Piferme",
+        "known_sources": [
+          "S002"
+        ],
+        "known_evidence": [
+          [
+            "S002",
+            "1244459783503745125"
+          ],
+          [
+            "S002",
+            "1246253681834332170"
+          ],
+          [
+            "S002",
+            "1245904587211280395"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I22"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Yoran atribui orbe; Fierch nega. Especificada contradição causal sem escolher verdade."
     },
     {
       "id": "CRIT-033",
@@ -2282,7 +3278,8 @@
         "I22",
         "I23"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-034",
@@ -2307,7 +3304,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-035",
@@ -2328,7 +3326,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-036",
@@ -2345,7 +3344,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-037",
@@ -2366,7 +3366,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-038",
@@ -2397,7 +3398,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-039",
@@ -2427,7 +3429,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "CRIT-040",
@@ -2439,7 +3442,8 @@
       ],
       "new": true,
       "justification": "Erro factual de destinatário/recebimento de selo e omissão de experiência narrada, corrigidos com limites epistemológicos.",
-      "remaining": "Identidade, alcance e efeito da voz; desfecho de Hermione."
+      "remaining": "Identidade, alcance e efeito da voz; desfecho de Hermione.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     }
   ],
   "ARC": [
@@ -2504,7 +3508,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-002",
@@ -2554,7 +3559,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-003",
@@ -2641,7 +3647,8 @@
         "I18",
         "I21"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-004",
@@ -2703,7 +3710,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-005",
@@ -2744,7 +3752,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-006",
@@ -2821,7 +3830,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-007",
@@ -2873,7 +3883,8 @@
         "I22",
         "I23"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-008",
@@ -2932,7 +3943,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-009",
@@ -3046,7 +4058,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-010",
@@ -3082,7 +4095,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-011",
@@ -3107,7 +4121,8 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-012",
@@ -3132,9 +4147,40 @@
           "1250239262905864275"
         ]
       ],
-      "status": "NÃO INICIADO",
-      "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "J32",
+        "J33",
+        "J34"
+      ],
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "ARC-012",
+        "title": "Lilith rainha e proteção de Emma",
+        "known_sources": [
+          "S002",
+          "S151",
+          "S173"
+        ],
+        "known_evidence": [
+          [
+            "S151",
+            "1210391082655813742"
+          ],
+          [
+            "S173",
+            "1232871127362179122"
+          ],
+          [
+            "S002",
+            "1250239262905864275"
+          ]
+        ],
+        "status": "NÃO INICIADO",
+        "actually_read_intervals": [],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Reino reconstruído, amizade Neyfor, autonomia NPC e Emma; intenção Coiote não realizada. Antecedentes de reinado/adopção não encerrados."
     },
     {
       "id": "ARC-013",
@@ -3164,11 +4210,12 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-014",
-      "title": "Yakkatsu e saída do Inferno",
+      "title": "Yakkatsu e busca por sair do Inferno",
       "previous_text": "### ARC-014 — Yakkatsu e saída do Inferno\n\n**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Yakkatsu, Bardock, Stwart e adversários do Inferno.\n\n**Conflito:** Sobreviver e sair do Inferno exige alianças, luta e cuidado com companheiros.\n\n**Resultado conhecido:** Bardock sacrifica-se, Stwart auxilia e segue vivo; Yakkatsu sobrevive aos perigos, mas não sai do Inferno em cena.\n\n**Consequências:** Sacrifício de Bardock e culpa pelas mortes influenciam Yakkatsu; alimentação final confirma sobrevivência, sem retorno à superfície.\n\n**Pendências:** [PS-030](19-Matriz-Canon-Critico.md#ps-030).\n\n**Evidências:** [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)\n\n**Evidências:** [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)",
       "known_sources": [
         "S022"
@@ -3185,7 +4232,9 @@
       ],
       "status": "NÃO INICIADO",
       "actually_read_intervals": [],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada.",
+      "editorial_only": "COR-E01: título e duplicata; não contou como revisão contextual do arco."
     },
     {
       "id": "ARC-015",
@@ -3211,9 +4260,50 @@
       "status": "PARCIALMENTE REVISADO",
       "actually_read_intervals": [
         "I16",
-        "I17"
+        "I17",
+        "J02",
+        "J20",
+        "J21",
+        "J22",
+        "J23",
+        "J24",
+        "J25",
+        "J26",
+        "J27",
+        "J28",
+        "J29",
+        "J30",
+        "J31"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "ARC-015",
+        "title": "Kian, Lúcifer e infância de Azazel",
+        "known_sources": [
+          "S013"
+        ],
+        "known_evidence": [
+          [
+            "S013",
+            "1253899431401492600"
+          ],
+          [
+            "S013",
+            "1267992861354229760"
+          ],
+          [
+            "S013",
+            "1239350043090358362"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I16",
+          "I17"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Infância S013 integral, Lúcifer S182 integral, S187 parcial. Corrigidos ilusão/mente/ave/cabana; transição permanece lacuna."
     },
     {
       "id": "ARC-016",
@@ -3241,7 +4331,8 @@
         "I11",
         "I12"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição.",
+      "B002_2_assessment": "Estado anterior preservado; sem novo exame dirigido suficiente nesta rodada."
     },
     {
       "id": "ARC-017",
@@ -3274,9 +4365,45 @@
       "actually_read_intervals": [
         "I13",
         "I14",
-        "I15"
+        "I15",
+        "J10"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "ARC-017",
+        "title": "Harry e ramo Astro",
+        "known_sources": [
+          "S008",
+          "S090",
+          "S161"
+        ],
+        "known_evidence": [
+          [
+            "S161",
+            "1212959525368238090"
+          ],
+          [
+            "S008",
+            "1267301422656000131"
+          ],
+          [
+            "S008",
+            "1268018113236963443"
+          ],
+          [
+            "S090",
+            "1198388118697549874"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I13",
+          "I14",
+          "I15"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Harry nominal contextual; associação provável com Astro, manifestações de S008 já confrontadas antes, sem ponte pessoal/corporal conclusiva."
     },
     {
       "id": "ARC-018",
@@ -3308,9 +4435,50 @@
         "I18",
         "I19",
         "I20",
-        "I21"
+        "I21",
+        "J03",
+        "J05",
+        "J11",
+        "J14",
+        "J15",
+        "J19",
+        "J34"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "ARC-018",
+        "title": "Beatriz, família real e Quimera",
+        "known_sources": [
+          "S023"
+        ],
+        "known_evidence": [
+          [
+            "S023",
+            "1266899855322906676"
+          ],
+          [
+            "S023",
+            "1267310497997389854"
+          ],
+          [
+            "S023",
+            "1268041570423406726"
+          ],
+          [
+            "S023",
+            "1265122213984473169"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I18",
+          "I19",
+          "I20",
+          "I21"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Relação e objetivos de Beatriz conservados; resgate não feito, cronologia casamento aberta."
     },
     {
       "id": "ARC-019",
@@ -3353,9 +4521,58 @@
       ],
       "status": "PARCIALMENTE REVISADO",
       "actually_read_intervals": [
-        "I02"
+        "I02",
+        "J01",
+        "J08",
+        "J09",
+        "J11"
       ],
-      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      "remaining": "Outras fontes relevantes e trajetória integral pendentes; uma fonte completa não encerra a entrada.",
+      "state_at_B002_1": {
+        "id": "ARC-019",
+        "title": "Michael e campanha de Mytria",
+        "known_sources": [
+          "S016",
+          "S023",
+          "S170"
+        ],
+        "known_evidence": [
+          [
+            "S170",
+            "1200291569543151726"
+          ],
+          [
+            "S016",
+            "1252794260122636383"
+          ],
+          [
+            "S016",
+            "1250998141038104717"
+          ],
+          [
+            "S023",
+            "1268041570423406726"
+          ],
+          [
+            "S023",
+            "1268041754809208842"
+          ],
+          [
+            "S023",
+            "1267310497997389854"
+          ],
+          [
+            "S023",
+            "1265129599449169931"
+          ]
+        ],
+        "status": "PARCIALMENTE REVISADO",
+        "actually_read_intervals": [
+          "I02"
+        ],
+        "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+      },
+      "B002_2_assessment": "Michael: batalha e planos, sem partida/conquista consumadas."
     }
   ],
   "protagonists": [
@@ -3363,10 +4580,22 @@
       "name": "Michael Uchiyama",
       "status": "PARCIALMENTE REVISADO",
       "intervals": [
-        "I02"
+        "I02",
+        "J01",
+        "J08",
+        "J09"
       ],
-      "remaining": "S016 261–580, governos/expansão e trajetória anterior; B003",
-      "powers_B001": "PWR verificado não conclui trajetória factual"
+      "remaining": "S016 integral encerrada; governos, expansão e antecedentes em outras fontes ainda pendentes.",
+      "powers_B001": "PWR verificado não conclui trajetória factual",
+      "state_at_B002_1": {
+        "name": "Michael Uchiyama",
+        "status": "PARCIALMENTE REVISADO",
+        "intervals": [
+          "I02"
+        ],
+        "remaining": "S016 261–580, governos/expansão e trajetória anterior; B003",
+        "powers_B001": "PWR verificado não conclui trajetória factual"
+      }
     },
     {
       "name": "Rans",
@@ -3378,7 +4607,7 @@
         "I11",
         "I12"
       ],
-      "remaining": "Antecedentes do Abismo, causa do estado de Hermione, falsa morte e vínculos anteriores; B003",
+      "remaining": "OM-003/004/007 reconciliadas, sem remoção demonstrada; demais fontes da falsa morte, poderes e Hermione ainda pendentes.",
       "powers_B001": "PWR verificado não conclui trajetória factual"
     },
     {
@@ -3388,10 +4617,26 @@
         "I01",
         "I02",
         "I18",
-        "I21"
+        "I21",
+        "J01",
+        "J08",
+        "J09",
+        "J04"
       ],
-      "remaining": "S016 261–580, passagens intermediárias, construções e relações anteriores; #mar vazio não prova desfecho",
-      "powers_B001": "PWR verificado não conclui trajetória factual"
+      "remaining": "Retorno e fim de S016 completos; fonte não revela causa. Construções, arcos anteriores e último canal vazio ainda precisam de conjunto completo.",
+      "powers_B001": "PWR verificado não conclui trajetória factual",
+      "state_at_B002_1": {
+        "name": "Henry Chambers",
+        "status": "PARCIALMENTE REVISADO",
+        "intervals": [
+          "I01",
+          "I02",
+          "I18",
+          "I21"
+        ],
+        "remaining": "S016 261–580, passagens intermediárias, construções e relações anteriores; #mar vazio não prova desfecho",
+        "powers_B001": "PWR verificado não conclui trajetória factual"
+      }
     },
     {
       "name": "God-Zilla",
@@ -3406,20 +4651,55 @@
       "intervals": [
         "I13",
         "I14",
-        "I15"
+        "I15",
+        "J10"
       ],
-      "remaining": "S161 última cena nominal, antecedentes de Astro/Lyone e transição corporal",
-      "powers_B001": "PWR verificado não conclui trajetória factual"
+      "remaining": "S161 0–1499 e antecedentes/intermediários da mudança Harry–Astro ainda pendentes; não reler S008 automaticamente.",
+      "powers_B001": "PWR verificado não conclui trajetória factual",
+      "state_at_B002_1": {
+        "name": "Harry",
+        "status": "PARCIALMENTE REVISADO",
+        "intervals": [
+          "I13",
+          "I14",
+          "I15"
+        ],
+        "remaining": "S161 última cena nominal, antecedentes de Astro/Lyone e transição corporal",
+        "powers_B001": "PWR verificado não conclui trajetória factual"
+      }
     },
     {
       "name": "Kian / Lúcifer / Azazel",
       "status": "PARCIALMENTE REVISADO",
       "intervals": [
         "I16",
-        "I17"
+        "I17",
+        "J02",
+        "J20",
+        "J21",
+        "J22",
+        "J23",
+        "J24",
+        "J25",
+        "J26",
+        "J27",
+        "J28",
+        "J29",
+        "J30",
+        "J31"
       ],
-      "remaining": "S187 adulto/relatos OOC de morte; S182 Lúcifer; S013 231–2485 e poderes em contexto",
-      "powers_B001": "PWR verificado não conclui trajetória factual"
+      "remaining": "S013/S182 integrais; S187 0–1699,1941–2404,2466–2649 ainda pendentes. Antecedentes S184/S051/S052/S070 ainda sem revisão ampla; mecanismo não recuperado.",
+      "powers_B001": "PWR verificado não conclui trajetória factual",
+      "state_at_B002_1": {
+        "name": "Kian / Lúcifer / Azazel",
+        "status": "PARCIALMENTE REVISADO",
+        "intervals": [
+          "I16",
+          "I17"
+        ],
+        "remaining": "S187 adulto/relatos OOC de morte; S182 Lúcifer; S013 231–2485 e poderes em contexto",
+        "powers_B001": "PWR verificado não conclui trajetória factual"
+      }
     },
     {
       "name": "Mulack",
@@ -3431,7 +4711,7 @@
         "I06",
         "I07"
       ],
-      "remaining": "S158 0–1279 e percurso anterior; o trecho relevante da dungeon foi lido, perfil inteiro não",
+      "remaining": "OM-005 reconciliada; S158 0–1279 e antecedentes ainda pendentes. Resultado original contraditório, sobrevivência adaptada aprovada.",
       "powers_B001": "PWR verificado não conclui trajetória factual"
     },
     {
@@ -3450,10 +4730,21 @@
     },
     {
       "name": "Lilith Chipper",
-      "status": "NÃO INICIADO",
-      "intervals": [],
-      "remaining": "Hads, Emma, governos e últimos estados; B003",
-      "powers_B001": "PWR verificado não conclui trajetória factual"
+      "status": "PARCIALMENTE REVISADO",
+      "intervals": [
+        "J32",
+        "J33",
+        "J34"
+      ],
+      "remaining": "S002 integral como varredura sistemática incidental; investigação dirigida Lilith/Hads/Emma de B003 ainda não executada.",
+      "powers_B001": "PWR verificado não conclui trajetória factual",
+      "state_at_B002_1": {
+        "name": "Lilith Chipper",
+        "status": "NÃO INICIADO",
+        "intervals": [],
+        "remaining": "Hads, Emma, governos e últimos estados; B003",
+        "powers_B001": "PWR verificado não conclui trajetória factual"
+      }
     },
     {
       "name": "Ymir / Note",
@@ -3464,10 +4755,39 @@
         "I20",
         "I21",
         "I22",
-        "I23"
+        "I23",
+        "J03",
+        "J05",
+        "J06",
+        "J11",
+        "J12",
+        "J13",
+        "J14",
+        "J15",
+        "J16",
+        "J17",
+        "J18",
+        "J19",
+        "J32",
+        "J33",
+        "J34"
       ],
-      "remaining": "S023 0–819, antecedentes de Bia/cidade; S001 241–1039; percurso anterior",
-      "powers_B001": "PWR verificado não conclui trajetória factual"
+      "remaining": "S001/S002/S023 integrais; demais missões/Note e transições de outras fontes pendentes; cronologia conjugal aberta.",
+      "powers_B001": "PWR verificado não conclui trajetória factual",
+      "state_at_B002_1": {
+        "name": "Ymir / Note",
+        "status": "PARCIALMENTE REVISADO",
+        "intervals": [
+          "I18",
+          "I19",
+          "I20",
+          "I21",
+          "I22",
+          "I23"
+        ],
+        "remaining": "S023 0–819, antecedentes de Bia/cidade; S001 241–1039; percurso anterior",
+        "powers_B001": "PWR verificado não conclui trajetória factual"
+      }
     },
     {
       "name": "Yakkatsu Tenshin",
@@ -3477,5 +4797,12 @@
       "powers_B001": "PWR verificado não conclui trajetória factual"
     }
   ],
-  "rule": "Situação anterior e fontes conhecidas são herdadas para investigação, não certificadas como resultados novos. Não iniciado significa revisão factual ampla, não ausência de verificação PWR em B001. Todos os estados ainda pendentes permanecem investigáveis."
+  "rule": "Situação anterior e fontes conhecidas são herdadas para investigação, não certificadas como resultados novos. Não iniciado significa revisão factual ampla, não ausência de verificação PWR em B001. Todos os estados ainda pendentes permanecem investigáveis.",
+  "previous_checkpoint": "B002.1",
+  "status_definitions": {
+    "NÃO INICIADO": "Sem investigação contextual suficiente do caso; verificação técnica/poderes não a substitui.",
+    "EM INVESTIGAÇÃO": "Investigação iniciada, sem confronto suficiente do caso central.",
+    "PARCIALMENTE REVISADO": "Passagens explicitamente confrontadas; outras fontes/cenas relevantes pendentes.",
+    "REVISÃO CONCLUÍDA": "Somente com todas as fontes relevantes e tratamento das lacunas; nenhuma trajetória concluída neste checkpoint."
+  }
 }

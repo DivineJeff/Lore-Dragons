@@ -498,7 +498,9 @@ Adulto Kian retorna à campanha junto de Michael, Henry e Lilith; o voo coletivo
 
 **Data documental:** 10/05–30/07/2024.
 
-A continuidade confirmada pelo participante reúne Kian, Lúcifer e Azazel, mas não explica passagem do adulto ao bebê. A mãe chama o bebê Azazel. Saltos pessoais o levam aos doze anos; não envelhecem todo o mundo em doze anos. Abandonado pelo pai, mata Galius após ataque e chega a Yalia no Abismo do Paraíso de Tékia. Magnatas e Monarca são NPCs distintos; Deward não é unificado a Edward. Emília é resgatada, depois recapturada, e Azazel sofre novos perigos. Sonho de cura não é cura real. A mente de Kian ainda não voltou por inteiro. Westia é humana chamada de deusa em comparação, não deidade criada. A espada volta; aparente morte de Westia é corrigida para ilusão. Metade do subterrâneo sofre destruição, sem destino confirmado de Yalia, Emília, Rith ou Monarca. Azazel foge para terras roxas, absorve núcleo e sobrevive à queda. Seu último estado é dormir numa cabana de velha que trabalha com poções; não é Ellen identificada.
+A continuidade confirmada pelo participante reúne Kian, Lúcifer e Azazel, mas não explica passagem do adulto ao bebê. A mãe chama o bebê Azazel. Saltos pessoais o levam aos doze anos; não envelhecem todo o mundo em doze anos. Abandonado pelo pai, mata Galius após ataque e chega a Yalia no Abismo do Paraíso de Tékia. Magnatas e Monarca são NPCs distintos; Deward não é unificado a Edward. Emília é resgatada, depois recapturada, e Azazel sofre novos perigos. Sonho de cura não é cura real. O mestre afirma que sua mente ainda é Kian, mas com pouco conhecimento das forças das trevas e sombras; isso não comprova memória completa nem reinício da identidade. Westia é humana chamada de deusa em comparação, não deidade criada. A espada volta; aparente morte de Azazel é desfeita pela ilusão de Westia, que continua viva e ferida. Metade do subterrâneo sofre destruição, sem destino confirmado de Yalia, Emília, Rith ou Monarca. Azazel foge para terras roxas, absorve a ave involuntariamente por contato, sem núcleo explicitado, e sobrevive à queda. Seu último estado é entrar na cabana e observar a velha dormindo numa cadeira, entre poções e objetos de alquimia; não há sono de Azazel narrado nem identificação segura dela como Ellen.
+
+**Confronto B002.2 (OM-011):** mente ainda Kian: [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); morte aparente e ilusão: [S013 · 1256055535262765096](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); ave absorvida: [S013 · 1264741025797246987](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); velha dormindo e interior da cabana: [S013 · 1267992776528625697](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013).
 
 **Evidências:** [S013 · 1239350043090358362](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1246276865065222154](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1244481528608849961](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256054135342501908](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1264391204989177897](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1264741025797246987](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
 
@@ -528,11 +530,34 @@ Gwierlan está vivo e Mouran próspera. Michael pretende conquistar Piferme e sa
 
 **Data documental:** 20–31/07/2024.
 
-Após fuga e bombardeio, Ymir acorda na Casa Coratayne, com Rans visível no jardim; a ponte de salvamento é relato de Garius. Polã é identificado como reino. Livros descrevem datas históricas e Belphegor, sem prova de que sejam ano atual. Ymir memoriza nove livros; ler não equivale a executar todas as técnicas. Beatriz desperta, recupera memória e tem pernas perfeitas; Ymir permanece sem braço. Ela é segunda princesa, filha de Berthold, e não é casada com Ymir. Henry está vivo em 27/7. Garius morre após intervenção, e Berthold expõe ameaça do culto do Deus Demônio; não fundir esse nome ao Deus Dragão. Ele reconhece Altruístas banidos a outra dimensão e relata sequestro da irmã de Beatriz pela Quimera. Buscar a irmã e seguir depois a Milena são planos. Ymir e Beatriz deixam o castelo, percorrem estrada florestal e chegam à cidade de elfos em 31/7, às 00h04min29s documentais. Rans tem ramo próprio e acorda em cama da Terceira Paróquia na noite de 30/7; Hermione não é confirmada morta. Astro termina em caverna vazia após devastar o mercado subterrâneo chamado Submundo, mas identidade Harry não está demonstrada por ponte suficiente.
+Após fuga e bombardeio, Ymir acorda na Casa Coratayne, com Rans visível no jardim; a ponte de salvamento é relato de Garius. Polã é identificado como reino. Livros descrevem datas históricas e Belphegor, sem prova de que sejam ano atual. Ymir memoriza nove livros; ler não equivale a executar todas as técnicas. Beatriz desperta, recupera memória e tem pernas perfeitas; Ymir permanece sem braço. Ela é segunda princesa, filha de Berthold, e, no diálogo de julho, casamento ainda é tratado como plano. A informação autoral confirma Beatriz como esposa, e Ymir já a chama de esposa em S002; a cronologia e a cerimônia não estão demonstradas. Henry está vivo em 27/7. Garius morre após intervenção, e Berthold expõe ameaça do culto do Deus Demônio; não fundir esse nome ao Deus Dragão. Ele reconhece Altruístas banidos a outra dimensão e relata sequestro da irmã de Beatriz pela Quimera. Buscar a irmã e seguir depois a Milena são planos. Ymir e Beatriz deixam o castelo, percorrem estrada florestal e chegam à cidade de elfos em 31/7, às 00h04min29s documentais. Rans tem ramo próprio e acorda em cama da Terceira Paróquia na noite de 30/7; Hermione não é confirmada morta. Astro termina em caverna vazia após devastar o mercado subterrâneo chamado Submundo, mas identidade Harry não está demonstrada por ponte suficiente.
 
 **Evidências:** [S023 · 1264380808198885386](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264384888589783187](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264720088158699643](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265827259483164723](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265122213984473169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265129599449169931](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266899855322906676](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266903430354702428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266909119613370448](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266950138849656893](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)
 
 A vitória política de janeiro permite caminhos próprios: Michael governa e depois busca força; Lilith assume Piferme; God coopera com a Árvore e segue para treino e caça; Harry desenvolve sua linha com Stifen; Mulack entra na dungeon; Yakkatsu segue seu Inferno; Bytes aproxima-se de Nairóbi; Ymir reúne missões, Beatriz e o disfarce de Note. Há reencontros, mas não um grupo permanente presente em todos os acontecimentos. As últimas cenas dessas linhas pertencem a datas e lugares distintos.
+
+### Complementos documentais de B002.2
+
+**Henry e os limites do retorno:** morte, corpo e alma no ramo de maio foram confrontados em B002.1; S016 termina com Henry vivo, oferecendo trabalho a Lucas, sem nomear o conhecido salvador ou mostrar método de retorno. A aproximação do velho de maio e o relato de junho não demonstram que sejam a mesma pessoa. Vermund chama Surgência de filhos da terra e fala de maldição; são relatos de NPC, sem origem universal confirmada. [S016 · 1252044546620260434](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252046302754115595](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252415496825999390](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252436450813673483](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252794260122636383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016).
+
+**Harry nominal:** no fim de S161, Harry presta cura e coordena Zex no socorro aos civis; a extração da flecha e a limitação de cura são locais. A ligação pessoal com Astro continua provável pelo comentário de S008; memória e ponte Harry–hospedeira continuam insuficientes. A saída da hospedeira e a ocupação posterior de um homem em S008 são manifestações narradas, sem retroativamente demonstrar a transição nominal. [S161 · 1212951590974128200](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212952009737642055](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212959379746193448](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212959525368238090](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212960389114105856](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161).
+
+**Ymir e aprendizado:** Null suprime energia, mas a formulação literal “desativado” deixa uma ambiguidade; All supera Null quando mais forte. O mestre retifica DeHe como fortalecimento mediante reconstrução de fibras; regeneração é linha distinta. Nenhuma dessas descrições demonstra braço regenerado ou domínio de todas as técnicas. [S023 · 1264755017882275860](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264755398020300892](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264756113216241755](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265822830906572912](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023).
+
+**Colapso (relato de Berthold):** técnica atribuída a Belphegor para completar uma ponte preexistente entre mundos, usando parte da alma como tijolos e exigindo grande energia/força mental, além da capacidade presente atribuída a Ymir. O relato não demonstra execução por Ymir, aquisição da habilidade ou cosmologia universal. [S023 · 1267291152055537777](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267291238357536790](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267292607780884511](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267292668371931230](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267292808889237527](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023).
+
+**Livros da Casa Coratayne:** os registros abaixo são conteúdos narrados dos livros, com perspectiva própria. Não fixam o ano atual nem uma cronologia universal conciliada; leitura e memorização não demonstram execução de feitos.
+
+| Data atribuída no livro | Conteúdo recuperado | Evidência |
+| --- | --- | --- |
+| 507 | Belphegor, destruição de Kerteós e portal selado; energia estrangeira/seca, cubo azul e origem relatada de Polã. | [S023 · 1264729987290894417](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264733348517908571](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264733583650717737](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) |
+| 610 | Morte do rei de Draconia, sucessão pelo quarto filho e expansão. | [S023 · 1264742359690907708](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) |
+| 629 | Isolamento dos reinos élficos. | [S023 · 1264743912321454120](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) |
+| 635 e 680 | Influência dracônica e tributação de Hebe, depois queda nomeada. | [S023 · 1264735034259275869](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023) |
+
+**Identidades locais:** STWART LITTLE é prisioneiro executado na floresta por Ymir; não existe ponte suficiente para fundi-lo a Stwart, companheiro de Yakkatsu no Inferno. Quémero é interlocutor nomeado na cidade de animais, sem posto de comandante estabelecido. [S023 · 1250995109940564018](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1250996371771756586](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S001 · 1246666272704303126](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001).
+
+**Orbe e autonomia:** Yoran atribui a montanha/sombras ao orbe; Fierch nega a ligação. As falas permanecem contraditórias, e os efeitos neurais relatados não são anulados por uma afirmação de ausência de efeitos. O mestre reafirma que NPCs podem recusar pedidos. O esquecimento OOC de Emma é seguido de retomada explícita, não de apagamento da personagem. [S002 · 1244459783503745125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1246249352570077305](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1246253681834332170](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1246288766285516820](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1246288859193675868](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1249884573295448166](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1249884869157191791](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002).
 
 <a id="personagens"></a>
 
@@ -756,13 +781,13 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Companhia:** Velha com poções; acompanhantes anteriores não reencontrados.
 
-**Estado físico:** Azazel vivo, dormindo; ferimentos da queda antecedem descanso. Corpo infantil evoluiu por saltos pessoais até doze anos.
+**Estado físico:** Azazel vivo, após ferimentos da queda, entra na cabana e encontra a velha dormindo; seu próprio descanso não é narrado. Corpo infantil evoluiu por saltos pessoais até doze anos.
 
-**Estado psicológico conhecido:** Busca sobrevivência, entendimento das identidades e forças; Kian ainda não voltou integralmente à mente.
+**Estado psicológico conhecido:** Busca sobrevivência, entendimento das identidades e forças; o mestre mantém a mente de Kian e delimita seu conhecimento de Trevas/Sombras, sem demonstrar recuperação integral do repertório adulto.
 
 **Objetivo em andamento:** Aprender/recuperar-se e sobreviver à fuga; não lhe dar reinado futuro.
 
-**Relações:** Yalia, Emília, Rith e Monarca têm destinos desconhecidos após destruição. Westia não morreu na ilusão.
+**Relações:** Yalia, Emília, Rith e Monarca têm destinos desconhecidos após destruição. Westia desfaz a aparente morte de Azazel por ilusão e continua viva, com ferimentos.
 
 **Itens e capacidades relevantes:** Magia negra delimitada, absorção, Trevas e Sombras não equivalentes; espada volta em junho. Absorções não fornecem todos os poderes do alvo.
 
@@ -1464,7 +1489,7 @@ A documentação contém 18 entradas, incluindo propostas e pedidos futuros. Onz
 | Cura de Yakkatsu | Aprendizagem e cura leve demonstradas com Claws; não lhe concede regeneração de membros nem toda a magia do instrutor. |
 | Natureza de Kian | Concessão mecânica em dezembro versus contestação de maio; continuidade do elemento não resolvida, sem transferência automática a Azazel. |
 | Dokato e Canhão Punch de Ymir | Aprendizagem parcial, 50% em estágio registrado. Energia do golpe permanece sem nome/dado definitivo; não chamar de poder divino. |
-| MUTON e Sexto Sentido de Ymir | MUTON 31 e conversão de água têm limites; Sexto Sentido documentado em seis metros. Memorização de nove livros não equivale a aprender todas as magias. |
+| MUTON e Sexto Sentido de Ymir | MUTON 31 e conversão de água têm limites; Sexto Sentido confirmado em seis metros em S001 e em dez metros em S023, com gasto de energia; motivo da diferença não explicitado. Memorização de nove livros não equivale a aprender todas as magias. |
 | Sombras e corpo de Azazel | Transição e aplicações pertencem à linha pessoal. Presença mental de Kian não comprova retorno de todo o repertório adulto. |
 | Cura de Lilith e Beatriz | Cura de ferimento não demonstra regeneração de braço. Pernas de Bia recuperadas não recuperam o braço de Ymir. |
 | Colapso e Null | Informações de Berthold e expressão “desativado” exigem contexto; não tratar como sistema universal resolvido. |
@@ -1762,7 +1787,7 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 <a id="arc-014"></a>
 
-### ARC-014 — Yakkatsu e saída do Inferno
+### ARC-014 — Yakkatsu e busca por sair do Inferno
 
 **Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Yakkatsu, Bardock, Stwart e adversários do Inferno.
 
@@ -1774,7 +1799,6 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 **Pendências:** [PS-030](19-Matriz-Canon-Critico.md#ps-030).
 
-**Evidências:** [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)
 
 **Evidências:** [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)
 
@@ -1786,9 +1810,9 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 **Conflito:** A continuidade identitária atravessa corpo infantil, memória parcial e violência em Tékia, sem mecanismo adulto→bebê recuperado.
 
-**Resultado conhecido:** Mesmo personagem por EXT-003; corpo infantil, crescimento, Tékia e fuga reconstruídos, mecanismo adulto→bebê ausente. Último repouso na cabana.
+**Resultado conhecido:** Mesmo personagem por EXT-003; corpo infantil, crescimento, Tékia e fuga reconstruídos, mecanismo adulto→bebê ausente. Última entrada na cabana, onde a velha está dormindo; descanso dele não narrado.
 
-**Consequências:** A fuga e destruição subterrânea deixam aliados sem destino; o repouso final não restaura toda a mente ou repertório adulto.
+**Consequências:** A fuga e destruição subterrânea deixam aliados sem destino; a entrada na cabana não demonstra recuperação de todo repertório adulto; a mente ainda é Kian conforme narração anterior.
 
 **Pendências:** [PS-021](19-Matriz-Canon-Critico.md#ps-021); [PS-037](19-Matriz-Canon-Critico.md#ps-037).
 
@@ -1874,7 +1898,7 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 Em **31/07/2024, 00:04:29**, a narração acompanha **Ymir e Beatriz na cidade dos elfos**: casas de madeira, pavimento de pedra e apresentação da cidade. Às **00:05:13**, há fim de sessão. Não há epílogo, encerramento da campanha ou destino definitivo dos protagonistas.
 
-O resgate da irmã de Beatriz, sequestrada pela Quimera, e a ida posterior ao torneio de Milena permanecem objetivos. O braço de Ymir continua ausente; Bia está desperta e suas pernas foram recuperadas. Henry teve uma saída para canal vazio, Rans acordou na Paróquia em linha distinta e Azazel repousava ferido na cabana de uma velha. Michael, Lilith, Bytes, God e EREN têm últimas presenças mais antigas; Mulack apresenta contradição. Não estão todos na cidade dos elfos.
+O resgate da irmã de Beatriz, sequestrada pela Quimera, e a ida posterior ao torneio de Milena permanecem objetivos. O braço de Ymir continua ausente; Bia está desperta e suas pernas foram recuperadas. Henry teve uma saída para canal vazio, Rans acordou na Paróquia em linha distinta e Azazel entrava ferido na cabana e encontrava uma velha dormindo. Michael, Lilith, Bytes, God e EREN têm últimas presenças mais antigas; Mulack apresenta contradição. Não estão todos na cidade dos elfos.
 
 **Evidências:** [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041754809208842](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265129599449169931](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
 
@@ -1888,7 +1912,7 @@ O resgate da irmã de Beatriz, sequestrada pela Quimera, e a ida posterior ao to
 
 **Contradições:** morte/memorial de Mulack contra retificação do último combate; contagem e índices de altares em enunciados antigos; escala de Fallhebe; relatos divergentes sobre Ceifador; Natureza de Kian; sombras do orbe atribuídas por Yoran e negadas por Fierch. Não escolher uma versão apenas para tornar a história mais simples.
 
-**Retificações resolvidas:** morte forjada de Rans desfeita publicamente; Lilith/Hads restaurada; Wilbur coletivo de dezembro anulado, preservando episódio pessoal anterior e morte válida de fevereiro; Neyfor não é namoro confirmado; Westia não é deusa literal; nome “Edward” aplicado ao velho de maio era brincadeira retificada; aparente morte de Westia era ilusão. Uma retificação não apaga eventos independentes de nome parecido.
+**Retificações resolvidas:** morte forjada de Rans desfeita publicamente; Lilith/Hads restaurada; Wilbur coletivo de dezembro anulado, preservando episódio pessoal anterior e morte válida de fevereiro; Neyfor não é namoro confirmado; Westia não é deusa literal; nome “Edward” aplicado ao velho de maio era brincadeira retificada; aparente morte de Azazel foi desfeita pela ilusão de Westia. Uma retificação não apaga eventos independentes de nome parecido.
 
 Veja todas as 40 pendências e os pontos de alto impacto na [matriz crítica](19-Matriz-Canon-Critico.md). Suas categorias distinguem resolução, resolução parcial, arco aberto, assunto não retomado, material insuficiente e contradição. Nenhuma pendência é preenchida com conteúdo criado nesta fase.
 

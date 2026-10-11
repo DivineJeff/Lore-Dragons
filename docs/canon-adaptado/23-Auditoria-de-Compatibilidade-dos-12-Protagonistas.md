@@ -331,3 +331,13 @@ Esta verificação adicional examinou a árvore da `main` após o merge do PR #1
 ## Complemento factual B002.1
 
 OM-003/004/007 corrigem somente a leitura das fontes de Rans/Hermione: pedido de remoção dos selos à voz materna/divina, afeto e experiência preservados, sem cura ou concessão demonstrada. [S003 · 1268024904721367103](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003). Ver [checkpoint](26-Auditoria-B002-Continuidades-e-Varredura.md). As direções DD-01–43, R-C e escolhas de Ymir/Beatriz/Mulack permanecem aprovadas com seus limites.
+
+## Reconciliação documental B002.2
+
+Rechecados perfil, relações, ARC-016, PS-038, CRIT-040, índice e premissas adaptadas de Rans: o pedido é remover os próprios selos à voz materna/divina. A experiência foi narrada; identidade objetiva da voz, remoção e recuperação de Hermione não são demonstradas. A premissa factual repetida no documento 12 ainda falava em pedir selo a Feuhs; foi corrigida para remoção à voz, sem alterar suas direções ou cadeias futuras propostas.
+
+Para Mulack, Philip Glorian e pesquisa racial já estão incorporados na Bíblia; PS-020 preserva a contradição do desfecho. OM-005 não define a natureza das criaturas ou resolve armadura/morte/memorial. A investigação da pesquisa pode alimentar propostas, mas não as confirma. A sobrevivência adaptada continua escolhida; o resultado do RPG continua contraditório. Perfil, ARC-006/pendências, índices e propostas foram reconciliados sem alteração desnecessária.
+
+OM-011 corrige somente premissas factuais repetidas sobre Kian nos documentos 02/15/19: mente ainda Kian, morte aparente dele desfeita por Westia, velha dormindo ao entrar na cabana. Continuidade pessoal, responsabilidade e convivência diferenciada permanecem aprovadas. Nenhum DD-01–43 alterado.
+
+Ver [B002.2](26-Auditoria-B002-Continuidades-e-Varredura.md#checkpoint-b002-2). Ymir segue supremacia D/B e Trajetória I; Beatriz é esposa por informação autoral, sem cronologia fixada. B003 e grandes acontecimentos permanecem por executar.
