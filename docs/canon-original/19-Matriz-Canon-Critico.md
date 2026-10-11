@@ -1,6 +1,6 @@
 # Matriz do cânone crítico — Dragons
 
-Fase 4 · Revisão 2 · 09/10/2026
+Fase 4 · Revisão 3 · 10/10/2026
 
 ## Sumário
 
@@ -43,6 +43,8 @@ Fase 4 · Revisão 2 · 09/10/2026
 **Classificação:** CONTRADITÓRIO. **Confiança:** ALTA na contradição.
 
 **Consequência editorial:** Retificação e recusa de continuar impedem escolher destino único.
+
+**Complemento documental retrospectivo (OM-002):** Em maio, o mestre comenta que só então leu o memorial e atribui a morte à ação do jogador. É comentário fora de personagem sobre o conflito, não nova cena de morte nem resolução inequívoca da retificação da dungeon. A contradição permanece; a sobrevivência escolhida para a adaptação tem origem autoral separada. **Evidências:** [S198 · 1239836014919553084](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198); [S198 · 1239836048151019552](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198).
 
 **Evidências:** [S158 · 1208614984473518100](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616829837377536](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S198 · 1208627532962992218](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198)
 
@@ -624,6 +626,8 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Resposta recuperável:** Morte/memorial versus retificação de armadura intacta e ação refeita. O abandono do jogador não resolve a versão ficcional.
 
+**Complemento documental retrospectivo (OM-002):** Em maio, o mestre comenta que só então leu o memorial e atribui a morte à ação do jogador. É comentário fora de personagem sobre o conflito, não nova cena de morte nem resolução inequívoca da retificação da dungeon. A contradição permanece; a sobrevivência escolhida para a adaptação tem origem autoral separada. **Evidências:** [S198 · 1239836014919553084](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198); [S198 · 1239836048151019552](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198).
+
 **Evidências:** [S158 · 1208614984473518100](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616829837377536](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S198 · 1208627532962992218](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198)
 
 <a id="ps-021"></a>
@@ -919,3 +923,5 @@ Uma nova conclusão deve identificar fonte, mensagem, natureza da evidência e a
 - [Bíblia](17-Biblia-Canon-Original.md)
 - [Índice](18-Indice-Rapido-Canon.md)
 - [Fontes](../pesquisa/fase-3/Fontes-e-Evidencias.md)
+
+**Revisão 3 — 10/10/2026:** OM-002 acrescenta a manifestação retrospectiva do mestre a CRIT-004 e PS-020; CONTRADITÓRIO/CONTRADIÇÃO NÃO RESOLVIDA preservados. [Registro e limites do lote](../canon-adaptado/25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md). Os demais 39 PS não receberam reavaliação semântica nesta revisão.

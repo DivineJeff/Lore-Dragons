@@ -1,6 +1,6 @@
 # Pesquisa consolidada — Fase 3
 
-Esta pasta contém apenas referências necessárias à documentação canônica publicada. A leitura foi encerrada com saturação narrativa suficiente: 202 exportações narrativas, 186 não vazias, 89.155 mensagens; 16 exportações vazias; mais 12 fontes de poderes e 158 mensagens. Foram consolidados 12 protagonistas, 19 arcos e 40 pendências.
+Esta pasta contém apenas referências necessárias à documentação canônica publicada. A Fase 3 registrou o encerramento da leitura por saturação narrativa suficiente: 202 exportações narrativas, 186 não vazias, 89.155 mensagens; 16 exportações vazias; mais 12 fontes de poderes e 158 mensagens. Foram consolidados 12 protagonistas, 19 arcos e 40 pendências.
 
 Os 16 arquivos vazios são S006, S007, S009, S011, S015, S017, S018, S019, S020, S021, S109, S147, S163, S177, S180 e S190. A saída de Henry para S015 é uma ruptura conhecida. Mensagens apagadas e conteúdo não exportado não são recuperados pela cobertura integral.
 
@@ -25,3 +25,7 @@ Esses enunciados não provam, por si, que uma informação foi omitida ou que a 
 
 Portanto, a documentação continua sendo referência consolidada do material **recuperável**, com lacunas e contradições explícitas. Não deve ser interpretada como garantia absoluta de inexistência de informações não incorporadas, mensagens apagadas, canais vazios ou conteúdos fora dos ZIPs. Esta nota é uma ressalva de **método e rastreabilidade**, não altera o Canon Original, suas fontes, os resultados de personagens ou decisões de adaptação.
 
+
+## Auditoria independente — checkpoint de 10/10/2026
+
+A [etapa A](../../canon-adaptado/24-Auditoria-de-Cobertura-e-Integridade-das-Fontes.md) reextraiu os oito ZIPs e confirmou 214 HTMLs, 89.155 mensagens principais e 158 de poderes. Os registros demonstram trabalho após 36,93%, mas não permitem certificar retrospectivamente a análise individual de todas as mensagens. A ressalva metodológica acima permanece válida. O [lote B001](../../canon-adaptado/25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md) comprova revisão contextual de 437 mensagens e duas omissões contextualizadas, sem encerrar a auditoria.

@@ -28,6 +28,9 @@ Esta pasta reúne a arquitetura da Fase 5, os fundamentos aprovados da Fase 5.1 
 22. [Panorama preparatório dos doze](22-Panorama-Preparatorio-dos-12-Protagonistas.md) — doze direções aprovadas, sobrevivência adaptada de Mulack, naturezas/acontecimentos pendentes; seleção inicial concluída.
 23. [Auditoria de compatibilidade dos doze](23-Auditoria-de-Compatibilidade-dos-12-Protagonistas.md) — matrizes, cruzamentos, cosmologia, relações/NPCs, ordem parcial, grandeza, pendências priorizadas e recomendações; soluções propostas.
 
+24. [Auditoria de cobertura e integridade das fontes](24-Auditoria-de-Cobertura-e-Integridade-das-Fontes.md) — etapa A concluída; processamento integral e cobertura semântica discriminados.
+25. [Omissões, descobertas e correções — checkpoint](25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md) — lote B001, correções rastreáveis e investigação restante.
+
 ## Como ler
 
 **CANON ORIGINAL / HERDADO DO RPG:** fato e qualificação documental; **ADAPTADO DO RPG:** reinterpretação identificada; **CRIADO PARA O JOGO:** informação nova, inclusive apenas proposta. Origem e aprovação são eixos independentes.
@@ -43,3 +46,5 @@ Os seis documentos da Fase 5 preservam seu estado histórico. Para decisões pos
 Canon Original auditado nos PRs #1/#2; arquitetura no PR #3; fundamentos aprovados no PR #4, confirmado mesclado antes desta sincronização. [Bíblia](../canon-original/17-Biblia-Canon-Original.md) e [auditoria](../pesquisa/fase-3/21-Auditoria-Editorial-e-Canonica-Fase-4.md) preservadas com fontes, índice e matriz.
 
 As análises finais são publicadas por branch, commits e PR, com merge autorizado após verificações. Veja [fluxo permanente de publicação e preservação](../Fluxo-de-Publicacao-e-Preservacao.md). Instruções específicas futuras prevalecem. Publicação não escreve continuação definitiva nem inicia Fase 6.
+
+**Auditoria final de fontes em andamento:** inventário/processamento concluídos; 437 mensagens com revisão contextual comprovada neste checkpoint. Etapas B–D e parecer histórico final pendentes. Não libera escrita dos grandes acontecimentos.

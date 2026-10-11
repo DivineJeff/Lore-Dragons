@@ -1,0 +1,759 @@
+{
+  "counts": {
+    "document_markdown": 32,
+    "ARC": 19,
+    "PS": 40,
+    "CRIT": 39,
+    "HAB": 18,
+    "DD": 43
+  },
+  "labeled_source_message_references": 967,
+  "unique_labeled_source_message_pairs": 557,
+  "reference_location_errors": [],
+  "legacy_messages": 89313,
+  "fresh_messages": 89313,
+  "normalized_text_differences": [],
+  "historical_coverage": [
+    {
+      "record": "H01 — antes da espinha",
+      "sha256": "d33fbe875939b73515fdddbfe16be69ad5f296dcbfb88eadfd3f38b763b97ffb",
+      "declared_complete_sources": 47,
+      "nonempty_sources": 47,
+      "empty_sources": 0,
+      "declared_messages": 6767,
+      "recomputed_messages": 6767,
+      "recomputed_percent": 7.59,
+      "source_ids": [
+        "S024",
+        "S026",
+        "S027",
+        "S028",
+        "S029",
+        "S031",
+        "S032",
+        "S035",
+        "S036",
+        "S037",
+        "S038",
+        "S039",
+        "S040",
+        "S041",
+        "S044",
+        "S045",
+        "S046",
+        "S050",
+        "S051",
+        "S052",
+        "S055",
+        "S056",
+        "S057",
+        "S061",
+        "S062",
+        "S063",
+        "S064",
+        "S065",
+        "S066",
+        "S067",
+        "S068",
+        "S070",
+        "S118",
+        "S146",
+        "S162",
+        "S191",
+        "S192",
+        "S193",
+        "S194",
+        "S195",
+        "S196",
+        "S197",
+        "S198",
+        "S199",
+        "S200",
+        "S201",
+        "S202"
+      ],
+      "scope": "Historical assertion of complete source readings, not independent message dispositions"
+    },
+    {
+      "record": "H02 — checkpoint da espinha",
+      "sha256": "7b80bcc918fe7add931671577eb45b0bbc364cf76c9188c08d351cc5e6480d96",
+      "declared_complete_sources": 87,
+      "nonempty_sources": 87,
+      "empty_sources": 0,
+      "declared_messages": 32922,
+      "recomputed_messages": 32922,
+      "recomputed_percent": 36.927,
+      "source_ids": [
+        "S024",
+        "S025",
+        "S026",
+        "S027",
+        "S028",
+        "S029",
+        "S031",
+        "S032",
+        "S033",
+        "S034",
+        "S035",
+        "S036",
+        "S037",
+        "S038",
+        "S039",
+        "S040",
+        "S041",
+        "S042",
+        "S043",
+        "S044",
+        "S045",
+        "S046",
+        "S047",
+        "S048",
+        "S049",
+        "S050",
+        "S051",
+        "S052",
+        "S054",
+        "S055",
+        "S056",
+        "S057",
+        "S058",
+        "S059",
+        "S060",
+        "S061",
+        "S062",
+        "S063",
+        "S064",
+        "S065",
+        "S066",
+        "S067",
+        "S068",
+        "S070",
+        "S072",
+        "S076",
+        "S077",
+        "S082",
+        "S084",
+        "S086",
+        "S087",
+        "S088",
+        "S092",
+        "S093",
+        "S094",
+        "S095",
+        "S099",
+        "S100",
+        "S101",
+        "S102",
+        "S104",
+        "S106",
+        "S107",
+        "S110",
+        "S113",
+        "S115",
+        "S116",
+        "S117",
+        "S118",
+        "S119",
+        "S120",
+        "S121",
+        "S122",
+        "S146",
+        "S162",
+        "S191",
+        "S192",
+        "S193",
+        "S194",
+        "S195",
+        "S196",
+        "S197",
+        "S198",
+        "S199",
+        "S200",
+        "S201",
+        "S202"
+      ],
+      "scope": "Historical assertion of complete source readings, not independent message dispositions"
+    },
+    {
+      "record": "H03 — fechamento",
+      "sha256": "fa9062267b12a22d1747b615d3fbfce3e4cfdc35f15cc8e16c2001b753648a12",
+      "declared_complete_sources": 186,
+      "nonempty_sources": 186,
+      "empty_sources": 0,
+      "declared_messages": 89155,
+      "recomputed_messages": 89155,
+      "recomputed_percent": 100.0,
+      "source_ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S008",
+        "S010",
+        "S012",
+        "S013",
+        "S014",
+        "S016",
+        "S022",
+        "S023",
+        "S024",
+        "S025",
+        "S026",
+        "S027",
+        "S028",
+        "S029",
+        "S030",
+        "S031",
+        "S032",
+        "S033",
+        "S034",
+        "S035",
+        "S036",
+        "S037",
+        "S038",
+        "S039",
+        "S040",
+        "S041",
+        "S042",
+        "S043",
+        "S044",
+        "S045",
+        "S046",
+        "S047",
+        "S048",
+        "S049",
+        "S050",
+        "S051",
+        "S052",
+        "S053",
+        "S054",
+        "S055",
+        "S056",
+        "S057",
+        "S058",
+        "S059",
+        "S060",
+        "S061",
+        "S062",
+        "S063",
+        "S064",
+        "S065",
+        "S066",
+        "S067",
+        "S068",
+        "S069",
+        "S070",
+        "S071",
+        "S072",
+        "S073",
+        "S074",
+        "S075",
+        "S076",
+        "S077",
+        "S078",
+        "S079",
+        "S080",
+        "S081",
+        "S082",
+        "S083",
+        "S084",
+        "S085",
+        "S086",
+        "S087",
+        "S088",
+        "S089",
+        "S090",
+        "S091",
+        "S092",
+        "S093",
+        "S094",
+        "S095",
+        "S096",
+        "S097",
+        "S098",
+        "S099",
+        "S100",
+        "S101",
+        "S102",
+        "S103",
+        "S104",
+        "S105",
+        "S106",
+        "S107",
+        "S108",
+        "S110",
+        "S111",
+        "S112",
+        "S113",
+        "S114",
+        "S115",
+        "S116",
+        "S117",
+        "S118",
+        "S119",
+        "S120",
+        "S121",
+        "S122",
+        "S123",
+        "S124",
+        "S125",
+        "S126",
+        "S127",
+        "S128",
+        "S129",
+        "S130",
+        "S131",
+        "S132",
+        "S133",
+        "S134",
+        "S135",
+        "S136",
+        "S137",
+        "S138",
+        "S139",
+        "S140",
+        "S141",
+        "S142",
+        "S143",
+        "S144",
+        "S145",
+        "S146",
+        "S148",
+        "S149",
+        "S150",
+        "S151",
+        "S152",
+        "S153",
+        "S154",
+        "S155",
+        "S156",
+        "S157",
+        "S158",
+        "S159",
+        "S160",
+        "S161",
+        "S162",
+        "S164",
+        "S165",
+        "S166",
+        "S167",
+        "S168",
+        "S169",
+        "S170",
+        "S171",
+        "S172",
+        "S173",
+        "S174",
+        "S175",
+        "S176",
+        "S178",
+        "S179",
+        "S181",
+        "S182",
+        "S183",
+        "S184",
+        "S185",
+        "S186",
+        "S187",
+        "S188",
+        "S189",
+        "S191",
+        "S192",
+        "S193",
+        "S194",
+        "S195",
+        "S196",
+        "S197",
+        "S198",
+        "S199",
+        "S200",
+        "S201",
+        "S202"
+      ],
+      "scope": "Historical assertion of complete source readings, not independent message dispositions"
+    }
+  ],
+  "closure_notes_records": [
+    {
+      "record": "fase3-fechamento-notas-01.md",
+      "sha256": "7bb76d086dbc7802d385eb34322503fa1170677c7e9844db686c38c4cb71fb91",
+      "message_ids_present": 89,
+      "source_ids_with_anchored_evidence": [
+        "S073",
+        "S074",
+        "S080",
+        "S089",
+        "S090",
+        "S114"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-02.md",
+      "sha256": "4af781cad53fe167a2433f90ddb77366573b0cbae3637ca3e9dfd539f0309183",
+      "message_ids_present": 21,
+      "source_ids_with_anchored_evidence": [
+        "S165",
+        "S166"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-03.md",
+      "sha256": "6b3bf82230f043a6a95641a425cb8ac6fdff68509c282d2feac6c26e871317ab",
+      "message_ids_present": 21,
+      "source_ids_with_anchored_evidence": [
+        "S123"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-04.md",
+      "sha256": "b35e1429024fcaa42fdcfb41e4b6e9155505f82492edfa26afcc3c118893ea05",
+      "message_ids_present": 11,
+      "source_ids_with_anchored_evidence": [
+        "S136"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-05.md",
+      "sha256": "fe7a9065e7ec1ab19bc0a96d4533b0edaa08f89b2c2f81a1c524b2e3171e029e",
+      "message_ids_present": 4,
+      "source_ids_with_anchored_evidence": [
+        "S156"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-06.md",
+      "sha256": "bc9068580b5e9ee7532f6cdad845efc614f134907fdf8f81fbb686c6a3b31535",
+      "message_ids_present": 6,
+      "source_ids_with_anchored_evidence": [
+        "S152"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-07.md",
+      "sha256": "65f5b70c533c70f49310ef0af03be7f2c975a9a5a4eb9d214a5d4772c030ab59",
+      "message_ids_present": 3,
+      "source_ids_with_anchored_evidence": [
+        "S133",
+        "S134"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-08.md",
+      "sha256": "58266431e67353419e014de7d1205b583eea41c087f1daece68214adbd47e42b",
+      "message_ids_present": 3,
+      "source_ids_with_anchored_evidence": [
+        "S153"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-09.md",
+      "sha256": "5d2717a3686e5e6b56f37db621fc90dd7595164d9927eae372356baeb3ab21ec",
+      "message_ids_present": 6,
+      "source_ids_with_anchored_evidence": [
+        "S135",
+        "S161",
+        "S182"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-10.md",
+      "sha256": "3659ebb472b87cc350f5944ed314d9075686da82a0879251d39c1794a1e9a8e4",
+      "message_ids_present": 6,
+      "source_ids_with_anchored_evidence": [
+        "S126",
+        "S127"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-11.md",
+      "sha256": "86029439c8bd22c61aac1aff3d31a8104f1f3437144cfcd8091020d52f14b16f",
+      "message_ids_present": 22,
+      "source_ids_with_anchored_evidence": [
+        "S111",
+        "S128"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-12.md",
+      "sha256": "7799c9476c18aaf74e6ca46352ad6681e91c4866668f52090ff43207fe4fe0ab",
+      "message_ids_present": 60,
+      "source_ids_with_anchored_evidence": [
+        "S112"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-13.md",
+      "sha256": "a579653061654edab0c469de39c53f544714de99662e418b95644ed9e716cb09",
+      "message_ids_present": 40,
+      "source_ids_with_anchored_evidence": [
+        "S003"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-14.md",
+      "sha256": "f46d6efc1cfa6de347d1f4a340541214e416b9e8da13a625da3df2957f91520b",
+      "message_ids_present": 4,
+      "source_ids_with_anchored_evidence": [
+        "S167",
+        "S168"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-15.md",
+      "sha256": "3b8f5ad7bedfcd46d4e3f4386b453bf5403441c0fc358d0018e75238bc239f4e",
+      "message_ids_present": 5,
+      "source_ids_with_anchored_evidence": [
+        "S154",
+        "S155"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-16.md",
+      "sha256": "2f81faa6af1434825b6706af08cc4dd41bf6ddb67830e4bd6789a7dbc9853f2c",
+      "message_ids_present": 44,
+      "source_ids_with_anchored_evidence": [
+        "S140",
+        "S141",
+        "S142",
+        "S143",
+        "S144",
+        "S145",
+        "S161"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-17.md",
+      "sha256": "c8c2bce18fcb577504524a189324348bccaabb3a4de54d57716a5ab0ce4c7c6e",
+      "message_ids_present": 29,
+      "source_ids_with_anchored_evidence": [
+        "S150",
+        "S151"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-18.md",
+      "sha256": "7f771f3fe321870591b4cc70f63fdc4ede2996c11bb9196f8bedc85d43d8e488",
+      "message_ids_present": 29,
+      "source_ids_with_anchored_evidence": [
+        "S170",
+        "S171"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-19.md",
+      "sha256": "4917b01a8b35eb0bf35cec9962de1d0fc50d04bb8c8acf789a505ba3113bdcda",
+      "message_ids_present": 32,
+      "source_ids_with_anchored_evidence": [
+        "S189"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-20.md",
+      "sha256": "f73589dc03d0f03c62895823813a94a9f7de96f37e57acfb1491c50ccb066067",
+      "message_ids_present": 32,
+      "source_ids_with_anchored_evidence": [
+        "S138",
+        "S139"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-21.md",
+      "sha256": "969efd3896fe7b80de7171c1a2f52b1de025331964b7c06532dc412b282ca1a8",
+      "message_ids_present": 18,
+      "source_ids_with_anchored_evidence": [
+        "S012",
+        "S125",
+        "S129",
+        "S131",
+        "S149",
+        "S164",
+        "S169"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-22.md",
+      "sha256": "9230e6edbfb088ee62cf300cfc64320682394c62554b62312decd6761267fe24",
+      "message_ids_present": 23,
+      "source_ids_with_anchored_evidence": [
+        "S183",
+        "S184"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-23.md",
+      "sha256": "42374882871a9d5303c78357d1b95fdd0f84f50f76dde72d5d00c36cfd4a0508",
+      "message_ids_present": 46,
+      "source_ids_with_anchored_evidence": [
+        "S013"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-24.md",
+      "sha256": "ee8386f2b1132a60c7bf08247cbbf940eebda805a6a25afae18811d119424ceb",
+      "message_ids_present": 49,
+      "source_ids_with_anchored_evidence": [
+        "S187"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-25.md",
+      "sha256": "81580d557641b562a4f88ad8cfe65d9d9ea67ba23101b2189aa1f1e0da8e6d9c",
+      "message_ids_present": 8,
+      "source_ids_with_anchored_evidence": [
+        "S185"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-26.md",
+      "sha256": "4133600ad825e4b08c20ea0a4eb476053f231f4193c840837ac5d28683876ed8",
+      "message_ids_present": 3,
+      "source_ids_with_anchored_evidence": [
+        "S008",
+        "S016"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-27.md",
+      "sha256": "33c1b4619abbeb765edf46b0047343998793c523c63249d9d9f3455707f31f92",
+      "message_ids_present": 5,
+      "source_ids_with_anchored_evidence": [
+        "S005",
+        "S014"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-28.md",
+      "sha256": "5841e33a6c1a662c5bccc7d4f2510963127da0accc0109fb392e8441593a375a",
+      "message_ids_present": 7,
+      "source_ids_with_anchored_evidence": [
+        "S001",
+        "S002"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-29.md",
+      "sha256": "b6bee5f2b38e8660483ecfbd55eb1ae40ba42f6fddd3f0d399501544803589fd",
+      "message_ids_present": 12,
+      "source_ids_with_anchored_evidence": [
+        "S023"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-30.md",
+      "sha256": "129034ae0a715009d8fd75be28da4cab62a05226707ce46965e8ea14700ba39e",
+      "message_ids_present": 115,
+      "source_ids_with_anchored_evidence": [
+        "S158",
+        "S159",
+        "S160",
+        "S176"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-31.md",
+      "sha256": "54aaedc4b30427868f0e5984043fbc88562b5cdccb1f6531dc4f99a9d267701e",
+      "message_ids_present": 128,
+      "source_ids_with_anchored_evidence": [
+        "S022",
+        "S175"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-32.md",
+      "sha256": "f5a63714d79fee398a89106ce71b71b846b00dd91ec72261fef88b4155cd6b47",
+      "message_ids_present": 124,
+      "source_ids_with_anchored_evidence": [
+        "S172"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-33.md",
+      "sha256": "822aab43de0bce81b8d6b4feacbaa886a476668465a398c4c282c5fd725c7fca",
+      "message_ids_present": 145,
+      "source_ids_with_anchored_evidence": [
+        "S173"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-34.md",
+      "sha256": "659310a9636aa3ed71e49716ec57efa3573922687cb7fbbd3428b3c47bf881fd",
+      "message_ids_present": 119,
+      "source_ids_with_anchored_evidence": [
+        "S178"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-35.md",
+      "sha256": "916cf6221d309ee636c0d17f8710d51e8db0072395c3366b70b0da3df09b9b6d",
+      "message_ids_present": 119,
+      "source_ids_with_anchored_evidence": [
+        "S179"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    },
+    {
+      "record": "fase3-fechamento-notas-36.md",
+      "sha256": "c590d5bcde267a4d3a8409bc45443a909b6e042ef08d7f46907863a3816be35d",
+      "message_ids_present": 87,
+      "source_ids_with_anchored_evidence": [
+        "S030",
+        "S053",
+        "S069",
+        "S075",
+        "S081",
+        "S096",
+        "S097",
+        "S098",
+        "S105",
+        "S108",
+        "S148",
+        "S174",
+        "S181"
+      ],
+      "scope": "Evidence of work on anchored contexts; does not prove interpretation of every message in named files"
+    }
+  ],
+  "closure_notes_unique_message_ids_present": 1475,
+  "closure_notes_message_ids_absent": [],
+  "limitations": [
+    "Reference existence is not semantic support.",
+    "Whitespace normalization compares extracted visible text, not full DOM, remote attachments or pre-edit versions.",
+    "Historical notes and scripts document progress; no independent complete per-message triage ledger was located."
+  ],
+  "zip_blobs_match_main": 8
+}

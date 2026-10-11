@@ -1,0 +1,155 @@
+{
+  "schema": 1,
+  "method": "direct ZIP bytes + CRC + independent HTMLParser + data-message-id crosscount",
+  "archives": [
+    {
+      "archive": "Chats Privados.zip",
+      "bytes": 309709,
+      "sha256": "54031531f83afbe53c298f2f6e9c6e11ef1fa803406965c4bb5ac1df7772bed5",
+      "git_blob_sha1": "5108b91c53fbcc1147a86fe77bb4db6260f7afde",
+      "central_entries": 6,
+      "directories": 1,
+      "files": 5,
+      "crc_checked": true,
+      "html_files": 5,
+      "messages": 3888,
+      "duplicate_names": []
+    },
+    {
+      "archive": "Dragons cap 1 a 2 - ultimos chats.zip",
+      "bytes": 688241,
+      "sha256": "e2641bbb411147e5bc78c13397ff2eb3ebc91dd43588083a5034ae23bda13f7c",
+      "git_blob_sha1": "2130ef5f36f0109ab7ce0287ae44de0abb1964c3",
+      "central_entries": 19,
+      "directories": 1,
+      "files": 18,
+      "crc_checked": true,
+      "html_files": 18,
+      "messages": 8085,
+      "duplicate_names": []
+    },
+    {
+      "archive": "Dragons Cap 1 a 2 temporada 1.zip",
+      "bytes": 1211549,
+      "sha256": "fd3384116ee2c5345632efd1170799f29436a14a584fc2b020b63ea2e6857ce5",
+      "git_blob_sha1": "9d484f2aef2d285fc6b89195a344877f9acc6cdd",
+      "central_entries": 50,
+      "directories": 1,
+      "files": 49,
+      "crc_checked": true,
+      "html_files": 49,
+      "messages": 14146,
+      "duplicate_names": []
+    },
+    {
+      "archive": "Dragons Cap 1 a 2 temporada 2.zip",
+      "bytes": 2040937,
+      "sha256": "106be02b239afffa8b80bf85b99b5e28a870d7501647ff081fce3f5f63ee1932",
+      "git_blob_sha1": "74b246d6b99b51ad14b4d1fd73f1628ba57f28c8",
+      "central_entries": 51,
+      "directories": 1,
+      "files": 50,
+      "crc_checked": true,
+      "html_files": 50,
+      "messages": 26535,
+      "duplicate_names": []
+    },
+    {
+      "archive": "Dragons Cap 1 a 2 temporada 3.zip",
+      "bytes": 1603775,
+      "sha256": "2d91d9ff9c327bf3b62ae058ea29bb586f04a3d666697f6c47a282c236d77c60",
+      "git_blob_sha1": "4a05fdae6e1e8cb9914e51a0d9463f028c355440",
+      "central_entries": 50,
+      "directories": 1,
+      "files": 49,
+      "crc_checked": true,
+      "html_files": 49,
+      "messages": 20014,
+      "duplicate_names": []
+    },
+    {
+      "archive": "Dragons Cap 3 a 4 temporada 1.zip",
+      "bytes": 1217820,
+      "sha256": "dac396aa8ec97c6e508214ce458391a3ba19cbfa7fa553e6d09891989f6ee7dc",
+      "git_blob_sha1": "611677c5809c3e62d43c5858899c3a7247a52d68",
+      "central_entries": 20,
+      "directories": 1,
+      "files": 19,
+      "crc_checked": true,
+      "html_files": 19,
+      "messages": 16328,
+      "duplicate_names": []
+    },
+    {
+      "archive": "jogadores.zip",
+      "bytes": 110429,
+      "sha256": "23ed053d82819b487a6c5616c96cb889555e59aa4725690d602a19caefe30470",
+      "git_blob_sha1": "72dbca1a826aa8a1c2bf1ec7d67d6201929e9000",
+      "central_entries": 13,
+      "directories": 1,
+      "files": 12,
+      "crc_checked": true,
+      "html_files": 12,
+      "messages": 159,
+      "duplicate_names": []
+    },
+    {
+      "archive": "Poderes Jogadores.zip",
+      "bytes": 104625,
+      "sha256": "11ecdd2199d3c1e4dc8d2c1e80e9a8b8ab73d94cf3c195b310f0e29175241592",
+      "git_blob_sha1": "9c88dbdb85126b6805a09e0397806c1c5da2beb7",
+      "central_entries": 25,
+      "directories": 13,
+      "files": 12,
+      "crc_checked": true,
+      "html_files": 12,
+      "messages": 158,
+      "duplicate_names": []
+    }
+  ],
+  "counts": {
+    "zip_archives": 8,
+    "central_entries": 234,
+    "directories": 20,
+    "files": 214,
+    "zero_byte_files": 0,
+    "narrative_exports_including_character_sheets": 202,
+    "nonempty_narrative_exports": 186,
+    "empty_narrative_exports": 16,
+    "narrative_message_occurrences": 89155,
+    "narrative_unique_message_ids": 89155,
+    "powers_exports": 12,
+    "powers_message_occurrences": 158,
+    "powers_unique_message_ids": 158,
+    "cross_corpus_repeated_ids": 0,
+    "all_unique_message_ids": 89313,
+    "edited_marker_messages": 2199,
+    "inventoried_HTML": 214,
+    "processed_message_occurrences": 89313,
+    "narrative_review_messages_this_run": 0,
+    "consolidation_review_messages_this_run": 0
+  },
+  "duplicate_message_ids": {},
+  "duplicate_file_sha256": {
+    "a70880fc2f500a73bab6b3bcd2de0ecccb5b83e9d37886115c406d5a993f33cb": [
+      [
+        "Dragons cap 1 a 2 - ultimos chats.zip",
+        15
+      ],
+      [
+        "Dragons cap 1 a 2 - ultimos chats.zip",
+        16
+      ]
+    ]
+  },
+  "issues": [],
+  "limitations": [
+    "Edit marker does not recover pre-edit text or revision history.",
+    "Snowflake dates are documentary creation time, not fictional calendar.",
+    "Processing completeness is checked against accessible message containers, not deleted/remote content.",
+    "Attachment/embedding references do not fetch remote media.",
+    "Empty export contains HTML but no exported messages.",
+    "Automated extraction is not narrative triage.",
+    "Names and full internal paths are available only in optional local private manifest; public locators use ZIP ordinal/channel/content and path hashes."
+  ]
+}

@@ -25,6 +25,7 @@ O **Cânone Original** reúne somente o que pode ser reconstruído do RPG, disti
 | 4 — Bíblia do Cânone Original | Edição e auditoria incorporadas pelos PRs #1 e #2; documentação original preservada. |
 | 5 — Arquitetura do Cânone Adaptado | Fundamentos e alternativas disponíveis para revisão; propostas não aprovadas. |
 | 5.1 — Direção criativa e Bloco D | Doze direções selecionadas; auditoria conjunta entregue, implementações e destinos ainda em deliberação. |
+| Auditoria final de fontes | Etapa A concluída; B001 publicado, revisão semântica e prontidão final pendentes. |
 | Escrita da continuação / Fase 6 | Não iniciadas; dependem de aprovação do criador. |
 
 ## Preservação e limites
@@ -36,3 +37,7 @@ Os ZIPs originais permanecem na raiz, sem alteração. A documentação publicad
 ## Publicação documental
 
 GitHub é a fonte principal da documentação. Branch, commits, PR e merge após verificações estão autorizados para documentação própria, conforme o [fluxo de publicação e preservação](docs/Fluxo-de-Publicacao-e-Preservacao.md). Merge não é aprovação narrativa.
+
+## Auditoria de fontes — checkpoint independente
+
+[Inventário e cobertura](docs/canon-adaptado/24-Auditoria-de-Cobertura-e-Integridade-das-Fontes.md): oito ZIPs, 214 HTMLs e 89.313 mensagens totais reprocessadas. [Omissões e correções](docs/canon-adaptado/25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md): 437 mensagens revistas em contexto, duas omissões e uma qualificação metodológica incorporadas. Auditoria completa ainda em andamento; nenhum acontecimento futuro aprovado por esta publicação.
