@@ -1,0 +1,1733 @@
+{
+  "checkpoint": "B002.1",
+  "A_inventory": "CONCLUÍDO",
+  "B_processing": "CONCLUÍDO",
+  "C_triage": "PARCIAL",
+  "D_confrontation": "PARCIAL",
+  "B001_distinct": 437,
+  "B002_new_distinct": 4105,
+  "B002_revisited_B001_distinct": 17,
+  "C_cumulative_distinct": 4542,
+  "D_cumulative_distinct": 3973,
+  "C_principal_distinct": 4384,
+  "C_principal_percent": 4.917279,
+  "C_combined_percent": 5.085486,
+  "D_combined_percent": 4.448401,
+  "powers_distinct": 158,
+  "remaining_principal_C": 84771,
+  "per_source": [
+    {
+      "source": "S001",
+      "messages": 1040,
+      "C_distinct": 241,
+      "D_distinct": 241,
+      "remaining_C": 799,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S002",
+      "messages": 783,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 783,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S003",
+      "messages": 1016,
+      "C_distinct": 1016,
+      "D_distinct": 1016,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "S004",
+      "messages": 58,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 58,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S005",
+      "messages": 991,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 991,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S006",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S007",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S008",
+      "messages": 471,
+      "C_distinct": 471,
+      "D_distinct": 471,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "S009",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S010",
+      "messages": 635,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 635,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S011",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S012",
+      "messages": 70,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 70,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S013",
+      "messages": 2486,
+      "C_distinct": 231,
+      "D_distinct": 148,
+      "remaining_C": 2255,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S014",
+      "messages": 244,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 244,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S015",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S016",
+      "messages": 581,
+      "C_distinct": 261,
+      "D_distinct": 176,
+      "remaining_C": 320,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S017",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S018",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S019",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S020",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S021",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S022",
+      "messages": 2041,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 2041,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S023",
+      "messages": 1557,
+      "C_distinct": 737,
+      "D_distinct": 336,
+      "remaining_C": 820,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S024",
+      "messages": 61,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 61,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S025",
+      "messages": 6428,
+      "C_distinct": 65,
+      "D_distinct": 65,
+      "remaining_C": 6363,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S026",
+      "messages": 25,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 25,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S027",
+      "messages": 5,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 5,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S028",
+      "messages": 163,
+      "C_distinct": 5,
+      "D_distinct": 5,
+      "remaining_C": 158,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S029",
+      "messages": 18,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 18,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S030",
+      "messages": 3,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 3,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S031",
+      "messages": 6,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 6,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S032",
+      "messages": 197,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 197,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S033",
+      "messages": 7,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 7,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S034",
+      "messages": 30,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 30,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S035",
+      "messages": 263,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 263,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S036",
+      "messages": 28,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 28,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S037",
+      "messages": 938,
+      "C_distinct": 15,
+      "D_distinct": 15,
+      "remaining_C": 923,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S038",
+      "messages": 37,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 37,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S039",
+      "messages": 248,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 248,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S040",
+      "messages": 13,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 13,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S041",
+      "messages": 931,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 931,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S042",
+      "messages": 9,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 9,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S043",
+      "messages": 848,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 848,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S044",
+      "messages": 64,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 64,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S045",
+      "messages": 21,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 21,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S046",
+      "messages": 285,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 285,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S047",
+      "messages": 185,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 185,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S048",
+      "messages": 9,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 9,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S049",
+      "messages": 82,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 82,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S050",
+      "messages": 26,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 26,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S051",
+      "messages": 9,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 9,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S052",
+      "messages": 234,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 234,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S053",
+      "messages": 9,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 9,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S054",
+      "messages": 26,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 26,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S055",
+      "messages": 15,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 15,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S056",
+      "messages": 43,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 43,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S057",
+      "messages": 361,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 361,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S058",
+      "messages": 6,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 6,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S059",
+      "messages": 53,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 53,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S060",
+      "messages": 222,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 222,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S061",
+      "messages": 11,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 11,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S062",
+      "messages": 17,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 17,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S063",
+      "messages": 10,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 10,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S064",
+      "messages": 124,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 124,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S065",
+      "messages": 21,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 21,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S066",
+      "messages": 77,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 77,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S067",
+      "messages": 29,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 29,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S068",
+      "messages": 1121,
+      "C_distinct": 5,
+      "D_distinct": 5,
+      "remaining_C": 1116,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S069",
+      "messages": 11,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 11,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S070",
+      "messages": 802,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 802,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S071",
+      "messages": 1,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S072",
+      "messages": 14,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 14,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S073",
+      "messages": 1390,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1390,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S074",
+      "messages": 277,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 277,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S075",
+      "messages": 175,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 175,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S076",
+      "messages": 792,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 792,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S077",
+      "messages": 414,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 414,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S078",
+      "messages": 5,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 5,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S079",
+      "messages": 6,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 6,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S080",
+      "messages": 111,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 111,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S081",
+      "messages": 571,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 571,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S082",
+      "messages": 6,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 6,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S083",
+      "messages": 15,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 15,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S084",
+      "messages": 464,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 464,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S085",
+      "messages": 17,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 17,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S086",
+      "messages": 4066,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 4066,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S087",
+      "messages": 774,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 774,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S088",
+      "messages": 1454,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1454,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S089",
+      "messages": 2217,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 2217,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S090",
+      "messages": 428,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 428,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S091",
+      "messages": 36,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 36,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S092",
+      "messages": 300,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 300,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S093",
+      "messages": 49,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 49,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S094",
+      "messages": 109,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 109,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S095",
+      "messages": 348,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 348,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S096",
+      "messages": 103,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 103,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S097",
+      "messages": 50,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 50,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S098",
+      "messages": 383,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 383,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S099",
+      "messages": 84,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 84,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S100",
+      "messages": 54,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 54,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S101",
+      "messages": 42,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 42,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S102",
+      "messages": 32,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 32,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S103",
+      "messages": 5,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 5,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S104",
+      "messages": 165,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 165,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S105",
+      "messages": 10,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 10,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S106",
+      "messages": 1848,
+      "C_distinct": 52,
+      "D_distinct": 52,
+      "remaining_C": 1796,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S107",
+      "messages": 3104,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 3104,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S108",
+      "messages": 230,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 230,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S109",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S110",
+      "messages": 118,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 118,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S111",
+      "messages": 193,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 193,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S112",
+      "messages": 1836,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1836,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S113",
+      "messages": 88,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 88,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S114",
+      "messages": 28,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 28,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S115",
+      "messages": 1410,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1410,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S116",
+      "messages": 1062,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1062,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S117",
+      "messages": 193,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 193,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S118",
+      "messages": 213,
+      "C_distinct": 10,
+      "D_distinct": 10,
+      "remaining_C": 203,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S119",
+      "messages": 172,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 172,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S120",
+      "messages": 78,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 78,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S121",
+      "messages": 75,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 75,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S122",
+      "messages": 935,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 935,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S123",
+      "messages": 1494,
+      "C_distinct": 20,
+      "D_distinct": 20,
+      "remaining_C": 1474,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S124",
+      "messages": 3,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 3,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S125",
+      "messages": 32,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 32,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S126",
+      "messages": 1231,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1231,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S127",
+      "messages": 616,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 616,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S128",
+      "messages": 123,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 123,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S129",
+      "messages": 10,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 10,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S130",
+      "messages": 13,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 13,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S131",
+      "messages": 13,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 13,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S132",
+      "messages": 5,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 5,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S133",
+      "messages": 154,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 154,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S134",
+      "messages": 225,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 225,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S135",
+      "messages": 214,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 214,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S136",
+      "messages": 863,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 863,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S137",
+      "messages": 155,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 155,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S138",
+      "messages": 1295,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1295,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S139",
+      "messages": 32,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 32,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S140",
+      "messages": 44,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 44,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S141",
+      "messages": 372,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 372,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S142",
+      "messages": 64,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 64,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S143",
+      "messages": 143,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 143,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S144",
+      "messages": 22,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 22,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S145",
+      "messages": 166,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 166,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S146",
+      "messages": 71,
+      "C_distinct": 15,
+      "D_distinct": 15,
+      "remaining_C": 56,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S147",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S148",
+      "messages": 5,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 5,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S149",
+      "messages": 39,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 39,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S150",
+      "messages": 82,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 82,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S151",
+      "messages": 691,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 691,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S152",
+      "messages": 649,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 649,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S153",
+      "messages": 677,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 677,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S154",
+      "messages": 326,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 326,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S155",
+      "messages": 739,
+      "C_distinct": 15,
+      "D_distinct": 15,
+      "remaining_C": 724,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S156",
+      "messages": 373,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 373,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S157",
+      "messages": 57,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 57,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S158",
+      "messages": 2116,
+      "C_distinct": 836,
+      "D_distinct": 836,
+      "remaining_C": 1280,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S159",
+      "messages": 440,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 440,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S160",
+      "messages": 406,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 406,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S161",
+      "messages": 1716,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1716,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S162",
+      "messages": 121,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 121,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S163",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S164",
+      "messages": 38,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 38,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S165",
+      "messages": 199,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 199,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S166",
+      "messages": 2700,
+      "C_distinct": 10,
+      "D_distinct": 10,
+      "remaining_C": 2690,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S167",
+      "messages": 354,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 354,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S168",
+      "messages": 21,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 21,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S169",
+      "messages": 22,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 22,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S170",
+      "messages": 680,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 680,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S171",
+      "messages": 203,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 203,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S172",
+      "messages": 2245,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 2245,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S173",
+      "messages": 2446,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 2446,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S174",
+      "messages": 13,
+      "C_distinct": 13,
+      "D_distinct": 13,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "S175",
+      "messages": 470,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 470,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S176",
+      "messages": 616,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 616,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S177",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S178",
+      "messages": 1422,
+      "C_distinct": 37,
+      "D_distinct": 37,
+      "remaining_C": 1385,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S179",
+      "messages": 2433,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 2433,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S180",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S181",
+      "messages": 1,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S182",
+      "messages": 394,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 394,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S183",
+      "messages": 181,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 181,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S184",
+      "messages": 578,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 578,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S185",
+      "messages": 1811,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1811,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S186",
+      "messages": 42,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 42,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S187",
+      "messages": 2962,
+      "C_distinct": 312,
+      "D_distinct": 312,
+      "remaining_C": 2650,
+      "state": "PARCIAL"
+    },
+    {
+      "source": "S188",
+      "messages": 25,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 25,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S189",
+      "messages": 689,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 689,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S190",
+      "messages": 0,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 0,
+      "state": "SEM MENSAGENS"
+    },
+    {
+      "source": "S191",
+      "messages": 1,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S192",
+      "messages": 19,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 19,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S193",
+      "messages": 3,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 3,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S194",
+      "messages": 27,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 27,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S195",
+      "messages": 1,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 1,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S196",
+      "messages": 6,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 6,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S197",
+      "messages": 5,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 5,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S198",
+      "messages": 17,
+      "C_distinct": 17,
+      "D_distinct": 17,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "S199",
+      "messages": 40,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 40,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S200",
+      "messages": 5,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 5,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S201",
+      "messages": 6,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 6,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "S202",
+      "messages": 29,
+      "C_distinct": 0,
+      "D_distinct": 0,
+      "remaining_C": 29,
+      "state": "NÃO INICIADA"
+    },
+    {
+      "source": "PWR001",
+      "messages": 13,
+      "C_distinct": 13,
+      "D_distinct": 13,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR002",
+      "messages": 3,
+      "C_distinct": 3,
+      "D_distinct": 3,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR003",
+      "messages": 5,
+      "C_distinct": 5,
+      "D_distinct": 5,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR004",
+      "messages": 1,
+      "C_distinct": 1,
+      "D_distinct": 1,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR005",
+      "messages": 1,
+      "C_distinct": 1,
+      "D_distinct": 1,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR006",
+      "messages": 2,
+      "C_distinct": 2,
+      "D_distinct": 2,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR007",
+      "messages": 1,
+      "C_distinct": 1,
+      "D_distinct": 1,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR008",
+      "messages": 4,
+      "C_distinct": 4,
+      "D_distinct": 4,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR009",
+      "messages": 111,
+      "C_distinct": 111,
+      "D_distinct": 111,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR010",
+      "messages": 3,
+      "C_distinct": 3,
+      "D_distinct": 3,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR011",
+      "messages": 13,
+      "C_distinct": 13,
+      "D_distinct": 13,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    },
+    {
+      "source": "PWR012",
+      "messages": 1,
+      "C_distinct": 1,
+      "D_distinct": 1,
+      "remaining_C": 0,
+      "state": "TRIAGEM INTEGRAL"
+    }
+  ],
+  "deduplication": "União por ID, com hashes/índices conferidos; revisita S198 não aumenta cobertura."
+}

@@ -48,3 +48,7 @@ Canon Original auditado nos PRs #1/#2; arquitetura no PR #3; fundamentos aprovad
 As análises finais são publicadas por branch, commits e PR, com merge autorizado após verificações. Veja [fluxo permanente de publicação e preservação](../Fluxo-de-Publicacao-e-Preservacao.md). Instruções específicas futuras prevalecem. Publicação não escreve continuação definitiva nem inicia Fase 6.
 
 **Auditoria final de fontes em andamento:** inventário/processamento concluídos; 437 mensagens com revisão contextual comprovada neste checkpoint. Etapas B–D e parecer histórico final pendentes. Não libera escrita dos grandes acontecimentos.
+
+## Checkpoint B002.1 da auditoria independente
+
+[4.542 IDs distintas acumuladas; correções e matrizes](26-Auditoria-B002-Continuidades-e-Varredura.md). B002 em andamento, sem conclusão integral do corpus ou dos protagonistas. Inventário/processamento e B001 preservados.

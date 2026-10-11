@@ -134,3 +134,7 @@ Os blocos se sobrepõem após a dispersão. Comece pelo [guia de causalidade](17
 - [Omissões e correções do primeiro lote B001](../canon-adaptado/25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md)
 
 Revisão 3 — 10/10/2026: localizadores do novo checkpoint; revisão completa dos protagonistas, arcos e pendências ainda em andamento.
+
+## Checkpoint B002.1 da auditoria independente
+
+[4.542 IDs distintas acumuladas; correções e matrizes](../canon-adaptado/26-Auditoria-B002-Continuidades-e-Varredura.md). B002 em andamento, sem conclusão integral do corpus ou dos protagonistas. Inventário/processamento e B001 preservados.

@@ -1,0 +1,3481 @@
+{
+  "checkpoint": "B002.1",
+  "PS": [
+    {
+      "id": "PS-001",
+      "title": "Origem da Surgência",
+      "previous_text": "### PS-001 — Origem da Surgência\n\n**Estado:** ABERTA QUANDO A CAMPANHA PAROU.\n\n**Pergunta:** Qual mecanismo e origem das chegadas sem memória?\n\n**Envolvidos:** Elenco/global.\n\n**Resposta recuperável:** Nenhuma origem universal demonstrada. Livros/relatos de Insurgência e intervenção branca não provam mecanismo único.\n\n**Evidências:** [S070 · 1183178984125628457](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S119 · 1195156289676922930](../pesquisa/fase-3/Fontes-e-Evidencias.md#s119); [S023 · 1264746364479340665](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S023",
+        "S070",
+        "S119"
+      ],
+      "known_evidence": [
+        [
+          "S070",
+          "1183178984125628457"
+        ],
+        [
+          "S119",
+          "1195156289676922930"
+        ],
+        [
+          "S023",
+          "1264746364479340665"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-002",
+      "title": "Saída física versus marca",
+      "previous_text": "### PS-002 — Saída física versus marca\n\n**Estado:** PARCIALMENTE RESOLVIDA.\n\n**Pergunta:** Sair das minas remove a marca e toda sujeição?\n\n**Envolvidos:** ARC-001; Templo da Luz.\n\n**Resposta recuperável:** Saída física demonstrada; marca mencionada por Henry em 20/1, após confirmação narrada em 3/1. Nenhuma remoção explícita posterior, inclusive depois de mudanças de governo.\n\n**Evidências:** [S025 · 1183591931348008990](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183600626622529566](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S094 · 1191959455018000494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s094); [S074 · 1198439257870700574](../pesquisa/fase-3/Fontes-e-Evidencias.md#s074)",
+      "known_sources": [
+        "S025",
+        "S074",
+        "S094"
+      ],
+      "known_evidence": [
+        [
+          "S025",
+          "1183591931348008990"
+        ],
+        [
+          "S025",
+          "1183600626622529566"
+        ],
+        [
+          "S094",
+          "1191959455018000494"
+        ],
+        [
+          "S074",
+          "1198439257870700574"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-003",
+      "title": "Rio e conclusão do ramo de minhocas",
+      "previous_text": "### PS-003 — Rio e conclusão do ramo de minhocas\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** O grupo reencontra e resgata o outro ramo?\n\n**Envolvidos:** ARC-002.\n\n**Resposta recuperável:** Ramos reencontrados e saída física comprovada. Não resolve a origem de Harry.\n\n**Evidências:** [S025 · 1183223262340206662](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183589192693977208](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025)",
+      "known_sources": [
+        "S025"
+      ],
+      "known_evidence": [
+        [
+          "S025",
+          "1183223262340206662"
+        ],
+        [
+          "S025",
+          "1183589192693977208"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-004",
+      "title": "Prisão inicial ou minas de Mouran",
+      "previous_text": "### PS-004 — Prisão inicial ou minas de Mouran\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** São um único cativeiro?\n\n**Envolvidos:** ARC-001/ARC-008/ARC-009.\n\n**Resposta recuperável:** Capturas distintas: Templo da Luz e depois governo de Mouran. Captura de Ymir pelos Altruístas é terceira cadeia própria.\n\n**Evidências:** [S025 · 1183600626622529566](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1186041122439577660](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1186044291504685136](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1186060649067991141](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S005 · 1229638997425524736](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005)",
+      "known_sources": [
+        "S005",
+        "S025"
+      ],
+      "known_evidence": [
+        [
+          "S025",
+          "1183600626622529566"
+        ],
+        [
+          "S025",
+          "1186041122439577660"
+        ],
+        [
+          "S025",
+          "1186044291504685136"
+        ],
+        [
+          "S025",
+          "1186060649067991141"
+        ],
+        [
+          "S005",
+          "1229638997425524736"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-005",
+      "title": "Resultado do primeiro altar",
+      "previous_text": "### PS-005 — Resultado do primeiro altar\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** Colosso morto significa ritual destruído?\n\n**Envolvidos:** ARC-009.\n\n**Resposta recuperável:** Colosso morto e primeiro altar destruído retrospectivamente confirmados.\n\n**Evidências:** [S025 · 1186079252815298651](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S086 · 1195908308217897032](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086)",
+      "known_sources": [
+        "S025",
+        "S086"
+      ],
+      "known_evidence": [
+        [
+          "S025",
+          "1186079252815298651"
+        ],
+        [
+          "S086",
+          "1195908308217897032"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-006",
+      "title": "Núcleo, lembranças e cristal da força",
+      "previous_text": "### PS-006 — Núcleo, lembranças e cristal da força\n\n**Estado:** PARCIALMENTE RESOLVIDA.\n\n**Pergunta:** Que são os núcleos e como se relacionam com cristal da força?\n\n**Envolvidos:** Henry, Lilith, Trevor; ARC-009.\n\n**Resposta recuperável:** Energia bestial/núcleos possuem efeitos em cena; cristal real e núcleo do colosso não são o mesmo objeto por padrão. Núcleo azul de Henry vem do touro do terceiro altar conforme esclarecimento local, distinto do lagarto de Kian.\n\n**Evidências:** [S025 · 1186735994163183656](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1186746924334850128](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1186752969467768962](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S086 · 1195915680701231184](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S179 · 1216036045221527644](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179)",
+      "known_sources": [
+        "S025",
+        "S086",
+        "S179"
+      ],
+      "known_evidence": [
+        [
+          "S025",
+          "1186735994163183656"
+        ],
+        [
+          "S025",
+          "1186746924334850128"
+        ],
+        [
+          "S025",
+          "1186752969467768962"
+        ],
+        [
+          "S086",
+          "1195915680701231184"
+        ],
+        [
+          "S179",
+          "1216036045221527644"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-007",
+      "title": "Ellen e prefeito",
+      "previous_text": "### PS-007 — Ellen e prefeito\n\n**Estado:** PARCIALMENTE RESOLVIDA.\n\n**Pergunta:** Ellen é resgatada e prefeito derrotado?\n\n**Envolvidos:** ARC-009; Karl/Ellen.\n\n**Resposta recuperável:** Ellen resgatada viva por Michael; Gwierlan vivo após ser salvo de Edward; Patrick-criatura morto por Henry; Edward continua fugitivo e reaparece em maio. Não declarar todos os antagonistas eliminados.\n\n**Evidências:** [S025 · 1186035337689059460](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1186041604067299469](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S156 · 1199899589680042096](../pesquisa/fase-3/Fontes-e-Evidencias.md#s156)",
+      "known_sources": [
+        "S025",
+        "S156"
+      ],
+      "known_evidence": [
+        [
+          "S025",
+          "1186035337689059460"
+        ],
+        [
+          "S025",
+          "1186041604067299469"
+        ],
+        [
+          "S156",
+          "1199899589680042096"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-008",
+      "title": "Trevor e Patrick supostamente traidores",
+      "previous_text": "### PS-008 — Trevor e Patrick supostamente traidores\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** A traição dos líderes aconteceu?\n\n**Envolvidos:** Resistência.\n\n**Resposta recuperável:** A acusação de Daupar não provava traição de Trevor. Contudo Patrick trai o grupo em nova cena de janeiro, com Edward, que mata Karl. Revogada qualquer garantia ampla de que Patrick nunca traiu.\n\n**Evidências:** [S025 · 1186791211965624420](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S086 · 1195922253003632692](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S086 · 1195945810962157578](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S086 · 1195945931389026365](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S123 · 1198742412370137098](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123)",
+      "known_sources": [
+        "S025",
+        "S086",
+        "S123"
+      ],
+      "known_evidence": [
+        [
+          "S025",
+          "1186791211965624420"
+        ],
+        [
+          "S086",
+          "1195922253003632692"
+        ],
+        [
+          "S086",
+          "1195945810962157578"
+        ],
+        [
+          "S086",
+          "1195945931389026365"
+        ],
+        [
+          "S123",
+          "1198742412370137098"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-009",
+      "title": "Cristal ou Veneno de Ymir",
+      "previous_text": "### PS-009 — Cristal ou Veneno de Ymir\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** Ymir tem dois elementos?\n\n**Envolvidos:** Ymir/Yakkatsu/Noah.\n\n**Resposta recuperável:** Cristal de Ymir era confusão com Noah: Veneno. A antiga indicação Gravidade de Yakkatsu foi posteriormente retirada; Linhas prevalece. Não fundir elementos de fases distintas.\n\n**Evidências:** [S095 · 1195841087013658734](../pesquisa/fase-3/Fontes-e-Evidencias.md#s095); [S095 · 1195841318002360451](../pesquisa/fase-3/Fontes-e-Evidencias.md#s095); [S095 · 1195841669359222786](../pesquisa/fase-3/Fontes-e-Evidencias.md#s095); [S081 · 1198096195873165383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081)",
+      "known_sources": [
+        "S081",
+        "S095"
+      ],
+      "known_evidence": [
+        [
+          "S095",
+          "1195841087013658734"
+        ],
+        [
+          "S095",
+          "1195841318002360451"
+        ],
+        [
+          "S095",
+          "1195841669359222786"
+        ],
+        [
+          "S081",
+          "1198096195873165383"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-010",
+      "title": "Noah desaparecido",
+      "previous_text": "### PS-010 — Noah desaparecido\n\n**Estado:** NÃO RETOMADA.\n\n**Pergunta:** Onde está Noah e sobrevive?\n\n**Envolvidos:** ARC-009; Noah.\n\n**Resposta recuperável:** Noah não é localizado no ramo anterior e não ganha desfecho posterior inequívoco. Sua ausência não significa morte.\n\n**Evidências:** [S116 · 1195542178378829894](../pesquisa/fase-3/Fontes-e-Evidencias.md#s116); [S095 · 1195838550843871322](../pesquisa/fase-3/Fontes-e-Evidencias.md#s095)",
+      "known_sources": [
+        "S095",
+        "S116"
+      ],
+      "known_evidence": [
+        [
+          "S116",
+          "1195542178378829894"
+        ],
+        [
+          "S095",
+          "1195838550843871322"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-011",
+      "title": "Figura negra, laboratório e sombras",
+      "previous_text": "### PS-011 — Figura negra, laboratório e sombras\n\n**Estado:** ABERTA QUANDO A CAMPANHA PAROU.\n\n**Pergunta:** São o mesmo agente e qual origem?\n\n**Envolvidos:** Michael/Henry; ARC-009.\n\n**Resposta recuperável:** Figura do escorpião, sombras, entidades de mente e cena branca não recebem identidade comum comprovada.\n\n**Evidências:** [S115 · 1195571172444749824](../pesquisa/fase-3/Fontes-e-Evidencias.md#s115); [S122 · 1195817461736554496](../pesquisa/fase-3/Fontes-e-Evidencias.md#s122); [S086 · 1196194170424016997](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S179 · 1218729826060337183](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179)",
+      "known_sources": [
+        "S086",
+        "S115",
+        "S122",
+        "S179"
+      ],
+      "known_evidence": [
+        [
+          "S115",
+          "1195571172444749824"
+        ],
+        [
+          "S122",
+          "1195817461736554496"
+        ],
+        [
+          "S086",
+          "1196194170424016997"
+        ],
+        [
+          "S179",
+          "1218729826060337183"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-012",
+      "title": "Título e coroa de EREN",
+      "previous_text": "### PS-012 — Título e coroa de EREN\n\n**Estado:** PARCIALMENTE RESOLVIDA.\n\n**Pergunta:** Como obteve título, coroa e colares?\n\n**Envolvidos:** ARC-004.\n\n**Resposta recuperável:** Vínculo de EREN com Ana/Árvore e armadura têm contexto; legitimidade do título de príncipe e destino posterior não totalmente demonstrados.\n\n**Evidências:** [S095 · 1195843073884827788](../pesquisa/fase-3/Fontes-e-Evidencias.md#s095); [S084 · 1195844088952520777](../pesquisa/fase-3/Fontes-e-Evidencias.md#s084); [S166 · 1198726133663936593](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)",
+      "known_sources": [
+        "S084",
+        "S095",
+        "S166"
+      ],
+      "known_evidence": [
+        [
+          "S095",
+          "1195843073884827788"
+        ],
+        [
+          "S084",
+          "1195844088952520777"
+        ],
+        [
+          "S166",
+          "1198726133663936593"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-013",
+      "title": "Morte de Rans no segundo altar",
+      "previous_text": "### PS-013 — Morte de Rans no segundo altar\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** Rans morreu contra segunda besta?\n\n**Envolvidos:** Rans/Mulack/Yakkatsu/Lilith/Michael.\n\n**Resposta recuperável:** Rans não morreu no segundo altar. Sobrevivência pessoal e reencontro público em 20/1 corrigem crença de Harry/Henry/Michael; Hads não é reconhecido imediatamente.\n\n**Evidências:** [S076 · 1196291752106139711](../pesquisa/fase-3/Fontes-e-Evidencias.md#s076); [S076 · 1196293481145049208](../pesquisa/fase-3/Fontes-e-Evidencias.md#s076); [S104 · 1196296952787239002](../pesquisa/fase-3/Fontes-e-Evidencias.md#s104); [S076 · 1196617496673914890](../pesquisa/fase-3/Fontes-e-Evidencias.md#s076); [S076 · 1196644601533054999](../pesquisa/fase-3/Fontes-e-Evidencias.md#s076); [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165)",
+      "known_sources": [
+        "S076",
+        "S104",
+        "S165"
+      ],
+      "known_evidence": [
+        [
+          "S076",
+          "1196291752106139711"
+        ],
+        [
+          "S076",
+          "1196293481145049208"
+        ],
+        [
+          "S104",
+          "1196296952787239002"
+        ],
+        [
+          "S076",
+          "1196617496673914890"
+        ],
+        [
+          "S076",
+          "1196644601533054999"
+        ],
+        [
+          "S165",
+          "1198445221168558171"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-014",
+      "title": "Lilith e Hads",
+      "previous_text": "### PS-014 — Lilith e Hads\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** Morre definitivamente ou é substituída por outra alma?\n\n**Envolvidos:** Lilith/Michael/Yakkatsu/Ymir.\n\n**Resposta recuperável:** Mudança para Hads é corporal, com continuidade de Lilith; Rans reverte estrutura original em 21/1. Não houve substituição de alma comprovada. Parasita anterior expurgado tem confirmação específica, sem negar intervenções posteriores.\n\n**Evidências:** [S087 · 1196288853150019734](../pesquisa/fase-3/Fontes-e-Evidencias.md#s087); [S077 · 1196289638722183239](../pesquisa/fase-3/Fontes-e-Evidencias.md#s077); [S102 · 1196624807610024026](../pesquisa/fase-3/Fontes-e-Evidencias.md#s102); [S102 · 1196625141585682652](../pesquisa/fase-3/Fontes-e-Evidencias.md#s102); [S076 · 1196627711087607878](../pesquisa/fase-3/Fontes-e-Evidencias.md#s076); [S166 · 1198780690678960128](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)",
+      "known_sources": [
+        "S076",
+        "S077",
+        "S087",
+        "S102",
+        "S166"
+      ],
+      "known_evidence": [
+        [
+          "S087",
+          "1196288853150019734"
+        ],
+        [
+          "S077",
+          "1196289638722183239"
+        ],
+        [
+          "S102",
+          "1196624807610024026"
+        ],
+        [
+          "S102",
+          "1196625141585682652"
+        ],
+        [
+          "S076",
+          "1196627711087607878"
+        ],
+        [
+          "S166",
+          "1198780690678960128"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-015",
+      "title": "Gás azul",
+      "previous_text": "### PS-015 — Gás azul\n\n**Estado:** PARCIALMENTE RESOLVIDA.\n\n**Pergunta:** Quem o produz, por que cura e é o mesmo gás?\n\n**Envolvidos:** Grupo e Rans.\n\n**Resposta recuperável:** Curas e energização confirmadas; várias ocorrências e núcleos não têm causa/agente único validado.\n\n**Evidências:** [S076 · 1196617620875640963](../pesquisa/fase-3/Fontes-e-Evidencias.md#s076); [S088 · 1196619397758992404](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S088 · 1196622895997268008](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S166 · 1198488784187162706](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)",
+      "known_sources": [
+        "S076",
+        "S088",
+        "S166"
+      ],
+      "known_evidence": [
+        [
+          "S076",
+          "1196617620875640963"
+        ],
+        [
+          "S088",
+          "1196619397758992404"
+        ],
+        [
+          "S088",
+          "1196622895997268008"
+        ],
+        [
+          "S166",
+          "1198488784187162706"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-016",
+      "title": "Quatro altares e desfecho de Mouran",
+      "previous_text": "### PS-016 — Quatro altares e desfecho de Mouran\n\n**Estado:** PARCIALMENTE RESOLVIDA.\n\n**Pergunta:** Quantos foram destruídos e o plano geral foi impedido?\n\n**Envolvidos:** ARC-009/global.\n\n**Resposta recuperável:** Dois altares anteriores destruídos; terceiro atribuído à equipe de Patrick no planejamento, sem execução reconstruída; quarto destruído pela própria besta no ramo dos jogadores. Não se certifica quatro destruições independentes em cena. Ritual grande da mansão efetivamente transforma Patrick e depois ele é morto. Vitória na luta não é impedimento prévio do ritual. Há contagens/índices divergentes.\n\n**Evidências:** [S025 · 1186059351954313338](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S086 · 1195908308217897032](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S088 · 1196638681683988583](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S088 · 1196638739733160068](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S088 · 1196638805269172328](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S166 · 1198477678152523786](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)",
+      "known_sources": [
+        "S025",
+        "S086",
+        "S088",
+        "S166"
+      ],
+      "known_evidence": [
+        [
+          "S025",
+          "1186059351954313338"
+        ],
+        [
+          "S086",
+          "1195908308217897032"
+        ],
+        [
+          "S088",
+          "1196638681683988583"
+        ],
+        [
+          "S088",
+          "1196638739733160068"
+        ],
+        [
+          "S088",
+          "1196638805269172328"
+        ],
+        [
+          "S166",
+          "1198477678152523786"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-017",
+      "title": "Harry, God-Zilla e entradas pouco documentadas",
+      "previous_text": "### PS-017 — Harry, God-Zilla e entradas pouco documentadas\n\n**Estado:** PARCIALMENTE RESOLVIDA.\n\n**Pergunta:** Como linhas ausentes se conectam novamente à campanha?\n\n**Envolvidos:** Protagonistas.\n\n**Resposta recuperável:** God foi recuperado por identidade e contexto, até caça com Gotter/Kian em fevereiro; Harry tem ponte hospital/pacto, Zaraph, Stifen e retorno no atentado. Harry→Astro continua provável sem mecanismo/ponte.\n\n**Evidências:** [S043 · 1186806126021443635](../pesquisa/fase-3/Fontes-e-Evidencias.md#s043); [S117 · 1195532779182624819](../pesquisa/fase-3/Fontes-e-Evidencias.md#s117); [S086 · 1195884740935438396](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S135 · 1212919221399326760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135)",
+      "known_sources": [
+        "S043",
+        "S086",
+        "S117",
+        "S135"
+      ],
+      "known_evidence": [
+        [
+          "S043",
+          "1186806126021443635"
+        ],
+        [
+          "S117",
+          "1195532779182624819"
+        ],
+        [
+          "S086",
+          "1195884740935438396"
+        ],
+        [
+          "S135",
+          "1212919221399326760"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-018",
+      "title": "Note: nome, máscara e anonimato",
+      "previous_text": "### PS-018 — Note: nome, máscara e anonimato\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** Máscara cria identidade ou garante segredo?\n\n**Envolvidos:** ARC-007; EXT-004.\n\n**Resposta recuperável:** Nome Note na guilda precede encomenda da máscara; equipamento recuperado e vestido em 21/4. Persona não é outro personagem nem anonimato mágico garantido; Henry inicialmente não o reconhece em cena.\n\n**Evidências:** [S185 · 1222374089239564358](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1222558973627203715](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S187 · 1232493773087445003](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S005 · 1231745941833384046](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005)",
+      "known_sources": [
+        "S005",
+        "S185",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S185",
+          "1222374089239564358"
+        ],
+        [
+          "S185",
+          "1222558973627203715"
+        ],
+        [
+          "S187",
+          "1232493773087445003"
+        ],
+        [
+          "S005",
+          "1231745941833384046"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-019",
+      "title": "Ponte à Guilda/Piferme/Olta e fim da campanha",
+      "previous_text": "### PS-019 — Ponte à Guilda/Piferme/Olta e fim da campanha\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** Como chegaram às novas regiões e onde termina a campanha?\n\n**Envolvidos:** Espinha global.\n\n**Resposta recuperável:** Estrutura até julho e último ponto recuperável consolidados. Esta resolução é documental: última sessão/cidade de elfos, sem encerramento global narrado ou destinos inventados.\n\n**Evidências:** [S088 · 1196646090519359640](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S185 · 1222374089239564358](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S187 · 1232494772137230376](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S023",
+        "S088",
+        "S185",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S088",
+          "1196646090519359640"
+        ],
+        [
+          "S185",
+          "1222374089239564358"
+        ],
+        [
+          "S187",
+          "1232494772137230376"
+        ],
+        [
+          "S023",
+          "1268041570423406726"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-020",
+      "title": "Final de Mulack",
+      "previous_text": "### PS-020 — Final de Mulack\n\n**Estado:** CONTRADIÇÃO NÃO RESOLVIDA.\n\n**Pergunta:** Mulack morreu de forma definitiva na última dungeon?\n\n**Envolvidos:** Mulack; Nyxis e Driade na continuidade lateral.\n\n**Resposta recuperável:** Morte/memorial versus retificação de armadura intacta e ação refeita. O abandono do jogador não resolve a versão ficcional.\n\n**Complemento documental retrospectivo (OM-002):** Em maio, o mestre comenta que só então leu o memorial e atribui a morte à ação do jogador. É comentário fora de personagem sobre o conflito, não nova cena de morte nem resolução inequívoca da retificação da dungeon. A contradição permanece; a sobrevivência escolhida para a adaptação tem origem autoral separada. **Evidências:** [S198 · 1239836014919553084](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198); [S198 · 1239836048151019552](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198).\n\n**Evidências:** [S158 · 1208614984473518100](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616829837377536](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S198 · 1208627532962992218](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198)",
+      "known_sources": [
+        "S158",
+        "S198"
+      ],
+      "known_evidence": [
+        [
+          "S198",
+          "1239836014919553084"
+        ],
+        [
+          "S198",
+          "1239836048151019552"
+        ],
+        [
+          "S158",
+          "1208614984473518100"
+        ],
+        [
+          "S158",
+          "1208616488941133844"
+        ],
+        [
+          "S158",
+          "1208616829837377536"
+        ],
+        [
+          "S198",
+          "1208627532962992218"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "additional_sources_researched": [
+        "S158",
+        "S198"
+      ],
+      "actually_read_intervals": [
+        "I03",
+        "I04",
+        "I05",
+        "I06",
+        "I07"
+      ],
+      "new_evidence_assessment": "Pulmão/armadura/refazer/recusa mais memorial e comentário de maio, sem destino único.",
+      "current_result": "CONTRADIÇÃO PRESERVADA",
+      "confidence": "ALTA na contradição",
+      "classification": "CONTRADIÇÃO PRESERVADA",
+      "historical_impact": "alto; original não impõe morte na adaptação"
+    },
+    {
+      "id": "PS-021",
+      "title": "Adulto Kian → bebê Azazel",
+      "previous_text": "### PS-021 — Adulto Kian → bebê Azazel\n\n**Estado:** MATERIAL PERDIDO / INSUFICIENTE.\n\n**Pergunta:** Como a continuidade de Kian/Lúcifer passa ao corpo infantil chamado Azazel?\n\n**Envolvidos:** Kian/Lúcifer/Azazel e família do bebê.\n\n**Resposta recuperável:** Continuidade identitária confirmada EXT-003 e infância narrada. Flecha de fogo/morte adulta só em OOC; causa do corpo e passagem não foram recuperadas. Não afirmar que arquivo específico continha necessariamente mecanismo.\n\n**Evidências:** [S187 · 1237586020417929368](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)",
+      "known_sources": [
+        "S013",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S187",
+          "1237586020417929368"
+        ],
+        [
+          "S013",
+          "1253899431401492600"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "additional_sources_researched": [
+        "S013"
+      ],
+      "actually_read_intervals": [
+        "I16",
+        "I17"
+      ],
+      "new_evidence_assessment": "Corpo infantil e uso dos nomes em narração; continuidade externa mantida, mecanismo não recuperado no início. Adulto e Lúcifer ainda faltam.",
+      "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+      "confidence": "ALTA na continuidade externa; insuficiente no mecanismo",
+      "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "alto; ponte corporal"
+    },
+    {
+      "id": "PS-022",
+      "title": "Harry → Astro e hospedeira",
+      "previous_text": "### PS-022 — Harry → Astro e hospedeira\n\n**Estado:** MATERIAL PERDIDO / INSUFICIENTE.\n\n**Pergunta:** Existe ponte inequívoca entre Harry, Astro e o corpo da hospedeira?\n\n**Envolvidos:** Harry; Astro; hospedeira e Lyone.\n\n**Resposta recuperável:** Comentário identifica corpo usado por Harry; canal e ações de Astro dão continuidade provável, mas ausência de cena de transição impede identificação inequívoca. S177 e S007 vazios não provam conteúdo que existiu.\n\n**Evidências:** [S008 · 1267301422656000131](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1267308668810952705](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)",
+      "known_sources": [
+        "S008"
+      ],
+      "known_evidence": [
+        [
+          "S008",
+          "1267301422656000131"
+        ],
+        [
+          "S008",
+          "1267308668810952705"
+        ],
+        [
+          "S008",
+          "1268018113236963443"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "additional_sources_researched": [
+        "S008"
+      ],
+      "actually_read_intervals": [
+        "I13",
+        "I14",
+        "I15"
+      ],
+      "new_evidence_assessment": "S008 integral: associação OOC, hospedeira viva, homem ainda moribundo, mercado local. Última cena nominal de Harry ainda por confrontar.",
+      "current_result": "PROVÁVEL; INVESTIGAÇÃO PENDENTE",
+      "confidence": "MÉDIA na associação",
+      "classification": "PROVÁVEL; INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "alto; não unificar dossiês automaticamente"
+    },
+    {
+      "id": "PS-023",
+      "title": "Henry volta à vida",
+      "previous_text": "### PS-023 — Henry volta à vida\n\n**Estado:** PARCIALMENTE RESOLVIDA.\n\n**Pergunta:** Quem salvou Henry e por qual mecanismo ele retornou vivo?\n\n**Envolvidos:** Henry, Michael e conhecido não identificado.\n\n**Resposta recuperável:** Morre em 12/5 e reaparece vivo em 13/6 e julho. Relata conhecido que o salvou, sem nome/método demonstrados.\n\n**Evidências:** [S187 · 1239359270206836776](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S016 · 1250998141038104717](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1250999274251091999](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S023 · 1266909119613370448](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S016",
+        "S023",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S187",
+          "1239359270206836776"
+        ],
+        [
+          "S016",
+          "1250998141038104717"
+        ],
+        [
+          "S016",
+          "1250999274251091999"
+        ],
+        [
+          "S023",
+          "1266909119613370448"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "additional_sources_researched": [
+        "S016",
+        "S023",
+        "S187"
+      ],
+      "actually_read_intervals": [
+        "I01",
+        "I02",
+        "I18",
+        "I21"
+      ],
+      "new_evidence_assessment": "Morte, alma-orbe e retorno confirmados. Relato de conhecido não identifica velho ou técnica; restante S016 e cenas intermediárias faltam.",
+      "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+      "confidence": "ALTA nos extremos; insuficiente na causa",
+      "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "alto; sem ressurreição divina inventada"
+    },
+    {
+      "id": "PS-024",
+      "title": "Beatriz: coma e memória",
+      "previous_text": "### PS-024 — Beatriz: coma e memória\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** Beatriz desperta e recupera memória e pernas? A autoria da cura é conhecida?\n\n**Envolvidos:** Beatriz, Ymir, Garius e Berthold.\n\n**Resposta recuperável:** Coma em junho; desperta em julho, memória recupera e pernas estão perfeitas. Causa integral não demonstrada; resgate relatado por guarda é situado. Resolução delimita estado, não autoria da cura.\n\n**Evidências:** [S001 · 1250239705681760339](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1265122213984473169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265129599449169931](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267278128569385011](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S001",
+        "S023"
+      ],
+      "known_evidence": [
+        [
+          "S001",
+          "1250239705681760339"
+        ],
+        [
+          "S023",
+          "1265122213984473169"
+        ],
+        [
+          "S023",
+          "1265129599449169931"
+        ],
+        [
+          "S023",
+          "1267278128569385011"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "additional_sources_researched": [
+        "S023"
+      ],
+      "actually_read_intervals": [
+        "I18",
+        "I19",
+        "I20",
+        "I21"
+      ],
+      "new_evidence_assessment": "Beatriz presente, transformando-se, afeto e vontade; precedentes de despertar/recuperação ainda pendentes em S023 0–819.",
+      "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+      "confidence": "ALTA nas cenas lidas",
+      "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "alto; cronologia da recuperação"
+    },
+    {
+      "id": "PS-025",
+      "title": "Irmã de Beatriz / Quimera / Milena",
+      "previous_text": "### PS-025 — Irmã de Beatriz / Quimera / Milena\n\n**Estado:** ABERTA QUANDO A CAMPANHA PAROU.\n\n**Pergunta:** A irmã de Beatriz foi resgatada? O torneio de Milena foi realizado?\n\n**Envolvidos:** Ymir, Beatriz, Berthold, irmã não nomeada e Quimera.\n\n**Resposta recuperável:** Sequestro informado; buscar irmã e depois torneio são intenções ainda vigentes na chegada à cidade de elfos.\n\n**Evidências:** [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S023"
+      ],
+      "known_evidence": [
+        [
+          "S023",
+          "1267310497997389854"
+        ],
+        [
+          "S023",
+          "1268041570423406726"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "additional_sources_researched": [
+        "S023"
+      ],
+      "actually_read_intervals": [
+        "I18",
+        "I19",
+        "I20",
+        "I21"
+      ],
+      "new_evidence_assessment": "Irmã e Quimera por relato de Berthold; Beatriz quer buscá-la. Ordem anterior para ignorar mensagem preservada; não há resgate no fim lido.",
+      "current_result": "ABERTA; PARCIALMENTE REVISADA",
+      "confidence": "ALTA na fala; limitada nos fatos relatados",
+      "classification": "ABERTA; PARCIALMENTE REVISADA",
+      "historical_impact": "alto; objetivo político/familiar aberto"
+    },
+    {
+      "id": "PS-026",
+      "title": "Nefa e Altruístas",
+      "previous_text": "### PS-026 — Nefa e Altruístas\n\n**Estado:** PARCIALMENTE RESOLVIDA.\n\n**Pergunta:** Como ocorreram resgate, traição e libertação de Nefa? As passagens dimensionais foram explicadas?\n\n**Envolvidos:** Ymir, Nefa, Altruístas e Berthold.\n\n**Resposta recuperável:** Resgate, traição e libertação de Nefa recuperados. Berthold reconhece exílio dos Altruístas em outra dimensão; isso não resolve todas as passagens de Ymir ou destino final de Nefa. Não anular como sonho sem mestre.\n\n**Evidências:** [S005 · 1231393955740909650](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S005 · 1231400283389693962](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S023 · 1267289119973838870](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S005",
+        "S023"
+      ],
+      "known_evidence": [
+        [
+          "S005",
+          "1231393955740909650"
+        ],
+        [
+          "S005",
+          "1231400283389693962"
+        ],
+        [
+          "S023",
+          "1267289119973838870"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "additional_sources_researched": [
+        "S023"
+      ],
+      "actually_read_intervals": [
+        "I20"
+      ],
+      "new_evidence_assessment": "Berthold relata banimento e Colapso, sem uso realizado; Nefa e travessias anteriores não relidas.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "ALTA na fala; insuficiente na ponte",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "alto; acesso dimensional"
+    },
+    {
+      "id": "PS-027",
+      "title": "Líder Pantera",
+      "previous_text": "### PS-027 — Líder Pantera\n\n**Estado:** ABERTA QUANDO A CAMPANHA PAROU.\n\n**Pergunta:** O líder de Pantera foi capturado ou a organização foi dissolvida?\n\n**Envolvidos:** Ymir, vítimas e membros de Pantera.\n\n**Resposta recuperável:** Ymir mata membros e resgata vítimas, mas líder escapa e missão falha. Sem posterior prisão do líder ou dissolução total confirmada.\n\n**Evidências:** [S172 · 1221613735551045743](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172); [S172 · 1221616559114682488](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172)",
+      "known_sources": [
+        "S172"
+      ],
+      "known_evidence": [
+        [
+          "S172",
+          "1221613735551045743"
+        ],
+        [
+          "S172",
+          "1221616559114682488"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-028",
+      "title": "Emma e pai alegado",
+      "previous_text": "### PS-028 — Emma e pai alegado\n\n**Estado:** ABERTA QUANDO A CAMPANHA PAROU.\n\n**Pergunta:** Quem é o pai alegado de Emma e o que causou o ataque das raízes?\n\n**Envolvidos:** Emma, Lilith e homem levado para interrogatório.\n\n**Resposta recuperável:** Adotada por Lilith; criança não reconhece alegado pai, que é levado para interrogatório sem resultado. Raízes atacam depois, causa desconhecida.\n\n**Evidências:** [S173 · 1232841410353565787](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1232842253928763422](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1232871127362179122](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S002 · 1249897869536923711](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)",
+      "known_sources": [
+        "S002",
+        "S173"
+      ],
+      "known_evidence": [
+        [
+          "S173",
+          "1232841410353565787"
+        ],
+        [
+          "S173",
+          "1232842253928763422"
+        ],
+        [
+          "S173",
+          "1232871127362179122"
+        ],
+        [
+          "S002",
+          "1249897869536923711"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-029",
+      "title": "God depois da caça",
+      "previous_text": "### PS-029 — God depois da caça\n\n**Estado:** NÃO RETOMADA.\n\n**Pergunta:** Há cena pessoal de God depois da caça de fevereiro?\n\n**Envolvidos:** God, Gotter, Kian e Árvore.\n\n**Resposta recuperável:** Última presença pessoal na caça de fevereiro; citações e outros dragões não estabelecem nova cena sua.\n\n**Evidências:** [S135 · 1212919221399326760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135); [S178 · 1215153835694366820](../pesquisa/fase-3/Fontes-e-Evidencias.md#s178)",
+      "known_sources": [
+        "S135",
+        "S178"
+      ],
+      "known_evidence": [
+        [
+          "S135",
+          "1212919221399326760"
+        ],
+        [
+          "S178",
+          "1215153835694366820"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-030",
+      "title": "Yakkatsu sai do Inferno",
+      "previous_text": "### PS-030 — Yakkatsu sai do Inferno\n\n**Estado:** ABERTA QUANDO A CAMPANHA PAROU.\n\n**Pergunta:** Yakkatsu deixou o Inferno?\n\n**Envolvidos:** Yakkatsu, Bardock e Stwart.\n\n**Resposta recuperável:** Bardock morre; Stwart continua com Yakkatsu. Último registro é alimentação após combate, sem saída.\n\n**Evidências:** [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)",
+      "known_sources": [
+        "S022"
+      ],
+      "known_evidence": [
+        [
+          "S022",
+          "1222368028759691355"
+        ],
+        [
+          "S022",
+          "1245919202536067172"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-031",
+      "title": "Bytes: favor e Nairóbi",
+      "previous_text": "### PS-031 — Bytes: favor e Nairóbi\n\n**Estado:** ABERTA QUANDO A CAMPANHA PAROU.\n\n**Pergunta:** Qual obrigação Bytes assumiu e onde está Nairóbi na busca final?\n\n**Envolvidos:** Bytes, Nairóbi e entidade desconhecida.\n\n**Resposta recuperável:** Favor assinado com entidade; Nairóbi acorda e é salva depois, mas localização final da namorada não demonstrada quando Bytes a procura em junho.\n\n**Evidências:** [S173 · 1225893559023173673](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226338374235984012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S014 · 1254259539386044456](../pesquisa/fase-3/Fontes-e-Evidencias.md#s014)",
+      "known_sources": [
+        "S014",
+        "S173"
+      ],
+      "known_evidence": [
+        [
+          "S173",
+          "1225893559023173673"
+        ],
+        [
+          "S173",
+          "1226338374235984012"
+        ],
+        [
+          "S014",
+          "1254259539386044456"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-032",
+      "title": "Exclusões e tópicos privados",
+      "previous_text": "### PS-032 — Exclusões e tópicos privados\n\n**Estado:** MATERIAL PERDIDO / INSUFICIENTE.\n\n**Pergunta:** O que se pode afirmar sobre exclusões e canais vazios?\n\n**Envolvidos:** Elenco e registros com apagamentos.\n\n**Resposta recuperável:** Exclusões são comprovadas; conteúdo é desconhecido. Trinta mensagens na mansão, oito e dez na dungeon, outras exclusões em hospital/Olta/Inferno e tópicos privados citados. Não transformar toda exclusão em cena essencial perdida.\n\n**Evidências:** [S123 · 1198771399448350780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S158 · 1208559928462151701](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208614617719242812](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S162 · 1211374241463799868](../pesquisa/fase-3/Fontes-e-Evidencias.md#s162)",
+      "known_sources": [
+        "S123",
+        "S158",
+        "S162"
+      ],
+      "known_evidence": [
+        [
+          "S123",
+          "1198771399448350780"
+        ],
+        [
+          "S158",
+          "1208559928462151701"
+        ],
+        [
+          "S158",
+          "1208614617719242812"
+        ],
+        [
+          "S162",
+          "1211374241463799868"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "additional_sources_researched": [
+        "S158"
+      ],
+      "actually_read_intervals": [
+        "I04",
+        "I05"
+      ],
+      "new_evidence_assessment": "Notificações de oito e dez exclusões e comentário de ação apagada em S158; não se recuperam IDs/conteúdo excluídos nem se prova que conteriam soluções.",
+      "current_result": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+      "confidence": "ALTA na existência das notificações",
+      "classification": "PARCIALMENTE ESCLARECIDA; INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "alto; limites do material"
+    },
+    {
+      "id": "PS-033",
+      "title": "Golems roubados no Inferno",
+      "previous_text": "### PS-033 — Golems roubados no Inferno\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** Os golems roubados foram recuperados e retornaram à superfície?\n\n**Envolvidos:** Henry, Ymir, Gotter, ladrões e UFD.\n\n**Resposta recuperável:** Roubo, venda, retomada, dano e reparo recuperados. Retorno de Ymir/Henry com quatro máquinas confirmado; destino futuro não é automaticamente resolvido.\n\n**Evidências:** [S179 · 1217253095302627438](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1217276426018095254](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1218726965322842233](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1218731018304098405](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179)",
+      "known_sources": [
+        "S179"
+      ],
+      "known_evidence": [
+        [
+          "S179",
+          "1217253095302627438"
+        ],
+        [
+          "S179",
+          "1217276426018095254"
+        ],
+        [
+          "S179",
+          "1218726965322842233"
+        ],
+        [
+          "S179",
+          "1218731018304098405"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-034",
+      "title": "Gwierlan morto segundo Edward",
+      "previous_text": "### PS-034 — Gwierlan morto segundo Edward\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** A alegação de Edward de que Gwierlan morreu é sustentada?\n\n**Envolvidos:** Gwierlan, Edward, Bytes, Nairóbi e Michael.\n\n**Resposta recuperável:** Provocação/refutação: Gwierlan está vivo em maio e junho. Não canonizar morte a partir da fala do inimigo.\n\n**Evidências:** [S175 · 1239388643655684217](../pesquisa/fase-3/Fontes-e-Evidencias.md#s175); [S016 · 1248815455267979354](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)",
+      "known_sources": [
+        "S016",
+        "S175"
+      ],
+      "known_evidence": [
+        [
+          "S175",
+          "1239388643655684217"
+        ],
+        [
+          "S016",
+          "1248815455267979354"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-035",
+      "title": "Wilbur e Hermest",
+      "previous_text": "### PS-035 — Wilbur e Hermest\n\n**Estado:** RESOLVIDA NO RPG.\n\n**Pergunta:** Quais mortes e sucessão foram efetivamente recuperadas em Olta?\n\n**Envolvidos:** Wilbur, Hermest, Frank, Michael e Dimitri.\n\n**Resposta recuperável:** Hermest decapita Wilbur; Michael decapita Hermest. Dimensão política segue com Frank, confirmado rei em maio. Preservar anulação da antiga coletiva de dezembro.\n\n**Evidências:** [S161 · 1212921304345346048](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212943224428175360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S187 · 1235339528621785098](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187)",
+      "known_sources": [
+        "S161",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S161",
+          "1212921304345346048"
+        ],
+        [
+          "S161",
+          "1212943224428175360"
+        ],
+        [
+          "S187",
+          "1235339528621785098"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-036",
+      "title": "Culto do Deus Dragão / Deus Demônio",
+      "previous_text": "### PS-036 — Culto do Deus Dragão / Deus Demônio\n\n**Estado:** PARCIALMENTE RESOLVIDA. **Relação entre os nomes:** INCERTA.\n\n**Pergunta:** Deus Dragão e Deus Demônio designam o mesmo culto?\n\n**Envolvidos:** Edward, Berthold e cultos mencionados.\n\n**Resposta recuperável:** Edward usa Deus Dragão em maio; Berthold usa Deus Demônio em julho. Os nomes e usos são recuperados, mas não há prova suficiente para impor equivalência ou duas organizações independentes. A coexistência de nomes não é, sozinha, contradição factual; a classificação editorial foi refinada nesta auditoria.\n\n**Evidências:** [S187 · 1237568193715769406](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S023 · 1266947589476061254](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S023",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S187",
+          "1237568193715769406"
+        ],
+        [
+          "S023",
+          "1266947589476061254"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-037",
+      "title": "Escalas e calendários",
+      "previous_text": "### PS-037 — Escalas e calendários\n\n**Estado:** CONTRADIÇÃO NÃO RESOLVIDA.\n\n**Pergunta:** As escalas, contagens e calendários podem ser conciliados globalmente?\n\n**Envolvidos:** Elenco; interlocutores; livros e regras locais.\n\n**Resposta recuperável:** Contagens de magos, altares, distâncias e ratios de tempo divergentes. Saltos pessoais de Azazel e regras locais do Inferno não viram calendário global.\n\n**Evidências:** [S089 · 1191768442324398200](../pesquisa/fase-3/Fontes-e-Evidencias.md#s089); [S073 · 1197732187341062185](../pesquisa/fase-3/Fontes-e-Evidencias.md#s073); [S179 · 1215808711109382226](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S013 · 1246276865065222154](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)",
+      "known_sources": [
+        "S013",
+        "S073",
+        "S089",
+        "S179"
+      ],
+      "known_evidence": [
+        [
+          "S089",
+          "1191768442324398200"
+        ],
+        [
+          "S073",
+          "1197732187341062185"
+        ],
+        [
+          "S179",
+          "1215808711109382226"
+        ],
+        [
+          "S013",
+          "1246276865065222154"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "additional_sources_researched": [
+        "S013",
+        "S023"
+      ],
+      "actually_read_intervals": [
+        "I16",
+        "I17",
+        "I18",
+        "I19",
+        "I20",
+        "I21"
+      ],
+      "new_evidence_assessment": "Saltos da infância são pessoais. Janeiro/25 de julho em S008 e torneio ainda futuro nas falas precisam confronto temporal ampliado.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "ALTA nos registros; insuficiente no calendário global",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "alto; nenhuma era criada"
+    },
+    {
+      "id": "PS-038",
+      "title": "Rans, Hermione e selo",
+      "previous_text": "### PS-038 — Rans, Hermione e selo\n\n**Estado:** ABERTA QUANDO A CAMPANHA PAROU.\n\n**Pergunta:** Hermione morreu? Rans recebeu o selo solicitado?\n\n**Envolvidos:** Rans, Hermione e Feuhs Beronth.\n\n**Resposta recuperável:** Hermione inconsciente levada à Paróquia, não morta; Rans pede selo mas último mestre só o mostra acordando. Passagem prévia do Abismo é insuficiente.\n\n**Evidências:** [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003)",
+      "known_sources": [
+        "S003"
+      ],
+      "known_evidence": [
+        [
+          "S003",
+          "1268027634508632125"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "additional_sources_researched": [
+        "S003"
+      ],
+      "actually_read_intervals": [
+        "I08",
+        "I09",
+        "I10",
+        "I11",
+        "I12"
+      ],
+      "new_evidence_assessment": "S003 integral corrige destinatário/natureza do pedido; preserva experiência e afeto. Sem remoção narrada, cura/morte de Hermione ou ontologia confirmada.",
+      "current_result": "PREMISSA CORRIGIDA; DESFECHOS ABERTOS",
+      "confidence": "ALTA na correção; insuficiente no resultado",
+      "classification": "PREMISSA CORRIGIDA; DESFECHOS ABERTOS",
+      "historical_impact": "alto; retirar selo adquirido como requisito falso"
+    },
+    {
+      "id": "PS-039",
+      "title": "Coiote e governo de Piferme",
+      "previous_text": "### PS-039 — Coiote e governo de Piferme\n\n**Estado:** ABERTA QUANDO A CAMPANHA PAROU.\n\n**Pergunta:** Lilith enfrentou Coiote e Yoran chegou a sucedê-la?\n\n**Envolvidos:** Lilith, Emma, Yoran, Coiote e governo de Piferme.\n\n**Resposta recuperável:** Lilith deseja enfrentar Coiote; plano não executado. Yoran tem função e sucessão condicional, sem nova coroação mostrada.\n\n**Evidências:** [S002 · 1249855831466442764](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1250239262905864275](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)",
+      "known_sources": [
+        "S002"
+      ],
+      "known_evidence": [
+        [
+          "S002",
+          "1249855831466442764"
+        ],
+        [
+          "S002",
+          "1250239262905864275"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    },
+    {
+      "id": "PS-040",
+      "title": "Michael, Mytria e conquista",
+      "previous_text": "### PS-040 — Michael, Mytria e conquista\n\n**Estado:** ABERTA QUANDO A CAMPANHA PAROU.\n\n**Pergunta:** Michael terminou o conflito de Mytria e conquistou Piferme?\n\n**Envolvidos:** Michael, Henry, Lucas Sevenheart, Vermund e aliados locais.\n\n**Resposta recuperável:** Última cena conserva conflito perto de Vermund. Conquista e nova viagem não consumadas.\n\n**Evidências:** [S016 · 1252794260122636383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)",
+      "known_sources": [
+        "S016"
+      ],
+      "known_evidence": [
+        [
+          "S016",
+          "1252794260122636383"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "additional_sources_researched": [],
+      "actually_read_intervals": [],
+      "new_evidence_assessment": "Ainda sem investigação contextual suficiente nesta auditoria; estado anterior não recebe certificação independente.",
+      "current_result": "INVESTIGAÇÃO PENDENTE",
+      "confidence": "NÃO REAVALIADA",
+      "classification": "INVESTIGAÇÃO PENDENTE",
+      "historical_impact": "A verificar; não libera construção histórica"
+    }
+  ],
+  "CRIT": [
+    {
+      "id": "CRIT-001",
+      "title": "Rans sobrevive e retorna publicamente",
+      "previous_text": "### CRIT-001 — Rans sobrevive e retorna publicamente\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** O reencontro desfaz a falsa morte; companheiros não sabiam antes.\n\n**Evidências:** [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165)\n\n**Evidências:** [S165 · 1198445470985502842](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S165 · 1198445522307006495](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S165 · 1198445925828411494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165)",
+      "known_sources": [
+        "S165"
+      ],
+      "known_evidence": [
+        [
+          "S165",
+          "1198445221168558171"
+        ],
+        [
+          "S165",
+          "1198445470985502842"
+        ],
+        [
+          "S165",
+          "1198445522307006495"
+        ],
+        [
+          "S165",
+          "1198445925828411494"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-002",
+      "title": "Lilith → Hads → Lilith",
+      "previous_text": "### CRIT-002 — Lilith → Hads → Lilith\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Mudança corporal, continuidade pessoal e reversão; não nova alma.\n\n**Evidências:** [S166 · 1198780690678960128](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)",
+      "known_sources": [
+        "S166"
+      ],
+      "known_evidence": [
+        [
+          "S166",
+          "1198780690678960128"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-003",
+      "title": "Henry morre em maio e reaparece em junho",
+      "previous_text": "### CRIT-003 — Henry morre em maio e reaparece em junho\n\n**Classificação:** CONFIRMADO; causa do retorno INCERTA. **Confiança:** ALTA.\n\n**Consequência editorial:** Morte e cura falha foram narradas; salvador mencionado depois não identificado.\n\n**Evidências:** [S187 · 1239359270206836776](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1239380369401315428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S016 · 1250998141038104717](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1250999274251091999](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)",
+      "known_sources": [
+        "S016",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S187",
+          "1239359270206836776"
+        ],
+        [
+          "S187",
+          "1239380369401315428"
+        ],
+        [
+          "S016",
+          "1250998141038104717"
+        ],
+        [
+          "S016",
+          "1250999274251091999"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I01",
+        "I02",
+        "I18"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-004",
+      "title": "Mulack: morte / armadura intacta / memorial",
+      "previous_text": "### CRIT-004 — Mulack: morte / armadura intacta / memorial\n\n**Classificação:** CONTRADITÓRIO. **Confiança:** ALTA na contradição.\n\n**Consequência editorial:** Retificação e recusa de continuar impedem escolher destino único.\n\n**Complemento documental retrospectivo (OM-002):** Em maio, o mestre comenta que só então leu o memorial e atribui a morte à ação do jogador. É comentário fora de personagem sobre o conflito, não nova cena de morte nem resolução inequívoca da retificação da dungeon. A contradição permanece; a sobrevivência escolhida para a adaptação tem origem autoral separada. **Evidências:** [S198 · 1239836014919553084](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198); [S198 · 1239836048151019552](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198).\n\n**Evidências:** [S158 · 1208614984473518100](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616829837377536](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S198 · 1208627532962992218](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198)",
+      "known_sources": [
+        "S158",
+        "S198"
+      ],
+      "known_evidence": [
+        [
+          "S198",
+          "1239836014919553084"
+        ],
+        [
+          "S198",
+          "1239836048151019552"
+        ],
+        [
+          "S158",
+          "1208614984473518100"
+        ],
+        [
+          "S158",
+          "1208616488941133844"
+        ],
+        [
+          "S158",
+          "1208616829837377536"
+        ],
+        [
+          "S198",
+          "1208627532962992218"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I03",
+        "I04",
+        "I05",
+        "I06",
+        "I07"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-005",
+      "title": "Astro associado a Harry",
+      "previous_text": "### CRIT-005 — Astro associado a Harry\n\n**Classificação:** PROVÁVEL. **Confiança:** MÉDIA.\n\n**Consequência editorial:** Indicação OOC contextual; transição corporal não recuperada.\n\n**Evidências:** [S008 · 1267301422656000131](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)",
+      "known_sources": [
+        "S008"
+      ],
+      "known_evidence": [
+        [
+          "S008",
+          "1267301422656000131"
+        ],
+        [
+          "S008",
+          "1268018113236963443"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I13",
+        "I14",
+        "I15"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-006",
+      "title": "Kian/Lúcifer/Azazel é continuidade confirmada externamente",
+      "previous_text": "### CRIT-006 — Kian/Lúcifer/Azazel é continuidade confirmada externamente\n\n**Classificação:** CONFIRMADO na identidade; mecanismo INCERTO. **Confiança:** ALTA na confirmação externa.\n\n**Consequência editorial:** EXT-003 é confirmação do usuário; morte adulta OOC não reconstrói renascimento.\n\n**Evidências:** [S187 · 1237586020417929368](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S013 · 1239350043090358362](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)\n\n**Evidências:** [S187 · 1237586151188205609](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187)",
+      "known_sources": [
+        "S013",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S187",
+          "1237586020417929368"
+        ],
+        [
+          "S013",
+          "1239350043090358362"
+        ],
+        [
+          "S013",
+          "1253899431401492600"
+        ],
+        [
+          "S187",
+          "1237586151188205609"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I16"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-007",
+      "title": "Note é Ymir, antes da máscara",
+      "previous_text": "### CRIT-007 — Note é Ymir, antes da máscara\n\n**Classificação:** CONFIRMADO externamente e em cenas. **Confiança:** ALTA.\n\n**Consequência editorial:** EXT-002/004; encomenda e uso não são mesma data.\n\n**Evidências:** [S185 · 1222376101641453598](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185)\n\n**Evidências:** [S185 · 1222374089239564358](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1222558973627203715](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S005 · 1231745941833384046](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005)",
+      "known_sources": [
+        "S005",
+        "S185"
+      ],
+      "known_evidence": [
+        [
+          "S185",
+          "1222376101641453598"
+        ],
+        [
+          "S185",
+          "1222374089239564358"
+        ],
+        [
+          "S185",
+          "1222558973627203715"
+        ],
+        [
+          "S005",
+          "1231745941833384046"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-008",
+      "title": "Ellen resgatada viva",
+      "previous_text": "### CRIT-008 — Ellen resgatada viva\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Sequestro não continua aberto depois do resgate.\n\n**Evidências:** [S156 · 1199897639605522472](../pesquisa/fase-3/Fontes-e-Evidencias.md#s156); [S156 · 1199899589680042096](../pesquisa/fase-3/Fontes-e-Evidencias.md#s156)",
+      "known_sources": [
+        "S156"
+      ],
+      "known_evidence": [
+        [
+          "S156",
+          "1199897639605522472"
+        ],
+        [
+          "S156",
+          "1199899589680042096"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-009",
+      "title": "Gwierlan vivo; Michael rei",
+      "previous_text": "### CRIT-009 — Gwierlan vivo; Michael rei\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Edward não conclui decapitação; abdicação e presença posterior refutam morte alegada.\n\n**Evidências:** [S166 · 1198752996205543474](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S170 · 1200291569543151726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s170); [S175 · 1239388643655684217](../pesquisa/fase-3/Fontes-e-Evidencias.md#s175); [S016 · 1248815455267979354](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)",
+      "known_sources": [
+        "S016",
+        "S166",
+        "S170",
+        "S175"
+      ],
+      "known_evidence": [
+        [
+          "S166",
+          "1198752996205543474"
+        ],
+        [
+          "S170",
+          "1200291569543151726"
+        ],
+        [
+          "S175",
+          "1239388643655684217"
+        ],
+        [
+          "S016",
+          "1248815455267979354"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-010",
+      "title": "Quarto altar destruído pela besta",
+      "previous_text": "### CRIT-010 — Quarto altar destruído pela besta\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Destruição do altar tem resultado explícito. Henry anuncia finalização e recebe resultado de corte profundo; a morte é reconhecida na continuação, inclusive em OOC. A autoria exclusiva do abate é reconstrução provável pela sequência, não resultado de morte inequívoco atribuído a ele. Não transferir ao golpe a destruição do altar.\n\n**Evidências:** [S166 · 1198477678152523786](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198478776720433192](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198478946304528474](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198479032229048440](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)",
+      "known_sources": [
+        "S166"
+      ],
+      "known_evidence": [
+        [
+          "S166",
+          "1198477678152523786"
+        ],
+        [
+          "S166",
+          "1198478776720433192"
+        ],
+        [
+          "S166",
+          "1198478946304528474"
+        ],
+        [
+          "S166",
+          "1198479032229048440"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-011",
+      "title": "Terceiro altar e contagem global",
+      "previous_text": "### CRIT-011 — Terceiro altar e contagem global\n\n**Classificação:** RELATO confirmado; enumeração CONTRADITÓRIA. **Confiança:** ALTA no relato; limitada na execução.\n\n**Consequência editorial:** A divisão de equipes é informada por Patrick; o plano e o reencontro não substituem uma cena de execução do terceiro altar.\n\n**Evidências:** [S073 · 1197731524968206356](../pesquisa/fase-3/Fontes-e-Evidencias.md#s073); [S165 · 1198449728661229683](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165)",
+      "known_sources": [
+        "S073",
+        "S165"
+      ],
+      "known_evidence": [
+        [
+          "S073",
+          "1197731524968206356"
+        ],
+        [
+          "S165",
+          "1198449728661229683"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-012",
+      "title": "Ritual e Patrick",
+      "previous_text": "### CRIT-012 — Ritual e Patrick\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Henry quebra coroa; ritual acontece; Henry mata Patrick transformado.\n\n**Evidências:** [S123 · 1198738478901510144](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S123 · 1198777324062113794](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123)\n\n**Evidências:** [S123 · 1198742730063499304](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S123 · 1198743155038748862](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123)",
+      "known_sources": [
+        "S123"
+      ],
+      "known_evidence": [
+        [
+          "S123",
+          "1198738478901510144"
+        ],
+        [
+          "S123",
+          "1198777324062113794"
+        ],
+        [
+          "S123",
+          "1198742730063499304"
+        ],
+        [
+          "S123",
+          "1198743155038748862"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-013",
+      "title": "Karl morto; Edward foge",
+      "previous_text": "### CRIT-013 — Karl morto; Edward foge\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Vitória de janeiro não extingue ameaça de Edward.\n\n**Evidências:** [S123 · 1198742131636969572](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S166 · 1198752996205543474](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)\n\n**Evidências:** [S166 · 1198745355429347439](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198749803253878844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198750017406640260](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198753167433809981](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)",
+      "known_sources": [
+        "S123",
+        "S166"
+      ],
+      "known_evidence": [
+        [
+          "S123",
+          "1198742131636969572"
+        ],
+        [
+          "S166",
+          "1198752996205543474"
+        ],
+        [
+          "S166",
+          "1198745355429347439"
+        ],
+        [
+          "S166",
+          "1198749803253878844"
+        ],
+        [
+          "S166",
+          "1198750017406640260"
+        ],
+        [
+          "S166",
+          "1198753167433809981"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-014",
+      "title": "Marca: permanência confirmada e última referência de Henry",
+      "previous_text": "### CRIT-014 — Marca: permanência confirmada e última referência de Henry\n\n**Classificação:** CONFIRMADO na permanência narrada anterior; referência de 20/01 é DIÁLOGO de Henry; remoção INCERTA. **Confiança:** ALTA na distinção das fontes.\n\n**Consequência editorial:** O mestre confirma marcas em janeiro; Henry volta a mencioná-las em 20/01, sem nova inspeção do narrador. Ausência posterior não comprova remoção nem mecanismo de emancipação.\n\n**Evidências:** [S094 · 1191959455018000494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s094); [S074 · 1198439257870700574](../pesquisa/fase-3/Fontes-e-Evidencias.md#s074)",
+      "known_sources": [
+        "S074",
+        "S094"
+      ],
+      "known_evidence": [
+        [
+          "S094",
+          "1191959455018000494"
+        ],
+        [
+          "S074",
+          "1198439257870700574"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-015",
+      "title": "Garold morre e Lilith governa",
+      "previous_text": "### CRIT-015 — Garold morre e Lilith governa\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Transferência narrada; braço não regenerado por simples cura.\n\n**Evidências:** [S151 · 1210391082655813742](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151); [S151 · 1210392089955799050](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151)",
+      "known_sources": [
+        "S151"
+      ],
+      "known_evidence": [
+        [
+          "S151",
+          "1210391082655813742"
+        ],
+        [
+          "S151",
+          "1210392089955799050"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-016",
+      "title": "Wilbur e Dimitri",
+      "previous_text": "### CRIT-016 — Wilbur e Dimitri\n\n**Classificação:** CONFIRMADO com retcon delimitado. **Confiança:** ALTA.\n\n**Consequência editorial:** Morte coletiva antiga de Wilbur anulada; fevereiro válido. Dimitri capturado vivo.\n\n**Evidências:** [S161 · 1212921304345346048](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212959564643700736](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161)",
+      "known_sources": [
+        "S161"
+      ],
+      "known_evidence": [
+        [
+          "S161",
+          "1212921304345346048"
+        ],
+        [
+          "S161",
+          "1212959564643700736"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-017",
+      "title": "God: auxílio à Árvore e última caçada",
+      "previous_text": "### CRIT-017 — God: auxílio à Árvore e última caçada\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** God aceita ajudar um amigo da Árvore; a Árvore se apresenta como guardiã. Não há nomeação formal de God como guardião comprovada. Sua última presença é a caça; ausência posterior não é abandono, e outros dragões não demonstram ser God.\n\n**Evidências:** [S133 · 1208940761857392652](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S133 · 1208941116779663360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S133 · 1208942009910427669](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S135 · 1212919221399326760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135)",
+      "known_sources": [
+        "S133",
+        "S135"
+      ],
+      "known_evidence": [
+        [
+          "S133",
+          "1208940761857392652"
+        ],
+        [
+          "S133",
+          "1208941116779663360"
+        ],
+        [
+          "S133",
+          "1208942009910427669"
+        ],
+        [
+          "S135",
+          "1212919221399326760"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-018",
+      "title": "Henry recusa Fogo Demoníaco",
+      "previous_text": "### CRIT-018 — Henry recusa Fogo Demoníaco\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Oferta/possibilidade não concede habilidade.\n\n**Evidências:** [S178 · 1215148628428201984](../pesquisa/fase-3/Fontes-e-Evidencias.md#s178)",
+      "known_sources": [
+        "S178"
+      ],
+      "known_evidence": [
+        [
+          "S178",
+          "1215148628428201984"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-019",
+      "title": "Yakkatsu: Linhas, Bardock e Inferno",
+      "previous_text": "### CRIT-019 — Yakkatsu: Linhas, Bardock e Inferno\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Gravidade retirada; Bardock morre; saída de Yakkatsu não recuperada.\n\n**Evidências:** [S081 · 1198096195873165383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S081 · 1198096352542982204](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)\n\n**Evidências:** [S081 · 1198096195873165383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S081 · 1198096352542982204](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081)",
+      "known_sources": [
+        "S022",
+        "S081"
+      ],
+      "known_evidence": [
+        [
+          "S081",
+          "1198096195873165383"
+        ],
+        [
+          "S081",
+          "1198096352542982204"
+        ],
+        [
+          "S022",
+          "1222368028759691355"
+        ],
+        [
+          "S022",
+          "1245919202536067172"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-020",
+      "title": "Bytes: favor e esfera",
+      "previous_text": "### CRIT-020 — Bytes: favor e esfera\n\n**Classificação:** CONFIRMADO na assinatura/toque; efeitos INCERTOS. **Confiança:** ALTA no ato.\n\n**Consequência editorial:** Não afirmar venda da alma ou absorção final.\n\n**Evidências:** [S173 · 1225893559023173673](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S174 · 1239764239644626994](../pesquisa/fase-3/Fontes-e-Evidencias.md#s174)",
+      "known_sources": [
+        "S173",
+        "S174"
+      ],
+      "known_evidence": [
+        [
+          "S173",
+          "1225893559023173673"
+        ],
+        [
+          "S174",
+          "1239764239644626994"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-021",
+      "title": "Bytes e Nairóbi",
+      "previous_text": "### CRIT-021 — Bytes e Nairóbi\n\n**Classificação:** CONFIRMADO; busca aberta. **Confiança:** ALTA.\n\n**Consequência editorial:** Namoro/recuperação conhecidos; última busca não resolvida.\n\n**Evidências:** [S173 · 1223443843068727428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226338374235984012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S014 · 1254259539386044456](../pesquisa/fase-3/Fontes-e-Evidencias.md#s014)",
+      "known_sources": [
+        "S014",
+        "S173"
+      ],
+      "known_evidence": [
+        [
+          "S173",
+          "1223443843068727428"
+        ],
+        [
+          "S173",
+          "1226338374235984012"
+        ],
+        [
+          "S014",
+          "1254259539386044456"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-022",
+      "title": "Beatriz viva, princesa e recuperada",
+      "previous_text": "### CRIT-022 — Beatriz viva, princesa e recuperada\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Impostora demoníaca não é Bia real; pernas curadas, braço de Ymir ausente.\n\n**Evidências:** [S001 · 1249904508159397970](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1265122213984473169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265129599449169931](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266899855322906676](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S001",
+        "S023"
+      ],
+      "known_evidence": [
+        [
+          "S001",
+          "1249904508159397970"
+        ],
+        [
+          "S023",
+          "1265122213984473169"
+        ],
+        [
+          "S023",
+          "1265129599449169931"
+        ],
+        [
+          "S023",
+          "1266899855322906676"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I18",
+        "I19",
+        "I20",
+        "I21"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-023",
+      "title": "Emma e raízes",
+      "previous_text": "### CRIT-023 — Emma e raízes\n\n**Classificação:** CONFIRMADO no resgate; causa INCERTA. **Confiança:** ALTA no resgate.\n\n**Consequência editorial:** Adoção não prova parentesco com homem desconhecido.\n\n**Evidências:** [S173 · 1232871127362179122](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S002 · 1249897869536923711](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)",
+      "known_sources": [
+        "S002",
+        "S173"
+      ],
+      "known_evidence": [
+        [
+          "S173",
+          "1232871127362179122"
+        ],
+        [
+          "S002",
+          "1249897869536923711"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-024",
+      "title": "Pantera e Quimera",
+      "previous_text": "### CRIT-024 — Pantera e Quimera\n\n**Classificação:** CONFIRMADO no resultado local / plano. **Confiança:** ALTA.\n\n**Consequência editorial:** Líder Pantera escapa; irmã de Bia não resgatada no corpus.\n\n**Evidências:** [S172 · 1221613735551045743](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S023",
+        "S172"
+      ],
+      "known_evidence": [
+        [
+          "S172",
+          "1221613735551045743"
+        ],
+        [
+          "S023",
+          "1267310497997389854"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-025",
+      "title": "Deus Dragão e Deus Demônio",
+      "previous_text": "### CRIT-025 — Deus Dragão e Deus Demônio\n\n**Classificação:** INCERTO na equivalência. **Confiança:** ALTA nos nomes distintos.\n\n**Consequência editorial:** Não fundir cultos nem confirmar apocalipse alegado.\n\n**Evidências:** [S023 · 1266947589476061254](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)\n\n**Evidências:** [S187 · 1237568074702655519](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S057 · 1186017251208482906](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057)",
+      "known_sources": [
+        "S023",
+        "S057",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S023",
+          "1266947589476061254"
+        ],
+        [
+          "S187",
+          "1237568074702655519"
+        ],
+        [
+          "S057",
+          "1186017251208482906"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I19"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-026",
+      "title": "Westia e velho de maio",
+      "previous_text": "### CRIT-026 — Westia e velho de maio\n\n**Classificação:** RETIFICAÇÃO CONFIRMADA. **Confiança:** ALTA.\n\n**Consequência editorial:** Westia humana; aparente morte ilusória. Velho não é Edward por brincadeira.\n\n**Evidências:** [S013 · 1256055716578590780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)\n\n**Evidências:** [S187 · 1239387756665376841](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1239387789804703764](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S013 · 1255327101939220512](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)",
+      "known_sources": [
+        "S013",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S013",
+          "1256055716578590780"
+        ],
+        [
+          "S187",
+          "1239387756665376841"
+        ],
+        [
+          "S187",
+          "1239387789804703764"
+        ],
+        [
+          "S013",
+          "1255327101939220512"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I01"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-027",
+      "title": "MUTON, Sexto Sentido e livros",
+      "previous_text": "### CRIT-027 — MUTON, Sexto Sentido e livros\n\n**Classificação:** CONFIRMADO em condições locais. **Confiança:** ALTA.\n\n**Consequência editorial:** MUTON 31; percepção seis metros; memorizar não aprender todas as magias.\n\n**Evidências:** [S001 · 1249112487421284494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249503535641526303](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1265827259483164723](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S001",
+        "S023"
+      ],
+      "known_evidence": [
+        [
+          "S001",
+          "1249112487421284494"
+        ],
+        [
+          "S001",
+          "1249503535641526303"
+        ],
+        [
+          "S023",
+          "1265827259483164723"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-028",
+      "title": "Henry em canal vazio",
+      "previous_text": "### CRIT-028 — Henry em canal vazio\n\n**Classificação:** CONFIRMADO; continuidade INSUFICIENTE. **Confiança:** ALTA.\n\n**Consequência editorial:** Saída direcionada a S015 sem mensagens: estado final parcial.\n\n**Evidências:** [S023 · 1268003258262093956](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S023"
+      ],
+      "known_evidence": [
+        [
+          "S023",
+          "1268003258262093956"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I21"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-029",
+      "title": "Fim recuperável",
+      "previous_text": "### CRIT-029 — Fim recuperável\n\n**Classificação:** CONFIRMADO. **Confiança:** ALTA.\n\n**Consequência editorial:** Cidade dos elfos e fim da sessão; não final da campanha.\n\n**Evidências:** [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041754809208842](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S023"
+      ],
+      "known_evidence": [
+        [
+          "S023",
+          "1268041570423406726"
+        ],
+        [
+          "S023",
+          "1268041754809208842"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I21"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-030",
+      "title": "Natureza de Kian: concessão e contestação",
+      "previous_text": "### CRIT-030 — Natureza de Kian: concessão e contestação\n\n**Classificação:** CONTRADITÓRIO / continuidade não resolvida. **Confiança:** ALTA nos registros; limitada na explicação ausente.\n\n**Consequência editorial:** Decisão mecânica do mestre em dezembro concede Natureza. Em maio o jogador contesta ter recebido elemento. Não apagar concessão, afirmar domínio contínuo ou transferir para Azazel.\n\n**Evidências:** [S032 · 1184265308962312352](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S032 · 1184324331652792400](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S184 · 1236832232782561360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1236836865416364124](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184)",
+      "known_sources": [
+        "S032",
+        "S184"
+      ],
+      "known_evidence": [
+        [
+          "S032",
+          "1184265308962312352"
+        ],
+        [
+          "S032",
+          "1184324331652792400"
+        ],
+        [
+          "S184",
+          "1236832232782561360"
+        ],
+        [
+          "S184",
+          "1236836865416364124"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-031",
+      "title": "Ceifador, Froid e Tengetsu",
+      "previous_text": "### CRIT-031 — Ceifador, Froid e Tengetsu\n\n**Classificação:** RELATOS DIVERGENTES; morte NÃO CONFIRMADA. **Confiança:** ALTA nos registros; limitada na explicação ausente.\n\n**Consequência editorial:** Froid afirma morte, Tamura/jornal a contestam; abandono temporário da missão não é morte do inimigo ou dissolução de Tengetsu.\n\n**Evidências:** [S001 · 1248786801670226024](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249170015576526909](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249464028150104148](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001)",
+      "known_sources": [
+        "S001"
+      ],
+      "known_evidence": [
+        [
+          "S001",
+          "1248786801670226024"
+        ],
+        [
+          "S001",
+          "1249170015576526909"
+        ],
+        [
+          "S001",
+          "1249464028150104148"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-032",
+      "title": "Sombras do orbe de Piferme",
+      "previous_text": "### CRIT-032 — Sombras do orbe de Piferme\n\n**Classificação:** CONTRADITÓRIO nos relatos; causa INCERTA. **Confiança:** ALTA nos registros; limitada na explicação ausente.\n\n**Consequência editorial:** Yoran associa sombras ao orbe; Fierch nega. Não resolver a causalidade nem inventar impostor. O mago de Terra usa orbe de linhas para reconstruir; isso não concede elemento Linhas a Lilith.\n\n**Evidências:** [S002 · 1244459783503745125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1246253681834332170](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1245904587211280395](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)",
+      "known_sources": [
+        "S002"
+      ],
+      "known_evidence": [
+        [
+          "S002",
+          "1244459783503745125"
+        ],
+        [
+          "S002",
+          "1246253681834332170"
+        ],
+        [
+          "S002",
+          "1245904587211280395"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I22"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-033",
+      "title": "Previsão de Ymir",
+      "previous_text": "### CRIT-033 — Previsão de Ymir\n\n**Classificação:** RETIFICAÇÃO CONFIRMADA. **Confiança:** ALTA nos registros; limitada na explicação ausente.\n\n**Consequência editorial:** A aparente morte antecipada é substituída por previsão de meio segundo e desvio. Não registrar morte/ressurreição; preservar esgotamento neural.\n\n**Evidências:** [S001 · 1245888265760931911](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245888349609263136](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245889280623116381](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245890328955981825](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001)",
+      "known_sources": [
+        "S001"
+      ],
+      "known_evidence": [
+        [
+          "S001",
+          "1245888265760931911"
+        ],
+        [
+          "S001",
+          "1245888349609263136"
+        ],
+        [
+          "S001",
+          "1245889280623116381"
+        ],
+        [
+          "S001",
+          "1245890328955981825"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I22",
+        "I23"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-034",
+      "title": "Henry/Harry no núcleo inicial",
+      "previous_text": "### CRIT-034 — Henry/Harry no núcleo inicial\n\n**Classificação:** ERRO DE NOME PROVÁVEL. **Confiança:** ALTA nos registros; limitada na explicação ausente.\n\n**Consequência editorial:** Resultado nomeia Henry em contexto de Harry; ação e correção local sustentam Harry. Preservar o lapso, sem mover personagens entre ramos por uma palavra.\n\n**Evidências:** [S039 · 1183195784804581479](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S039 · 1183197752688132127](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S039 · 1183197856987889744](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039)",
+      "known_sources": [
+        "S039"
+      ],
+      "known_evidence": [
+        [
+          "S039",
+          "1183195784804581479"
+        ],
+        [
+          "S039",
+          "1183197752688132127"
+        ],
+        [
+          "S039",
+          "1183197856987889744"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-035",
+      "title": "Crescimento lunar de Henry",
+      "previous_text": "### CRIT-035 — Crescimento lunar de Henry\n\n**Classificação:** REVISÃO LOCAL CONFIRMADA. **Confiança:** ALTA nos registros; limitada na explicação ausente.\n\n**Consequência editorial:** Narrativa de crescimento seguida por comentário de que aquela quantidade de energia não deveria ampliá-lo tanto; não derivar regra numérica permanente.\n\n**Evidências:** [S046 · 1185998150079614996](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S046 · 1186008195597078659](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046)",
+      "known_sources": [
+        "S046"
+      ],
+      "known_evidence": [
+        [
+          "S046",
+          "1185998150079614996"
+        ],
+        [
+          "S046",
+          "1186008195597078659"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-036",
+      "title": "Controle Magnético de Lilith",
+      "previous_text": "### CRIT-036 — Controle Magnético de Lilith\n\n**Classificação:** EXCLUÍDO DE DRAGONS. **Confiança:** ALTA nos registros; limitada na explicação ausente.\n\n**Consequência editorial:** Comentário refere-se a outro RPG; não conceder segundo elemento ou transformação. Gelo conserva contexto próprio.\n\n**Evidências:** [S039 · 1183199722740138055](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039)",
+      "known_sources": [
+        "S039"
+      ],
+      "known_evidence": [
+        [
+          "S039",
+          "1183199722740138055"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-037",
+      "title": "Mortes e controles alheios no final de S046",
+      "previous_text": "### CRIT-037 — Mortes e controles alheios no final de S046\n\n**Classificação:** SEM RESULTADO VALIDADO. **Confiança:** ALTA nos registros; limitada na explicação ausente.\n\n**Consequência editorial:** Declarações de jogadores sobre morte de Harry e ações de personagens alheios não recebem resultado validado; não são destino canônico.\n\n**Evidências:** [S046 · 1186029844811759677](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S046 · 1186030034062950412](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046)",
+      "known_sources": [
+        "S046"
+      ],
+      "known_evidence": [
+        [
+          "S046",
+          "1186029844811759677"
+        ],
+        [
+          "S046",
+          "1186030034062950412"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-038",
+      "title": "Ária, Draconia e sugadores de alma",
+      "previous_text": "### CRIT-038 — Ária, Draconia e sugadores de alma\n\n**Classificação:** INVOCAÇÃO / RELATO, com efeitos locais demonstrados. **Confiança:** ALTA nos registros; limitada na explicação ausente.\n\n**Consequência editorial:** Invocação e cura não demonstram aparição de Ária; morte de princesa e natureza dos sugadores são relatos sem execução ou cosmologia universal confirmadas.\n\n**Evidências:** [S070 · 1183191185150460044](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S057 · 1185997850581139517](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S057 · 1186013046045413486](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S013 · 1238664540514811954](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)",
+      "known_sources": [
+        "S013",
+        "S057",
+        "S070"
+      ],
+      "known_evidence": [
+        [
+          "S070",
+          "1183191185150460044"
+        ],
+        [
+          "S057",
+          "1185997850581139517"
+        ],
+        [
+          "S057",
+          "1186013046045413486"
+        ],
+        [
+          "S013",
+          "1238664540514811954"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-039",
+      "title": "Primeira alegação de morte de Mulack versus dungeon final",
+      "previous_text": "### CRIT-039 — Primeira alegação de morte de Mulack versus dungeon final\n\n**Classificação:** RETIFICAÇÃO CONFIRMADA no episódio anterior; final CONTRADITÓRIO. **Confiança:** ALTA nos registros; limitada na explicação ausente.\n\n**Consequência editorial:** Mestre corrige antiga morte para braço quebrado. Essa correção não resolve nem antecipa a dungeon de fevereiro e o memorial posterior.\n\n**Evidências:** [S118 · 1191957762175942686](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S118 · 1191958045618606140](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S118 · 1191958070612475934](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158)",
+      "known_sources": [
+        "S118",
+        "S158"
+      ],
+      "known_evidence": [
+        [
+          "S118",
+          "1191957762175942686"
+        ],
+        [
+          "S118",
+          "1191958045618606140"
+        ],
+        [
+          "S118",
+          "1191958070612475934"
+        ],
+        [
+          "S158",
+          "1208616488941133844"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "CRIT-040",
+      "title": "Rans: pedido de remoção e voz materna/divina",
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I11",
+        "I12"
+      ],
+      "new": true,
+      "justification": "Erro factual de destinatário/recebimento de selo e omissão de experiência narrada, corrigidos com limites epistemológicos.",
+      "remaining": "Identidade, alcance e efeito da voz; desfecho de Hermione."
+    }
+  ],
+  "ARC": [
+    {
+      "id": "ARC-001",
+      "title": "Surgência, aparente resgate e escravização",
+      "previous_text": "### ARC-001 — Surgência, aparente resgate e escravização\n\n**Estado:** FECHADO. **Envolvidos:** Henry, Harry, Lilith, Rans, Kian, EREN, God-Zilla; Michael sincronizado posteriormente; Bytes incluído pelo resumo do mestre.\n\n**Conflito:** Sobreviver à guerra leva à dependência de alguém que vende os sobreviventes.\n\n**Resultado conhecido:** Captura, escravização e saída física constituem unidade concluída. Marca continua existente em janeiro; emancipação definitiva permanece PS-002.\n\n**Consequências:** Cooperação de Harry e desconfiança de Michael ganham função causal; traição desencadeia retaliação.\n\n**Pendências:** Remover pendência de saída física, mantendo origem da Surgência, marca e vínculos institucionais.\n\n**Evidências:** [S070 · 1183161133897629746](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S070 · 1183171059227303959](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S070 · 1183178373258813481](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S070 · 1183181442495299645](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S070 · 1183182176439775342](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S070 · 1183185465466175548](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S070 · 1183191510779445299](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S025 · 1183589192693977208](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183591494523834408](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183591931348008990](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183600626622529566](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S094 · 1191959455018000494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s094)",
+      "known_sources": [
+        "S025",
+        "S070",
+        "S094"
+      ],
+      "known_evidence": [
+        [
+          "S070",
+          "1183161133897629746"
+        ],
+        [
+          "S070",
+          "1183171059227303959"
+        ],
+        [
+          "S070",
+          "1183178373258813481"
+        ],
+        [
+          "S070",
+          "1183181442495299645"
+        ],
+        [
+          "S070",
+          "1183182176439775342"
+        ],
+        [
+          "S070",
+          "1183185465466175548"
+        ],
+        [
+          "S070",
+          "1183191510779445299"
+        ],
+        [
+          "S025",
+          "1183589192693977208"
+        ],
+        [
+          "S025",
+          "1183591494523834408"
+        ],
+        [
+          "S025",
+          "1183591931348008990"
+        ],
+        [
+          "S025",
+          "1183600626622529566"
+        ],
+        [
+          "S094",
+          "1191959455018000494"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-002",
+      "title": "Exploração do ramo de minhocas e retorno ao rio",
+      "previous_text": "### ARC-002 — Exploração do ramo de minhocas e retorno ao rio\n\n**Estado:** FECHADO. **Envolvidos:** Harry, Lilith, EREN; encontro com Henry/Michael.\n\n**Conflito:** Criatura coletiva resistente e perda de orientação.\n\n**Resultado conhecido:** Humanoide de minhocas, retorno/reunião e resgate têm resultado e consequência: grupo prossegue à saída e abrigo.\n\n**Consequências:** Grupo coopera e reconhece forças; trilha de minhocas vira ferramenta de orientação.\n\n**Pendências:** Despertar de Harry não encerrado por este fechamento; não usar como justificativa para manter a unidade de resgate aberta.\n\n**Evidências:** [S039 · 1183194479704944690](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S039 · 1183197752688132127](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S039 · 1183209706920099931](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S039 · 1183211154470879272](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S039 · 1183212315206758480](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S025 · 1183215001809457232](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183223262340206662](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183589192693977208](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183600626622529566](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025)",
+      "known_sources": [
+        "S025",
+        "S039"
+      ],
+      "known_evidence": [
+        [
+          "S039",
+          "1183194479704944690"
+        ],
+        [
+          "S039",
+          "1183197752688132127"
+        ],
+        [
+          "S039",
+          "1183209706920099931"
+        ],
+        [
+          "S039",
+          "1183211154470879272"
+        ],
+        [
+          "S039",
+          "1183212315206758480"
+        ],
+        [
+          "S025",
+          "1183215001809457232"
+        ],
+        [
+          "S025",
+          "1183223262340206662"
+        ],
+        [
+          "S025",
+          "1183589192693977208"
+        ],
+        [
+          "S025",
+          "1183600626622529566"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-003",
+      "title": "Controle de energia lunar e proteção dos companheiros",
+      "previous_text": "### ARC-003 — Controle de energia lunar e proteção dos companheiros\n\n**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Henry, Harry, Michael.\n\n**Conflito:** Henry teme transformação perigosa e tenta controlar absorção/expulsão.\n\n**Resultado conhecido:** Treinos, aproximação com lobos, energia lunar e risco de descontrole avançam. Henry morre em maio, retorna vivo em junho e segue vivo em julho. Mecanismo de retorno e última continuação #mar faltam.\n\n**Consequências:** Preocupação moral orienta isolamento; cooperação e conflito do grupo coexistem.\n\n**Pendências:** Consultar as pendências finais na matriz crítica.\n\n**Evidências:** [S046 · 1186010585175953509](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S046 · 1186019488869650492](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S046 · 1186025102811349093](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S046 · 1186028454186074244](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S046 · 1186029557636149269](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S037 · 1189762916845625375](../pesquisa/fase-3/Fontes-e-Evidencias.md#s037); [S037 · 1189767756812398722](../pesquisa/fase-3/Fontes-e-Evidencias.md#s037); [S037 · 1189770837314773095](../pesquisa/fase-3/Fontes-e-Evidencias.md#s037); [S037 · 1189781521880600636](../pesquisa/fase-3/Fontes-e-Evidencias.md#s037); [S106 · 1190505045171650691](../pesquisa/fase-3/Fontes-e-Evidencias.md#s106); [S106 · 1190481558902157332](../pesquisa/fase-3/Fontes-e-Evidencias.md#s106); [S106 · 1190509215698133063](../pesquisa/fase-3/Fontes-e-Evidencias.md#s106); [S106 · 1190511351471284294](../pesquisa/fase-3/Fontes-e-Evidencias.md#s106); [S187 · 1239359270206836776](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S016 · 1250998141038104717](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S023 · 1266909119613370448](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S016",
+        "S023",
+        "S037",
+        "S046",
+        "S106",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S046",
+          "1186010585175953509"
+        ],
+        [
+          "S046",
+          "1186019488869650492"
+        ],
+        [
+          "S046",
+          "1186025102811349093"
+        ],
+        [
+          "S046",
+          "1186028454186074244"
+        ],
+        [
+          "S046",
+          "1186029557636149269"
+        ],
+        [
+          "S037",
+          "1189762916845625375"
+        ],
+        [
+          "S037",
+          "1189767756812398722"
+        ],
+        [
+          "S037",
+          "1189770837314773095"
+        ],
+        [
+          "S037",
+          "1189781521880600636"
+        ],
+        [
+          "S106",
+          "1190505045171650691"
+        ],
+        [
+          "S106",
+          "1190481558902157332"
+        ],
+        [
+          "S106",
+          "1190509215698133063"
+        ],
+        [
+          "S106",
+          "1190511351471284294"
+        ],
+        [
+          "S187",
+          "1239359270206836776"
+        ],
+        [
+          "S016",
+          "1250998141038104717"
+        ],
+        [
+          "S023",
+          "1266909119613370448"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I01",
+        "I02",
+        "I18",
+        "I21"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-004",
+      "title": "Descoberta de capacidade e vínculo de EREN",
+      "previous_text": "### ARC-004 — Descoberta de capacidade e vínculo de EREN\n\n**Estado:** NÃO RETOMADO. **Envolvidos:** EREN; Kian na mudança de regra.\n\n**Conflito:** Busca de identidade/poder e pressão da arma para matar.\n\n**Resultado conhecido:** EREN participa da mansão, procura Ellen e chega/passeia em Olta em fevereiro. Origem/legitimidade do título e continuidade de Ana não têm desfecho posterior.\n\n**Consequências:** Vínculo com item e escolha de não matar contrastam com briga posterior.\n\n**Pendências:** Consultar as pendências finais na matriz crítica.\n\n**Evidências:** [S032 · 1184255650851717222](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S032 · 1184263362889142343](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S032 · 1184265308962312352](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S032 · 1184266656827056309](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S032 · 1184270835419205722](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S025 · 1186043781959667722](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1186813288990912625](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S095 · 1195843073884827788](../pesquisa/fase-3/Fontes-e-Evidencias.md#s095); [S084 · 1195844088952520777](../pesquisa/fase-3/Fontes-e-Evidencias.md#s084); [S166 · 1198726133663936593](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S159 · 1211851946143653910](../pesquisa/fase-3/Fontes-e-Evidencias.md#s159)",
+      "known_sources": [
+        "S025",
+        "S032",
+        "S084",
+        "S095",
+        "S159",
+        "S166"
+      ],
+      "known_evidence": [
+        [
+          "S032",
+          "1184255650851717222"
+        ],
+        [
+          "S032",
+          "1184263362889142343"
+        ],
+        [
+          "S032",
+          "1184265308962312352"
+        ],
+        [
+          "S032",
+          "1184266656827056309"
+        ],
+        [
+          "S032",
+          "1184270835419205722"
+        ],
+        [
+          "S025",
+          "1186043781959667722"
+        ],
+        [
+          "S025",
+          "1186813288990912625"
+        ],
+        [
+          "S095",
+          "1195843073884827788"
+        ],
+        [
+          "S084",
+          "1195844088952520777"
+        ],
+        [
+          "S166",
+          "1198726133663936593"
+        ],
+        [
+          "S159",
+          "1211851946143653910"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-005",
+      "title": "Briga da rua B e crescimento involuntário",
+      "previous_text": "### ARC-005 — Briga da rua B e crescimento involuntário\n\n**Estado:** FECHADO. **Envolvidos:** EREN, Lilith, Mulack.\n\n**Conflito:** Tentativa de separar briga vira violência letal e crise corporal.\n\n**Resultado conhecido:** Intervenção, mortes, crise e recuo dos guardas têm desfecho local. Fecha episódio, não evolução corporal de EREN.\n\n**Consequências:** Reputação evita ação dos guardas; atitude de Lilith contrasta com remorso de EREN; Mulack assiste e busca explicação.\n\n**Pendências:** Mecanismo da transformação e contagem de vítimas continuam como lacunas do personagem.\n\n**Evidências:** [S035 · 1187941343046156360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s035); [S035 · 1187947012365226124](../pesquisa/fase-3/Fontes-e-Evidencias.md#s035); [S035 · 1187949549088673862](../pesquisa/fase-3/Fontes-e-Evidencias.md#s035); [S035 · 1187951686334025788](../pesquisa/fase-3/Fontes-e-Evidencias.md#s035); [S035 · 1187954927448899695](../pesquisa/fase-3/Fontes-e-Evidencias.md#s035); [S035 · 1187956033306513458](../pesquisa/fase-3/Fontes-e-Evidencias.md#s035); [S035 · 1187957928016232479](../pesquisa/fase-3/Fontes-e-Evidencias.md#s035)",
+      "known_sources": [
+        "S035"
+      ],
+      "known_evidence": [
+        [
+          "S035",
+          "1187941343046156360"
+        ],
+        [
+          "S035",
+          "1187947012365226124"
+        ],
+        [
+          "S035",
+          "1187949549088673862"
+        ],
+        [
+          "S035",
+          "1187951686334025788"
+        ],
+        [
+          "S035",
+          "1187954927448899695"
+        ],
+        [
+          "S035",
+          "1187956033306513458"
+        ],
+        [
+          "S035",
+          "1187957928016232479"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-006",
+      "title": "Busca de saída de Mulack e integração de Yakkatsu",
+      "previous_text": "### ARC-006 — Busca de saída de Mulack e integração de Yakkatsu\n\n**Estado:** CONTRADIÇÃO NO DESFECHO. **Envolvidos:** Mulack, Henry, Yakkatsu, Michael, Ymir; Rans e Lilith na crise posterior.\n\n**Conflito:** Falta de memória e necessidade de entender ambiente/saída.\n\n**Resultado conhecido:** Mulack foge e chega a Olta, desenvolve Nyxis e alias Armelt, mas última dungeon tem retificação contraditória com morte/memorial. Yakkatsu continua independentemente no Inferno até maio.\n\n**Consequências:** Mulack passa de desorientado a guia; Henry oferece apoio e explicação.\n\n**Pendências:** Consultar as pendências finais na matriz crítica.\n\n**Evidências:** [S064 · 1187966110755201075](../pesquisa/fase-3/Fontes-e-Evidencias.md#s064); [S064 · 1187967945352155136](../pesquisa/fase-3/Fontes-e-Evidencias.md#s064); [S064 · 1187975271912067132](../pesquisa/fase-3/Fontes-e-Evidencias.md#s064); [S118 · 1191959040016793681](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S118 · 1191967338396930109](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S118 · 1191963846462685295](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S166 · 1198529744623378493](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S025 · 1186025529741156554](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S119 · 1195156289676922930](../pesquisa/fase-3/Fontes-e-Evidencias.md#s119); [S076 · 1196291752106139711](../pesquisa/fase-3/Fontes-e-Evidencias.md#s076); [S076 · 1196293481145049208](../pesquisa/fase-3/Fontes-e-Evidencias.md#s076); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S198 · 1208627532962992218](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)",
+      "known_sources": [
+        "S022",
+        "S025",
+        "S064",
+        "S076",
+        "S118",
+        "S119",
+        "S158",
+        "S166",
+        "S198"
+      ],
+      "known_evidence": [
+        [
+          "S064",
+          "1187966110755201075"
+        ],
+        [
+          "S064",
+          "1187967945352155136"
+        ],
+        [
+          "S064",
+          "1187975271912067132"
+        ],
+        [
+          "S118",
+          "1191959040016793681"
+        ],
+        [
+          "S118",
+          "1191967338396930109"
+        ],
+        [
+          "S118",
+          "1191963846462685295"
+        ],
+        [
+          "S166",
+          "1198529744623378493"
+        ],
+        [
+          "S025",
+          "1186025529741156554"
+        ],
+        [
+          "S119",
+          "1195156289676922930"
+        ],
+        [
+          "S076",
+          "1196291752106139711"
+        ],
+        [
+          "S076",
+          "1196293481145049208"
+        ],
+        [
+          "S158",
+          "1208616488941133844"
+        ],
+        [
+          "S198",
+          "1208627532962992218"
+        ],
+        [
+          "S022",
+          "1245919202536067172"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-007",
+      "title": "Anonimato e consolidação de Note",
+      "previous_text": "### ARC-007 — Anonimato e consolidação de Note\n\n**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Ymir/Note, Henry, Lilith.\n\n**Conflito:** Ocultar identidade e poder versus reconhecimento.\n\n**Resultado conhecido:** Sequência Note→máscara recuperada e uso confirmado; identidade não mágica. O anonimato varia por interlocutor. Último objetivo é resgatar irmã de Beatriz e ir a Milena; chegada à cidade de elfos é última cena, sem resgate.\n\n**Consequências:** Nome, disfarce e persona se desenvolvem em paralelo; máscara não garante segredo.\n\n**Pendências:** Consultar as pendências finais na matriz crítica.\n\n**Evidências:** [S185 · 1222352420450074674](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1222374089239564358](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1222558973627203715](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S005 · 1231745941833384046](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005); [S187 · 1232493773087445003](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S001 · 1246674008003575849](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S001",
+        "S005",
+        "S023",
+        "S185",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S185",
+          "1222352420450074674"
+        ],
+        [
+          "S185",
+          "1222374089239564358"
+        ],
+        [
+          "S185",
+          "1222558973627203715"
+        ],
+        [
+          "S005",
+          "1231745941833384046"
+        ],
+        [
+          "S187",
+          "1232493773087445003"
+        ],
+        [
+          "S001",
+          "1246674008003575849"
+        ],
+        [
+          "S023",
+          "1267310497997389854"
+        ],
+        [
+          "S023",
+          "1268041570423406726"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I22",
+        "I23"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-008",
+      "title": "Busca de renda, serpente e novo cativeiro de Lilith",
+      "previous_text": "### ARC-008 — Busca de renda, serpente e novo cativeiro de Lilith\n\n**Estado:** FECHADO. **Envolvidos:** Lilith; Harry aparece no armazém.\n\n**Conflito:** Busca de autonomia e poder em cidade dominada por violência institucional.\n\n**Resultado conhecido:** Ramo urbano de trabalho, culto e novo cativeiro tem reconvergência explícita em S025. Não é a primeira prisão. Crises posteriores e Hads permanecem nos períodos/dossiê, sem reabrir artificialmente este episódio.\n\n**Consequências:** Busca de poder produz vínculo com serpente; novo cativeiro reconverge com Resistência no primeiro altar, distinto das primeiras minas.\n\n**Pendências:** Destino da serpente e motivo do cartaz continuam perguntas próprias, não ausência de reconvergência.\n\n**Evidências:** [S057 · 1185775111672975380](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S057 · 1185782464615043192](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S057 · 1185996196402184252](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S057 · 1186017251208482906](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S057 · 1186017954559709214](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S057 · 1186060308700213288](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S025 · 1183223262340206662](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S025 · 1183587664696459327](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025); [S037 · 1189750722284236840](../pesquisa/fase-3/Fontes-e-Evidencias.md#s037); [S037 · 1189778886276419634](../pesquisa/fase-3/Fontes-e-Evidencias.md#s037); [S025 · 1186060649067991141](../pesquisa/fase-3/Fontes-e-Evidencias.md#s025)",
+      "known_sources": [
+        "S025",
+        "S037",
+        "S057"
+      ],
+      "known_evidence": [
+        [
+          "S057",
+          "1185775111672975380"
+        ],
+        [
+          "S057",
+          "1185782464615043192"
+        ],
+        [
+          "S057",
+          "1185996196402184252"
+        ],
+        [
+          "S057",
+          "1186017251208482906"
+        ],
+        [
+          "S057",
+          "1186017954559709214"
+        ],
+        [
+          "S057",
+          "1186060308700213288"
+        ],
+        [
+          "S025",
+          "1183223262340206662"
+        ],
+        [
+          "S025",
+          "1183587664696459327"
+        ],
+        [
+          "S037",
+          "1189750722284236840"
+        ],
+        [
+          "S037",
+          "1189778886276419634"
+        ],
+        [
+          "S025",
+          "1186060649067991141"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-009",
+      "title": "Preparação e missão contra os altares de Mouran",
+      "previous_text": "### ARC-009 — Preparação e missão contra os altares de Mouran\n\n**Estado:** FECHADO NO CONFLITO DELIMITADO. **Envolvidos:** Michael, Henry, Rans, EREN, Lilith, Ymir, Yakkatsu; Harry no primeiro colosso; Bytes e Mulack em etapas posteriores.\n\n**Conflito:** Resgatar Ellen e impedir plano atribuído ao prefeito exige aprendizado e coordenação de aliados com prioridades diferentes.\n\n**Resultado conhecido:** Altares levam à mansão: quarto destruído em cena, terceiro atribuído ao ramo aliado sem execução reconstruída; ritual da mansão transforma Patrick. Edward mata Karl e foge; Gwierlan é salvo; Henry mata Patrick-criatura; Ellen é resgatada por Michael. Fecha missão/luta e substituição do governo, com objetivo de impedir ritual frustrado. Edward/culto permanecem em arco sucessor, marca e contagens nas PS.\n\n**Consequências:** Vitórias locais e perdas conduzem à saída do subsolo. Em janeiro, Ellen é resgatada, Michael assume o governo, Edward foge e Patrick morre; a prevenção do ritual fracassa. A enumeração dos altares conserva divergências documentais.\n\n**Pendências:** Consultar as pendências finais na matriz crítica.\n\n**Evidências:** [S068 · 1189300963174010880](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068); [S068 · 1189302341745266749](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068); [S068 · 1189310019158691890](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068); [S068 · 1189626578792087572](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068); [S068 · 1189627413617967104](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068); [S068 · 1189627847824900146](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068); [S068 · 1189630277350334578](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068); [S068 · 1189690322301755493](../pesquisa/fase-3/Fontes-e-Evidencias.md#s068); [S037 · 1189727546665861150](../pesquisa/fase-3/Fontes-e-Evidencias.md#s037); [S037 · 1189767348308148244](../pesquisa/fase-3/Fontes-e-Evidencias.md#s037); [S037 · 1189781731595800686](../pesquisa/fase-3/Fontes-e-Evidencias.md#s037); [S117 · 1195532779182624819](../pesquisa/fase-3/Fontes-e-Evidencias.md#s117); [S086 · 1195908308217897032](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S086 · 1195943364684677190](../pesquisa/fase-3/Fontes-e-Evidencias.md#s086); [S076 · 1196287232995229796](../pesquisa/fase-3/Fontes-e-Evidencias.md#s076); [S088 · 1196638805269172328](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S088 · 1196646090519359640](../pesquisa/fase-3/Fontes-e-Evidencias.md#s088); [S166 · 1198477678152523786](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S123 · 1198742240063930368](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S166 · 1198752996205543474](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S123 · 1198777324062113794](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S156 · 1199899589680042096](../pesquisa/fase-3/Fontes-e-Evidencias.md#s156); [S170 · 1200291569543151726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s170)",
+      "known_sources": [
+        "S037",
+        "S068",
+        "S076",
+        "S086",
+        "S088",
+        "S117",
+        "S123",
+        "S156",
+        "S166",
+        "S170"
+      ],
+      "known_evidence": [
+        [
+          "S068",
+          "1189300963174010880"
+        ],
+        [
+          "S068",
+          "1189302341745266749"
+        ],
+        [
+          "S068",
+          "1189310019158691890"
+        ],
+        [
+          "S068",
+          "1189626578792087572"
+        ],
+        [
+          "S068",
+          "1189627413617967104"
+        ],
+        [
+          "S068",
+          "1189627847824900146"
+        ],
+        [
+          "S068",
+          "1189630277350334578"
+        ],
+        [
+          "S068",
+          "1189690322301755493"
+        ],
+        [
+          "S037",
+          "1189727546665861150"
+        ],
+        [
+          "S037",
+          "1189767348308148244"
+        ],
+        [
+          "S037",
+          "1189781731595800686"
+        ],
+        [
+          "S117",
+          "1195532779182624819"
+        ],
+        [
+          "S086",
+          "1195908308217897032"
+        ],
+        [
+          "S086",
+          "1195943364684677190"
+        ],
+        [
+          "S076",
+          "1196287232995229796"
+        ],
+        [
+          "S088",
+          "1196638805269172328"
+        ],
+        [
+          "S088",
+          "1196646090519359640"
+        ],
+        [
+          "S166",
+          "1198477678152523786"
+        ],
+        [
+          "S123",
+          "1198742240063930368"
+        ],
+        [
+          "S166",
+          "1198752996205543474"
+        ],
+        [
+          "S123",
+          "1198777324062113794"
+        ],
+        [
+          "S156",
+          "1199899589680042096"
+        ],
+        [
+          "S170",
+          "1200291569543151726"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-010",
+      "title": "Culto e crise política entre Mouran, Olta e Piferme",
+      "previous_text": "### ARC-010 — Culto e crise política entre Mouran, Olta e Piferme\n\n**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Michael, Lilith, Henry, Ymir, Bytes e aliados; Edward, Wilbur, Hermest, Frank e Tarkaros.\n\n**Conflito:** A tentativa de reconstruir e negociar alianças enfrenta traições, cultos, atentados e guerra civil.\n\n**Resultado conhecido:** Edward escapa e reaparece; Hermest/Wilbur morrem, Frank vira rei; Tarkaros explode Olta; Mouran sofre horda e atentados; Piferme é reconstruída, sem resolução da campanha do culto.\n\n**Consequências:** A fuga de Edward prolonga a ameaça; mortes e explosões alteram as lideranças e exigem reconstrução. Diplomacia proposta não cria império unificado.\n\n**Pendências:** [PS-007](19-Matriz-Canon-Critico.md#ps-007); [PS-016](19-Matriz-Canon-Critico.md#ps-016); [PS-035](19-Matriz-Canon-Critico.md#ps-035); [PS-036](19-Matriz-Canon-Critico.md#ps-036); [PS-037](19-Matriz-Canon-Critico.md#ps-037).\n\n**Evidências:** [S161 · 1212921304345346048](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S187 · 1235339528621785098](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1237568074702655519](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S023 · 1266947589476061254](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)\n\n**Evidências:** [S166 · 1198753167433809981](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S161 · 1212921304345346048](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S187 · 1235339528621785098](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187)",
+      "known_sources": [
+        "S023",
+        "S161",
+        "S166",
+        "S187"
+      ],
+      "known_evidence": [
+        [
+          "S161",
+          "1212921304345346048"
+        ],
+        [
+          "S187",
+          "1235339528621785098"
+        ],
+        [
+          "S187",
+          "1237568074702655519"
+        ],
+        [
+          "S023",
+          "1266947589476061254"
+        ],
+        [
+          "S166",
+          "1198753167433809981"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-011",
+      "title": "Guerra, treino e golems do Inferno",
+      "previous_text": "### ARC-011 — Guerra, treino e golems do Inferno\n\n**Estado:** FECHADO NO EPISÓDIO DE RETORNO. **Envolvidos:** Expedição com Michael, Henry, Ymir, Bytes, Kian, Lilith, Gotter e Gertrude; fechamento acompanha Henry/Ymir.\n\n**Conflito:** Estudo e busca de recursos levam a golems, roubos, retomada e punição em Balôra.\n\n**Resultado conhecido:** Ymir/Henry retornam à superfície com máquinas após treinamento, roubo, retomada, prisão e fuga. Não resolve destinos de todos os companheiros ou história universal do Inferno.\n\n**Consequências:** Henry/Ymir recuperam a saída com máquinas, mantendo riscos materiais e destinos de companheiros não fechados.\n\n**Pendências:** [PS-006](19-Matriz-Canon-Critico.md#ps-006); [PS-015](19-Matriz-Canon-Critico.md#ps-015); [PS-032](19-Matriz-Canon-Critico.md#ps-032); [PS-033](19-Matriz-Canon-Critico.md#ps-033).\n\n**Evidências:** [S179 · 1218731018304098405](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1218736977692856442](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179)\n\n**Evidências:** [S179 · 1218716412407975957](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179); [S179 · 1218731018304098405](../pesquisa/fase-3/Fontes-e-Evidencias.md#s179)",
+      "known_sources": [
+        "S179"
+      ],
+      "known_evidence": [
+        [
+          "S179",
+          "1218731018304098405"
+        ],
+        [
+          "S179",
+          "1218736977692856442"
+        ],
+        [
+          "S179",
+          "1218716412407975957"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-012",
+      "title": "Lilith rainha e proteção de Emma",
+      "previous_text": "### ARC-012 — Lilith rainha e proteção de Emma\n\n**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Lilith, Garold, Yoran, Emma, Neyfor, Fierch e grão-mestres.\n\n**Conflito:** Proteger Garold se transforma em responsabilidade de governar e proteger Emma, enquanto o reino sofre ataques.\n\n**Resultado conhecido:** Coroação recebida de Garold, conflitos e reconstrução; adoção de Emma e objetivo Coiote. Última cena Yoran/Emma, sem novo fim de governo.\n\n**Consequências:** Coroação e reconstrução não encerram a ameaça de Coiote, a suspeita sobre sombras ou as mutilações.\n\n**Pendências:** [PS-028](19-Matriz-Canon-Critico.md#ps-028); [PS-039](19-Matriz-Canon-Critico.md#ps-039).\n\n**Evidências:** [S151 · 1210391082655813742](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151); [S173 · 1232871127362179122](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S002 · 1250239262905864275](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)\n\n**Evidências:** [S151 · 1210391082655813742](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151); [S173 · 1232871127362179122](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S002 · 1250239262905864275](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)",
+      "known_sources": [
+        "S002",
+        "S151",
+        "S173"
+      ],
+      "known_evidence": [
+        [
+          "S151",
+          "1210391082655813742"
+        ],
+        [
+          "S173",
+          "1232871127362179122"
+        ],
+        [
+          "S002",
+          "1250239262905864275"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-013",
+      "title": "Bytes e Nairóbi",
+      "previous_text": "### ARC-013 — Bytes e Nairóbi\n\n**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Bytes, Nairóbi, Beatriz, Lilith, Henry, Trevor, Nines e entidade desconhecida.\n\n**Conflito:** Vínculo afetivo, coma e perigo levam Bytes a buscar cura e assumir favor de natureza incompleta.\n\n**Resultado conhecido:** Namoro, coma, favor e cura; guerra, resgates e buscas. Nairóbi desperta, mas localização final na busca de junho fica desconhecida.\n\n**Consequências:** Nairóbi desperta e sobrevive a resgates; o compromisso com a entidade e sua localização na busca final continuam abertos.\n\n**Pendências:** [PS-031](19-Matriz-Canon-Critico.md#ps-031).\n\n**Evidências:** [S173 · 1223443843068727428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226338374235984012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S014 · 1254259539386044456](../pesquisa/fase-3/Fontes-e-Evidencias.md#s014)\n\n**Evidências:** [S173 · 1225893559023173673](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226338374235984012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S014 · 1254259539386044456](../pesquisa/fase-3/Fontes-e-Evidencias.md#s014)",
+      "known_sources": [
+        "S014",
+        "S173"
+      ],
+      "known_evidence": [
+        [
+          "S173",
+          "1223443843068727428"
+        ],
+        [
+          "S173",
+          "1226338374235984012"
+        ],
+        [
+          "S014",
+          "1254259539386044456"
+        ],
+        [
+          "S173",
+          "1225893559023173673"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-014",
+      "title": "Yakkatsu e saída do Inferno",
+      "previous_text": "### ARC-014 — Yakkatsu e saída do Inferno\n\n**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Yakkatsu, Bardock, Stwart e adversários do Inferno.\n\n**Conflito:** Sobreviver e sair do Inferno exige alianças, luta e cuidado com companheiros.\n\n**Resultado conhecido:** Bardock sacrifica-se, Stwart auxilia e segue vivo; Yakkatsu sobrevive aos perigos, mas não sai do Inferno em cena.\n\n**Consequências:** Sacrifício de Bardock e culpa pelas mortes influenciam Yakkatsu; alimentação final confirma sobrevivência, sem retorno à superfície.\n\n**Pendências:** [PS-030](19-Matriz-Canon-Critico.md#ps-030).\n\n**Evidências:** [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)\n\n**Evidências:** [S022 · 1222368028759691355](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022); [S022 · 1245919202536067172](../pesquisa/fase-3/Fontes-e-Evidencias.md#s022)",
+      "known_sources": [
+        "S022"
+      ],
+      "known_evidence": [
+        [
+          "S022",
+          "1222368028759691355"
+        ],
+        [
+          "S022",
+          "1245919202536067172"
+        ]
+      ],
+      "status": "NÃO INICIADO",
+      "actually_read_intervals": [],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-015",
+      "title": "Kian, Lúcifer e infância de Azazel",
+      "previous_text": "### ARC-015 — Kian, Lúcifer e infância de Azazel\n\n**Estado:** ABERTO COM PONTE INSUFICIENTE. **Envolvidos:** Kian/Lúcifer/Azazel, pais não nomeados, Galius, Yalia, Emília, Rith, Westia, Deward e Monarca.\n\n**Conflito:** A continuidade identitária atravessa corpo infantil, memória parcial e violência em Tékia, sem mecanismo adulto→bebê recuperado.\n\n**Resultado conhecido:** Mesmo personagem por EXT-003; corpo infantil, crescimento, Tékia e fuga reconstruídos, mecanismo adulto→bebê ausente. Último repouso na cabana.\n\n**Consequências:** A fuga e destruição subterrânea deixam aliados sem destino; o repouso final não restaura toda a mente ou repertório adulto.\n\n**Pendências:** [PS-021](19-Matriz-Canon-Critico.md#ps-021); [PS-037](19-Matriz-Canon-Critico.md#ps-037).\n\n**Evidências:** [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)\n\n**Evidências:** [S013 · 1239350043090358362](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1253899431401492600](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1267992861354229760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)",
+      "known_sources": [
+        "S013"
+      ],
+      "known_evidence": [
+        [
+          "S013",
+          "1253899431401492600"
+        ],
+        [
+          "S013",
+          "1267992861354229760"
+        ],
+        [
+          "S013",
+          "1239350043090358362"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I16",
+        "I17"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-016",
+      "title": "Rans, sobrevivência e Hermione",
+      "previous_text": "### ARC-016 — Rans, sobrevivência e Hermione\n\n**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Rans, Mulack, antigos companheiros, Lilith, Hermione e Feuhs Beronth.\n\n**Conflito:** Sobrevivência ocultada rompe confiança; a linha de julho exige proteger Hermione e buscar auxílio.\n\n**Resultado conhecido:** Falsa morte e retorno público resolvidos; linha de julho leva Hermione inconsciente à Paróquia e pede selo, sem aplicação recuperada.\n\n**Consequências:** O retorno público resolve a falsa morte, mas o Abismo, o selo e reencontros posteriores continuam lacunas.\n\n**Pendências:** [PS-013](19-Matriz-Canon-Critico.md#ps-013); [PS-038](19-Matriz-Canon-Critico.md#ps-038).\n\n**Evidências:** [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003)\n\n**Evidências:** [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003)",
+      "known_sources": [
+        "S003",
+        "S165"
+      ],
+      "known_evidence": [
+        [
+          "S165",
+          "1198445221168558171"
+        ],
+        [
+          "S003",
+          "1268027634508632125"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I08",
+        "I09",
+        "I10",
+        "I11",
+        "I12"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-017",
+      "title": "Harry e ramo Astro",
+      "previous_text": "### ARC-017 — Harry e ramo Astro\n\n**Estado:** PONTE INSUFICIENTE. **Envolvidos:** Harry, Bytes, Kral, Zaraph, Jakaw, Stifen, Zex; Astro e hospedeira na linha provável.\n\n**Conflito:** Separação, autoridade e pacto ampliam a linha de Harry; o ramo Astro não tem transição identitária inequívoca.\n\n**Resultado conhecido:** Harry retorna no atentado; Astro usa corpo feminino e devasta Submundo em julho. Associação provável, sem transição inequívoca, conserva dossiês separados no limite.\n\n**Consequências:** A última cena nominal de Harry e a última cena de Astro devem permanecer distintas; devastação do Submundo não encerra a campanha.\n\n**Pendências:** [PS-017](19-Matriz-Canon-Critico.md#ps-017); [PS-022](19-Matriz-Canon-Critico.md#ps-022).\n\n**Evidências:** [S161 · 1212959525368238090](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S008 · 1267301422656000131](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)\n\n**Evidências:** [S090 · 1198388118697549874](../pesquisa/fase-3/Fontes-e-Evidencias.md#s090); [S161 · 1212959525368238090](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S008 · 1267301422656000131](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)",
+      "known_sources": [
+        "S008",
+        "S090",
+        "S161"
+      ],
+      "known_evidence": [
+        [
+          "S161",
+          "1212959525368238090"
+        ],
+        [
+          "S008",
+          "1267301422656000131"
+        ],
+        [
+          "S008",
+          "1268018113236963443"
+        ],
+        [
+          "S090",
+          "1198388118697549874"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I13",
+        "I14",
+        "I15"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-018",
+      "title": "Beatriz, família real e Quimera",
+      "previous_text": "### ARC-018 — Beatriz, família real e Quimera\n\n**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Ymir, Beatriz, Henry, Rans, Berthold, Garius e irmã não nomeada de Beatriz.\n\n**Conflito:** Coma e busca de recuperação conduzem à revelação de linhagem e ao plano de resgatar a irmã sequestrada.\n\n**Resultado conhecido:** Beatriz desperta e recupera memória; Berthold confirma segunda princesa e relata sequestro da irmã. Ymir e ela chegam à cidade de elfos sem completar resgate.\n\n**Consequências:** Despertar e memória de Bia permitem nova viagem; irmã/Quimera e torneio de Milena continuam objetivos.\n\n**Pendências:** [PS-024](19-Matriz-Canon-Critico.md#ps-024); [PS-025](19-Matriz-Canon-Critico.md#ps-025); [PS-026](19-Matriz-Canon-Critico.md#ps-026).\n\n**Evidências:** [S023 · 1266899855322906676](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)\n\n**Evidências:** [S023 · 1265122213984473169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)",
+      "known_sources": [
+        "S023"
+      ],
+      "known_evidence": [
+        [
+          "S023",
+          "1266899855322906676"
+        ],
+        [
+          "S023",
+          "1267310497997389854"
+        ],
+        [
+          "S023",
+          "1268041570423406726"
+        ],
+        [
+          "S023",
+          "1265122213984473169"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I18",
+        "I19",
+        "I20",
+        "I21"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    },
+    {
+      "id": "ARC-019",
+      "title": "Michael e campanha de Mytria",
+      "previous_text": "### ARC-019 — Michael e campanha de Mytria\n\n**Estado:** ABERTO QUANDO A CAMPANHA PAROU. **Envolvidos:** Michael, Henry, Lucas Sevenheart, Gwierlan, Vermund e forças locais.\n\n**Conflito:** Buscar força e conquistar Piferme leva Michael ao campo de Mytria, onde alianças e hostilidade se confundem.\n\n**Resultado conhecido:** Rei de Mouran parte para fortalecer-se e conquistar Piferme; conflito de Vermund é último segmento.\n\n**Consequências:** A volta de Henry resolve sua presença viva; o conflito de Vermund deixa partida e conquista sem conclusão.\n\n**Pendências:** [PS-023](19-Matriz-Canon-Critico.md#ps-023); [PS-040](19-Matriz-Canon-Critico.md#ps-040).\n\n**Evidências:** [S170 · 1200291569543151726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s170); [S016 · 1252794260122636383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)\n\n**Evidências:** [S016 · 1250998141038104717](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1252794260122636383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)",
+      "known_sources": [
+        "S016",
+        "S023",
+        "S170"
+      ],
+      "known_evidence": [
+        [
+          "S170",
+          "1200291569543151726"
+        ],
+        [
+          "S016",
+          "1252794260122636383"
+        ],
+        [
+          "S016",
+          "1250998141038104717"
+        ],
+        [
+          "S023",
+          "1268041570423406726"
+        ],
+        [
+          "S023",
+          "1268041754809208842"
+        ],
+        [
+          "S023",
+          "1267310497997389854"
+        ],
+        [
+          "S023",
+          "1265129599449169931"
+        ]
+      ],
+      "status": "PARCIALMENTE REVISADO",
+      "actually_read_intervals": [
+        "I02"
+      ],
+      "remaining": "Revisão integral pendente; não concluir arco ou identificar entidade pela ausência de transição."
+    }
+  ],
+  "protagonists": [
+    {
+      "name": "Michael Uchiyama",
+      "status": "PARCIALMENTE REVISADO",
+      "intervals": [
+        "I02"
+      ],
+      "remaining": "S016 261–580, governos/expansão e trajetória anterior; B003",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "Rans",
+      "status": "PARCIALMENTE REVISADO",
+      "intervals": [
+        "I08",
+        "I09",
+        "I10",
+        "I11",
+        "I12"
+      ],
+      "remaining": "Antecedentes do Abismo, causa do estado de Hermione, falsa morte e vínculos anteriores; B003",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "Henry Chambers",
+      "status": "PARCIALMENTE REVISADO",
+      "intervals": [
+        "I01",
+        "I02",
+        "I18",
+        "I21"
+      ],
+      "remaining": "S016 261–580, passagens intermediárias, construções e relações anteriores; #mar vazio não prova desfecho",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "God-Zilla",
+      "status": "NÃO INICIADO",
+      "intervals": [],
+      "remaining": "Gotter/Árvore, caça e fontes anteriores; B003",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "Harry",
+      "status": "PARCIALMENTE REVISADO",
+      "intervals": [
+        "I13",
+        "I14",
+        "I15"
+      ],
+      "remaining": "S161 última cena nominal, antecedentes de Astro/Lyone e transição corporal",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "Kian / Lúcifer / Azazel",
+      "status": "PARCIALMENTE REVISADO",
+      "intervals": [
+        "I16",
+        "I17"
+      ],
+      "remaining": "S187 adulto/relatos OOC de morte; S182 Lúcifer; S013 231–2485 e poderes em contexto",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "Mulack",
+      "status": "PARCIALMENTE REVISADO",
+      "intervals": [
+        "I03",
+        "I04",
+        "I05",
+        "I06",
+        "I07"
+      ],
+      "remaining": "S158 0–1279 e percurso anterior; o trecho relevante da dungeon foi lido, perfil inteiro não",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "Bytes Sky",
+      "status": "NÃO INICIADO",
+      "intervals": [],
+      "remaining": "Nairóbi/favor/esfera, demais trajetórias; B003",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "EREN",
+      "status": "NÃO INICIADO",
+      "intervals": [],
+      "remaining": "Ana, títulos, arma e últimos estados; B003",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "Lilith Chipper",
+      "status": "NÃO INICIADO",
+      "intervals": [],
+      "remaining": "Hads, Emma, governos e últimos estados; B003",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "Ymir / Note",
+      "status": "PARCIALMENTE REVISADO",
+      "intervals": [
+        "I18",
+        "I19",
+        "I20",
+        "I21",
+        "I22",
+        "I23"
+      ],
+      "remaining": "S023 0–819, antecedentes de Bia/cidade; S001 241–1039; percurso anterior",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    },
+    {
+      "name": "Yakkatsu Tenshin",
+      "status": "NÃO INICIADO",
+      "intervals": [],
+      "remaining": "Bardock/Stwart/Inferno e últimos estados; B003",
+      "powers_B001": "PWR verificado não conclui trajetória factual"
+    }
+  ],
+  "rule": "Situação anterior e fontes conhecidas são herdadas para investigação, não certificadas como resultados novos. Não iniciado significa revisão factual ampla, não ausência de verificação PWR em B001. Todos os estados ainda pendentes permanecem investigáveis."
+}

@@ -1,4 +1,4 @@
-# Omissões, descobertas e correções — checkpoint B001
+# Omissões, descobertas e correções — checkpoints B001 e B002.1
 
 Auditoria independente de Dragons · 10/10/2026 · Etapa B iniciada, sem encerramento global.
 
@@ -97,3 +97,75 @@ Não alterados o registro DD-01–43, a auditoria 23 do PR #14, o panorama 22, a
 Antes do encerramento global: revisar morte/retorno de Henry, Harry/Astro, Kian adulto–bebê, dungeon completa, Ymir/Beatriz, Hermione/selo, Nairóbi/favor, últimos estados de todos; verificar NPCs/organizações/planos; reavaliar 40 PS e 39 CRIT, confrontar 19 ARC; validar todas as aprovações e produzir base temporal/pontes e parecer de prontidão. Registrar cobertura por intervalos e evidência, sem classificar lacuna como irrecuperável após uma busca curta.
 
 **Prontidão provisória: NÃO APTO para encerrar esta auditoria e liberar a construção histórica global.** O checkpoint não encontrou corrupção do corpus. Faltam verificações semânticas previstas no pedido, não decisões criativas imediatas do autor. Não se recomenda ainda escolher guerras, ascensões ou núcleos definitivos; a ordem acima é de investigação documental. Documentos C–E permanecem por produzir após análise, em vez de repetir a auditoria antiga como se fosse uma nova conferência integral.
+
+## Continuação B002.1 — checkpoint publicado, lote em andamento
+
+C acumulada: **4.542 IDs distintas**, das quais 4.105 novas neste checkpoint; 17 revisitas de B001 sem dupla contagem. Principal 4.384/89.155; poderes 158/158; cobertura combinada 5.085486%. D acumulada 3.973 (4.448401%), conservadora e separada. A/B permanecem concluídas; C/D parciais.
+
+[Relatório B002.1, intervalos e matrizes](26-Auditoria-B002-Continuidades-e-Varredura.md); [ledger](auditoria-fontes/triagem-B002.json); [cobertura por todas as fontes](auditoria-fontes/cobertura-acumulada.json); [plano sistemático](auditoria-fontes/plano-varredura.json). Números/tabela B001 acima permanecem históricos, não representam a cobertura atual.
+
+Cinco ocorrências OM-003–007: premissa de selo corrigida, experiência materna/divina recuperada, Philip/pesquisa racial incluídos, mercado Submundo delimitado e condição/afeto de Hermione qualificados. Dez PS, onze CRIT anteriores e sete ARC parcialmente investigados; CRIT-040 adicional. Sete protagonistas parcialmente revisados, cinco não iniciados no exame factual amplo; nenhum concluído.
+
+## Ocorrências B002.1
+
+### OM-003 — CASO 4 · importância ALTA
+
+**Formulação anterior:** Rans pede receber selo/auxílio de Feuhs; selo proposto não adquirido.
+
+**Evidência/contexto:** Pedido de remover seus próprios selos à voz que se apresenta como deusa/mãe. Não há execução narrada.
+
+**Fonte e mensagens:** [S003 · 1268024904721367103](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268026920851734598](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003).
+
+**Avaliação/confiança:** ALTA na correção factual; insuficiente no efeito.
+
+**Correção/pendência:** Bíblia perfil Rans/ARC-016, PS-038 e auditoria 23 corrigidos; CRIT-040 criado.
+
+### OM-004 — CASO 3 · importância ALTA
+
+**Formulação anterior:** Experiência materna/divina de Rans ausente da síntese; religião reduzida a alusões gerais.
+
+**Evidência/contexto:** Luz, clamores, pressão sobre alma, auréola e voz narrados; autoidentificação como deusa/mãe não prova ontologia universal.
+
+**Fonte e mensagens:** [S003 · 1268012124324495423](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268014702361968735](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268017801680125952](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268023655271501864](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268024014497124485](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003).
+
+**Avaliação/confiança:** ALTA como experiência narrada; identidade INCERTA.
+
+**Correção/pendência:** Acrescentada ao perfil e cosmologia, preservando original e R-C pendente na adaptação.
+
+### OM-005 — CASO 3 · importância ALTA
+
+**Formulação anterior:** Dungeon sintetizada por evacuação, rei goblin e término, sem Philip ou pesquisa racial.
+
+**Evidência/contexto:** Philip Glorian coordena grupo; laboratório conserva estudo de união de raças incompleto e descrição de experiência antiga. NPC pesquisador relata hipóteses; criatura final não identificada por palpite.
+
+**Fonte e mensagens:** [S158 · 1201247314430398575](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1201343623753637968](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1201348863215272056](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208218569981169665](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208234996578385950](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158).
+
+**Avaliação/confiança:** ALTA na presença/documento; limitada nas teorias do NPC.
+
+**Correção/pendência:** Perfil de Mulack ampliado com NPC e pesquisa, sem alterar morte contraditória ou sobrevivência adaptada.
+
+### OM-006 — CASO 2 · importância ALTA
+
+**Formulação anterior:** Submundo descrito como natureza não demonstrada, devastação sem delimitação espacial.
+
+**Evidência/contexto:** S008 apresenta mercado negro subterrâneo de Olta, acesso por alçapão e devastação desse espaço; não prova destruição de cidade ou plano inteiro.
+
+**Fonte e mensagens:** [S008 · 1266940783303327875](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1267990903079960598](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1267995370349396029](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268013849811091457](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268014413290536961](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008).
+
+**Avaliação/confiança:** ALTA no local/destruição narrados.
+
+**Correção/pendência:** Geografia, perfil Harry, CONT-020 e ARC-017 delimitados ao mercado local; associação Harry/Astro permanece provável.
+
+### OM-007 — CASO 2 / CASO 5 · importância MÉDIA
+
+**Formulação anterior:** Hermione sintetizada apenas inconsciente/protegida; origem dessa descrição não qualificada.
+
+**Evidência/contexto:** Reencontro e treino mostram afeto/atividade; inconsciência está na ação editada do jogador, sem transição causal ou cura/morte do mestre.
+
+**Fonte e mensagens:** [S003 · 1266925927590531114](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1266930702725812356](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268001974817919078](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003).
+
+**Avaliação/confiança:** ALTA nos registros; insuficiente na causa/desfecho.
+
+**Correção/pendência:** Perfil Rans e auditoria 23 recuperam afeto/atividade e qualificam estado; não inventam casamento nem cura.
+
+B002 continua aberto pelos intervalos explicitamente pendentes. B003 está planejado, não executado. Prontidão global provisória NÃO APTO por cobertura insuficiente; decisões criativas protegidas. [Validação deste checkpoint](auditoria-fontes/validacao-B002.json).
