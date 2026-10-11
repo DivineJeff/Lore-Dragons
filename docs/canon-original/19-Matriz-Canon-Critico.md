@@ -12,6 +12,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 ## Afirmações de alto impacto
 
+<a id="crit-001"></a>
+
 ### CRIT-001 — Rans sobrevive e retorna publicamente
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
@@ -22,6 +24,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S165 · 1198445470985502842](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S165 · 1198445522307006495](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S165 · 1198445925828411494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165)
 
+<a id="crit-002"></a>
+
 ### CRIT-002 — Lilith → Hads → Lilith
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
@@ -30,6 +34,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S166 · 1198780690678960128](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)
 
+<a id="crit-003"></a>
+
 ### CRIT-003 — Henry morre em maio e reaparece em junho
 
 **Classificação:** CONFIRMADO; causa do retorno INCERTA. **Confiança:** ALTA.
@@ -37,6 +43,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Morte e cura falha foram narradas; salvador mencionado depois não identificado.
 
 **Evidências:** [S187 · 1239359270206836776](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1239380369401315428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S016 · 1250998141038104717](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016); [S016 · 1250999274251091999](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)
+
+<a id="crit-004"></a>
 
 ### CRIT-004 — Mulack: morte / armadura intacta / memorial
 
@@ -48,6 +56,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S158 · 1208614984473518100](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616829837377536](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S198 · 1208627532962992218](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198)
 
+<a id="crit-005"></a>
+
 ### CRIT-005 — Astro associado a Harry
 
 **Classificação:** PROVÁVEL. **Confiança:** MÉDIA.
@@ -55,6 +65,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Indicação OOC contextual; transição corporal não recuperada.
 
 **Evidências:** [S008 · 1267301422656000131](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)
+
+<a id="crit-006"></a>
 
 ### CRIT-006 — Kian/Lúcifer/Azazel é continuidade confirmada externamente
 
@@ -66,6 +78,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S187 · 1237586151188205609](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187)
 
+<a id="crit-007"></a>
+
 ### CRIT-007 — Note é Ymir, antes da máscara
 
 **Classificação:** CONFIRMADO externamente e em cenas. **Confiança:** ALTA.
@@ -76,6 +90,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S185 · 1222374089239564358](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S185 · 1222558973627203715](../pesquisa/fase-3/Fontes-e-Evidencias.md#s185); [S005 · 1231745941833384046](../pesquisa/fase-3/Fontes-e-Evidencias.md#s005)
 
+<a id="crit-008"></a>
+
 ### CRIT-008 — Ellen resgatada viva
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
@@ -83,6 +99,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Sequestro não continua aberto depois do resgate.
 
 **Evidências:** [S156 · 1199897639605522472](../pesquisa/fase-3/Fontes-e-Evidencias.md#s156); [S156 · 1199899589680042096](../pesquisa/fase-3/Fontes-e-Evidencias.md#s156)
+
+<a id="crit-009"></a>
 
 ### CRIT-009 — Gwierlan vivo; Michael rei
 
@@ -92,6 +110,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S166 · 1198752996205543474](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S170 · 1200291569543151726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s170); [S175 · 1239388643655684217](../pesquisa/fase-3/Fontes-e-Evidencias.md#s175); [S016 · 1248815455267979354](../pesquisa/fase-3/Fontes-e-Evidencias.md#s016)
 
+<a id="crit-010"></a>
+
 ### CRIT-010 — Quarto altar destruído pela besta
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
@@ -100,6 +120,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S166 · 1198477678152523786](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198478776720433192](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198478946304528474](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198479032229048440](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)
 
+<a id="crit-011"></a>
+
 ### CRIT-011 — Terceiro altar e contagem global
 
 **Classificação:** RELATO confirmado; enumeração CONTRADITÓRIA. **Confiança:** ALTA no relato; limitada na execução.
@@ -107,6 +129,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** A divisão de equipes é informada por Patrick; o plano e o reencontro não substituem uma cena de execução do terceiro altar.
 
 **Evidências:** [S073 · 1197731524968206356](../pesquisa/fase-3/Fontes-e-Evidencias.md#s073); [S165 · 1198449728661229683](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165)
+
+<a id="crit-012"></a>
 
 ### CRIT-012 — Ritual e Patrick
 
@@ -118,6 +142,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S123 · 1198742730063499304](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123); [S123 · 1198743155038748862](../pesquisa/fase-3/Fontes-e-Evidencias.md#s123)
 
+<a id="crit-013"></a>
+
 ### CRIT-013 — Karl morto; Edward foge
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
@@ -128,6 +154,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S166 · 1198745355429347439](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198749803253878844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198750017406640260](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S166 · 1198753167433809981](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166)
 
+<a id="crit-014"></a>
+
 ### CRIT-014 — Marca: permanência confirmada e última referência de Henry
 
 **Classificação:** CONFIRMADO na permanência narrada anterior; referência de 20/01 é DIÁLOGO de Henry; remoção INCERTA. **Confiança:** ALTA na distinção das fontes.
@@ -135,6 +163,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** O mestre confirma marcas em janeiro; Henry volta a mencioná-las em 20/01, sem nova inspeção do narrador. Ausência posterior não comprova remoção nem mecanismo de emancipação.
 
 **Evidências:** [S094 · 1191959455018000494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s094); [S074 · 1198439257870700574](../pesquisa/fase-3/Fontes-e-Evidencias.md#s074)
+
+<a id="crit-015"></a>
 
 ### CRIT-015 — Garold morre e Lilith governa
 
@@ -144,6 +174,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S151 · 1210391082655813742](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151); [S151 · 1210392089955799050](../pesquisa/fase-3/Fontes-e-Evidencias.md#s151)
 
+<a id="crit-016"></a>
+
 ### CRIT-016 — Wilbur e Dimitri
 
 **Classificação:** CONFIRMADO com retcon delimitado. **Confiança:** ALTA.
@@ -151,6 +183,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Morte coletiva antiga de Wilbur anulada; fevereiro válido. Dimitri capturado vivo.
 
 **Evidências:** [S161 · 1212921304345346048](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161); [S161 · 1212959564643700736](../pesquisa/fase-3/Fontes-e-Evidencias.md#s161)
+
+<a id="crit-017"></a>
 
 ### CRIT-017 — God: auxílio à Árvore e última caçada
 
@@ -160,6 +194,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S133 · 1208940761857392652](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S133 · 1208941116779663360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S133 · 1208942009910427669](../pesquisa/fase-3/Fontes-e-Evidencias.md#s133); [S135 · 1212919221399326760](../pesquisa/fase-3/Fontes-e-Evidencias.md#s135)
 
+<a id="crit-018"></a>
+
 ### CRIT-018 — Henry recusa Fogo Demoníaco
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
@@ -167,6 +203,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Oferta/possibilidade não concede habilidade.
 
 **Evidências:** [S178 · 1215148628428201984](../pesquisa/fase-3/Fontes-e-Evidencias.md#s178)
+
+<a id="crit-019"></a>
 
 ### CRIT-019 — Yakkatsu: Linhas, Bardock e Inferno
 
@@ -178,6 +216,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S081 · 1198096195873165383](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081); [S081 · 1198096352542982204](../pesquisa/fase-3/Fontes-e-Evidencias.md#s081)
 
+<a id="crit-020"></a>
+
 ### CRIT-020 — Bytes: favor e esfera
 
 **Classificação:** CONFIRMADO na assinatura/toque; efeitos INCERTOS. **Confiança:** ALTA no ato.
@@ -185,6 +225,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Não afirmar venda da alma ou absorção final.
 
 **Evidências:** [S173 · 1225893559023173673](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S174 · 1239764239644626994](../pesquisa/fase-3/Fontes-e-Evidencias.md#s174)
+
+<a id="crit-021"></a>
 
 ### CRIT-021 — Bytes e Nairóbi
 
@@ -194,6 +236,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S173 · 1223443843068727428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S173 · 1226338374235984012](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S014 · 1254259539386044456](../pesquisa/fase-3/Fontes-e-Evidencias.md#s014)
 
+<a id="crit-022"></a>
+
 ### CRIT-022 — Beatriz viva, princesa e recuperada
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
@@ -201,6 +245,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Impostora demoníaca não é Bia real; pernas curadas, braço de Ymir ausente.
 
 **Evidências:** [S001 · 1249904508159397970](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1265122213984473169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265129599449169931](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266899855322906676](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
+
+<a id="crit-023"></a>
 
 ### CRIT-023 — Emma e raízes
 
@@ -210,6 +256,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S173 · 1232871127362179122](../pesquisa/fase-3/Fontes-e-Evidencias.md#s173); [S002 · 1249897869536923711](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)
 
+<a id="crit-024"></a>
+
 ### CRIT-024 — Pantera e Quimera
 
 **Classificação:** CONFIRMADO no resultado local / plano. **Confiança:** ALTA.
@@ -217,6 +265,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Líder Pantera escapa; irmã de Bia não resgatada no corpus.
 
 **Evidências:** [S172 · 1221613735551045743](../pesquisa/fase-3/Fontes-e-Evidencias.md#s172); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
+
+<a id="crit-025"></a>
 
 ### CRIT-025 — Deus Dragão e Deus Demônio
 
@@ -228,6 +278,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S187 · 1237568074702655519](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S057 · 1186017251208482906](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057)
 
+<a id="crit-026"></a>
+
 ### CRIT-026 — Westia e velho de maio
 
 **Classificação:** RETIFICAÇÃO CONFIRMADA. **Confiança:** ALTA.
@@ -238,6 +290,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S187 · 1239387756665376841](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S187 · 1239387789804703764](../pesquisa/fase-3/Fontes-e-Evidencias.md#s187); [S013 · 1255327101939220512](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
 
+<a id="crit-027"></a>
+
 ### CRIT-027 — MUTON, Sexto Sentido e livros
 
 **Classificação:** CONFIRMADO em condições locais. **Confiança:** ALTA.
@@ -245,6 +299,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** MUTON 31; percepção seis metros; memorizar não aprender todas as magias.
 
 **Evidências:** [S001 · 1249112487421284494](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249503535641526303](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S023 · 1265827259483164723](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
+
+<a id="crit-028"></a>
 
 ### CRIT-028 — Henry em canal vazio
 
@@ -254,6 +310,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S023 · 1268003258262093956](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
 
+<a id="crit-029"></a>
+
 ### CRIT-029 — Fim recuperável
 
 **Classificação:** CONFIRMADO. **Confiança:** ALTA.
@@ -261,6 +319,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Cidade dos elfos e fim da sessão; não final da campanha.
 
 **Evidências:** [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041754809208842](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
+
+<a id="crit-030"></a>
 
 ### CRIT-030 — Natureza de Kian: concessão e contestação
 
@@ -270,6 +330,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S032 · 1184265308962312352](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S032 · 1184324331652792400](../pesquisa/fase-3/Fontes-e-Evidencias.md#s032); [S184 · 1236832232782561360](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184); [S184 · 1236836865416364124](../pesquisa/fase-3/Fontes-e-Evidencias.md#s184)
 
+<a id="crit-031"></a>
+
 ### CRIT-031 — Ceifador, Froid e Tengetsu
 
 **Classificação:** RELATOS DIVERGENTES; morte NÃO CONFIRMADA. **Confiança:** ALTA nos registros; limitada na explicação ausente.
@@ -277,6 +339,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Froid afirma morte, Tamura/jornal a contestam; abandono temporário da missão não é morte do inimigo ou dissolução de Tengetsu.
 
 **Evidências:** [S001 · 1248786801670226024](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249170015576526909](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1249464028150104148](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001)
+
+<a id="crit-032"></a>
 
 ### CRIT-032 — Sombras do orbe de Piferme
 
@@ -286,6 +350,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S002 · 1244459783503745125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1246253681834332170](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002); [S002 · 1245904587211280395](../pesquisa/fase-3/Fontes-e-Evidencias.md#s002)
 
+<a id="crit-033"></a>
+
 ### CRIT-033 — Previsão de Ymir
 
 **Classificação:** RETIFICAÇÃO CONFIRMADA. **Confiança:** ALTA nos registros; limitada na explicação ausente.
@@ -293,6 +359,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** A aparente morte antecipada é substituída por previsão de meio segundo e desvio. Não registrar morte/ressurreição; preservar esgotamento neural.
 
 **Evidências:** [S001 · 1245888265760931911](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245888349609263136](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245889280623116381](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001); [S001 · 1245890328955981825](../pesquisa/fase-3/Fontes-e-Evidencias.md#s001)
+
+<a id="crit-034"></a>
 
 ### CRIT-034 — Henry/Harry no núcleo inicial
 
@@ -302,6 +370,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S039 · 1183195784804581479](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S039 · 1183197752688132127](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039); [S039 · 1183197856987889744](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039)
 
+<a id="crit-035"></a>
+
 ### CRIT-035 — Crescimento lunar de Henry
 
 **Classificação:** REVISÃO LOCAL CONFIRMADA. **Confiança:** ALTA nos registros; limitada na explicação ausente.
@@ -309,6 +379,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Narrativa de crescimento seguida por comentário de que aquela quantidade de energia não deveria ampliá-lo tanto; não derivar regra numérica permanente.
 
 **Evidências:** [S046 · 1185998150079614996](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S046 · 1186008195597078659](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046)
+
+<a id="crit-036"></a>
 
 ### CRIT-036 — Controle Magnético de Lilith
 
@@ -318,6 +390,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S039 · 1183199722740138055](../pesquisa/fase-3/Fontes-e-Evidencias.md#s039)
 
+<a id="crit-037"></a>
+
 ### CRIT-037 — Mortes e controles alheios no final de S046
 
 **Classificação:** SEM RESULTADO VALIDADO. **Confiança:** ALTA nos registros; limitada na explicação ausente.
@@ -326,6 +400,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 
 **Evidências:** [S046 · 1186029844811759677](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046); [S046 · 1186030034062950412](../pesquisa/fase-3/Fontes-e-Evidencias.md#s046)
 
+<a id="crit-038"></a>
+
 ### CRIT-038 — Ária, Draconia e sugadores de alma
 
 **Classificação:** INVOCAÇÃO / RELATO, com efeitos locais demonstrados. **Confiança:** ALTA nos registros; limitada na explicação ausente.
@@ -333,6 +409,8 @@ Fase 4 · Revisão 3 · 10/10/2026
 **Consequência editorial:** Invocação e cura não demonstram aparição de Ária; morte de princesa e natureza dos sugadores são relatos sem execução ou cosmologia universal confirmadas.
 
 **Evidências:** [S070 · 1183191185150460044](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S057 · 1185997850581139517](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S057 · 1186013046045413486](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S013 · 1238664540514811954](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013)
+
+<a id="crit-039"></a>
 
 ### CRIT-039 — Primeira alegação de morte de Mulack versus dungeon final
 
@@ -874,11 +952,11 @@ A categoria descreve o destino da pergunta no material disponível. “Resolvida
 
 **Estado:** ABERTA QUANDO A CAMPANHA PAROU.
 
-**Pergunta:** Hermione morreu? Rans recebeu o selo solicitado?
+**Pergunta:** Qual o destino de Hermione e houve remoção dos selos solicitada por Rans à voz materna/divina?
 
 **Envolvidos:** Rans, Hermione e Feuhs Beronth.
 
-**Resposta recuperável:** Hermione inconsciente levada à Paróquia, não morta; Rans pede selo mas último mestre só o mostra acordando. Passagem prévia do Abismo é insuficiente.
+**Resposta recuperável:** Hermione participa de reencontro e treino, depois é descrita desacordada na ação editada do jogador que a carrega. Feuhs é humano; na experiência narrada uma voz se apresenta como deusa/mãe e Rans pede remoção de seus selos. Mestre termina com despertar em cama, sem cura/morte dela nem remoção demonstradas. Origem da voz e ponte prévia do Abismo permanecem abertas. Correção OM-003/004/007: o pedido não era receber um selo de Feuhs. [S003 · 1268024904721367103](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003).
 
 **Evidências:** [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003)
 
@@ -925,3 +1003,13 @@ Uma nova conclusão deve identificar fonte, mensagem, natureza da evidência e a
 - [Fontes](../pesquisa/fase-3/Fontes-e-Evidencias.md)
 
 **Revisão 3 — 10/10/2026:** OM-002 acrescenta a manifestação retrospectiva do mestre a CRIT-004 e PS-020; CONTRADITÓRIO/CONTRADIÇÃO NÃO RESOLVIDA preservados. [Registro e limites do lote](../canon-adaptado/25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md). Os demais 39 PS não receberam reavaliação semântica nesta revisão.
+
+<a id="crit-040"></a>
+
+### CRIT-040 — Rans: pedido de remoção e voz materna/divina
+
+**Classificação:** Pedido de remoção CONFIRMADO; execução e identidade da voz INCERTAS. **Confiança:** ALTA nos registros, insuficiente para ontologia.
+
+**Consequência editorial:** Corrige a premissa de aquisição de selo de Feuhs. Preserva a experiência extraordinária narrada e sua autoidentificação sem transformá-la em autoridade divina universal. Hermione não recebe cura pelo despertar de Rans. Ponto adicional de B002.1, sem renumerar CRIT-001–039.
+
+**Evidências:** [S003 · 1268012124324495423](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268023655271501864](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268024904721367103](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003).

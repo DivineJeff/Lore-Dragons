@@ -1,8 +1,8 @@
 # Auditoria de cobertura e integridade das fontes — Etapa A
 
-**Estado:** Etapa A concluída; Etapa B iniciada com lote B001. Auditoria final inteira ainda em andamento. Esta entrega não autoriza os grandes acontecimentos definitivos nem a Fase 6. A ressalva do PR #14 foi investigada, preservada e aprofundada; não foi descartada.
+**Estado atual:** Etapa A concluída; B001 concluído; checkpoint B002.1 concluído e lote B002 em andamento. Auditoria final inteira ainda em andamento. Esta entrega não autoriza os grandes acontecimentos definitivos nem a Fase 6. A ressalva do PR #14 foi investigada, preservada e aprofundada; não foi descartada.
 
-## Base remota e preservação
+## Base histórica do B001 e preservação
 
 Main examinada: `db7134a506ae52ba4e5bc9686af66bb8a09cbf6d`, merge do [PR #14](https://github.com/DivineJeff/Lore-Dragons/pull/14). O [PR #13](https://github.com/DivineJeff/Lore-Dragons/pull/13) está mesclado em `e9367b73b926328705e945b8f8f2180a1c61ffd1`; PRs #1–14 possuem data de integração. Inventário da base: 40 blobs, 32 Markdown e oito ZIPs. A cópia local foi reconciliada com os dois acréscimos do PR #14 e todos os blobs comparados por hash Git antes de criar a branch desta auditoria. Nenhum ZIP foi alterado. Diferenças entre versões de documentos foram preservadas pelo histórico.
 
@@ -312,3 +312,14 @@ Próximo lote: morte/retorno de Henry; Harry–Astro; adulto–bebê de Kian; t�
 ## Validação editorial do checkpoint
 
 O [relatório de validação](auditoria-fontes/validacao-checkpoint.json) registra 2.128 links relativos/âncoras, 976 referências fonte–ID na versão corrigida, 437 hashes do ledger e 34 blobs anteriores protegidos, incluindo todos os oito ZIPs e o registro de decisões. Sem erros nesses controles. A contagem de referências da base anterior (967) permanece distinta da versão corrigida. Os testes não certificam a revisão semântica integral.
+
+## Continuação B002.1 — checkpoint publicado, lote em andamento
+
+C acumulada: **4.542 IDs distintas**, das quais 4.105 novas neste checkpoint; 17 revisitas de B001 sem dupla contagem. Principal 4.384/89.155; poderes 158/158; cobertura combinada 5.085486%. D acumulada 3.973 (4.448401%), conservadora e separada. A/B permanecem concluídas; C/D parciais.
+
+[Relatório B002.1, intervalos e matrizes](26-Auditoria-B002-Continuidades-e-Varredura.md); [ledger](auditoria-fontes/triagem-B002.json); [cobertura por todas as fontes](auditoria-fontes/cobertura-acumulada.json); [plano sistemático](auditoria-fontes/plano-varredura.json). Números/tabela B001 acima permanecem históricos, não representam a cobertura atual.
+
+Cinco ocorrências OM-003–007: premissa de selo corrigida, experiência materna/divina recuperada, Philip/pesquisa racial incluídos, mercado Submundo delimitado e condição/afeto de Hermione qualificados. Dez PS, onze CRIT anteriores e sete ARC parcialmente investigados; CRIT-040 adicional. Sete protagonistas parcialmente revisados, cinco não iniciados no exame factual amplo; nenhum concluído.
+
+
+B002 continua aberto pelos intervalos explicitamente pendentes. B003 está planejado, não executado. Prontidão global provisória NÃO APTO por cobertura insuficiente; decisões criativas protegidas. [Validação deste checkpoint](auditoria-fontes/validacao-B002.json).

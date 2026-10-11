@@ -1,0 +1,8019 @@
+{
+  "method": "S001–S202 em ordem, núcleos de até 200 mensagens e pelo menos 5 de contexto antes/depois, estendidos para continuidade de cena. Revisitas nunca contam como novas. O núcleo pode estar triado sem confronto D integral.",
+  "empty_sources": [
+    "S006",
+    "S007",
+    "S009",
+    "S011",
+    "S015",
+    "S017",
+    "S018",
+    "S019",
+    "S020",
+    "S021",
+    "S109",
+    "S147",
+    "S163",
+    "S177",
+    "S180",
+    "S190"
+  ],
+  "PWR": "PWR001–PWR012 integralmente triadas e confrontadas em B001; não reiniciar.",
+  "next_systematic": "S001 241–399, com contexto 236–404; depois 400–599, 600–799, 800–999 e 1000–1039; recuperar fechamento real antes de passar a S002.",
+  "intervals": [
+    {
+      "source": "S001",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S001",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 41,
+      "remaining_in_core": 159,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S001",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S001",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S001",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S001",
+      "core": [
+        1000,
+        1039
+      ],
+      "context": [
+        995,
+        1039
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 40,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S002",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S002",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S002",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S002",
+      "core": [
+        600,
+        782
+      ],
+      "context": [
+        595,
+        782
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 183,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S003",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S003",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S003",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S003",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S003",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S003",
+      "core": [
+        1000,
+        1015
+      ],
+      "context": [
+        995,
+        1015
+      ],
+      "C_reviewed_in_core": 16,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S004",
+      "core": [
+        0,
+        57
+      ],
+      "context": [
+        0,
+        57
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 58,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S005",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S005",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S005",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S005",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S005",
+      "core": [
+        800,
+        990
+      ],
+      "context": [
+        795,
+        990
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 191,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S008",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S008",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S008",
+      "core": [
+        400,
+        470
+      ],
+      "context": [
+        395,
+        470
+      ],
+      "C_reviewed_in_core": 71,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S010",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S010",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S010",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S010",
+      "core": [
+        600,
+        634
+      ],
+      "context": [
+        595,
+        634
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 35,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S012",
+      "core": [
+        0,
+        69
+      ],
+      "context": [
+        0,
+        69
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 70,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S013",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 31,
+      "remaining_in_core": 169,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S013",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        2000,
+        2199
+      ],
+      "context": [
+        1995,
+        2204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        2200,
+        2399
+      ],
+      "context": [
+        2195,
+        2404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S013",
+      "core": [
+        2400,
+        2485
+      ],
+      "context": [
+        2395,
+        2485
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 86,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S014",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S014",
+      "core": [
+        200,
+        243
+      ],
+      "context": [
+        195,
+        243
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 44,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S016",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S016",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 61,
+      "remaining_in_core": 139,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S016",
+      "core": [
+        400,
+        580
+      ],
+      "context": [
+        395,
+        580
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 181,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S022",
+      "core": [
+        2000,
+        2040
+      ],
+      "context": [
+        1995,
+        2040
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 41,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S023",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S023",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S023",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S023",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S023",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 180,
+      "remaining_in_core": 20,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S023",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S023",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S023",
+      "core": [
+        1400,
+        1556
+      ],
+      "context": [
+        1395,
+        1556
+      ],
+      "C_reviewed_in_core": 157,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S024",
+      "core": [
+        0,
+        60
+      ],
+      "context": [
+        0,
+        60
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 61,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 10,
+      "remaining_in_core": 190,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S025",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 5,
+      "remaining_in_core": 195,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S025",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 10,
+      "remaining_in_core": 190,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S025",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 5,
+      "remaining_in_core": 195,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S025",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        2000,
+        2199
+      ],
+      "context": [
+        1995,
+        2204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        2200,
+        2399
+      ],
+      "context": [
+        2195,
+        2404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        2400,
+        2599
+      ],
+      "context": [
+        2395,
+        2604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        2600,
+        2799
+      ],
+      "context": [
+        2595,
+        2804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        2800,
+        2999
+      ],
+      "context": [
+        2795,
+        3004
+      ],
+      "C_reviewed_in_core": 15,
+      "remaining_in_core": 185,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S025",
+      "core": [
+        3000,
+        3199
+      ],
+      "context": [
+        2995,
+        3204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        3200,
+        3399
+      ],
+      "context": [
+        3195,
+        3404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        3400,
+        3599
+      ],
+      "context": [
+        3395,
+        3604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        3600,
+        3799
+      ],
+      "context": [
+        3595,
+        3804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        3800,
+        3999
+      ],
+      "context": [
+        3795,
+        4004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        4000,
+        4199
+      ],
+      "context": [
+        3995,
+        4204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        4200,
+        4399
+      ],
+      "context": [
+        4195,
+        4404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        4400,
+        4599
+      ],
+      "context": [
+        4395,
+        4604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        4600,
+        4799
+      ],
+      "context": [
+        4595,
+        4804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        4800,
+        4999
+      ],
+      "context": [
+        4795,
+        5004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        5000,
+        5199
+      ],
+      "context": [
+        4995,
+        5204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        5200,
+        5399
+      ],
+      "context": [
+        5195,
+        5404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        5400,
+        5599
+      ],
+      "context": [
+        5395,
+        5604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        5600,
+        5799
+      ],
+      "context": [
+        5595,
+        5804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        5800,
+        5999
+      ],
+      "context": [
+        5795,
+        6004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        6000,
+        6199
+      ],
+      "context": [
+        5995,
+        6204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S025",
+      "core": [
+        6200,
+        6399
+      ],
+      "context": [
+        6195,
+        6404
+      ],
+      "C_reviewed_in_core": 20,
+      "remaining_in_core": 180,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S025",
+      "core": [
+        6400,
+        6427
+      ],
+      "context": [
+        6395,
+        6427
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 28,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S026",
+      "core": [
+        0,
+        24
+      ],
+      "context": [
+        0,
+        24
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 25,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S027",
+      "core": [
+        0,
+        4
+      ],
+      "context": [
+        0,
+        4
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 5,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S028",
+      "core": [
+        0,
+        162
+      ],
+      "context": [
+        0,
+        162
+      ],
+      "C_reviewed_in_core": 5,
+      "remaining_in_core": 158,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S029",
+      "core": [
+        0,
+        17
+      ],
+      "context": [
+        0,
+        17
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 18,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S030",
+      "core": [
+        0,
+        2
+      ],
+      "context": [
+        0,
+        2
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 3,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S031",
+      "core": [
+        0,
+        5
+      ],
+      "context": [
+        0,
+        5
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 6,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S032",
+      "core": [
+        0,
+        196
+      ],
+      "context": [
+        0,
+        196
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 197,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S033",
+      "core": [
+        0,
+        6
+      ],
+      "context": [
+        0,
+        6
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 7,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S034",
+      "core": [
+        0,
+        29
+      ],
+      "context": [
+        0,
+        29
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 30,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S035",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S035",
+      "core": [
+        200,
+        262
+      ],
+      "context": [
+        195,
+        262
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 63,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S036",
+      "core": [
+        0,
+        27
+      ],
+      "context": [
+        0,
+        27
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 28,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S037",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S037",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 15,
+      "remaining_in_core": 185,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S037",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S037",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S037",
+      "core": [
+        800,
+        937
+      ],
+      "context": [
+        795,
+        937
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 138,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S038",
+      "core": [
+        0,
+        36
+      ],
+      "context": [
+        0,
+        36
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 37,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S039",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S039",
+      "core": [
+        200,
+        247
+      ],
+      "context": [
+        195,
+        247
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 48,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S040",
+      "core": [
+        0,
+        12
+      ],
+      "context": [
+        0,
+        12
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 13,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S041",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S041",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S041",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S041",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S041",
+      "core": [
+        800,
+        930
+      ],
+      "context": [
+        795,
+        930
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 131,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S042",
+      "core": [
+        0,
+        8
+      ],
+      "context": [
+        0,
+        8
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 9,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S043",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S043",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S043",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S043",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S043",
+      "core": [
+        800,
+        847
+      ],
+      "context": [
+        795,
+        847
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 48,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S044",
+      "core": [
+        0,
+        63
+      ],
+      "context": [
+        0,
+        63
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 64,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S045",
+      "core": [
+        0,
+        20
+      ],
+      "context": [
+        0,
+        20
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 21,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S046",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S046",
+      "core": [
+        200,
+        284
+      ],
+      "context": [
+        195,
+        284
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 85,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S047",
+      "core": [
+        0,
+        184
+      ],
+      "context": [
+        0,
+        184
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 185,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S048",
+      "core": [
+        0,
+        8
+      ],
+      "context": [
+        0,
+        8
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 9,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S049",
+      "core": [
+        0,
+        81
+      ],
+      "context": [
+        0,
+        81
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 82,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S050",
+      "core": [
+        0,
+        25
+      ],
+      "context": [
+        0,
+        25
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 26,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S051",
+      "core": [
+        0,
+        8
+      ],
+      "context": [
+        0,
+        8
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 9,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S052",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S052",
+      "core": [
+        200,
+        233
+      ],
+      "context": [
+        195,
+        233
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 34,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S053",
+      "core": [
+        0,
+        8
+      ],
+      "context": [
+        0,
+        8
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 9,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S054",
+      "core": [
+        0,
+        25
+      ],
+      "context": [
+        0,
+        25
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 26,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S055",
+      "core": [
+        0,
+        14
+      ],
+      "context": [
+        0,
+        14
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 15,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S056",
+      "core": [
+        0,
+        42
+      ],
+      "context": [
+        0,
+        42
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 43,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S057",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S057",
+      "core": [
+        200,
+        360
+      ],
+      "context": [
+        195,
+        360
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 161,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S058",
+      "core": [
+        0,
+        5
+      ],
+      "context": [
+        0,
+        5
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 6,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S059",
+      "core": [
+        0,
+        52
+      ],
+      "context": [
+        0,
+        52
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 53,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S060",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S060",
+      "core": [
+        200,
+        221
+      ],
+      "context": [
+        195,
+        221
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 22,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S061",
+      "core": [
+        0,
+        10
+      ],
+      "context": [
+        0,
+        10
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 11,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S062",
+      "core": [
+        0,
+        16
+      ],
+      "context": [
+        0,
+        16
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 17,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S063",
+      "core": [
+        0,
+        9
+      ],
+      "context": [
+        0,
+        9
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 10,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S064",
+      "core": [
+        0,
+        123
+      ],
+      "context": [
+        0,
+        123
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 124,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S065",
+      "core": [
+        0,
+        20
+      ],
+      "context": [
+        0,
+        20
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 21,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S066",
+      "core": [
+        0,
+        76
+      ],
+      "context": [
+        0,
+        76
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 77,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S067",
+      "core": [
+        0,
+        28
+      ],
+      "context": [
+        0,
+        28
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 29,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S068",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 5,
+      "remaining_in_core": 195,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S068",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S068",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S068",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S068",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S068",
+      "core": [
+        1000,
+        1120
+      ],
+      "context": [
+        995,
+        1120
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 121,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S069",
+      "core": [
+        0,
+        10
+      ],
+      "context": [
+        0,
+        10
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 11,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S070",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S070",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S070",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S070",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        801
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S070",
+      "core": [
+        800,
+        801
+      ],
+      "context": [
+        795,
+        801
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 2,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S071",
+      "core": [
+        0,
+        0
+      ],
+      "context": [
+        0,
+        0
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 1,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S072",
+      "core": [
+        0,
+        13
+      ],
+      "context": [
+        0,
+        13
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 14,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S073",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S073",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S073",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S073",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S073",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S073",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S073",
+      "core": [
+        1200,
+        1389
+      ],
+      "context": [
+        1195,
+        1389
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 190,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S074",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S074",
+      "core": [
+        200,
+        276
+      ],
+      "context": [
+        195,
+        276
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 77,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S075",
+      "core": [
+        0,
+        174
+      ],
+      "context": [
+        0,
+        174
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 175,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S076",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S076",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S076",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S076",
+      "core": [
+        600,
+        791
+      ],
+      "context": [
+        595,
+        791
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 192,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S077",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S077",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S077",
+      "core": [
+        400,
+        413
+      ],
+      "context": [
+        395,
+        413
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 14,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S078",
+      "core": [
+        0,
+        4
+      ],
+      "context": [
+        0,
+        4
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 5,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S079",
+      "core": [
+        0,
+        5
+      ],
+      "context": [
+        0,
+        5
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 6,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S080",
+      "core": [
+        0,
+        110
+      ],
+      "context": [
+        0,
+        110
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 111,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S081",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S081",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S081",
+      "core": [
+        400,
+        570
+      ],
+      "context": [
+        395,
+        570
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 171,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S082",
+      "core": [
+        0,
+        5
+      ],
+      "context": [
+        0,
+        5
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 6,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S083",
+      "core": [
+        0,
+        14
+      ],
+      "context": [
+        0,
+        14
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 15,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S084",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S084",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S084",
+      "core": [
+        400,
+        463
+      ],
+      "context": [
+        395,
+        463
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 64,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S085",
+      "core": [
+        0,
+        16
+      ],
+      "context": [
+        0,
+        16
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 17,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        2000,
+        2199
+      ],
+      "context": [
+        1995,
+        2204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        2200,
+        2399
+      ],
+      "context": [
+        2195,
+        2404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        2400,
+        2599
+      ],
+      "context": [
+        2395,
+        2604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        2600,
+        2799
+      ],
+      "context": [
+        2595,
+        2804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        2800,
+        2999
+      ],
+      "context": [
+        2795,
+        3004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        3000,
+        3199
+      ],
+      "context": [
+        2995,
+        3204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        3200,
+        3399
+      ],
+      "context": [
+        3195,
+        3404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        3400,
+        3599
+      ],
+      "context": [
+        3395,
+        3604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        3600,
+        3799
+      ],
+      "context": [
+        3595,
+        3804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        3800,
+        3999
+      ],
+      "context": [
+        3795,
+        4004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S086",
+      "core": [
+        4000,
+        4065
+      ],
+      "context": [
+        3995,
+        4065
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 66,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S087",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S087",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S087",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S087",
+      "core": [
+        600,
+        773
+      ],
+      "context": [
+        595,
+        773
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 174,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S088",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S088",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S088",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S088",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S088",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S088",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S088",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S088",
+      "core": [
+        1400,
+        1453
+      ],
+      "context": [
+        1395,
+        1453
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 54,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        2000,
+        2199
+      ],
+      "context": [
+        1995,
+        2204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S089",
+      "core": [
+        2200,
+        2216
+      ],
+      "context": [
+        2195,
+        2216
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 17,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S090",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S090",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S090",
+      "core": [
+        400,
+        427
+      ],
+      "context": [
+        395,
+        427
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 28,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S091",
+      "core": [
+        0,
+        35
+      ],
+      "context": [
+        0,
+        35
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 36,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S092",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S092",
+      "core": [
+        200,
+        299
+      ],
+      "context": [
+        195,
+        299
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 100,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S093",
+      "core": [
+        0,
+        48
+      ],
+      "context": [
+        0,
+        48
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 49,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S094",
+      "core": [
+        0,
+        108
+      ],
+      "context": [
+        0,
+        108
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 109,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S095",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S095",
+      "core": [
+        200,
+        347
+      ],
+      "context": [
+        195,
+        347
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 148,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S096",
+      "core": [
+        0,
+        102
+      ],
+      "context": [
+        0,
+        102
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 103,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S097",
+      "core": [
+        0,
+        49
+      ],
+      "context": [
+        0,
+        49
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 50,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S098",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S098",
+      "core": [
+        200,
+        382
+      ],
+      "context": [
+        195,
+        382
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 183,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S099",
+      "core": [
+        0,
+        83
+      ],
+      "context": [
+        0,
+        83
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 84,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S100",
+      "core": [
+        0,
+        53
+      ],
+      "context": [
+        0,
+        53
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 54,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S101",
+      "core": [
+        0,
+        41
+      ],
+      "context": [
+        0,
+        41
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 42,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S102",
+      "core": [
+        0,
+        31
+      ],
+      "context": [
+        0,
+        31
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 32,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S103",
+      "core": [
+        0,
+        4
+      ],
+      "context": [
+        0,
+        4
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 5,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S104",
+      "core": [
+        0,
+        164
+      ],
+      "context": [
+        0,
+        164
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 165,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S105",
+      "core": [
+        0,
+        9
+      ],
+      "context": [
+        0,
+        9
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 10,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S106",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S106",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S106",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S106",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 17,
+      "remaining_in_core": 183,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S106",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S106",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S106",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S106",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 10,
+      "remaining_in_core": 190,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S106",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 25,
+      "remaining_in_core": 175,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S106",
+      "core": [
+        1800,
+        1847
+      ],
+      "context": [
+        1795,
+        1847
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 48,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        2000,
+        2199
+      ],
+      "context": [
+        1995,
+        2204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        2200,
+        2399
+      ],
+      "context": [
+        2195,
+        2404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        2400,
+        2599
+      ],
+      "context": [
+        2395,
+        2604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        2600,
+        2799
+      ],
+      "context": [
+        2595,
+        2804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        2800,
+        2999
+      ],
+      "context": [
+        2795,
+        3004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S107",
+      "core": [
+        3000,
+        3103
+      ],
+      "context": [
+        2995,
+        3103
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 104,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S108",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S108",
+      "core": [
+        200,
+        229
+      ],
+      "context": [
+        195,
+        229
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 30,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S110",
+      "core": [
+        0,
+        117
+      ],
+      "context": [
+        0,
+        117
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 118,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S111",
+      "core": [
+        0,
+        192
+      ],
+      "context": [
+        0,
+        192
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 193,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S112",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S112",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S112",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S112",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S112",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S112",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S112",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S112",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S112",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S112",
+      "core": [
+        1800,
+        1835
+      ],
+      "context": [
+        1795,
+        1835
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 36,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S113",
+      "core": [
+        0,
+        87
+      ],
+      "context": [
+        0,
+        87
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 88,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S114",
+      "core": [
+        0,
+        27
+      ],
+      "context": [
+        0,
+        27
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 28,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S115",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S115",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S115",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S115",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S115",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S115",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S115",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S115",
+      "core": [
+        1400,
+        1409
+      ],
+      "context": [
+        1395,
+        1409
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 10,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S116",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S116",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S116",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S116",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S116",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S116",
+      "core": [
+        1000,
+        1061
+      ],
+      "context": [
+        995,
+        1061
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 62,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S117",
+      "core": [
+        0,
+        192
+      ],
+      "context": [
+        0,
+        192
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 193,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S118",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 10,
+      "remaining_in_core": 190,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S118",
+      "core": [
+        200,
+        212
+      ],
+      "context": [
+        195,
+        212
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 13,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S119",
+      "core": [
+        0,
+        171
+      ],
+      "context": [
+        0,
+        171
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 172,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S120",
+      "core": [
+        0,
+        77
+      ],
+      "context": [
+        0,
+        77
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 78,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S121",
+      "core": [
+        0,
+        74
+      ],
+      "context": [
+        0,
+        74
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 75,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S122",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S122",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S122",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S122",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S122",
+      "core": [
+        800,
+        934
+      ],
+      "context": [
+        795,
+        934
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 135,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S123",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S123",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 10,
+      "remaining_in_core": 190,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S123",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S123",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S123",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 10,
+      "remaining_in_core": 190,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S123",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S123",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S123",
+      "core": [
+        1400,
+        1493
+      ],
+      "context": [
+        1395,
+        1493
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 94,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S124",
+      "core": [
+        0,
+        2
+      ],
+      "context": [
+        0,
+        2
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 3,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S125",
+      "core": [
+        0,
+        31
+      ],
+      "context": [
+        0,
+        31
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 32,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S126",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S126",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S126",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S126",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S126",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S126",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S126",
+      "core": [
+        1200,
+        1230
+      ],
+      "context": [
+        1195,
+        1230
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 31,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S127",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S127",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S127",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S127",
+      "core": [
+        600,
+        615
+      ],
+      "context": [
+        595,
+        615
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 16,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S128",
+      "core": [
+        0,
+        122
+      ],
+      "context": [
+        0,
+        122
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 123,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S129",
+      "core": [
+        0,
+        9
+      ],
+      "context": [
+        0,
+        9
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 10,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S130",
+      "core": [
+        0,
+        12
+      ],
+      "context": [
+        0,
+        12
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 13,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S131",
+      "core": [
+        0,
+        12
+      ],
+      "context": [
+        0,
+        12
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 13,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S132",
+      "core": [
+        0,
+        4
+      ],
+      "context": [
+        0,
+        4
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 5,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S133",
+      "core": [
+        0,
+        153
+      ],
+      "context": [
+        0,
+        153
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 154,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S134",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S134",
+      "core": [
+        200,
+        224
+      ],
+      "context": [
+        195,
+        224
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 25,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S135",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S135",
+      "core": [
+        200,
+        213
+      ],
+      "context": [
+        195,
+        213
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 14,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S136",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S136",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S136",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S136",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S136",
+      "core": [
+        800,
+        862
+      ],
+      "context": [
+        795,
+        862
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 63,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S137",
+      "core": [
+        0,
+        154
+      ],
+      "context": [
+        0,
+        154
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 155,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S138",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S138",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S138",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S138",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S138",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S138",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S138",
+      "core": [
+        1200,
+        1294
+      ],
+      "context": [
+        1195,
+        1294
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 95,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S139",
+      "core": [
+        0,
+        31
+      ],
+      "context": [
+        0,
+        31
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 32,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S140",
+      "core": [
+        0,
+        43
+      ],
+      "context": [
+        0,
+        43
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 44,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S141",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S141",
+      "core": [
+        200,
+        371
+      ],
+      "context": [
+        195,
+        371
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 172,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S142",
+      "core": [
+        0,
+        63
+      ],
+      "context": [
+        0,
+        63
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 64,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S143",
+      "core": [
+        0,
+        142
+      ],
+      "context": [
+        0,
+        142
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 143,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S144",
+      "core": [
+        0,
+        21
+      ],
+      "context": [
+        0,
+        21
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 22,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S145",
+      "core": [
+        0,
+        165
+      ],
+      "context": [
+        0,
+        165
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 166,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S146",
+      "core": [
+        0,
+        70
+      ],
+      "context": [
+        0,
+        70
+      ],
+      "C_reviewed_in_core": 15,
+      "remaining_in_core": 56,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S148",
+      "core": [
+        0,
+        4
+      ],
+      "context": [
+        0,
+        4
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 5,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S149",
+      "core": [
+        0,
+        38
+      ],
+      "context": [
+        0,
+        38
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 39,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S150",
+      "core": [
+        0,
+        81
+      ],
+      "context": [
+        0,
+        81
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 82,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S151",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S151",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S151",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S151",
+      "core": [
+        600,
+        690
+      ],
+      "context": [
+        595,
+        690
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 91,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S152",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S152",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S152",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S152",
+      "core": [
+        600,
+        648
+      ],
+      "context": [
+        595,
+        648
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 49,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S153",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S153",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S153",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S153",
+      "core": [
+        600,
+        676
+      ],
+      "context": [
+        595,
+        676
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 77,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S154",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S154",
+      "core": [
+        200,
+        325
+      ],
+      "context": [
+        195,
+        325
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 126,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S155",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S155",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S155",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 15,
+      "remaining_in_core": 185,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S155",
+      "core": [
+        600,
+        738
+      ],
+      "context": [
+        595,
+        738
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 139,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S156",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S156",
+      "core": [
+        200,
+        372
+      ],
+      "context": [
+        195,
+        372
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 173,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S157",
+      "core": [
+        0,
+        56
+      ],
+      "context": [
+        0,
+        56
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 57,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S158",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S158",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S158",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S158",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S158",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S158",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S158",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 120,
+      "remaining_in_core": 80,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S158",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S158",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S158",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 200,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S158",
+      "core": [
+        2000,
+        2115
+      ],
+      "context": [
+        1995,
+        2115
+      ],
+      "C_reviewed_in_core": 116,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S159",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S159",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S159",
+      "core": [
+        400,
+        439
+      ],
+      "context": [
+        395,
+        439
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 40,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S160",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S160",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S160",
+      "core": [
+        400,
+        405
+      ],
+      "context": [
+        395,
+        405
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 6,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S161",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S161",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S161",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S161",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S161",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S161",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S161",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S161",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S161",
+      "core": [
+        1600,
+        1715
+      ],
+      "context": [
+        1595,
+        1715
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 116,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S162",
+      "core": [
+        0,
+        120
+      ],
+      "context": [
+        0,
+        120
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 121,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S164",
+      "core": [
+        0,
+        37
+      ],
+      "context": [
+        0,
+        37
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 38,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S165",
+      "core": [
+        0,
+        198
+      ],
+      "context": [
+        0,
+        198
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 199,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 5,
+      "remaining_in_core": 195,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S166",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 5,
+      "remaining_in_core": 195,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S166",
+      "core": [
+        2000,
+        2199
+      ],
+      "context": [
+        1995,
+        2204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        2200,
+        2399
+      ],
+      "context": [
+        2195,
+        2404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        2400,
+        2599
+      ],
+      "context": [
+        2395,
+        2604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S166",
+      "core": [
+        2600,
+        2699
+      ],
+      "context": [
+        2595,
+        2699
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 100,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S167",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S167",
+      "core": [
+        200,
+        353
+      ],
+      "context": [
+        195,
+        353
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 154,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S168",
+      "core": [
+        0,
+        20
+      ],
+      "context": [
+        0,
+        20
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 21,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S169",
+      "core": [
+        0,
+        21
+      ],
+      "context": [
+        0,
+        21
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 22,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S170",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S170",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S170",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S170",
+      "core": [
+        600,
+        679
+      ],
+      "context": [
+        595,
+        679
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 80,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S171",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        202
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S171",
+      "core": [
+        200,
+        202
+      ],
+      "context": [
+        195,
+        202
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 3,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        2000,
+        2199
+      ],
+      "context": [
+        1995,
+        2204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S172",
+      "core": [
+        2200,
+        2244
+      ],
+      "context": [
+        2195,
+        2244
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 45,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        2000,
+        2199
+      ],
+      "context": [
+        1995,
+        2204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        2200,
+        2399
+      ],
+      "context": [
+        2195,
+        2404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S173",
+      "core": [
+        2400,
+        2445
+      ],
+      "context": [
+        2395,
+        2445
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 46,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S174",
+      "core": [
+        0,
+        12
+      ],
+      "context": [
+        0,
+        12
+      ],
+      "C_reviewed_in_core": 13,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S175",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S175",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S175",
+      "core": [
+        400,
+        469
+      ],
+      "context": [
+        395,
+        469
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 70,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S176",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S176",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S176",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S176",
+      "core": [
+        600,
+        615
+      ],
+      "context": [
+        595,
+        615
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 16,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S178",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S178",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S178",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 15,
+      "remaining_in_core": 185,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S178",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S178",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S178",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 17,
+      "remaining_in_core": 183,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S178",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 5,
+      "remaining_in_core": 195,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S178",
+      "core": [
+        1400,
+        1421
+      ],
+      "context": [
+        1395,
+        1421
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 22,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        2000,
+        2199
+      ],
+      "context": [
+        1995,
+        2204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        2200,
+        2399
+      ],
+      "context": [
+        2195,
+        2404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S179",
+      "core": [
+        2400,
+        2432
+      ],
+      "context": [
+        2395,
+        2432
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 33,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S181",
+      "core": [
+        0,
+        0
+      ],
+      "context": [
+        0,
+        0
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 1,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S182",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S182",
+      "core": [
+        200,
+        393
+      ],
+      "context": [
+        195,
+        393
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 194,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S183",
+      "core": [
+        0,
+        180
+      ],
+      "context": [
+        0,
+        180
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 181,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S184",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S184",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S184",
+      "core": [
+        400,
+        577
+      ],
+      "context": [
+        395,
+        577
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 178,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S185",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S185",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S185",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S185",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S185",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S185",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S185",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S185",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S185",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S185",
+      "core": [
+        1800,
+        1810
+      ],
+      "context": [
+        1795,
+        1810
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 11,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S186",
+      "core": [
+        0,
+        41
+      ],
+      "context": [
+        0,
+        41
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 42,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        600,
+        799
+      ],
+      "context": [
+        595,
+        804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        800,
+        999
+      ],
+      "context": [
+        795,
+        1004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        1000,
+        1199
+      ],
+      "context": [
+        995,
+        1204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        1200,
+        1399
+      ],
+      "context": [
+        1195,
+        1404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        1400,
+        1599
+      ],
+      "context": [
+        1395,
+        1604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        1600,
+        1799
+      ],
+      "context": [
+        1595,
+        1804
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        1800,
+        1999
+      ],
+      "context": [
+        1795,
+        2004
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        2000,
+        2199
+      ],
+      "context": [
+        1995,
+        2204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        2200,
+        2399
+      ],
+      "context": [
+        2195,
+        2404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        2400,
+        2599
+      ],
+      "context": [
+        2395,
+        2604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S187",
+      "core": [
+        2600,
+        2799
+      ],
+      "context": [
+        2595,
+        2804
+      ],
+      "C_reviewed_in_core": 150,
+      "remaining_in_core": 50,
+      "status": "PARCIAL"
+    },
+    {
+      "source": "S187",
+      "core": [
+        2800,
+        2961
+      ],
+      "context": [
+        2795,
+        2961
+      ],
+      "C_reviewed_in_core": 162,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S188",
+      "core": [
+        0,
+        24
+      ],
+      "context": [
+        0,
+        24
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 25,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S189",
+      "core": [
+        0,
+        199
+      ],
+      "context": [
+        0,
+        204
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S189",
+      "core": [
+        200,
+        399
+      ],
+      "context": [
+        195,
+        404
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S189",
+      "core": [
+        400,
+        599
+      ],
+      "context": [
+        395,
+        604
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 200,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S189",
+      "core": [
+        600,
+        688
+      ],
+      "context": [
+        595,
+        688
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 89,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S191",
+      "core": [
+        0,
+        0
+      ],
+      "context": [
+        0,
+        0
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 1,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S192",
+      "core": [
+        0,
+        18
+      ],
+      "context": [
+        0,
+        18
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 19,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S193",
+      "core": [
+        0,
+        2
+      ],
+      "context": [
+        0,
+        2
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 3,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S194",
+      "core": [
+        0,
+        26
+      ],
+      "context": [
+        0,
+        26
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 27,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S195",
+      "core": [
+        0,
+        0
+      ],
+      "context": [
+        0,
+        0
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 1,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S196",
+      "core": [
+        0,
+        5
+      ],
+      "context": [
+        0,
+        5
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 6,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S197",
+      "core": [
+        0,
+        4
+      ],
+      "context": [
+        0,
+        4
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 5,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S198",
+      "core": [
+        0,
+        16
+      ],
+      "context": [
+        0,
+        16
+      ],
+      "C_reviewed_in_core": 17,
+      "remaining_in_core": 0,
+      "status": "TRIADO"
+    },
+    {
+      "source": "S199",
+      "core": [
+        0,
+        39
+      ],
+      "context": [
+        0,
+        39
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 40,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S200",
+      "core": [
+        0,
+        4
+      ],
+      "context": [
+        0,
+        4
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 5,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S201",
+      "core": [
+        0,
+        5
+      ],
+      "context": [
+        0,
+        5
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 6,
+      "status": "PENDENTE"
+    },
+    {
+      "source": "S202",
+      "core": [
+        0,
+        28
+      ],
+      "context": [
+        0,
+        28
+      ],
+      "C_reviewed_in_core": 0,
+      "remaining_in_core": 29,
+      "status": "PENDENTE"
+    }
+  ]
+}

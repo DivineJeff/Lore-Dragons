@@ -41,3 +41,7 @@ GitHub é a fonte principal da documentação. Branch, commits, PR e merge após
 ## Auditoria de fontes — checkpoint independente
 
 [Inventário e cobertura](docs/canon-adaptado/24-Auditoria-de-Cobertura-e-Integridade-das-Fontes.md): oito ZIPs, 214 HTMLs e 89.313 mensagens totais reprocessadas. [Omissões e correções](docs/canon-adaptado/25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md): 437 mensagens revistas em contexto, duas omissões e uma qualificação metodológica incorporadas. Auditoria completa ainda em andamento; nenhum acontecimento futuro aprovado por esta publicação.
+
+## Checkpoint B002.1 da auditoria independente
+
+[4.542 IDs distintas acumuladas; correções e matrizes](docs/canon-adaptado/26-Auditoria-B002-Continuidades-e-Varredura.md). B002 em andamento, sem conclusão integral do corpus ou dos protagonistas. Inventário/processamento e B001 preservados.

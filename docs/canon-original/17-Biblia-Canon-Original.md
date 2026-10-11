@@ -528,7 +528,7 @@ Gwierlan está vivo e Mouran próspera. Michael pretende conquistar Piferme e sa
 
 **Data documental:** 20–31/07/2024.
 
-Após fuga e bombardeio, Ymir acorda na Casa Coratayne, com Rans visível no jardim; a ponte de salvamento é relato de Garius. Polã é identificado como reino. Livros descrevem datas históricas e Belphegor, sem prova de que sejam ano atual. Ymir memoriza nove livros; ler não equivale a executar todas as técnicas. Beatriz desperta, recupera memória e tem pernas perfeitas; Ymir permanece sem braço. Ela é segunda princesa, filha de Berthold, e não é casada com Ymir. Henry está vivo em 27/7. Garius morre após intervenção, e Berthold expõe ameaça do culto do Deus Demônio; não fundir esse nome ao Deus Dragão. Ele reconhece Altruístas banidos a outra dimensão e relata sequestro da irmã de Beatriz pela Quimera. Buscar a irmã e seguir depois a Milena são planos. Ymir e Beatriz deixam o castelo, percorrem estrada florestal e chegam à cidade de elfos em 31/7, às 00h04min29s documentais. Rans tem ramo próprio e acorda em cama da Terceira Paróquia na noite de 30/7; Hermione não é confirmada morta. Astro termina em caverna vazia após devastar Submundo, mas identidade Harry não está demonstrada por ponte suficiente.
+Após fuga e bombardeio, Ymir acorda na Casa Coratayne, com Rans visível no jardim; a ponte de salvamento é relato de Garius. Polã é identificado como reino. Livros descrevem datas históricas e Belphegor, sem prova de que sejam ano atual. Ymir memoriza nove livros; ler não equivale a executar todas as técnicas. Beatriz desperta, recupera memória e tem pernas perfeitas; Ymir permanece sem braço. Ela é segunda princesa, filha de Berthold, e não é casada com Ymir. Henry está vivo em 27/7. Garius morre após intervenção, e Berthold expõe ameaça do culto do Deus Demônio; não fundir esse nome ao Deus Dragão. Ele reconhece Altruístas banidos a outra dimensão e relata sequestro da irmã de Beatriz pela Quimera. Buscar a irmã e seguir depois a Milena são planos. Ymir e Beatriz deixam o castelo, percorrem estrada florestal e chegam à cidade de elfos em 31/7, às 00h04min29s documentais. Rans tem ramo próprio e acorda em cama da Terceira Paróquia na noite de 30/7; Hermione não é confirmada morta. Astro termina em caverna vazia após devastar o mercado subterrâneo chamado Submundo, mas identidade Harry não está demonstrada por ponte suficiente.
 
 **Evidências:** [S023 · 1264380808198885386](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264384888589783187](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1264720088158699643](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265827259483164723](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265122213984473169](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1265129599449169931](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266899855322906676](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266903430354702428](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266909119613370448](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1266950138849656893](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1267310497997389854](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S023 · 1268041570423406726](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S008 · 1268018113236963443](../pesquisa/fase-3/Fontes-e-Evidencias.md#s008)
 
@@ -588,7 +588,7 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Percurso inicial:** No elenco inicial; colabora na sobrevivência. Sai e segue rota sul; sangue e capacidades aladas entram na trajetória. Combate no colosso; retorna sem Harry; treina até exaustão; transformação ao beber sangue de Henry causa crise lunar. Vence rei escorpião/pantera com colegas. Pede falsa morte a Mulack; permanece, escapa do altar, perde controle para ser de sangue e é salvo. Acorda restaurado, sem ferrão, em cabana; encaminhado a treino de magia com salto interno de três dias. O hospital de janeiro tem cenas recuperadas; a ligação precisa com cada estágio anterior de treino não foi demonstrada.
 
-**Desenvolvimento e consequências posteriores:** A mentira de Mulack é desfeita quando Rans entra na reunião de janeiro. Ele reverte Hads ao corpo de Lilith e mantém vínculo amoroso, com planos sem casamento ou filhos consumados. O hospital e o treino revelam limites: conhecimento de cura transmitido não lhe concede toda a magia de Claws. O ramo de julho começa com memória dolorosa do Abismo, mas sem ponte completa; levar Hermione à Paróquia e pedir um selo não demonstra que o selo foi aplicado.
+**Desenvolvimento e consequências posteriores:** A mentira de Mulack é desfeita quando Rans entra na reunião de janeiro. Ele reverte Hads ao corpo de Lilith e mantém vínculo amoroso, com planos sem casamento ou filhos consumados. O hospital e o treino revelam limites: conhecimento de cura transmitido não lhe concede toda a magia de Claws. O ramo de julho começa com memória dolorosa do Abismo, mas sem ponte completa; Hermione participa de reencontro afetuoso e treino, depois aparece desacordada em ação do jogador ao chegar à Paróquia. Rans vive experiência de luz, clamores e pressão sobre a alma, com voz que se identifica como deusa/mãe; pede a essa voz a remoção de seus próprios selos. O despertar final não demonstra remoção, cura de Hermione ou identidade divina universal (OM-003/004/007).
 
 **Evidências:** [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S166 · 1198780690678960128](../pesquisa/fase-3/Fontes-e-Evidencias.md#s166); [S167 · 1200238683786326126](../pesquisa/fase-3/Fontes-e-Evidencias.md#s167); [S167 · 1200258548966379704](../pesquisa/fase-3/Fontes-e-Evidencias.md#s167); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003)
 
@@ -598,23 +598,25 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Companhia:** Hermione foi carregada até a Paróquia; presença ao lado da cama não confirmada.
 
-**Estado físico:** Vivo; acorda após repouso. Hermione estava inconsciente, sem morte confirmada.
+**Estado físico:** Vivo; mestre narra despertar em cama após a experiência. Hermione é descrita desacordada na ação editada do jogador, sem causa, cura ou morte narradas nessa sequência (OM-007).
 
 **Estado psicológico conhecido:** Crise anterior por lembranças do Abismo; busca de ajuda e proteção de Hermione.
 
-**Objetivo em andamento:** Pede selo/auxílio ao Santo Feuhs Beronth; aplicação do selo ainda não ocorreu.
+**Objetivo em andamento:** Solicita à voz que se apresenta como deusa/mãe a remoção de seus selos; execução não narrada. Feuhs Beronth é interlocutor humano na Paróquia, não destinatário daquele pedido (OM-003).
 
 **Relações:** Falsa morte de janeiro desfeita publicamente; amor e planos com Lilith não equivalem a casamento/filhos. Berthold relata Rans caçador de culto.
 
-**Itens e capacidades relevantes:** Voo, cura/energia e controle de sangue em cenas delimitadas; selo proposto não adquirido. Mudanças raciais não autorizam poderes ilimitados.
+**Itens e capacidades relevantes:** Voo, cura/energia e controle de sangue em cenas delimitadas; experiência religiosa narrada, sem remoção de selos demonstrada. A orientação para força branca/amarela não concede domínio ilimitado (OM-003/004). Mudanças raciais não autorizam poderes ilimitados.
 
 **Destino posterior conhecido:** Nenhuma continuação posterior recuperada.
 
-**Questões em aberto:** Ponte anterior de Hermione/Abismo; efeito do selo; reencontro posterior com Lilith.
+**Questões em aberto:** Ponte anterior de Hermione/Abismo e causa da inconsciência; natureza da voz, remoção solicitada dos selos e efeitos; reencontro posterior com Lilith.
 
 **Recuperação do estado:** SIM. **Confiança:** ALTA no despertar; MÉDIA no local herdado.
 
 **Evidências:** [S199 · 1184160694027943946](../pesquisa/fase-3/Fontes-e-Evidencias.md#s199); [S070 · 1183161766029557780](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S070 · 1183180676745412771](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S165 · 1198445221168558171](../pesquisa/fase-3/Fontes-e-Evidencias.md#s165); [S023 · 1267998439397134500](../pesquisa/fase-3/Fontes-e-Evidencias.md#s023)
+
+**Complemento B002.1 — Rans/Hermione:** [S003 · 1268001974817919078](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268012124324495423](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268023655271501864](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268024904721367103](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003); [S003 · 1268027634508632125](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003). Afeto e treino anteriores não fornecem causa da inconsciência. A narração da experiência é preservada; a autoidentificação da voz não decide sua ontologia.
 
 <a id="personagem-03"></a>
 
@@ -724,7 +726,7 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Itens e capacidades relevantes:** Jakaw confirmado sob seu controle; Zex, flecha guardada e equipamentos têm últimos estados específicos. Não unificar os colares de Jakaw e da Árvore.
 
-**Destino posterior conhecido:** Astro de julho é associação provável: comentário OOC fala em corpo usado por Harry, mas ponte corporal e nome não estão recuperados. Astro sai de hospedeira viva e termina em caverna após devastação de Submundo.
+**Destino posterior conhecido:** Astro de julho é associação provável: comentário OOC fala em corpo usado por Harry, mas ponte corporal e nome não estão recuperados. Astro sai de hospedeira viva e termina em caverna após devastação do mercado subterrâneo chamado Submundo.
 
 **Questões em aberto:** Passagem Harry→Astro/hospedeira, Lyone, Rans e consequências de Submundo; conteúdo de S177 vazio.
 
@@ -900,7 +902,7 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 
 **Percurso inicial:** Não inserir no prólogo por ficha ou nome de conta; entrada global documentada na cabana é posterior; pomar é origem relatada. Relata ter despertado no pomar; as primeiras cenas globais recuperadas já o mostram na cabana e em convivência com a Resistência; falta de arma no recorte limita ações. Reaparece na floresta e Ymir o ampara; combate Daupar e pantera; recolhe ovo da jaula. Atende pedido de Rans, fecha passagem e conta cobertura a Yakkatsu. Reúne-se, apaga de exaustão e é restaurado pelo gás; sai com grupo. A dungeon de fevereiro passa a definir a ruptura final; os eventos de janeiro não antecipam seu resultado.
 
-**Desenvolvimento e consequências posteriores:** Sem memória anterior recuperada, passa de desorientado a guia de Yakkatsu e companheiro de treino. Ajuda no combate de Daupar e da pantera e aceita encobrir a sobrevivência de Rans; o reencontro público cobra essa mentira. O ovo recolhido dá origem a Nyxis, cujo nome é corrigido. Em Olta registra Mulack Armelt, recebe rank S e deixa Nyxis com Driade. Obtém Flor de Neve e armadura; na dungeon evacua feridos e prossegue sozinho, encontrando rei goblin já morto. Morte autodeclarada, ferimento inicialmente narrado, retificação e memorial entram em conflito. A recusa do jogador encerra a participação, sem resolver o destino ficcional.
+**Desenvolvimento e consequências posteriores:** Sem memória anterior recuperada, passa de desorientado a guia de Yakkatsu e companheiro de treino. Ajuda no combate de Daupar e da pantera e aceita encobrir a sobrevivência de Rans; o reencontro público cobra essa mentira. O ovo recolhido dá origem a Nyxis, cujo nome é corrigido. Em Olta registra Mulack Armelt, recebe rank S e deixa Nyxis com Driade. Obtém Flor de Neve e armadura; na dungeon encontra Philip Glorian, coordenador rank A, e uma sala de pesquisa antiga sobre união de raças. O pesquisador explica um projeto de humanos/elfos/demônios/anjos que não alcançou o resultado desejado; isto é relatório de NPC e pesquisa, não biologia universal demonstrada nem origem comprovada da criatura final (OM-005). Na dungeon evacua feridos e prossegue sozinho, encontrando rei goblin já morto. Morte autodeclarada, ferimento inicialmente narrado, retificação e memorial entram em conflito. A recusa do jogador encerra a participação, sem resolver o destino ficcional.
 
 **Evidências:** [S118 · 1191962128911978496](../pesquisa/fase-3/Fontes-e-Evidencias.md#s118); [S158 · 1199583823701221416](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200230186864615535](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1200952788314767390](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208234996578385950](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208245194445815818](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208617010959753236](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158)
 
@@ -929,6 +931,8 @@ A vitória política de janeiro permite caminhos próprios: Michael governa e de
 **Complemento documental retrospectivo (OM-002):** Em maio, o mestre comenta que só então leu o memorial e atribui a morte à ação do jogador. É comentário fora de personagem sobre o conflito, não nova cena de morte nem resolução inequívoca da retificação da dungeon. A contradição permanece; a sobrevivência escolhida para a adaptação tem origem autoral separada. **Evidências:** [S198 · 1239836014919553084](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198); [S198 · 1239836048151019552](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198).
 
 **Evidências:** [S024 · 1187937247761272942](../pesquisa/fase-3/Fontes-e-Evidencias.md#s024); [S024 · 1187951293659086899](../pesquisa/fase-3/Fontes-e-Evidencias.md#s024); [S064 · 1187967945352155136](../pesquisa/fase-3/Fontes-e-Evidencias.md#s064); [S158 · 1208614984473518100](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616488941133844](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208616829837377536](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208617010959753236](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S198 · 1208627532962992218](../pesquisa/fase-3/Fontes-e-Evidencias.md#s198)
+
+**Complemento B002.1 — dungeon:** [S158 · 1201247314430398575](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1201343623753637968](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158); [S158 · 1208234996578385950](../pesquisa/fase-3/Fontes-e-Evidencias.md#s158). Philip e a pesquisa racial são recuperados sem alterar CRIT-004 ou a sobrevivência adaptada aprovada.
 
 <a id="personagem-11"></a>
 
@@ -1080,7 +1084,7 @@ Referências específicas estão na história, nos perfis e na matriz. A relaç�
 | Polã e Coratayne | Ramo de julho: jardim de Coratayne, resgate relatado e jornada para a corte. Polã aparece como reino na apresentação de ministro. |
 | Mytria e Vermund | Linha de Michael em junho; combate permanece aberto na última presença. |
 | Tékia e Abismo do Paraíso | Locais da linha de Azazel; não montar árvore cosmológica universal pela proximidade das cenas. Magnatas e Miliart são organizações mencionadas nessa linha, não regiões. |
-| Submundo | Ramo Astro: ferimentos, corpo fragmentado e caverna. Natureza e equivalência com Inferno não são demonstradas. |
+| Submundo | Em S008, mercado negro subterrâneo de Olta, acessado por alçapão; Astro provoca devastação local e termina em caverna vazia. Não equivale a destruir Olta inteira ou um plano chamado Inferno (OM-006). |
 | Cidade dos elfos | Última chegada de Ymir e Bia; casas de madeira e pavimento de pedra. Nome e fronteiras não recuperados. |
 | Milena | Destino de torneio proposto para depois do resgate da irmã de Bia; sem participação concluída. |
 
@@ -1110,6 +1114,8 @@ As rotas confirmadas formam percursos, não um mapa de continentes: **paróquia 
 Ária é invocada religiosamente no templo e pela mãe de Azazel; a cura com luz verde é demonstrada, mas não há aparição divina ou cosmologia completa comprovada. A princesa de Draconia e os sugadores de alma são descritos por interlocutor no ramo de Lilith; seus relatos não recebem confirmação universal.
 
 **Evidências:** [S070 · 1183191185150460044](../pesquisa/fase-3/Fontes-e-Evidencias.md#s070); [S013 · 1238664338076598344](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S013 · 1238664540514811954](../pesquisa/fase-3/Fontes-e-Evidencias.md#s013); [S057 · 1185997850581139517](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057); [S057 · 1186013046045413486](../pesquisa/fase-3/Fontes-e-Evidencias.md#s057)
+
+Em S003, o mestre narra uma experiência extraordinária de Rans com luz, clamores, pressão sobre a alma e voz que se identifica como deusa/mãe (OM-004). Sua ocorrência como experiência narrada não deve ser omitida ou reduzida somente à crença dos cidadãos; identidade, alcance e natureza da interlocutora continuam incertos. [S003 · 1268023655271501864](../pesquisa/fase-3/Fontes-e-Evidencias.md#s003).
 
 Há religião, demônios, dragões, planos nomeados e energia extraordinária. A campanha não fornece uma cosmologia completa nem comprova que cada nome divino corresponda a uma entidade presente. Santo Feuhs Beronth é apresentado como humano; a comparação de Westia a uma deusa não muda sua natureza. As falas de Caeman, Gotter, Edward e Berthold permanecem situadas, sem autoridade universal automática.
 
@@ -1798,9 +1804,9 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 **Conflito:** Sobrevivência ocultada rompe confiança; a linha de julho exige proteger Hermione e buscar auxílio.
 
-**Resultado conhecido:** Falsa morte e retorno público resolvidos; linha de julho leva Hermione inconsciente à Paróquia e pede selo, sem aplicação recuperada.
+**Resultado conhecido:** Falsa morte e retorno público resolvidos; linha de julho contém reencontro e treino com Hermione, descrita depois desacordada ao ser levada à Paróquia; Rans pede à voz materna/divina remoção de seus selos, sem execução ou cura de Hermione narradas (OM-003/004/007).
 
-**Consequências:** O retorno público resolve a falsa morte, mas o Abismo, o selo e reencontros posteriores continuam lacunas.
+**Consequências:** O retorno público resolve a falsa morte, mas o Abismo, a condição de Hermione, a identidade da voz, a remoção solicitada dos selos e reencontros posteriores continuam lacunas.
 
 **Pendências:** [PS-013](19-Matriz-Canon-Critico.md#ps-013); [PS-038](19-Matriz-Canon-Critico.md#ps-038).
 
@@ -1816,9 +1822,9 @@ Inventários finais são parciais: itens confiscados, derretidos, transferidos o
 
 **Conflito:** Separação, autoridade e pacto ampliam a linha de Harry; o ramo Astro não tem transição identitária inequívoca.
 
-**Resultado conhecido:** Harry retorna no atentado; Astro usa corpo feminino e devasta Submundo em julho. Associação provável, sem transição inequívoca, conserva dossiês separados no limite.
+**Resultado conhecido:** Harry retorna no atentado; Astro usa corpo feminino e devasta o mercado subterrâneo chamado Submundo em julho. Associação provável, sem transição inequívoca, conserva dossiês separados no limite.
 
-**Consequências:** A última cena nominal de Harry e a última cena de Astro devem permanecer distintas; devastação do Submundo não encerra a campanha.
+**Consequências:** A última cena nominal de Harry e a última cena de Astro devem permanecer distintas; devastação local do Submundo não encerra a campanha.
 
 **Pendências:** [PS-017](19-Matriz-Canon-Critico.md#ps-017); [PS-022](19-Matriz-Canon-Critico.md#ps-022).
 
@@ -1903,3 +1909,7 @@ Referências de trabalho: espinha dorsal, cronologia, perfis, atlas, poderes, or
 - [Fontes e evidências](../pesquisa/fase-3/Fontes-e-Evidencias.md)
 
 **Revisão 3 — 10/10/2026:** COR-M01 qualifica a cobertura histórica; OM-001 explicita a concessão de maestria em HAB-014; OM-002 acrescenta comentário retrospectivo ao conflito de Mulack. Formulações anteriores, fontes e impacto no [registro de correções](../canon-adaptado/25-Omissoes-Descobertas-e-Correcoes-Checkpoint.md). Sem seleção de novo destino.
+
+## Revisão independente B002.1
+
+11/10/2026: correções OM-003–007 e confronto parcial de continuidades. Ver [checkpoint](../canon-adaptado/26-Auditoria-B002-Continuidades-e-Varredura.md). Não certifica revisão integral dos perfis ou do corpus.

@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "scope": "B002.1 completed checkpoint; B002 still in progress",
+  "protected_base_blobs": 40,
+  "original_ZIPs_preserved": 8,
+  "B001_ledger_manifest_processing_controls_and_validation_preserved": true,
+  "authorial_DD_01_43_preserved": true,
+  "relative_links_checked": 2330,
+  "source_ID_reference_occurrences_checked": 1037,
+  "B002_message_hashes_verified": 4122,
+  "B002_new_distinct": 4105,
+  "B002_revisited_B001_distinct": 17,
+  "C_cumulative_distinct": 4542,
+  "D_cumulative_distinct": 3973,
+  "PS_entries": 40,
+  "original_CRIT_entries": 39,
+  "new_CRIT_entries": 1,
+  "ARC_entries": 19,
+  "protagonists_complete": 0,
+  "new_canonical_future_events": 0,
+  "errors": []
+}
